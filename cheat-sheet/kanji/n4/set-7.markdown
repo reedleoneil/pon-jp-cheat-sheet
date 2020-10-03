@@ -63,7 +63,7 @@ material, charge, fee
 
 | 料理		| りょうり			| dish, cooking		|
 | 料金		| りょうきん			| fee, charge, fare	|
-| 無理		| むりょう			| free, no charge	|
+| 無料		| むりょう			| free, no charge	|
 | 授業料		| じゅぎょうりょう	| tution fee		|
 
 # 理
