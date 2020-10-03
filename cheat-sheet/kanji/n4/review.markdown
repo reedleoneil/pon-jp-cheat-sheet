@@ -18,3 +18,4 @@ grand_parent: <ruby>漢字<rt>かんじ</rt></ruby> Kanji
 | 進歩		| しんぽ			| progress						|
 | 都合		| つごう		| convinence	|
 | 集合		| しゅうごう		| gathering, assembly	|
+| 緑茶	| りょくちゃ | green tea |
