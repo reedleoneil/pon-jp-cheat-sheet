@@ -42,4 +42,9 @@ nav_order: 7
 | <ruby>	無理			<rt>	むり				</rt></ruby>	| むり				| impossible				|
 | <ruby>	珍しい		<rt>	めずらし			</rt></ruby>	| めずらし			| rare						|
 | <ruby>	残念な		<rt>	ざんねんな		</rt></ruby>	| ざんねんな			| regrettable				|
+| <ruby>	送別会		<rt>	そうべつかい		</rt></ruby>	| そうべつかい		| farewell party			|
+| <ruby>	活動			<rt>	かつどう			</rt></ruby>	| かつどう			| activity					|
+| <ruby>	成績			<rt>	せいせき			</rt></ruby>	| せいせき			| grade						|
+| <ruby>	解決			<rt>	かいけつ			</rt></ruby>	| かいけつ			| to solve/address			|
+| <ruby>	中々			<rt>	なかなか			</rt></ruby>	| なかなか			| quite, fairly				|
 
