@@ -52,6 +52,3 @@ nav_order: 8
 | <ruby>	交通			<rt>	こうつう			</rt></ruby>	| こうつう			| transportation			|
 | <ruby>	観光墓所		<rt>	かんこうぼしょ	</rt></ruby>	| かんこうぼしょ		| tourist spot				|
 |																| たった				| merely					|
-
-
-
