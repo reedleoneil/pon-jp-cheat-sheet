@@ -47,4 +47,4 @@ nav_order: 6
 | <ruby> 先ず <rt> まず </rt></ruby> | まず | at first |
 | <ruby> 記念公園 <rt> きねんこうえん </rt></ruby> | きねんこうえん | memorial park |
 | <ruby> イチゴ農家 <rt> イチゴのうか </rt></ruby> | イチゴのうか |straweberry farm |
-| <ruby> 運動靴 <rt> うんどうくつ </rt></ruby> | うんどうくつ | sports/rubber shoes |
+| <ruby> 運動靴 <rt> うんどうぐつ </rt></ruby> | うんどうぐつ | sports/rubber shoes |
