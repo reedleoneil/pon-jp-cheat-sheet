@@ -30,7 +30,7 @@ nav_order: 7
 | <ruby>	退院する		<rt>	たいいんする		</rt></ruby>	| たいいんする		| be discharge (hospital)	|
 | <ruby>	入学する		<rt>	にゅうがくする	</rt></ruby>	| にゅうがくする		| to enter school			|
 | <ruby>	退学する		<rt>	たいがくする		</rt></ruby>	| たいがくする		| to drop out				|
-| <ruby>	失敗する		<rt>	退学				</rt></ruby>	| たいがく			| to drop out				|
+| <ruby>	失敗する		<rt>	しっぱい			</rt></ruby>	| しっぱい			| to fail|
 | <ruby>	注意する		<rt>	ちゅういする		</rt></ruby>	| ちゅういする		| to take care				|
 | <ruby>	感動する		<rt>	かんどうする		</rt></ruby>	| かんどうする		| be impressed				|
 | <ruby>	喧嘩する		<rt>	けんかする		</rt></ruby>	| けんかする			| to quarrel				|
