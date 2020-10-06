@@ -11,7 +11,7 @@ nav_order: 9
 | 漢字															| 仮名				| 英語						|
 |:--------------------------------------------------------------|:------------------|:--------------------------|
 | <ruby>	絹			<rt>	きぬ				</rt></ruby>	| きぬ				| silk						|
-| <ruby>	木綿			<rt>	むめん			</rt></ruby>	| むめん				| cotton					|
+| <ruby>	木綿			<rt>	もめん			</rt></ruby>	| もめん				| cotton					|
 | <ruby>	着物			<rt>	きもの			</rt></ruby>	| きもの				| kimono					|
 | <ruby>	浴衣			<rt>	ゆかた			</rt></ruby>	| ゆかた				| summer kimono				|
 | <ruby>	生地			<rt>	きじ				</rt></ruby>	| きじ				| cloth						|
