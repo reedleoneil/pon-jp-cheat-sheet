@@ -45,6 +45,6 @@ nav_order: 7
 | <ruby>	送別会		<rt>	そうべつかい		</rt></ruby>	| そうべつかい		| farewell party			|
 | <ruby>	活動			<rt>	かつどう			</rt></ruby>	| かつどう			| activity					|
 | <ruby>	成績			<rt>	せいせき			</rt></ruby>	| せいせき			| grade						|
-| <ruby>	解決			<rt>	かいけつ			</rt></ruby>	| かいけつ			| to solve/address			|
+| <ruby>	解決する		<rt>	かいけつする		</rt></ruby>	| かいけつする		| to solve/address			|
 | <ruby>	中々			<rt>	なかなか			</rt></ruby>	| なかなか			| quite, fairly				|
 
