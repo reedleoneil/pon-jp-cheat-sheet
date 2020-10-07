@@ -42,7 +42,6 @@ nav_order: 9
 | <ruby>	返す			<rt>	かえす			</rt></ruby>	| かえす				| to return					|
 | <ruby>	塗る			<rt>	ぬる				</rt></ruby>	| ぬる				| to paint					|
 | <ruby>	濡れる		<rt>	ぬれる			</rt></ruby>	| ぬれる				| to get wet				|
-| <ruby>	濡れる		<rt>	ぬれる			</rt></ruby>	| ぬれる				| to get wet				|
 | <ruby>	頼まれた		<rt>	たのまれた		</rt></ruby>	| たのまれた			| requested					|
 | <ruby>	離れたところ	<rt>	はなれたところ	</rt></ruby>	| はなれたところ		| distant place				|
 | <ruby>	坂			<rt>	さか				</rt></ruby>	| さか				| slope, hill				|
