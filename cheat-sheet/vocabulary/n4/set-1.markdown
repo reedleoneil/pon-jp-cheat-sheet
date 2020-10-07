@@ -2,7 +2,7 @@
 layout: default
 title: Set 1
 parent: N4 Vocabulary List
-grand_parent: 語彙<rt>ごい</rt></ruby> Vocabulary
+grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 nav_order: 1
 ---
 
