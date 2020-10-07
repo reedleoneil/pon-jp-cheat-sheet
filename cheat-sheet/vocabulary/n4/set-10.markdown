@@ -26,7 +26,7 @@ nav_order: 10
 | <ruby>	味噌汁		<rt>	みそしる			</rt></ruby>	| みそしる			| miso soup					|
 | <ruby>	味噌			<rt>	みそ				</rt></ruby>	| みそ				| miso paste				|
 | <ruby>	粉			<rt>	こな				</rt></ruby>	| こな				| flour						|
-| <ruby>	米			<rt>	こめ				</rt></ruby>	| こめ				| riWce						|
+| <ruby>	米			<rt>	こめ				</rt></ruby>	| こめ				| rice						|
 | <ruby>	調味料		<rt>	ちょうみりょう	</rt></ruby>	| ちょうみりょう		| seasonings				|
 | <ruby>	醤油			<rt>	しょうゆ			</rt></ruby>	| しょうゆ			| soy sauce					|
 | <ruby>	酢			<rt>	す				</rt></ruby>	| す					| vinegar					|
