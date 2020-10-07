@@ -8,43 +8,42 @@ nav_order: 7
 
 <ruby>語彙<rt>ごい</rt></ruby>リスト
 
-| 漢字															| 仮名				| 英語						|
-|:--------------------------------------------------------------|:------------------|:--------------------------|
-| <ruby>	受付			<rt>	うけつけ			</rt></ruby>	| うけつけ			| reception					|
-| <ruby>	売り場		<rt>	うりば			</rt></ruby>	| うりば				| sales floor				|
-| <ruby>	神社			<rt>	じんじゃ			</rt></ruby>	| じんじゃ			| shinto shrine				|
-| <ruby>	お寺			<rt>	おてら			</rt></ruby>	| おてら				| temple					|
-| <ruby>	美術館		<rt>	びじゅつかん		</rt></ruby>	| びじゅつかん		| art museum				|
-| <ruby>	飛行場		<rt>	ひこうじょう		</rt></ruby>	| ひこうじょう		| airport					|
-| <ruby>	美容院		<rt>	びよういん		</rt></ruby>	| びよういん			| parlor					|
-| <ruby>	床屋			<rt>	とこや			</rt></ruby>	| とこや				| barber shop				|
-| <ruby>	裏			<rt>	うら				</rt></ruby>	| うら				| reverse side, back		|
-| <ruby>	表			<rt>	おもて			</rt></ruby>	| おもて				| surface, front			|
-| <ruby>	向こう側		<rt>	むこうがわ		</rt></ruby>	| むこうがわ			| other side				|
-| <ruby>	側			<rt>	がわ				</rt></ruby>	| がわ				| side						|
-| <ruby>	方向			<rt>	ほうこう			</rt></ruby>	| ほうこう			| direction, orientation	|
-| <ruby>	両方			<rt>	りょうほう		</rt></ruby>	| りょうほう			| both sides				|
-| <ruby>	方			<rt>	ほう				</rt></ruby>	| ほう				| side, direction			|
-| <ruby>	隅			<rt>	すみ				</rt></ruby>	| すみ				| corner					|
-| <ruby>	入院する		<rt>	にゅういんする	</rt></ruby>	| にゅういんする		| be admitted (hospital)	|
-| <ruby>	退院する		<rt>	たいいんする		</rt></ruby>	| たいいんする		| be discharge (hospital)	|
-| <ruby>	入学する		<rt>	にゅうがくする	</rt></ruby>	| にゅうがくする		| to enter school			|
-| <ruby>	退学する		<rt>	たいがくする		</rt></ruby>	| たいがくする		| to drop out				|
-| <ruby>	失敗する		<rt>	しっぱい			</rt></ruby>	| しっぱい			| to fail|
-| <ruby>	注意する		<rt>	ちゅういする		</rt></ruby>	| ちゅういする		| to take care				|
-| <ruby>	感動する		<rt>	かんどうする		</rt></ruby>	| かんどうする		| be impressed				|
-| <ruby>	喧嘩する		<rt>	けんかする		</rt></ruby>	| けんかする			| to quarrel				|
-| <ruby>	困る			<rt>	こまる			</rt></ruby>	| こまる				| to be troubled			|
-| <ruby>	別れる		<rt>	わかれる			</rt></ruby>	| わかれる			| to break up				|
-| <ruby>	話しかける	<rt>	はなしかける		</rt></ruby>	| はなしかける		| to talk to someone		|
-| <ruby>	役に立つ		<rt>	やくにたつ		</rt></ruby>	| やくにたつ			| be helpful				|
-| <ruby>	不思議な		<rt>	ふしぎな			</rt></ruby>	| ふしぎな			| strange					|
-| <ruby>	無理			<rt>	むり				</rt></ruby>	| むり				| impossible				|
-| <ruby>	珍しい		<rt>	めずらし			</rt></ruby>	| めずらし			| rare						|
-| <ruby>	残念な		<rt>	ざんねんな		</rt></ruby>	| ざんねんな			| regrettable				|
-| <ruby>	送別会		<rt>	そうべつかい		</rt></ruby>	| そうべつかい		| farewell party			|
-| <ruby>	活動			<rt>	かつどう			</rt></ruby>	| かつどう			| activity					|
-| <ruby>	成績			<rt>	せいせき			</rt></ruby>	| せいせき			| grade						|
-| <ruby>	解決する		<rt>	かいけつする		</rt></ruby>	| かいけつする		| to solve/address			|
-| <ruby>	中々			<rt>	なかなか			</rt></ruby>	| なかなか			| quite, fairly				|
-
+| 漢字       | 仮名           | 英語                    |
+|:---------- |:-------------- |:----------------------- |
+| 受付       | うけつけ       | reception               |
+| 売り場     | うりば         | sales floor             |
+| 神社       | じんじゃ       | shinto shrine           |
+| お寺       | おてら         | temple                  |
+| 美術館     | びじゅつかん   | art museum              |
+| 飛行場     | ひこうじょう   | airport                 |
+| 美容院     | びよういん     | parlor                  |
+| 床屋       | とこや         | barber shop             |
+| 裏         | うら           | reverse side, back      |
+| 表         | おもて         | surface, front          |
+| 向こう側   | むこうがわ     | other side              |
+| 側         | がわ           | side                    |
+| 方向       | ほうこう       | direction, orientation  |
+| 両方       | りょうほう     | both sides              |
+| 方         | ほう           | side, direction         |
+| 隅         | すみ           | corner                  |
+| 入院する   | にゅういんする | be admitted (hospital)  |
+| 退院する   | たいいんする   | be discharge (hospital) |
+| 入学する   | にゅうがくする | to enter school         |
+| 退学する   | たいがくする   | to drop out             |
+| 失敗する   | しっぱい       | to fail                 |
+| 注意する   | ちゅういする   | to take care            |
+| 感動する   | かんどうする   | be impressed            |
+| 喧嘩する   | けんかする     | to quarrel              |
+| 困る       | こまる         | to be troubled          |
+| 別れる     | わかれる       | to break up             |
+| 話しかける | はなしかける   | to talk to someone      |
+| 役に立つ   | やくにたつ     | be helpful              |
+| 不思議な   | ふしぎな       | strange                 |
+| 無理       | むり           | impossible              |
+| 珍しい     | めずらし       | rare                    |
+| 残念な     | ざんねんな     | regrettable             |
+| 送別会     | そうべつかい   | farewell party          |
+| 活動       | かつどう       | activity                |
+| 成績       | せいせき       | grade                   |
+| 解決する   | かいけつする   | to solve/address        |
+| 中々       | なかなか       | quite, fairly           |

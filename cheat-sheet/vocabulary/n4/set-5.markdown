@@ -8,46 +8,46 @@ nav_order: 5
 
 <ruby>語彙<rt>ごい</rt></ruby>リスト
 
-| 漢字															| 仮名				| 英語					        |
-|:--------------------------------------------------------------|:------------------|:------------------------------|
-| <ruby>	学部			<rt>	がくぶ			</rt></ruby>	| がくぶ				| department			        |
-| <ruby>	医学			<rt>	いがく			</rt></ruby>	| いがく				| medicine				        |
-| <ruby>	科学			<rt>	かがく			</rt></ruby>	| かがく				| science				        |
-| <ruby>	教育			<rt>	きょういく		</rt></ruby>	| きょういく			| education				        |
-| <ruby>	講義			<rt>	こうぎ			</rt></ruby>	| こうぎ				| lecture				        |
-| <ruby>	専門			<rt>	せんもん			</rt></ruby>	| せんもん			| sepecialization		        |
-| <ruby>	外国語		<rt>	がいこくご		</rt></ruby>	| がいこくご			| foreign language		        |
-| <ruby>	学期			<rt>	がっき			</rt></ruby>	| がっき				| term					        |
-| <ruby>	専門家		<rt>	せんもんか		</rt></ruby>	| せんもんか			| specialist			        |
-| <ruby>	校長			<rt>	こうちょう		</rt></ruby>	| こうちょう			| principal				        |
-| <ruby>	研究生		<rt>	けんきゅうせい	</rt></ruby>	| けんきゅうせい		| researcher			        |
-| <ruby>	教師			<rt>	きょうし			</rt></ruby>	| きょうし			| teacher				        |
-| <ruby>	書類			<rt>	しょるい			</rt></ruby>	| しょるい			| documents				        |
-| <ruby>	論文			<rt>	ろんぶん			</rt></ruby>	| ろんぶん			| thesis				        |
-| <ruby>	字引			<rt>	じびき			</rt></ruby>	| じびき				| dictionary			        |
-| <ruby>	日記			<rt>	にっき			</rt></ruby>	| にっき				| diary					        |
-| <ruby>	小学校		<rt>	しょうがっこう	</rt></ruby>	| しょうがっこう		| primary school		        |
-| <ruby>	高校			<rt>	こうこう			</rt></ruby>	| こうこう			| high school			        |
-| <ruby>	中学校		<rt>	ちゅうがっこう	</rt></ruby>	| ちゅうがっこう		| junior high school	        |
-| <ruby>	高等			<rt>	こうとう			</rt></ruby>	| こうとう			| high grade			        |
-| <ruby>	研究室		<rt>	けんきゅうしつ	</rt></ruby>	| けんきゅうしつ		| laboratory			        |
-| <ruby>	講堂			<rt>	こうどう			</rt></ruby>	| こうどう			| auditorium			        |
-| <ruby>	必要			<rt>	ひつような		</rt></ruby>	| ひつような			| importance, necessary	        |
-| <ruby>	健康			<rt>	けんこうな		</rt></ruby>	| けんこうな			| health, healthy		        |
-| <ruby>	複雑			<rt>	ふくざつな		</rt></ruby>	| ふくざつな			| complicated			        |
-| <ruby>	普通			<rt>	ふつうな			</rt></ruby>	| ふつうな			| ordinary				        |
-|																| だんだん			| gradually				        |
-|																| どんどん			| rapidly, steadily		        |
-| <ruby>	準備  		<rt>	じゅんび		    </rt></ruby>する	| じゅんびする		| to prepare			        |
-| <ruby>	用意  		<rt>	ようい		    </rt></ruby>する	| よういする			| to utilize			        |
-| <ruby>	研究  		<rt>	けんきゅう	    </rt></ruby>する	| けんきゅうする		| to research			        |
-| <ruby>	研修  		<rt>	けんしゅう	    </rt></ruby>する	| けんしゅうする		| to train				        |
-| <ruby>	生活  		<rt>	せいかつ		    </rt></ruby>する	| せいかつする		| to live life			        |
-| <ruby>	汚れる		<rt>	よごれる			</rt></ruby>	| よごれる			| become dirty			        |
-| <ruby>	片づける		<rt>	かたづける		</rt></ruby>	| かたづける			| to tidy up			        |
-| <ruby>	慣れる		<rt>	なれる			</rt></ruby>	| なれる				| to get used to		        |
-| <ruby>	倒れる		<rt>	たおれる			</rt></ruby>	| たおれる			| to collapse			        |
-| <ruby>	増える		<rt>	ふえる			</rt></ruby>	| ふえる				| be increased (intransitive)	|
-| <ruby>	増やす		<rt>	ふやす			</rt></ruby>	| ふやす				| to increase (transitive)      |
-| <ruby>	減る			<rt>	へる				</rt></ruby>	| へる				| be decrease (intransitive)	|
-| <ruby>	減らす		<rt>	へらす			</rt></ruby>	| へらす				| to decrease (intransitive)	|
+| 漢字      | 仮名           | 英語                        |
+|:--------- |:-------------- |:--------------------------- |
+| 学部      | がくぶ         | department                  |
+| 医学      | いがく         | medicine                    |
+| 科学      | かがく         | science                     |
+| 教育      | きょういく     | education                   |
+| 講義      | こうぎ         | lecture                     |
+| 専門      | せんもん       | sepecialization             |
+| 外国語    | がいこくご     | foreign language            |
+| 学期      | がっき         | term                        |
+| 専門家    | せんもんか     | specialist                  |
+| 校長      | こうちょう     | principal                   |
+| 研究生    | けんきゅうせい | researcher                  |
+| 教師      | きょうし       | teacher                     |
+| 書類      | しょるい       | documents                   |
+| 論文      | ろんぶん       | thesis                      |
+| 字引      | じびき         | dictionary                  |
+| 日記      | にっき         | diary                       |
+| 小学校    | しょうがっこう | primary school              |
+| 高校      | こうこう       | high school                 |
+| 中学校    | ちゅうがっこう | junior high school          |
+| 高等      | こうとう       | high grade                  |
+| 研究室    | けんきゅうしつ | laboratory                  |
+| 講堂      | こうどう       | auditorium                  |
+| 必要      | ひつような     | importance, necessary       |
+| 健康      | けんこうな     | health, healthy             |
+| 複雑      | ふくざつな     | complicated                 |
+| 普通      | ふつうな       | ordinary                    |
+|           | だんだん       | gradually                   |
+|           | どんどん       | rapidly, steadily           |
+| 準備 する | じゅんびする   | to prepare                  |
+| 用意 する | よういする     | to utilize                  |
+| 研究 する | けんきゅうする | to research                 |
+| 研修 する | けんしゅうする | to train                    |
+| 生活 する | せいかつする   | to live life                |
+| 汚れる    | よごれる       | become dirty                |
+| 片づける  | かたづける     | to tidy up                  |
+| 慣れる    | なれる         | to get used to              |
+| 倒れる    | たおれる       | to collapse                 |
+| 増える    | ふえる         | be increased (intransitive) |
+| 増やす    | ふやす         | to increase (transitive)    |
+| 減る      | へる           | be decrease (intransitive)  |
+| 減らす    | へらす         | to decrease (intransitive)  |

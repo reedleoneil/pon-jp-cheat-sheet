@@ -9,40 +9,40 @@ nav_order: 4
 <ruby>語彙<rt>ごい</rt></ruby>リスト
 
 
-| 漢字 | 仮名 | 英語 |
-|:---------------------------------------------|:-------------|:---------------------|
-| <ruby> 公務員 <rt> こうむいん </rt></ruby> | こうむいん | public servant |
-| <ruby> 銀行員 <rt> ぎんこういん </rt></ruby> | ぎんこういん | bank employee |
-| <ruby> 写真家 <rt> しゃしんか </rt></ruby> | しゃしんか | photographer |
-| <ruby> 歌手 <rt> かしゅ </rt></ruby> | かしゅ | singer |
-| <ruby> 警官 <rt> けいかん </rt></ruby> | けいかん | policeman |
-| <ruby> 警察 <rt> けいさつ </rt></ruby> | けいさつ | police |
-| <ruby> 歯医者 <rt> はいしゃ </rt></ruby> | はいしゃ | dentist |
-| <ruby> 医師 <rt> いし </rt></ruby> | いし | doctor |
-| <ruby> 看護婦 <rt> かんごふ </rt></ruby> | かんごふ | nurse |
-| <ruby> 記者 <rt> きしゃ </rt></ruby> | きしゃ | reporter |
-| <ruby> 泥棒 <rt> どろぼう </rt></ruby> | どろぼう | theif |
-| | スリ | pickpocket |
-| <ruby> 危険な <rt> きけんな </rt></ruby> | きけんな |danger, dangerous |
-| <ruby> 安全な <rt> あんぜんな </rt></ruby> | あんぜんな | safety、safe |
-| <ruby> 賢明な <rt> けんめいな </rt></ruby> | けんめいな | diligence, dilligent |
-| <ruby> 親切な <rt> しんせつな </rt></ruby> | しんせつな | kindness, kind |
-| <ruby> 大人し <rt> おとなし </rt></ruby> | おとなし | obidient, docile |
-| <ruby> 可笑しい <rt> おかしい </rt></ruby> | おかしい | funny, strange |
-| <ruby> 必ず <rt> かならず </rt></ruby> | かならず | by all means |
-| | きっと | definitely |
-| <ruby> 予約 <rt> よやく </rt></ruby>する | よやくする | to reserve |
-| <ruby> 参加 <rt> さんか </rt></ruby>する | さんかする | to participate |
-| <ruby> 故障 <rt> こしょう </rt></ruby>する | こしょうする | to malfunction |
-| <ruby> 修理 <rt> しゅうり </rt></ruby>する | しゅうりする | to repair |
-| <ruby> 変わる <rt> かわる </rt></ruby> | かわる | to change (intransitive) |
-| <ruby> 変える <rt> かえる </rt></ruby> | かえる | to change (transitive) |
-| <ruby> 回る <rt> まわる </rt></ruby> | まわる | to revolve (intransitive) |
-| <ruby> 回す <rt> まわす </rt></ruby> | まわす | to revolve (transitive) |
-| <ruby> 直る <rt> なおる </rt></ruby> | なおる | be cured (intransitive) |
-| <ruby> 直す <rt> まわす </rt></ruby> | まわす | be cured (transitive) |
-| <ruby> 手伝う <rt> てつだう </rt></ruby> | てつだう | to help |
-| <ruby> 遅れる <rt> おくれる </rt></ruby> | おくれる | to be late |
-| <ruby> 食文化 <rt> しょくぶんか </rt></ruby> | しょくぶんか | food culture |
-| <ruby> 締め切り <rt> しめきり </rt></ruby> | しめきり | deadline |
-| <ruby> 間に合う <rt> まにあう </rt></ruby> | まにあう | be in time |
+| 漢字      | 仮名         | 英語                      |
+|:--------- |:------------ |:------------------------- |
+| 公務員    | こうむいん   | public servant            |
+| 銀行員    | ぎんこういん | bank employee             |
+| 写真家    | しゃしんか   | photographer              |
+| 歌手      | かしゅ       | singer                    |
+| 警官      | けいかん     | policeman                 |
+| 警察      | けいさつ     | police                    |
+| 歯医者    | はいしゃ     | dentist                   |
+| 医師      | いし         | doctor                    |
+| 看護婦    | かんごふ     | nurse                     |
+| 記者      | きしゃ       | reporter                  |
+| 泥棒      | どろぼう     | theif                     |
+|           | スリ         | pickpocket                |
+| 危険な    | きけんな     | danger, dangerous         |
+| 安全な    | あんぜんな   | safety、safe              |
+| 賢明な    | けんめいな   | diligence, dilligent      |
+| 親切な    | しんせつな   | kindness, kind            |
+| 大人し    | おとなし     | obidient, docile          |
+| 可笑しい  | おかしい     | funny, strange            |
+| 必ず      | かならず     | by all means              |
+|           | きっと       | definitely                |
+| 予約 する | よやくする   | to reserve                |
+| 参加 する | さんかする   | to participate            |
+| 故障 する | こしょうする | to malfunction            |
+| 修理 する | しゅうりする | to repair                 |
+| 変わる    | かわる       | to change (intransitive)  |
+| 変える    | かえる       | to change (transitive)    |
+| 回る      | まわる       | to revolve (intransitive) |
+| 回す      | まわす       | to revolve (transitive)   |
+| 直る      | なおる       | be cured (intransitive)   |
+| 直す      | まわす       | be cured (transitive)     |
+| 手伝う    | てつだう     | to help                   |
+| 遅れる    | おくれる     | to be late                |
+| 食文化    | しょくぶんか | food culture              |
+| 締め切り  | しめきり     | deadline                  |
+| 間に合う  | まにあう     | be in time                |

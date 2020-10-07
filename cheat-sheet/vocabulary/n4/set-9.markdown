@@ -8,54 +8,54 @@ nav_order: 9
 
 <ruby>語彙<rt>ごい</rt></ruby>リスト
 
-| 漢字															| 仮名				| 英語						|
-|:--------------------------------------------------------------|:------------------|:--------------------------|
-| <ruby>	絹			<rt>	きぬ				</rt></ruby>	| きぬ				| silk						|
-| <ruby>	木綿			<rt>	もめん			</rt></ruby>	| もめん				| cotton					|
-| <ruby>	着物			<rt>	きもの			</rt></ruby>	| きもの				| kimono					|
-| <ruby>	浴衣			<rt>	ゆかた			</rt></ruby>	| ゆかた				| summer kimono				|
-| <ruby>	生地			<rt>	きじ				</rt></ruby>	| きじ				| cloth						|
-| <ruby>	手袋			<rt>	てぶくろ			</rt></ruby>	| てぶくろ			| gloves					|
-| <ruby>	水着			<rt>	みずぎ			</rt></ruby>	| みずぎ				| swimwear					|
-| <ruby>	運動靴		<rt>	うんどうぐつ		</rt></ruby>	| うんどうぐつ		| sneakers					|
-| <ruby>	踊り			<rt>	おどり			</rt></ruby>	| おどり				| dance						|
-| <ruby>	興味			<rt>	きょうみ			</rt></ruby>	| きょうみ			| interest					|
-| <ruby>	趣味			<rt>	しゅみ			</rt></ruby>	| しゅみ				| hobby						|
-| <ruby>	習慣			<rt>	しゅうかん		</rt></ruby>	| しゅうかん			| custom					|
-| <ruby>	細かい		<rt>	こまかい			</rt></ruby>	| こまかい			| small, fine				|
-| <ruby>	少ない		<rt>	すくない			</rt></ruby>	| すくない			| few						|
-| <ruby>	美しい		<rt>	うつくしい		</rt></ruby>	| うつくしい			| beautiful					|
-| <ruby>	柔らかい		<rt>	やわらかい		</rt></ruby>	| やわらかい			| soft						|
-| <ruby>	普通な		<rt>	ふつうな			</rt></ruby>	| ふつうな			| ordinary					|
-| <ruby>	素晴らし		<rt>	すばらしい		</rt></ruby>	| すばらしい			| wonderful					|
-| <ruby>	招待する		<rt>	しょうたいする	</rt></ruby>	| しょうたいする		| to invite					|
-| <ruby>	心配する		<rt>	しんぱいする		</rt></ruby>	| しんぱいする		| to worry					|
-| <ruby>	安心する		<rt>	あんしんする		</rt></ruby>	| あんしんする		| be safe					|
-| <ruby>	復習			<rt>	ふくしゅう		</rt></ruby>	| ふくしゅう			| to review					|
-| <ruby>	予習			<rt>	よしゅう			</rt></ruby>	| よしゅう			| to prepare (lesson)		|
-| <ruby>	帰国する		<rt>	きこくする		</rt></ruby>	| きこくする			| go back home				|
-| <ruby>	見物する		<rt>	けんぶつする		</rt></ruby>	| けんぶつする		| to sightsee				|
-| <ruby>	水泳する		<rt>	すいえいする		</rt></ruby>	| すいえいする		| go swimming				|
-| <ruby>	着がえる		<rt>	きがえる			</rt></ruby>	| きがえる			| to change (clothes)		|
-| <ruby>	喜ぶ			<rt>	よろこぶ			</rt></ruby>	| よろこぶ			| be happy					|
-| <ruby>	謝る			<rt>	あやまる			</rt></ruby>	| あやまる			| to apologize				|
-| <ruby>	返す			<rt>	かえす			</rt></ruby>	| かえす				| to return					|
-| <ruby>	塗る			<rt>	ぬる				</rt></ruby>	| ぬる				| to paint					|
-| <ruby>	濡れる		<rt>	ぬれる			</rt></ruby>	| ぬれる				| to get wet				|
-| <ruby>	頼まれた		<rt>	たのまれた		</rt></ruby>	| たのまれた			| requested					|
-| <ruby>	離れたところ	<rt>	はなれたところ	</rt></ruby>	| はなれたところ		| distant place				|
-| <ruby>	坂			<rt>	さか				</rt></ruby>	| さか				| slope, hill				|
-| <ruby>	無理			<rt>	むり				</rt></ruby>	| むり				| impossible				|
-| <ruby>	途中			<rt>	とちゅう			</rt></ruby>	| とちゅう			| halfway					|
-| <ruby>	交差点		<rt>	こうさてん		</rt></ruby>	| こうさてん			| pedestrian crossing		|
-| <ruby>	片側			<rt>	かたがわ			</rt></ruby>	| かたがわ			| one side					|
-| <ruby>	車線			<rt>	しゃせん			</rt></ruby>	| しゃせん			| road lane					|
-| <ruby>	気になる		<rt>	きになる			</rt></ruby>	| きになる			| to notice					|
-| <ruby>	杖			<rt>	つえ				</rt></ruby>	| つえ				| cane						|
-| <ruby>	点滅			<rt>	てんめつ			</rt></ruby>	| てんめつ			| switch on and off			|
-| <ruby>	辺り			<rt>	あたり			</rt></ruby>	| あたり				| nearby					|
-| <ruby>	引き返す		<rt>	ひきかえす		</rt></ruby>	| ひきかえす			| to return					|
-|																| ところが			| however					|
-| <ruby>	相変わらず	<rt>	あいかわらず		</rt></ruby>	| あいかわらず		| as usual					|
-| <ruby>	打つかる		<rt>	ぶつかる			</rt></ruby>	| ぶつかる			| to collide				|
-|																| ホッとする			| be relieved				|
+| 漢字         | 仮名           | 英語                |
+|:------------ |:-------------- |:------------------- |
+| 絹           | きぬ           | silk                |
+| 木綿         | もめん         | cotton              |
+| 着物         | きもの         | kimono              |
+| 浴衣         | ゆかた         | summer kimono       |
+| 生地         | きじ           | cloth               |
+| 手袋         | てぶくろ       | gloves              |
+| 水着         | みずぎ         | swimwear            |
+| 運動靴       | うんどうぐつ   | sneakers            |
+| 踊り         | おどり         | dance               |
+| 興味         | きょうみ       | interest            |
+| 趣味         | しゅみ         | hobby               |
+| 習慣         | しゅうかん     | custom              |
+| 細かい       | こまかい       | small, fine         |
+| 少ない       | すくない       | few                 |
+| 美しい       | うつくしい     | beautiful           |
+| 柔らかい     | やわらかい     | soft                |
+| 普通な       | ふつうな       | ordinary            |
+| 素晴らし     | すばらしい     | wonderful           |
+| 招待する     | しょうたいする | to invite           |
+| 心配する     | しんぱいする   | to worry            |
+| 安心する     | あんしんする   | be safe             |
+| 復習         | ふくしゅう     | to review           |
+| 予習         | よしゅう       | to prepare (lesson) |
+| 帰国する     | きこくする     | go back home        |
+| 見物する     | けんぶつする   | to sightsee         |
+| 水泳する     | すいえいする   | go swimming         |
+| 着がえる     | きがえる       | to change (clothes) |
+| 喜ぶ         | よろこぶ       | be happy            |
+| 謝る         | あやまる       | to apologize        |
+| 返す         | かえす         | to return           |
+| 塗る         | ぬる           | to paint            |
+| 濡れる       | ぬれる         | to get wet          |
+| 頼まれた     | たのまれた     | requested           |
+| 離れたところ | はなれたところ | distant place       |
+| 坂           | さか           | slope, hill         |
+| 無理         | むり           | impossible          |
+| 途中         | とちゅう       | halfway             |
+| 交差点       | こうさてん     | pedestrian crossing |
+| 片側         | かたがわ       | one side            |
+| 車線         | しゃせん       | road lane           |
+| 気になる     | きになる       | to notice           |
+| 杖           | つえ           | cane                |
+| 点滅         | てんめつ       | switch on and off   |
+| 辺り         | あたり         | nearby              |
+| 引き返す     | ひきかえす     | to return           |
+|              | ところが       | however             |
+| 相変わらず   | あいかわらず   | as usual            |
+| 打つかる     | ぶつかる       | to collide          |
+|              | ホッとする     | be relieved         |

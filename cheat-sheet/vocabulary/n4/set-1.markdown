@@ -2,55 +2,55 @@
 layout: default
 title: Set 1
 parent: N4 Vocabulary List
-grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
+grand_parent: 語彙<rt>ごい</rt></ruby> Vocabulary
 nav_order: 1
 ---
 
-<ruby>語彙<rt>ごい</rt></ruby>リスト
+語彙<rt>ごい</rt></ruby>リスト
 
-| 漢字 | 仮名 | 英語 |
-|:----------------------------------------------- |:---------------- |:--------------- |
-| <ruby> 彼女 <rt> かのじょ </rt></ruby> | かのじょ | she |
-| <ruby> 君 <rt> きみ </rt></ruby> | きみ | you |
-| <ruby> 僕 <rt> ぼく </rt></ruby> | ぼく | I |
-| <ruby> 男性 <rt> だんせい </rt></ruby> | だんせい | male |
-| <ruby> 女性 <rt> じょせい </rt></ruby> | じょせい | female |
-| <ruby> 相手 <rt> あいて </rt></ruby> | あいて | counterpart |
-| <ruby> 担当者 <rt> たんとうしゃ </rt></ruby> | たんとうしゃ | in-charge |
-| <ruby> 客 <rt> きゃく </rt></ruby> | きゃく | customer |
-| <ruby> 選手 <rt> せんしゅ </rt></ruby> | せんしゅ | player |
-| <ruby> 海外 <rt> かいがい </rt></ruby> | かいがい | abroad |
-| <ruby> 国際 <rt> こくさい </rt></ruby> | こくさい | international |
-| <ruby> 政治 <rt> せいじ </rt></ruby> | せいじ | politics |
-| <ruby> 政府 <rt> せいふ </rt></ruby> | せいふ | government |
-| <ruby> 法律 <rt> ほうりつ </rt></ruby> | ほうりつ | law |
-| <ruby> 規則 <rt> きそく </rt></ruby> | きそく | regulations |
-| <ruby> 公立 <rt> こうりつ </rt></ruby> | こうりつ | public |
-| <ruby> 私立 <rt> しりつ </rt></ruby> | しりつ | private |
-| <ruby> 仕方 <rt> しかた </rt></ruby> | しかた | way of doing |
-| <ruby> 書き方 <rt> かきかた </rt></ruby> | かきかた | way of writing |
-| <ruby> 話し方 <rt> はなしかた </rt></ruby> | はなしかた | way of speaking |
-| <ruby> 読み方 <rt> よみかた </rt></ruby> | よみかた | way of reading |
-| <ruby> 明日 <rt> あす </rt></ruby> | あす | tomorrow |
-| | さっき | a while ago |
-| <ruby> 将来 <rt> しょうらい </rt></ruby> | しょうらい | future |
-| <ruby> 昔 <rt> むかし </rt></ruby> | むかし | past |
-| | そろそろ | slowly, soon |
-| <ruby> 突然 <rt> とつぜん </rt></ruby> | とつぜん | all of a sudden |
-| <ruby> 注文 <rt> ちゅうもん </rt></ruby>する | ちゅうもんする | to order |
-| <ruby> 卒業 <rt> そつぎょう </rt></ruby>する | そつぎょうする | to graduation |
-| <ruby> 不合額 <rt> ふごうがく </rt></ruby>する | ふごうがくする | to fail |
-| <ruby> 支度 <rt> したく </rt></ruby>する | したくする | to prepare |
-| <ruby> 太る <rt> ふとる </rt></ruby> | ふとる | to become fat |
-| <ruby> 痩せる <rt> やせる </rt></ruby> | やせる | to lost weight |
-| <ruby> 壊れる <rt> こわれる </rt></ruby> | こわれる | to be broken |
-| <ruby> 間違える <rt> まちがえる </rt></ruby> | まちがえる | to be mistaken |
-| <ruby> 間に合う <rt> まにあう </rt></ruby> | まにあう | be on time |
-| | すぎる | to exeed |
-| | やる | to do |
-| <ruby> 笑う <rt> わらう </rt></ruby> | わらう | to smile, laugh |
-| <ruby> 水道代 <rt> すいどうだい </rt></ruby> | すいどうだい | water bill |
-| <ruby> 電車代 <rt> でんしゃだい </rt></ruby> | でんしゃだい | train fare |
-| <ruby> 食料品 <rt> しょくりょうひん </rt></ruby> | しょくりょうひん | grocery |
-| <ruby> 交通 <rt> こうつう </rt></ruby> | こうつう | transportation |
-| <ruby> 技術 <rt> ぎじゅつ </rt></ruby> | ぎじゅつ | technology |
+| 漢字        | 仮名             | 英語            |
+|:----------- |:---------------- |:--------------- |
+| 彼女        | かのじょ         | she             |
+| 君          | きみ             | you             |
+| 僕          | ぼく             | I               |
+| 男性        | だんせい         | male            |
+| 女性        | じょせい         | female          |
+| 相手        | あいて           | counterpart     |
+| 担当者      | たんとうしゃ     | in-charge       |
+| 客          | きゃく           | customer        |
+| 選手        | せんしゅ         | player          |
+| 海外        | かいがい         | abroad          |
+| 国際        | こくさい         | international   |
+| 政治        | せいじ           | politics        |
+| 政府        | せいふ           | government      |
+| 法律        | ほうりつ         | law             |
+| 規則        | きそく           | regulations     |
+| 公立        | こうりつ         | public          |
+| 私立        | しりつ           | private         |
+| 仕方        | しかた           | way of doing    |
+| 書き方      | かきかた         | way of writing  |
+| 話し方      | はなしかた       | way of speaking |
+| 読み方      | よみかた         | way of reading  |
+| 明日        | あす             | tomorrow        |
+|             | さっき           | a while ago     |
+| 将来        | しょうらい       | future          |
+| 昔          | むかし           | past            |
+|             | そろそろ         | slowly, soon    |
+| 突然        | とつぜん         | all of a sudden |
+| 注文 する   | ちゅうもんする   | to order        |
+| 卒業 する   | そつぎょうする   | to graduation   |
+| 不合額 する | ふごうがくする   | to fail         |
+| 支度 する   | したくする       | to prepare      |
+| 太る        | ふとる           | to become fat   |
+| 痩せる      | やせる           | to lost weight  |
+| 壊れる      | こわれる         | to be broken    |
+| 間違える    | まちがえる       | to be mistaken  |
+| 間に合う    | まにあう         | be on time      |
+|             | すぎる           | to exeed        |
+|             | やる             | to do           |
+| 笑う        | わらう           | to smile, laugh |
+| 水道代      | すいどうだい     | water bill      |
+| 電車代      | でんしゃだい     | train fare      |
+| 食料品      | しょくりょうひん | grocery         |
+| 交通        | こうつう         | transportation  |
+| 技術        | ぎじゅつ         | technology      |
