@@ -42,3 +42,8 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 |                                              | まず                           | at first                         |
 | <ruby>記念公園<rt>きねんこうえん</rt></ruby> | きねんこうえん                 | memorial park                    |
 | <ruby>イチゴ農家<rt>イチゴのうか</rt></ruby> | イチゴのうか                   | straweberry farm                 |
+| <ruby>解決する<rt>かいけつする</rt></ruby> | かいけつする                   | to solve/address                 |
+| <ruby>価値<rt>かち</rt></ruby> | かち                   | value                 |
+| <ruby>景色<rt>けしき</rt></ruby> | けしき                   | scenery                 |
+| <ruby>車線<rt>しゃせん</rt></ruby> | しゃせん                   | road way                 |
+| <ruby>打つかる<rt>ぶつかる</rt></ruby> | ぶつかる                   | to collide                 |
