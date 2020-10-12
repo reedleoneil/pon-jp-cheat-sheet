@@ -71,3 +71,12 @@ nav_exclude: true
 | 物価                             | ぶっか                         | price (commodities)              |
 | 真ん中                           | まんなか                       | in the middle                    |
 |                                  | ゆびわ                         | ring (finger)                    |
+| 遅れる                           | おくれる                       | to cause                         |
+|                                  | おとす                         | to drop, lessen                  |
+| 下げる                           | さげる                         | to go down                       |
+|                                  | おとす                         | to drop, lessen                  |
+|                                  | さがる                         | to lower                         |
+| 少なくする                       | すくなくする                   | to lessen, decrease              |
+| 解決する                         | かいけつする                   | to solve, address                |
+| 開く                             | ひらく                         | to open (account, event)         |
+| 開く                             | ぶつかる                       | to hit                           |
