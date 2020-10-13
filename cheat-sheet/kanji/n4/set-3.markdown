@@ -52,7 +52,7 @@ go down, precipitate
 
 | 降りる | おりる | get off |
 | 降る | ふる | to fall (rain/snow) |
-| 以降 | つうろ | hereafter |
+| 以降 | いこう | hereafter |
 
 # 乗
 ride
