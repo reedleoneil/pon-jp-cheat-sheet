@@ -80,5 +80,5 @@ answer
 meet
 
 | 集まる	| あつまる | to gather, collect (transitive) |
-| 集める	| あつめる | to gather, collect (intransitive) |
+| 集める	| あつめる | meet; assemble (intransitive) |
 | 集合	| しゅうごう | gathering, assembly |
