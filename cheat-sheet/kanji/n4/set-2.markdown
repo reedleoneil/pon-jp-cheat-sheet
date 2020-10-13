@@ -76,5 +76,5 @@ parent, familiarity
 # 主
 cheif, lord, mainly
 
-| 主に | おもに | both parents |
+| 主に | おもに | mainly, chiefly |
 | 主人 | しゅじん | husband |
