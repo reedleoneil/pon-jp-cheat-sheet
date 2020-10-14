@@ -6,7 +6,7 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 nav_order: 8
 ---
 
-| 漢字       | 仮名           | 英語               |
+| 漢字       | 仮名           | 意味               |
 |:---------- |:-------------- |:------------------ |
 | 顔色       | かおいろ       | complexion         |
 | 恰好       | かっこう       | appearance         |

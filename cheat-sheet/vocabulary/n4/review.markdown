@@ -8,7 +8,7 @@ nav_exclude: true
 
 <ruby>語彙<rt>ごい</rt></ruby>リスト
 
-| <ruby>漢字<rt>かんじ</rt></ruby> | <ruby>仮名<rt>かな</rt></ruby> | <ruby>英語<rt>えいご</rt></ruby> |
+| <ruby>漢字<rt>かんじ</rt></ruby> | <ruby>仮名<rt>かな</rt></ruby> | <ruby>意味<rt>えいご</rt></ruby> |
 |:-------------------------------- |:------------------------------ |:-------------------------------- |
 | 規則 きそく                      | きそく                         | regulations                      |
 | 国内 こくない                    | こくない                       | domestic                         |
