@@ -22,7 +22,7 @@ carry
 # 動
 move
 
-｜ 動く | うごく | to move |
+| 動く | うごく | to move |
 | 運動 | うんどう | exercise |
 | 動物 | どうぶつ | animal |
 | 動作 | どうさ | movement |
