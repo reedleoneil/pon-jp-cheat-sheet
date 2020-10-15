@@ -3,6 +3,7 @@ layout: default
 title: Review
 parent: N4 Kanji List
 grand_parent: <ruby>漢字<rt>かんじ</rt></ruby> Kanji
+nav_exclude: true
 ---
 
 ## <ruby>漢字<rt>かんじ</rt></ruby>リスト
@@ -20,3 +21,7 @@ grand_parent: <ruby>漢字<rt>かんじ</rt></ruby> Kanji
 | 集合		| しゅうごう		| gathering, assembly	|
 | 緑茶	| りょくちゃ | green tea |
 | 度 | たび | every-, whenever- |
+| 転がす | ころがす | to roll |
+| 連なる | つらなる | to extend |
+| 絡まる | からまる | tangle |
+| 結ぶ | むすぶ | to tie |
