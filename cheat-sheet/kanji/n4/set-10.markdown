@@ -86,12 +86,7 @@ bring up, to raise
 number
 
 | 数			| かず		| number			|
-| 数数える	| かぞえる	| to count			|
+| 数える	| かぞえる	| to count			|
 | 数学		| すうがく	| mathematics		|
 | 数字		| すうじ		| figures, numbers	|
 | 点数		| てんすう	| 	points, score	|
-
-
-
-
-
