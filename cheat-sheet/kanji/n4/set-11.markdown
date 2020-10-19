@@ -61,7 +61,7 @@ taste
 | 味 | あじ | taste |
 | 意味 | いみ | meaning |
 
-#　当
+# 当
 hit
 
 | 当たる・当てる | あたる・あてる | to strike |
