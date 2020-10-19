@@ -16,7 +16,7 @@ nav_order: 13
 medicine
 
 | 医者 | いしゃ | doctor |
-| 委員 | いいん | clinic |
+| 医院 | いいん | clinic |
 | 医学 | いがく | medecine |
 
 # 者
