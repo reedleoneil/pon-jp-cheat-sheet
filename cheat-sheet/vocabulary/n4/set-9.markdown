@@ -30,7 +30,7 @@ nav_order: 9
 | 素晴らし     | すばらしい     | wonderful           |
 | 招待する     | しょうたいする | to invite           |
 | 心配する     | しんぱいする   | to worry            |
-| 安心する     | あんしんする   | be safe             |
+| 安心する     | あんしんする   | be relieved         |
 | 復習         | ふくしゅう     | to review           |
 | 予習         | よしゅう       | to prepare (lesson) |
 | 帰国する     | きこくする     | go back home        |
