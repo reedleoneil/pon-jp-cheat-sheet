@@ -72,7 +72,6 @@ travel, trip
 # 産
 products, give birth, property
 
-| 旅館 | りょかん | japanese inn |
 | 産業 | さんぎょう | industry |
 
 # 説
