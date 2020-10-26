@@ -80,3 +80,5 @@ nav_exclude: true
 | 解決する                         | かいけつする                   | to solve, address                |
 | 開く                             | ひらく                         | to open (account, event)         |
 | 開く                             | ぶつかる                       | to hit                           |
+| 売り切り                         | うりぎり                       | sold out                         |
+| 務める                           | つとめる                       | to work, be affiliated with      |
