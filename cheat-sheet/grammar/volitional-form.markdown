@@ -39,7 +39,7 @@ let's do~
 let's do~
 
 ### Godan ・ Ichidan ・ Irregular Verbs
-stem of the verb + ましょう
+stem form + ましょう
 
 | 五段動詞 Godan Verbs | 一段動詞 Ichidan Verbs | 変格動詞 Irregular Verbs |
 |:-------------------- |:---------------------- |:------------------------ |
