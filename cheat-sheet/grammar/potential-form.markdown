@@ -13,6 +13,8 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 ## Potential Form
 ability to do something
 
+- When using potential form, the particle を (o/wo) is often changed to が (ga) instead.
+
 ### 五段動詞 Godan Verbs
 /u/ → /e/ + る
 
@@ -34,5 +36,3 @@ ability to do something
 | 買う → 買える        |                        |                          |
 | 待つ → 待てる        |                        |                          |
 | 取る → 取れる        |                        |                          |
-
-- When using potential form, the particle を (o/wo) is often changed to が (ga) instead.
