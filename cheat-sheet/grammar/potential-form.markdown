@@ -36,3 +36,13 @@ ability to do something
 | 買う → 買える        |                        |                          |
 | 待つ → 待てる        |                        |                          |
 | 取る → 取れる        |                        |                          |
+
+## Shortened Potential Form
+- It is also possible to just add「れる」instead of the full「られる」for Ichidan Verbs.
+
+### Ichidan Verbs
+る → れる
+
+| Potential Form | Shortened Potential Form |
+|:-------------------- |:---------------------- |
+| 食べる → 食べられる        | 食べる → 食べれる    |
