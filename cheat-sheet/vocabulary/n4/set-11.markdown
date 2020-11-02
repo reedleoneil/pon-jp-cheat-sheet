@@ -28,5 +28,5 @@ nav_order: 11
 | 送別会     | そうべつかい | farewell party         |
 |            | すごい       | amazing                |
 | 近所       | きんじょ     | neighborhood           |
-|            | きんじょ     | such                   |
+|            | あんな       | such                   |
 | 書き方     | かきかた     | way of writing         |
