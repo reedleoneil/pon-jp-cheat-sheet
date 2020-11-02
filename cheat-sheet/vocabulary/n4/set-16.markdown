@@ -18,7 +18,7 @@ nav_order: 16
 | 行う       | おこなう       | to occur                         |
 | 飼う       | かう           | to raise (pets)                  |
 |            | どろぼう       | robber                           |
-| 子犬       | こいぬ         | puppy                            |
+| 小犬       | こいぬ         | puppy                            |
 | 日本の曲   | にほんのきょく | Japanese songs                   |
 | 怪しい人   | あやしいひと   | suspicious person                |
 |            | なるほど       | Oh, I see.                       |
