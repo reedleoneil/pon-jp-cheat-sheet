@@ -10,44 +10,44 @@ nav_exclude: true
 
 | <ruby>漢字<rt>かんじ</rt></ruby> | <ruby>仮名<rt>かな</rt></ruby> | <ruby>意味<rt>えいご</rt></ruby> |
 |:-------------------------------- |:------------------------------ |:-------------------------------- |
-| 規則 きそく                      | きそく                         | regulations                      |
-| 国内 こくない                    | こくない                       | domestic                         |
-| 田舎 いなか                      | いなか                         | province                         |
-| 郊外 こうがい                    | こうがい                       | suburbs, outskirt                |
-| 飾る かざる                      | かざる                         | to decorate                      |
-| 釣る つる                        | つる                           | to fish                          |
-| 動物園 どうぶつえん              | どうぶつえん                   | zoo                              |
+| 規則                             | きそく                         | regulations                      |
+| 国内                             | こくない                       | domestic                         |
+| 田舎                             | いなか                         | province                         |
+| 郊外                             | こうがい                       | suburbs, outskirt                |
+| 飾る                             | かざる                         | to decorate                      |
+| 釣る                             | つる                           | to fish                          |
+| 動物園                           | どうぶつえん                   | zoo                              |
 | 棚たな                           | たな                           | shelf                            |
-| 暖房だんぼう                     | だんぼう                       | heater                           |
-| 出発しゅぱつ                     | しゅぱつ                       | departure                        |
-| 警官けいかん                     | けいかん                       | policeman                        |
+| 暖房                             | だんぼう                       | heater                           |
+| 出発                             | しゅぱつ                       | departure                        |
+| 警官                             | けいかん                       | policeman                        |
 |                                  | スリ                           | pickpocket                       |
-| 賢明けんめい                     | けんめい                       | diligence, dilligent             |
-| 故障こしょう                     | こしょう                       | to malfunction                   |
-| 修理しゅうり                     | しゅうり                       | to repair                        |
-| 片づけるかたづける               | かたづける                     | to tidyup                        |
-| 増えるふえる                     | ふえる                         | be increased                     |
-| 増やすふやす                     | ふやす                         | to increase                      |
-| 減るへる                         | へる                           | be decrease                      |
-| 減らすへらす                     | へらす                         | to decrease                      |
-| 通りとおり                       | とおり                         | street, way                      |
-| 機会きかい                       | きかい                         | opportunity                      |
-| 意見いけん                       | いけん                         | opinion                          |
+| 賢明                             | けんめい                       | diligence, dilligent             |
+| 故障                             | こしょう                       | to malfunction                   |
+| 修理                             | しゅうり                       | to repair                        |
+| 片づける                         | かたづける                     | to tidyup                        |
+| 増える                           | ふえる                         | be increased                     |
+| 増やす                           | ふやす                         | to increase                      |
+| 減る                             | へる                           | be decrease                      |
+| 減らす                           | へらす                         | to decrease                      |
+| 通り                             | とおり                         | street, way                      |
+| 機会                             | きかい                         | opportunity                      |
+| 意見                             | いけん                         | opinion                          |
 |                                  | ほとんど                       | mostly                           |
-| 途中とちゅう                     | とちゅう                       | halfway                          |
-| 経験けいけん                     | けいけん                       | experience                       |
-| 反対するはんたいする             | はんたいする                   | too ppose                        |
-| 賛成するさんせいする             | さんせいする                   | to agree                         |
-| 曲がるまがる                     | まがる                         | to turn                          |
-| 曲げるまげる                     | まげる                         | to turn                          |
+| 途中                             | とちゅう                       | halfway                          |
+| 経験                             | けいけん                       | experience                       |
+| 反対する                         | はんたいする                   | to oppose                        |
+| 賛成する                         | さんせいする                   | to agree                         |
+| 曲がる                           | まがる                         | to turn                          |
+| 曲げる                           | まげる                         | to turn                          |
 |                                  | まず                           | at first                         |
-| 記念公園きねんこうえん           | きねんこうえん                 | memorial park                    |
-| イチゴ農家イチゴのうか           | イチゴのうか                   | straweberry farm                 |
-| 解決するかいけつする             | かいけつする                   | to solve/address                 |
-| 価値かち                         | かち                           | value                            |
-| 景色けしき                       | けしき                         | scenery                          |
-| 車線しゃせん                     | しゃせん                       | road way                         |
-| 打つかるぶつかる                 | ぶつかる                       | to collide                       |
+| 記念公園                         | きねんこうえん                 | memorial park                    |
+| イチゴ農家                       | イチゴのうか                   | straweberry farm                 |
+| 解決する                         | かいけつする                   | to solve/address                 |
+| 価値                             | かち                           | value                            |
+| 景色                             | けしき                         | scenery                          |
+| 車線                             | しゃせん                       | road way                         |
+| 打つかる                         | ぶつかる                       | to collide                       |
 | 得意                             | とくい                         | good at, strong points           |
 |                                  | だいぶ                         | considerably, most part          |
 | 世話                             | せわ                           | looking after, help              |
@@ -82,3 +82,19 @@ nav_exclude: true
 | 開く                             | ぶつかる                       | to hit                           |
 | 売り切り                         | うりぎり                       | sold out                         |
 | 務める                           | つとめる                       | to work, be affiliated with      |
+| 申込用紙                         | もうしこみようし               | application form                 |
+| 申し込む                         | もうしこむ                     | to apply                         |
+|                                  | がっかり                       | disappointing                    |
+|                                  | ほめる                         | to praise                        |
+| 叱る                             | しかる                         | to scold                         |
+|                                  | ふむ                           | to step on                       |
+| 行う                             | おこなう                       | to occur                         |
+| 平気                             | へいき                         | composure, unconcern             |
+|                                  | かぶす                         | to cover                         |
+| 辺                               | へん                           | are, vicinity                    |
+|                                  | せっかく                       | with great pains                 |
+| お巡りさん                       | おまわりさん                   | friendly term for policeman      |
+| 餌                               | えさ                           | (animal) food, bait              |
+| 嫌がる                           | いやがる                       | to hate, dislike                 |
+| 数日前                           | すうじつまえ                   | few days ago                     |
+| 注射                             | ちゅうしゃ                     | injection                        |
