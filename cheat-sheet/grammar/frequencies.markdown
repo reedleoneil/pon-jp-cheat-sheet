@@ -18,3 +18,19 @@ pointing out a particular time (currently; during, at some point)
 
 ### Noun + じゅう
 cover a length of time or area in its entirety (through; throughout)
+
+## も
+marks quantity
+- Numeral + も
+
+## で
+
+### Time + で
+marks time limit, end
+
+### Frequency + で
+marks time used
+
+## までに
+marks deadline
+- Time + までに
