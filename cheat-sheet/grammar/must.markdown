@@ -20,7 +20,7 @@ must not; may not; cannot
 
 ### Must
 - Verb (Negative て Form) + は + だめ・いけない・ならない
-  - なくちゃ → なくちゃ
+  - なくて → なくちゃ
 - Verb (Negative て Form) + と + だめ・いけない・ならない
   - Drop だめ・いけない・ならない
 - Verb (Negative ば Conditional Form) + だめ・いけない・ならない
