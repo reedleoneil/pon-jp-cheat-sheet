@@ -42,4 +42,8 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 
 ## Sentence Ending Particles
 ### ね
+#### な
 ### よ
+#### さ
+#### ぞ
+#### ぜ
