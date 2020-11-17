@@ -24,7 +24,7 @@ I think; it seems; probably; right?
 - な-adjective + だろう
 - い-adjective + だろう
 
-# でしょう
+## でしょう
 I think; it seems; probably; right?
 - Verb (Dictionary Form) + でしょう
 - Noun + でしょう
