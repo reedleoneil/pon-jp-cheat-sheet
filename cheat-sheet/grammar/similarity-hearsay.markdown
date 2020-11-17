@@ -78,3 +78,9 @@ appears; seems; looks as if~
 ### ような
 - Verb + ような + Noun
 - Noun + ような + Noun
+
+## っぽい
+seems like; somewhat~; -ish; easily does~; often does~
+- Verb (Stem Form) + っぽい
+- Noun + っぽい
+- い-adjective い + っぽい
