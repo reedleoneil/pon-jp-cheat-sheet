@@ -58,6 +58,6 @@ to begin to; to start to; to burst into; ... out (e.g. to jump out, to carry out
 too much
 ### Stem Form + すぎる
 ### な-adjective
-- な-adjective + すぎる
+な-adjective + すぎる
 ### い-adjective
 drop い + すぎる
