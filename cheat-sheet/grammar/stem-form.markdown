@@ -38,6 +38,10 @@ difficult to do~
 difficult to do~
 ### Stem Form + づらい
 
+## がたい
+very difficult to; hard to~
+### Stem Form + がたい
+
 ## はじめる
 to start; to begin to~
 ### Stem Form + はじめる
