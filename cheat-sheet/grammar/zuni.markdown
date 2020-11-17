@@ -14,3 +14,8 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 without doing~
 - Verb (/u/ → /a/) + ず(に)
 - する → せず(に)
+- くる → こず(に)
+
+## ないで
+without doing~
+- Verb (ない Form) + で
