@@ -29,5 +29,5 @@ to do something in advance
 ## てしまう
 to do something by accident, to finish completely
 - Verb (て Form) + しまう
-  - て → ちゃう
-  - で → じゃう
+  - て → ちゃう・ちまう
+  - で → じゃう・じまう
