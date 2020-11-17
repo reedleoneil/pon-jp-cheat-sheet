@@ -19,19 +19,22 @@ I heard that; it is said that~
 
 ## そう
 looks like; appears like; seeming~
-- Verb (Stem Form) + そう(だ)
-- な-adjective + そう(だ)
-- い-adjective - い + そう(だ)
+- Verb (Stem Form) + そう(だ・だった)
+- な-adjective + そう(だ・だった)
+- い-adjective - い + そう(だ・だった)
+- ない Form - い + さ + そう(だ・だった)
 
 ### そうに
 - Verb (Stem Form) + そうに + Verb
 - な-adjective + そうに + Verb
 - い-adjective - い + そうに + Verb
+- ない Form - い + さ + そうに + Verb
 
 ### そうな
 - Verb (Stem Form) + そうな + Noun
 - な-adjective + そうな + Noun
 - い-adjective - い + そうな + Noun
+- ない Form - い + さ + そうな + Noun
 
 ## らしい
 it seems like; I heard; apparently~
