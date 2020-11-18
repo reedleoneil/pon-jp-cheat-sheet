@@ -18,7 +18,7 @@ walk
 | 歩く	| あるく | to walk	|
 | 進歩	| しんぽ | progress |
 
-# 兄
+# 走
 run
 
 | 走る | はしる | to run |
