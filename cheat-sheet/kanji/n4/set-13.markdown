@@ -72,4 +72,4 @@ back
 # 若
 
 | 若い | わかい | young |
-| 若い者 | わかいもの | young people |
+| 若者 | わかもの | young people |
