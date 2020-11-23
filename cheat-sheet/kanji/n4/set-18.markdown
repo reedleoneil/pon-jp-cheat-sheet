@@ -71,5 +71,6 @@ question
 
 # 題
 subject, theme
+
 | 問題 | もんだい | problem        |
 | 話題 | わだい   | topic, subject |
