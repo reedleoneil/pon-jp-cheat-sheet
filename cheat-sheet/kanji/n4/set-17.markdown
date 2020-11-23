@@ -49,9 +49,8 @@ world
 city
 
 | 市場   | いちば     | marketplace |
-| 市     | し         | city        |
-| 都市   | とし       | city, town  |
 | ～市   | ～し       | ~city       |
+| 都市   | とし       | city, town  |
 | 市役所 | しやくしょ | city hall   |
 | 市長   | しちょう   | mayor       |
 
