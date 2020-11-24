@@ -12,6 +12,12 @@ nav_exclude: true
 1. TOC
 {:toc}
 
+| 姉妹 | しまい	| sisters	|
+| 親しい | したしい | close, intimate |
+| 寝室 | しんしつ | bedroom |
+| 以降 | いこう | hereafter |
+| 死体 | したい | dead body, corpse |
+
 | 送料 | そうりょう	| postage fee	|
 | 送金 | そうきん		| remitance		|
 | 借金	| しゃっきん | loan		|
