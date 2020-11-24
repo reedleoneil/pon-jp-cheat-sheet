@@ -67,9 +67,8 @@ both
 parent, familiarity
 
 | 親しい | したしい | close, intimate |
-| 両親 | りょうしん | both parents |
-| 父親 | ちちおや | father |
 | 親 | おや | parent |
+| 父親 | ちちおや | father |
 | 親切な | しんせつな | kind |
 | 両親 | りょうしん | both parents |
 
