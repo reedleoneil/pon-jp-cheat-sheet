@@ -16,27 +16,23 @@ nav_order: 20
 seat
 
 | 席   | せき       | seat      |
-| ---- | ---------- | --------- |
 | 出席 | しゅっせき | to attend |
 
 # 絵
 picture
 
 | 絵  | え  | picture |
-| --- | --- | ------- |
 
 # 酒
 alcohol
 
 | お酒   | おさけ     | liquor          |
-| ------ | ---------- | --------------- |
 | 日本酒 | にほんしゅ | Japanese liquor |
 
 # 窓
 window
 
 | 窓     | まど         | window        |
-| ------ | ------------ | ------------- |
 | 窓口   | まどぐち     | ticket window |
 | 同窓会 | どうそうかい | class reunion |
 
@@ -44,39 +40,33 @@ window
 pond
 
 | 池   | いけ   | lake    |
-| ---- | ------ | ------- |
 | 電池 | でんち | battery |
 
 # 留
 stay, stop
 
 | 留学する | りゅうがくする | to study abroad  |
-| -------- | -------------- | ---------------- |
 | 留学生   | りゅうがくせい | exchange student |
 
 # 側
 side
 
 | 右側 | みぎがわ   | right side |
-| ---- | ---------- | ---------- |
 | 左側 | ひだりがわ | left side  |
 
 # 枚
 sheet, leaf
 
 | ～枚 | ～まい | counter for thin, flat object |
-| ---- | ------ | ----------------------------- |
 
 # 林
 forest, grove
 
 | 林   | はやし   | forest groove |
-| ---- | -------- | ------------- |
 | 森林 | しんりん | forest        |
 
 # 森
 forest, woods
 
 | 森   | もり     | forest, grove |
-| ---- | -------- | ------------- |
 | 森林 | しんりん | forest        |
