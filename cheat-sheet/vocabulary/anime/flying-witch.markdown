@@ -27,3 +27,6 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 |        | すっかり   | all                                  |
 | 仲良し | なかよし   | good friends                         |
 | 認め   | みとめ     | recognition                          |
+| 見習い | みならい   | apprentice                           |
+| 商売   | しょうばい | business                             |
+| 味見   | あじみ     | tasting                              |
