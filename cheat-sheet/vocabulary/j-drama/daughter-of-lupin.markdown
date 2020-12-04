@@ -22,3 +22,6 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 | 婚活     | こんかつ       | marriage hunting   |
 | 無口     | むくち         | untalkative        |
 | 発明家   | はつめいか     | inventor           |
+| 誤報     | ごほう         | false report       |
+| 見学     | けんがく       | field trip, tour   |
+| 自害     | じがい         | scuicide           |
