@@ -66,6 +66,7 @@ quality, substance
 # 問
 question
 
+| 問い | とい     | question |
 | 質問 | しつもん | question |
 | 問題 | もんだい | problem  |
 
