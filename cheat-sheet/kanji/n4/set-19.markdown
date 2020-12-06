@@ -28,7 +28,7 @@ bird
 grass
 
 | 草   | くさ     | grass  |
-| 草花 | くさはな | flower |
+| 草花 | くさばな | flower |
 
 # 星
 star
