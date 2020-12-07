@@ -25,3 +25,5 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 | 誤報     | ごほう         | false report       |
 | 見学     | けんがく       | field trip, tour   |
 | 自害     | じがい         | scuicide           |
+| 復讐     | ふくしゅう     | revenge            |
+| 出会い   | であい         | encounter          |
