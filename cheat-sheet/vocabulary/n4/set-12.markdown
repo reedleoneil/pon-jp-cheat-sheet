@@ -31,7 +31,6 @@ nav_order: 12
 | 溜まる   | たまる           | to collect, gather          |
 | 込む     | こむ             | to be crowded               |
 | 経つ     | たつ             | to pass time                |
-| 経つ     | たつ             | to pass time                |
 | 服装     | ふくそう         | attire, dress               |
 | 状態     | じょうたい       | state, condition            |
 | 司会     | しかい           | charimanship                |
