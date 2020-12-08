@@ -49,7 +49,6 @@ nav_order: 11
 |            | ピクニック     | picnic                 |
 |            | キャンプ       | camp                   |
 | 似る       | にる           | look alike             |
-| 迎えに行く | むかえにいく   | to go and meet someone |
 |            | ビル           | building               |
 |            | けっこう       | well, okay             |
 | 利用する   | りようする     | to utilize             |
