@@ -25,7 +25,7 @@ nav_order: 12
 | 輸入     | ゆにゅう         | import                      |
 | 料金     | りょうきん       | fee, charge                 |
 | 申込用紙 | もうしこみようし | application form            |
-| 申し込む | もうしこみようし | to apply                    |
+| 申し込む | もうしこむ       | to apply                    |
 | 貯金する | ちょきんする     | to save (bank)              |
 | 商品     | しょうひん       | goods, commodity            |
 | 溜まる   | たまる           | to collect, gather          |
