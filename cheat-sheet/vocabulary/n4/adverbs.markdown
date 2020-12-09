@@ -8,7 +8,7 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 <ruby>副詞<rt>ふくし</rt></ruby>
 
 | 漢字 | 仮名     | 意味                    |
-| ---- | -------- | ----------------------- |
+|:---- |:-------- |:----------------------- |
 |      | かならず | by all means            |
 |      | さいこう | highest, the most       |
 |      | そろそろ | slowly, soon            |
