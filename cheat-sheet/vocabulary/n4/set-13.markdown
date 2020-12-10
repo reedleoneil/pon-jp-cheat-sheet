@@ -46,7 +46,7 @@ nav_order: 13
 |            | コーナー         | corner, section         |
 | 少ない     | すくない         | few, litte              |
 |            | キロ             | kilometer, kilogram     |
-| 道具       | どうく           | tool                    |
+| 道具       | どうぐ           | tool                    |
 | 満員       | まんいん         | full, no vacancy        |
 | 自動販売機 | じどうはんばいき | vending machine         |
 | 飛ぶ       | とぶ             | to fly                  |
