@@ -34,7 +34,7 @@ path, route, road, distance
 # 駐
 stop-over, resident
 
-| 注射所 | ちゅうしゃじょう | parking lot |
+| 駐車場 | ちゅうしゃじょう | parking lot |
 
 # 停
 halt, stopping
