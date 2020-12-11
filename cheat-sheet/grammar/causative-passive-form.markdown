@@ -11,20 +11,20 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 {:toc}
 
 ## Causative Passive Form
-causative-passive; to be made to do something
+to be made to do something
 
-### Godan Verbs
+**Godan Verbs**  
 /u/ → /a/ + せられる
 
-### Ichidan Verbs
+**Ichidan Verbs**  
 る → させられる
 
-### Irregular Verbs
--	する → させられる
--	来る → こさせられる
+**Irregular Verbs**  
+する → させられる  
+来る → こさせられる
 
-| 五段動詞            | 一段動詞                | 変格動詞            |
-|:--------------------|:------------------------|:--------------------|
+| Godan Verbs         | Ichidan Verbs           | Irregular Verbs     |
+|:------------------- |:----------------------- |:------------------- |
 | 話す → 話させられる | 食べる → 食べさせられる | する → させられる   |
 | 聞く → 聞かせられる |                         | 来る → こさせられる |
 | 泳ぐ → 泳がせられる |                         |                     |
@@ -36,16 +36,18 @@ causative-passive; to be made to do something
 | 直る → 直らせられる |                         |                     |
 
 ## Shortened Causative Passive Form
-- This form cannot be used in cases where the shorter causative form ends in「さす」, in other words,you can't have a「さされる」ending.
+to be made to do something
 
-### Godan Verbs
+- This form cannot be used in cases where the shorter causative form ends in「さす」, in other words, you can't have a「さされる」ending.
+
+**Godan Verbs**  
 /u/ → /a/ + される
 
-### Irregular Verbs
--	する → される
+**Irregular Verbs**  
+する → される
 
-| 五段動詞              | 一段動詞                | 変格動詞              |
-|:----------------------|:------------------------|:----------------------|
+| Godan Verbs           | Ichidan Verbs           | Irregular Verbs       |
+|:--------------------- |:----------------------- |:--------------------- |
 | 話す → cannot be used | 食べる → cannot be used | する → される         |
 | 聞く → 聞かされる     |                         | 来る → cannot be used |
 | 泳ぐ → 泳がされる     |                         |                       |
