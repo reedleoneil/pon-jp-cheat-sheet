@@ -27,3 +27,5 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 | 自害     | じがい         | scuicide           |
 | 復讐     | ふくしゅう     | revenge            |
 | 出会い   | であい         | encounter          |
+| 隣人     | りんじん       | neighbor           |
+| お仕舞い | おしまい       | ending             |
