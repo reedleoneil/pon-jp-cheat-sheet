@@ -13,3 +13,4 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 | 盗む | ぬすむ     | to steal     |
 | 可也 | かなり     | considerably |
 | 宝飾 | ほうしょく | jewelry      |
+| 事件 | じけん     | incident     |
