@@ -55,7 +55,6 @@ nav_order: 15
 | 習う       | ならう           | to learn                |
 |            | なるほど         | i see                   |
 | 半額       | はんがく         | half price              |
-|            | ロックする       | to lock                 |
 |            | やってみる       | try doing               |
 |            | はがき           | postcard                |
 |            | はこ             | box                     |
