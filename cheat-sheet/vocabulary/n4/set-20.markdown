@@ -40,7 +40,6 @@ nav_order: 20
 |            | インターネット     | internet                                |
 |            | スマホ             | smartphone                              |
 |            | ホーマページ       | homepage                                |
-| 万年筆     | まんえんひつ       | fountain pen                            |
 | 人形       | にんぎょう         | doll                                    |
 | 後輩       | こうはい           | junior                                  |
 | 送る       | おくる             | to send                                 |
@@ -48,8 +47,6 @@ nav_order: 20
 | お巡りさん | おまわりさん       | friendly term for policeman             |
 | 連れていく | つれていく         | to take someone (of lower status) along |
 | 餌         | えさ               | (animal) food, bait                     |
-| 嫌がる     | いやがる           | to hate, dislike                        |
 | 子犬       | こいぬ             | puppy                                   |
 | 数日前     | すうじつまえ       | few days ago                            |
-| 注射       | ちゅうしゃ         | injection                               |
 | 動物病院   | どうぶつびょういん | animal hospital                         |
