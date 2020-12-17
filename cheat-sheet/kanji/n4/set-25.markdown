@@ -21,9 +21,9 @@ beauty, beautiful
 # 形
 shape, form, style
 
-| 形     | かたち     | form, shape, figure      |
-| 毛会式 | けいしき   | formality, style, system |
-| 人形   | にんぎょう | doll, puppet, figure     |
+| 形   | かたち     | form, shape, figure      |
+| 形式 | けいしき   | formality, style, system |
+| 人形 | にんぎょう | doll, puppet, figure     |
 
 # 式
 style, ceremony, rite
