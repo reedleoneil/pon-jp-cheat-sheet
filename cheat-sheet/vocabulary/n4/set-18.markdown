@@ -46,7 +46,7 @@ nav_order: 18
 | 恋       | こい         | love                 |
 | 温い     | ぬるい       | lukewarm             |
 | 笑う     | わらう       | to laugh             |
-| 夜中     | なく         | midnight             |
+| 夜中     | よなか       | midnight             |
 | 急ぐ     | いそぐ       | to rush              |
 | 確か     | たしか       | certain, definite    |
 |          | なかなか     | considerably         |
