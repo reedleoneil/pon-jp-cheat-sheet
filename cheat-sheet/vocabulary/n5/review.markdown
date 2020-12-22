@@ -3,6 +3,7 @@ layout: default
 title: Review
 parent: N5 Vocabulary List
 grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
+nav_exclude: true
 ---
 
 <ruby>語彙<rt>ごい</rt></ruby>リスト
