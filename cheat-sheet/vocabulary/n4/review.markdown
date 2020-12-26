@@ -37,6 +37,40 @@ nav_exclude: true
 | 喧嘩する | けんかする       | to quarrel                     |
 | 解決する | かいけつする     | to solve                       |
 
+| 漢字     | 仮名           | 意味                    |
+|:-------- |:-------------- |:----------------------- |
+| 頬っぺた | ほっぺた       | cheek                   |
+| 背中     | せなか         | back                    |
+| 都合     | つごう         | circumstances           |
+| 天気予報 | てんきよほう   | weather forecast        |
+| 梅雨     | つゆ           | rainy season            |
+| 観光墓所 | かんこう       | sightseeing             |
+|          | たった         | merely                  |
+| 習慣     | しゅうかん     | habit                   |
+| 細かい   | こまかい       | fine                    |
+| 招待     | しょうたい     | invitaion               |
+| 帰国する | 帰国する       | retunr to one's country |
+| 見物する | けんぶつする   | sightseeing             |
+| 着替える | きがえる       | to change one's clothes |
+| 喜ぶ     | よろこぶ       | to be delighted         |
+| 坂       | さか           | slope                   |
+| 片側     | かたがわ       | one side                |
+| 車線     | しゃせん       | traffic lane            |
+| 気になる | きになる       | to notice               |
+| 点滅     | てんめつ       | switching on and off    |
+| 所が     | とこらが       | however                 |
+| 粉       | こな           | flour                   |
+| 興味料   | きょうみりょう | seasoning               |
+| 胡椒     | こしょう       | pepper                  |
+| 新鮮     | しんせん       | fresh                   |
+| 沸く     | わく           | to boil                 |
+| 沸かす   | わかす         | to boil                 |
+| 焼く     | やく           | to grill, to bake       |
+| 焼ける   | やける         | to burn                 |
+| 煮る     | にる           | to boil, cook           |
+| 揚げる   | あげる         | to fry                  |
+| 砂       | すな           | sand                    |
+
 | 漢字       | 仮名             | 意味                        |
 |:---------- |:---------------- |:--------------------------- |
 | 規則       | きそく           | regulations                 |
