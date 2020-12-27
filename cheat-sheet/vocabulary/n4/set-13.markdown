@@ -56,7 +56,6 @@ nav_order: 13
 | 怒る       | おこる           | be angry                |
 | 気分が悪い | きぶんがわるい   | not feeling well        |
 |            | すべりやすい     | easy to slide           |
-| 給料       | きゅうりょう     | salary                  |
 | 実は       | じつは           | in reality              |
 |            | あなた           | you                     |
 |            | ずっと           | all throughout          |
