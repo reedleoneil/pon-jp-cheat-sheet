@@ -80,6 +80,7 @@ nav_exclude: true
 | 輸入     | ゆにゅう       | import                  |
 | 貯金     | ちょきん       | savings                 |
 | 商品     | しょうひん     | goods                   |
+| 溜まる   | たまる         | to collect              |
 | 服装     | ふくそう       | attire                  |
 | 状態     | じょうたい     | condition               |
 | 司会     | しかい         | chairmanship            |
@@ -93,6 +94,21 @@ nav_exclude: true
 | 非常に   | ひじょうに     | extremely               |
 | 道具     | どうぐ         | tool                    |
 | 満員     | まんいん       | no vacancy              |
+| 代表     | だいひょう     | representative          |
+| 鳴る     | なる           | to ring                 |
+| 終える   | おえる         | to finish               |
+| 折れる   | おれる         | to be folded            |
+| 下す     | おろす         | to take down            |
+| 投げる   | なげる         | to throw                |
+| 配る     | くばる         | to distribute           |
+| 盗む     | ぬすむ         | to steal                |
+| 倉庫     | そうこ         | warehouse               |
+|          | すると         | thereupon               |
+| 家事     | かじ           | household chores        |
+| 迷惑     | めいわく       | bother                  |
+| 折る     | おる           | to fold                 |
+| 学生証   | がくせいしょう | student ID              |
+
 
 | 漢字       | 仮名             | 意味                        |
 |:---------- |:---------------- |:--------------------------- |
