@@ -52,7 +52,6 @@ nav_order: 13
 | 飛ぶ       | とぶ             | to fly                  |
 | 過ぎる     | すぎる           | to pass, elapse         |
 | 気を付ける | きをつける       | to take care            |
-| 触る       | さわる           | to touch                |
 | 怒る       | おこる           | be angry                |
 | 気分が悪い | きぶんがわるい   | not feeling well        |
 |            | すべりやすい     | easy to slide           |
