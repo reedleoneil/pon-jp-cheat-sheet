@@ -88,6 +88,11 @@ nav_exclude: true
 | 工事     | こうじ         | construction            |
 | 配達     | はいたつ       | delivery                |
 | 発明     | はつめい       | invention               |
+| 見事     | みごと         | splendid                |
+| 調子     | ちょうし       | tune                    |
+| 非常に   | ひじょうに     | extremely               |
+| 道具     | どうぐ         | tool                    |
+| 満員     | まんいん       | no vacancy              |
 
 | 漢字       | 仮名             | 意味                        |
 |:---------- |:---------------- |:--------------------------- |
