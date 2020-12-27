@@ -44,12 +44,12 @@ nav_exclude: true
 | 都合     | つごう         | circumstances           |
 | 天気予報 | てんきよほう   | weather forecast        |
 | 梅雨     | つゆ           | rainy season            |
-| 観光墓所 | かんこう       | sightseeing             |
+| 観光     | かんこう       | sightseeing             |
 |          | たった         | merely                  |
 | 習慣     | しゅうかん     | habit                   |
 | 細かい   | こまかい       | fine                    |
-| 招待     | しょうたい     | invitaion               |
-| 帰国する | 帰国する       | retunr to one's country |
+| 招待     | しょうたい     | invitation              |
+| 帰国する | 帰国する       | return to one's country |
 | 見物する | けんぶつする   | sightseeing             |
 | 着替える | きがえる       | to change one's clothes |
 | 喜ぶ     | よろこぶ       | to be delighted         |
@@ -70,6 +70,24 @@ nav_exclude: true
 | 煮る     | にる           | to boil, cook           |
 | 揚げる   | あげる         | to fry                  |
 | 砂       | すな           | sand                    |
+| 承知     | しょうち       | consent                 |
+| 寄る     | よる           | to approach             |
+| 中止     | ちゅうし       | suspension              |
+| 家庭     | かてい         | household               |
+| 利用     | りよう         | utilization             |
+| 用事     | ようじ         | errand                  |
+| 輸出     | ゆしゅつ       | export                  |
+| 輸入     | ゆにゅう       | import                  |
+| 貯金     | ちょきん       | savings                 |
+| 商品     | しょうひん     | goods                   |
+| 服装     | ふくそう       | attire                  |
+| 状態     | じょうたい     | condition               |
+| 司会     | しかい         | chairmanship            |
+| 残る     | のこる         | to be left              |
+| 持ち帰る | もちかえる     | to bring home           |
+| 工事     | こうじ         | construction            |
+| 配達     | はいたつ       | delivery                |
+| 発明     | はつめい       | invention               |
 
 | 漢字       | 仮名             | 意味                        |
 |:---------- |:---------------- |:--------------------------- |
