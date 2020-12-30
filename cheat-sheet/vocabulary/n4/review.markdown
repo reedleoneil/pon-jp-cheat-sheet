@@ -49,7 +49,7 @@ nav_exclude: true
 | 習慣     | しゅうかん     | habit                   |
 | 細かい   | こまかい       | fine                    |
 | 招待     | しょうたい     | invitation              |
-| 帰国する | 帰国する       | return to one's country |
+| 帰国する | きこくする     | return to one's country |
 | 見物する | けんぶつする   | sightseeing             |
 | 着替える | きがえる       | to change one's clothes |
 | 喜ぶ     | よろこぶ       | to be delighted         |
@@ -60,7 +60,7 @@ nav_exclude: true
 | 点滅     | てんめつ       | switching on and off    |
 | 所が     | とこらが       | however                 |
 | 粉       | こな           | flour                   |
-| 興味料   | きょうみりょう | seasoning               |
+| 調味料   | ちょうみりょう | seasoning               |
 | 胡椒     | こしょう       | pepper                  |
 | 新鮮     | しんせん       | fresh                   |
 | 沸く     | わく           | to boil                 |
