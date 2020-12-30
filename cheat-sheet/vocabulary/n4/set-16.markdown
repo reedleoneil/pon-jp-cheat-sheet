@@ -33,7 +33,7 @@ nav_order: 16
 | 褒める     | ほめる         | to praise                        |
 | 怒る       | おこる         | to be angry                      |
 | 踏む       | ふむ           | to step on                       |
-| 建てる     | たてる         | to be angry                      |
+| 建てる     | たてる         | to build                         |
 | 打つかる   | ぶつかる       | to collide                       |
 | 種類       | しゅるい       | type, variety                    |
 | 波         | なみ           | wave                             |
@@ -43,8 +43,7 @@ nav_order: 16
 | 真っ青     | まっさお       | deep blue                        |
 | 雲         | くむ           | cloud                            |
 | 呼ぶ       | よぶ           | to call                          |
-| 建てる     | たてる         | to build                         |
-| 行う       | おこなう       | to occur                         |
+| 起こる     | おこる         | to occur                         |
 | 小犬       | こいぬ         | puppy                            |
 | 日本の曲   | にほんのきょく | Japanese songs                   |
 | 怪しい人   | あやしいひと   | suspicious person                |
