@@ -109,6 +109,71 @@ nav_exclude: true
 | 折る     | おる           | to fold                 |
 | 学生証   | がくせいしょう | student ID              |
 
+| 漢字         | 仮名             | 意味                        |
+|:------------ |:---------------- |:--------------------------- |
+| 辞典         | じてん           | dictionary                  |
+| 適当         | てきとう         | suitable                    |
+| 格好         | かっこう         | shape                       |
+| 落とす       | おとす           | to drop                     |
+| 落ちる       | おちる           | to drop                     |
+| 被す         | かぶす           | to cover                    |
+| 切れる       | きれる           | to disconnect               |
+| 曲げる       | まげる           | to bend                     |
+|              | はっきり         | clearly                     |
+| 割れる       | われる           | to break                    |
+| 偉い         | えらい           | great                       |
+| 戸棚         | とだな           | cabinet                     |
+| 秘書         | ひしょ           | secretary                   |
+| 途中         | とちゅう         | on the way                  |
+| 幼稚園       | ようちえん       | kindergarten                |
+| 自然         | しぜん           | nature                      |
+| 竹           | たけ             | bamboo                      |
+| 育つ         | そだつ           | to be raised                |
+| 泥           | どろ             | mud                         |
+| 植える       | うえる           | to plant                    |
+| 有無         | うむ             | existence                   |
+| 褒める       | ほめる           | to praise                   |
+| 種類         | しゅるい         | variety                     |
+|              | しっかり         | tightly                     |
+| 熱心         | ねっしん         | enthusiastic                |
+| 真っ青       | まっさお         | deep blue                   |
+| 下宿する     | げしゅくする     | to lodge                    |
+| 留守         | るす             | being away from home        |
+| 故郷         | ふるさと         | hometown                    |
+| この頃       | このごろ         | recently                    |
+| 頃           | ころ             | time, moment                |
+| 前日         | ぜんじつ         | previous day                |
+| 数日前       | すうじつまえ     | few days before             |
+| 成るべく     | なるべく         | as much as possible         |
+| 暫く         | しばらく         | little while                |
+|              | ぼんやり         | absence of mind             |
+| 努力する     | どりょくする     | to effort                   |
+| 驚く         | おどろく         | to be surprised             |
+| 素敵         | すてき           | lovely                      |
+| 比べる       | くらべる         | to compare                  |
+| 調べる       | しらべる         | to investigate              |
+| 騒ぐ         | さわぐ           | to make noise               |
+|              | すっかり         | completely                  |
+| 消して       | けして           | never                       |
+|              | ちっとも         | not at all                  |
+| 深い         | ふかい           | deep                        |
+| 丸い         | まるい           | round                       |
+| 温い         | ぬるい           | lukewarm                    |
+| お祝い       | おいわい         | celebration, congratulation |
+| ご報告します | ごほうこくします | to report, to inform        |
+| お洒落       | おしゃれ         | stylish, fashionable        |
+| 実際に       | じっさいに       | practically                 |
+| 御神籤       | おみくじ         | fortune slip                |
+| 太鼓         | たいこ           | drum                        |
+| 茶道         | さどう           | tea ceremony                |
+|              | きちんと         | accurately                  |
+| ご苦労様     | ごくろうさま     | thank you for hard work     |
+| お構いなく   | おかまいなく     | don’t worry about me        |
+| 文句         | もんく           | complaint                   |
+| 為           | ため             | benefit                     |
+|              | おいでになる     | to be                       |
+| 左右         | さゆう           | left and right              |
+|              | それぞれ         | each, every                 |
 
 | 漢字       | 仮名             | 意味                        |
 |:---------- |:---------------- |:--------------------------- |
