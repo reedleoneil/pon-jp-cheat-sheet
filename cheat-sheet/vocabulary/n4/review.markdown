@@ -192,6 +192,20 @@ nav_exclude: true
 | 物価   | ぶっか     | cost of living |
 | 真ん中 | まんなか   | middle         |
 
+| 漢字       | 仮名         | 意味              |
+|:---------- |:------------ |:----------------- |
+| 起こす     | おこす       | to cause          |
+| 下げる     | さげる       | to lower          |
+| 釣る       | つる         | to fish           |
+| 流す       | ながす       | to drain          |
+| 引っ越す   | ひっこす     | to move house     |
+| 迎える     | むかえる     | to go out to meet |
+| 下がる     | さがる       | to lower          |
+| 少なくする | すくなくする | to decrease       |
+| 引き返す   | ひきかえす   | to turn back      |
+| 開く       | ひらく       | to open           |
+| 訪問する   | ほうもんする | to visit          |
+
 | 漢字       | 仮名             | 意味                        |
 |:---------- |:---------------- |:--------------------------- |
 | 規則       | きそく           | regulations                 |
