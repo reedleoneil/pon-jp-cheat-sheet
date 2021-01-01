@@ -34,3 +34,10 @@ nav_exclude: true
 | 外す   | はずす   | to take off                     |
 | 浴びる | あびる   | take a bath                     |
 | 並べる | ならべる | to line up (arrange)            |
+| 涼しい | すずしい | refreshing                      |
+| 怠い   | だるい   | dull                            |
+|        | りっぱ   | splendid                        |
+| 塩     | しお     | salt                            |
+| 背広   | せびろ   | suit                            |
+| 縦     | たて     | height                          |
+| 晴れる | はれる   | to clear up                     |
