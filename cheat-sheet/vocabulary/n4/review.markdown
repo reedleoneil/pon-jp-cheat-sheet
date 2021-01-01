@@ -98,7 +98,7 @@ nav_exclude: true
 | 鳴る     | なる           | to ring                 |
 | 終える   | おえる         | to finish               |
 | 折れる   | おれる         | to be folded            |
-| 下す     | おろす         | to take down            |
+| 下ろす   | おろす         | to take down            |
 | 投げる   | なげる         | to throw                |
 | 配る     | くばる         | to distribute           |
 | 盗む     | ぬすむ         | to steal                |
