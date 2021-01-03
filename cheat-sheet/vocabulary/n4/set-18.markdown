@@ -34,6 +34,7 @@ nav_order: 18
 | 喋る     | しゃべる     | to talk, chat        |
 |          | すっかり     | completely           |
 |          | ずっと       | all the way, time    |
+| 直接     | ちょくせつ   | direct               |
 | 決して   | けして       | never                |
 | 些とも   | ちっとも     | not at all           |
 | 深い     | ふかい       | deep                 |
