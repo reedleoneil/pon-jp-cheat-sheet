@@ -16,11 +16,12 @@ nav_order: 13
 attend, doing, official, serve
 
 | 仕方  | しかた    | ways              |
-| 仕事  | しごと    | work              |
-| 事   | こと     | fact              |
 
 # 事
 matter, thing, fact
+
+| 仕事  | しごと    | work              |
+| 事   | こと     | fact              |
 
 # 社
 company, firm, office, association, shrine
