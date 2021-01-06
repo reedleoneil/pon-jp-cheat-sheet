@@ -24,7 +24,7 @@ grand_parent: <ruby>語彙<rt>ごい</rt></ruby> Vocabulary
 | 各           | かく           | each, every, all               |
 | 僅か         | わずか         | little                         |
 | 頼り         | たより         | reliance                       |
-| たどり着く   | たどり着く     | to find one's way to           |
+| たどり着く   | たどりつく     | to find one's way to           |
 | 条件         | じょうけん     | term, condition                |
 | 本気         | ほんき         | seriousness                    |
 | 疑う         | うたがう       | to doubt                       |
