@@ -49,7 +49,7 @@ place
 | 住所	| じゅうしょ | address |
 | 近所	| きんじょ | neighborhood |
 
-#　公
+# 公
 public
 
 | 公園	| こうえん | park |
