@@ -34,14 +34,14 @@ nav_exclude: true
 | 作物   | さくぶつ         | literary work     |
 | 作物   | さくもつ         | crops             |
 | 荷物   | にもつ           | luggage           |
-| 授業料 | じゅぎょうりょう | tution fee        |
+| 授業料 | じゅぎょうりょう | tuition fee       |
 | 緑茶   | りょくちゃ       | green tea         |
 | 署     | しょ             | heat              |
 | 冷     | れい             | cold              |
 | 寒     | かん             | cold season       |
 | 短期   | たんき           | short term        |
 | 貸す   | かす             | lend              |
-| 返す   | かえす           | return            |
+| 返事   | へんじ           | reply             |
 | 送料   | そうりょう       | shipping fee      |
 | 送金   | そうきん         | remittance        |
 | 借金   | しゃっきん       | loan              |
