@@ -50,5 +50,5 @@ nav_exclude: true
 | 英文   | えいぶん         | English sentence  |
 | 文化   | ぶんか           | culture           |
 | 変化   | へんか           | change, variation |
-| 練る   | ねる             | polish            |
+| 練る   | ねる             | to polish         |
 | 究める | きわめる         | to master         |
