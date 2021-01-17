@@ -43,7 +43,7 @@ write
 # 自
 self
 
-| 自ら |　みずから | oneself |
+| 自ら | みずから | oneself |
 | 自分 |じぶん | oneself |
 | 自転車 |じてんしゃ | bicycle |
 | 自動 |じどう | automatic |
