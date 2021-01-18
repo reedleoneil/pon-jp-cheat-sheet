@@ -61,4 +61,18 @@ nav_exclude: true
 | 記入   | きにゅう         | entry, filing in of forms |
 | 社内   | しゃない         | within a company          |
 | 結論   | けつろん         | conclusion                |
-|        |                  |                           |
+| 同時   | どうじ           | simultaneous, same time   |
+| 商う   | あきなう         | to deal                   |
+| 商売   | しょうばい       | business                  |
+| 商店   | しょうてん       | store                     |
+| 安定   | あんてい         | stability                 |
+| 初心者 | しょしんしゃ     | beginner                  |
+| 市場   | いちば           | marketplace               |
+| 写真   | しゃしん         | picture                   |
+| 話題   | わだい           | topic, subject            |
+| 首相   | しゅしょう       | prime minister            |
+| 同窓会 | どうそうかい     | class reunion             |
+| 失敗   | しっぱい         | failure                   |
+| 券     | けん             | ticket                    |
+| 願書   | けんしょ         | application form          |
+| 忘年会 | ぼうねんかい     | year end party            |

@@ -22,6 +22,7 @@ beforehand
 # 定
 decide, determine, establish
 
+| 定か | さだか | definite, sure |
 | 予定 | よてい     | plan, schedule |
 | 定休 | ていきゅう | holiday        |
 | 安定 | あんてい   | stability      |

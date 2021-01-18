@@ -44,6 +44,12 @@ anti
 | 反対 | はんたい | opposition, resistance |
 | 違反 | いはん   | violation, offense     |
 
+# 対
+opposite
+
+| 反対 | はんたい | opposition, resistance |
+| 絶対 | ぜったい | absolute, unconditional |
+
 # 法
 method, law, rule
 
