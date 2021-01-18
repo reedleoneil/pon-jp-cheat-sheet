@@ -74,5 +74,5 @@ nav_exclude: true
 | 同窓会 | どうそうかい     | class reunion             |
 | 失敗   | しっぱい         | failure                   |
 | 券     | けん             | ticket                    |
-| 願書   | けんしょ         | application form          |
+| 願書   | がんしょ         | application form          |
 | 忘年会 | ぼうねんかい     | year end party            |
