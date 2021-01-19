@@ -11,91 +11,81 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 {:toc}
 
 ## て Form
-used to...
+te form
 
 **Godan Verbs**  
-す → した  
-く → いた  
-ぐ → いだ  
-む → んだ  
-ぶ → んだ  
-ぬ → んだ  
-る → った  
-う → った  
-つ → った
+す → して  
+く → いて  
+ぐ → いで  
+む → んで  
+ぶ → んで  
+ぬ → んで  
+る → って  
+う → って  
+つ → って
 
 **Ichidan Verbs**  
 る → て
 
 **Irregular Verbs**  
 する → して  
-来る → きて
-行った → 行った
+来る → きて  
+行く → 行って
 
-**い Adjectives (Verbal Adjectives)**  
-い → く + て
-ない　
+**い・Verbal Adjectives**  
+い → く + て  
+ない　→ なくて
 
-**な Adjectives (Noun Adjectives)**  
+**な・Noun Adjectives**  
 \+ で
 
 **Nouns**  
 \+ で
 
-| Godan Verbs     | Ichidan Verbs       | Irregular Verbs | い Adjectives         | な Adjectives | Nouns         |
-|:--------------- |:------------------- |:--------------- | --------------------- | ------------- | ------------- |
-| 話す → 話させる | 食べる → 食べさせる | する → させる   | 美味しい → 美味しくて | 静か → 静かで | 先生 → 先生で |
-| 聞く → 聞かせる |                     | 来る → こさせる |                       |               |               |
-| 泳ぐ → 泳がせる |                     | 行く → 行った   |                       |               |               |
-| 飲む → 読ませる |                     |                 |                       |               |               |
-| 遊ぶ → 遊ばせる |                     |                 |                       |               |               |
-| 死ぬ → 死なせる |                     |                 |                       |               |               |
-| 買う → 買わせる |                     |                 |                       |               |               |
-| 待つ → 待たせる |                     |                 |                       |               |               |
-| 直る → 直らせる |                     |                 |                       |               |               |
+| Godan Verbs   | Ichidan Verbs   | Irregular Verbs |
+|:------------- |:--------------- |:--------------- |
+| 話す → 話して | 食べる → 食べて | する → させて   |
+| 聞く → きいて |                 | 来る → 来て     |
+| 泳ぐ → 泳いで |                 | 行く → 行って   |
+| 飲む → 飲んで |                 |                 |
+| 遊ぶ → 遊んで |                 |                 |
+| 死ぬ → 死んで |                 |                 |
+| 買う → 買って |                 |                 |
+| 待つ → 待って |                 |                 |
+| 直る → 直って |                 |                 |
 
-## てくる
-to do… and come back; to become; to continue; to start~
+| い・Verbal Adjectives | な・Noun Adjectives | Nouns         |
+|:--------------------- |:------------------- |:------------- |
+| 美味しい → 美味しくて | 静か → 静かで       | 先生 → 先生で |
 
+**てくる** to do… and come back; to become; to continue; to start~  
 Verb (て Form) + くる
 
-## ていく
-to start; to continue; to go on
-
+**ていく** to start; to continue; to go on  
 Verb (て Form) +　いく
 
-## てみる
-try doing  
-
+**てみる** try doing  
 Verb (て Form) +　みる
 
-## ておく
-to do something in advance
-
+**ておく** to do something in advance  
 Verb (て Form) +　おく
 
-## てしまう
-to do something by accident, to finish completely
+**てしまう** to do something by accident, to finish completely  
+Verb (て Form) + しまう  
+ て → ちゃう・ちまう  
+ で → じゃう・じまう  
 
-Verb (て Form) + しまう
-  - て → ちゃう・ちまう
-  - で → じゃう・じまう
-
-## ても・でも
-even if
-
+**ても・でも** even if  
 Verb (て Form) + も  
+い・Verbal Adjective (て Form) + も  
 Noun + で + も  
-な Adjective + で + も  
-い Adjective (て Form) + も  
-Interrogative Noun + で + も
-  - だれ + でも (anyone)
-  - 何 + でも (anything)
-  - いつ + でも (anytime)
-  - どこ + でも (anywhere)
-  - どれ + でも (anything)
+な・Noun Adjective + で + も  
+Interrogative Noun + で + も  
+  だれ + でも (anyone)  
+  何 + でも (anything)  
+  いつ + でも (anytime)  
+  どこ + でも (anywhere)  
+  どれ + でも (anything)  
 
-## てもいい・ても構わない・ても大丈夫
-may do; okay to do
-
+**てもいい・ても構わない・ても大丈夫** may do; okay to do  
 Verb (て　Form) + も + いい・構わない・大丈夫

@@ -17,7 +17,7 @@ stem form
 /u/ → /i/
 
 **Ichidan Verbs**  
-drop る
+\- る
 
 **Irregular Verbs**  
 する → し  
@@ -52,5 +52,5 @@ Verb (Stem Form) + だす
 
 **すぎる** too much  
 Verb (Stem Form) + すぎる  
-な-adjective + すぎる  
-い-adjective - い + すぎる  
+い・Verbal Adjective - い + すぎる  
+な・Noun Adjective + すぎる  

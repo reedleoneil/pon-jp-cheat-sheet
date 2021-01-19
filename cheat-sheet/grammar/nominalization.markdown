@@ -42,15 +42,15 @@ It has been decided that..; it turns out that..
 Verb (Dictionary Form / ない Form) + こと　に　なる
 
 ## Adjective Nominalizer  
-forms adjectives to a noun
+form adjectives to a noun
 
 **さ**
 adjective nominalizer  
-な-adjective + さ  
-い-adjective - い + さ  
+い・Verbal Adjectives - い + さ  
+な・Noun Adjectives + さ
 
 ## Phrase Nominalizer  
-forms phrases to a noun
+form phrases to a noun
 
 **ということ**
 phrase nominalizer  
