@@ -41,14 +41,14 @@ negative verb conjugation
 traditional version of ない
 
 - **Godan Verbs**  
-/u/ → /a/ + ぬ
+  /u/ → /a/ + ぬ
 
 - **Ichidan Verbs**  
-\- る + ぬ
+  \- る + ぬ
 
 - **Irregular Verbs**  
-する → せぬ  
-来る → こぬ
+  する → せぬ  
+  来る → こぬ
 
 | Godan Verbs    | Ichidan Verbs   | Irregular Verbs |
 |:-------------- |:--------------- |:--------------- |
@@ -61,3 +61,13 @@ traditional version of ない
 | 買う → 言わぬ  |                 |                 |
 | 待つ →　待たぬ |                 |                 |
 | 直る → 直らぬ  |                 |                 |
+
+---
+
+**ずに** without doing~  
+Verb (/u/ → /a/) + ず(に)
+- する → せず(に)
+- くる → こず(に)
+
+**ないで** without doing~  
+Verb (ない Form) + で
