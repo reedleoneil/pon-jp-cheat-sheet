@@ -10,8 +10,10 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 1. TOC
 {:toc}
 
-## ない Form
+## Verb Negative Form
 negative verb conjugation
+
+**ない**  
 
 - **Godan Verbs**  
   /u/ → /a/ + ない  
@@ -35,10 +37,7 @@ negative verb conjugation
 | 待つ →　待たない |                   |                 |
 | 直る → 直らない  |                   |                 |
 
----
-
-## ぬ
-traditional version of ない
+**ぬ** traditional version of ない  
 
 - **Godan Verbs**  
   /u/ → /a/ + ぬ
@@ -62,8 +61,6 @@ traditional version of ない
 | 待つ →　待たぬ |                 |                 |
 | 直る → 直らぬ  |                 |                 |
 
----
-
 **ずに** without doing~  
 Verb (/u/ → /a/) + ず(に)
 - する → せず(に)
@@ -71,3 +68,26 @@ Verb (/u/ → /a/) + ず(に)
 
 **ないで** without doing~  
 Verb (ない Form) + で
+
+---
+
+## Noun Negative Form
+negative noun conjugation
+
+**ない**
+
+- **Nouns**  
+  \+ じゃない
+
+## Adjective Negative Form
+negative adjective conjugation
+
+**ない**
+
+verbial adjectives conjucate like verbs and noun adjectives conjucate like nouns  
+
+- **い・Verbal Adjectives**  
+  い → く + ない
+
+- **な・Noun Adjectives**  
+  \+ じゃない
