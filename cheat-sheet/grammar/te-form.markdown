@@ -61,6 +61,9 @@ Verb (て Form) + しまう
 - て → ちゃう・ちまう  
 - で → じゃう・じまう  
 
+**てから** after doing~  
+Verb (て form) + から
+
 **てもいい** may do; okay to do  
 Verb (て　Form) + も + いい  
 
