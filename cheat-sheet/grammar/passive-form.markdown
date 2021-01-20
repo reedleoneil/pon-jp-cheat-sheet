@@ -13,15 +13,15 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 ## Passive Form
 passive form; passive voice
 
-**Godan Verbs**  
-/u/ → /a/ + れる
+- **Godan Verbs**  
+  /u/ → /a/ + れる
 
-**Ichidan Verbs**  
-る → られる
+- **Ichidan Verbs**  
+  る → られる
 
-**Irregular Verbs**  
-する → される  
-来る → こられる
+- **Irregular Verbs**  
+  する → される  
+  来る → こられる
 
 | Godan Verbs     | Ichidan Verbs       | Irregular Verbs |
 |:--------------- |:------------------- |:--------------- |
