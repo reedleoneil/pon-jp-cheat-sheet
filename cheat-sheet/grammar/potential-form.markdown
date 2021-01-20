@@ -12,17 +12,18 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 
 ## Potential Form
 ability to do something
-- When using potential form, the particle を (o/wo) is often changed to が (ga) instead.
 
-**Godan Verbs**  
-/u/ → /e/ + る
+When using potential form, the particle を (o/wo) is often changed to が (ga) instead.
 
-**Ichidan Verbs**  
-る → られる
+- **Godan Verbs**  
+  /u/ → /e/ + る
 
-**Irregular Verbs**  
-する → できる  
-くる → こられる
+- **Ichidan Verbs**  
+  る → られる
+
+- **Irregular Verbs**  
+  する → できる  
+  くる → こられる
 
 | Godan Verbs   | Ichidan Verbs       | Irregular Verbs |
 |:------------- |:------------------- |:--------------- |
@@ -36,11 +37,13 @@ ability to do something
 | 待つ → 待てる |                     |                 |
 | 取る → 取れる |                     |                 |
 
+---
+
 ## Shortened Potential Form
 It is also possible to just add「れる」instead of the full「られる」for Ichidan Verbs.
 
-**Ichidan Verbs**  
-る → れる
+- **Ichidan Verbs**  
+  る → れる
 
 | Potential Form      | Shortened Potential Form |
 |:------------------- |:------------------------ |
