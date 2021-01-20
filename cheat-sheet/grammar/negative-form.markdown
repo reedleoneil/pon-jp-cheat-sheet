@@ -11,13 +11,17 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 {:toc}
 
 ## ない Form
-**Godan Verbs**  
-/u/ → /a/ + ない  
-**Ichidan Verbs**  
-\- る + ない  
-**Irregular Verbs**  
-する → しない  
-来る → こない
+negative verb conjugation
+
+- **Godan Verbs**  
+  /u/ → /a/ + ない  
+
+- **Ichidan Verbs**  
+  \- る + ない  
+
+- **Irregular Verbs**  
+  する → しない  
+  来る → こない
 
 | Godan Verbs      | Ichidan Verbs     | Irregular Verbs |
 |:---------------- |:----------------- |:--------------- |
@@ -31,12 +35,18 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 | 待つ →　待たない |                   |                 |
 | 直る → 直らない  |                   |                 |
 
+---
+
 ## ぬ
-**Godan Verbs**  
-/u/ → /a/ + ぬ  
-**Ichidan Verbs**  
-\- る + ぬ  
-**Irregular Verbs**  
+traditional version of ない
+
+- **Godan Verbs**  
+/u/ → /a/ + ぬ
+
+- **Ichidan Verbs**  
+\- る + ぬ
+
+- **Irregular Verbs**  
 する → せぬ  
 来る → こぬ
 

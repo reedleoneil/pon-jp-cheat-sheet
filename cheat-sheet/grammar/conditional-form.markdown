@@ -10,40 +10,91 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 1. TOC
 {:toc}
 
-## と
-if~ then~ (natural consequence)
+## Natural Consequence
+inevitable conditions / discovery  
 
-- Used for inevitable conditions / discovery.
+**と** Natural Consequence  
+[Condition] + (だ)と + [Result]
+
+- **Verbs**  
+  Verb + と
+
+- **Nouns**  
+  Noun + だと
+
+- **い・Verbal Adjectives**  
+  Adjective + と
+
+- **な・Noun Adjectives**  
+  Adjective + だと
+
+
+<!-- - Used for inevitable conditions / discovery.
 - If verb / adjective / noun (present) then (present/past)
+- for non-conjugated nouns and な-adjectives you must explicitly express using だ -->
 
-### [Condition] + (だ)と + [Result]
-- for non-conjugated nouns and な-adjectives you must explicitly express using だ
+---
 
-## なら(ば)
-if~ then~ (contextual conditional)
+##  Contextual Conditional
+the condition is assumed
 
-### [Assumed Context] + なら(ば) + [Result]
-- Adding ば will make it more formal.
+**なら(ば)** Contextual Conditional  
+[Assumed Context] + なら(ば) + [Result]
 
-## ば
-if~ then~ (general conditional)
+- **Verbs**  
+  Verb + なら(ば)
 
-- More emphasis on the condition
+- **Nouns**  
+  Noun + なら(ば)
 
-### Verbs
-/u/ → /e/ + ば
+- **い・Verbal Adjective**  
+  Adjective + なら(ば)
 
-### い-adjectives and ない Form
-い → ければ
+- **な・Noun Adjective**  
+  Adjective + なら(ば)
 
-### Nouns and な-adjectives
-add であれば
+<!-- - Adding ば will make it more formal. -->
 
-## たら(ば)
-if~ then~ (past conditional)
+---
 
-- More emphasis on the result
-- If verb / adjective / noun (present) then (present/past)
+## General Conditional
+more emphasis on the condition
 
-### [Noun / Adjective / Verb] た Form + ら(ば)
-- Adding ば will make it more formal.
+**ば** General Conditional  
+ば Form
+
+- **Verbs**  
+  /u/ → /e/ + ば  
+
+- **Nouns**  
+  Noun + であれば
+
+- **い・Verbal Adjective**  
+  Adjective - い + ければ  
+
+- **な・Noun Adjective**  
+  Adjective + であれば
+
+---
+
+## Past Conditional
+more emphasis on the result
+
+**たら(ば)** Past Conditional  
+[Noun / Adjective / Verb] た Form + ら(ば)
+
+- **Verbs**  
+  Verb (た Form) + ら(ば)
+
+- **Nouns**  
+  Noun (た Form) + ら(ば)
+
+- **い・Verbal Adjective**  
+  Adjective (た Form) + ら(ば)
+
+- **な・Noun Adjective**  
+  Adjective (た Form) + ら(ば)
+<!--  If verb / adjective / noun (present) then (present/past) -->
+
+
+<!--  Adding ば will make it more formal. -->

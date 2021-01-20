@@ -13,13 +13,13 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 ## Causative Passive Form
 to be made to do something
 
-**Godan Verbs**  
+- **Godan Verbs**  
 /u/ → /a/ + せられる
 
-**Ichidan Verbs**  
+- **Ichidan Verbs**  
 る → させられる
 
-**Irregular Verbs**  
+- **Irregular Verbs**  
 する → させられる  
 来る → こさせられる
 
@@ -38,12 +38,12 @@ to be made to do something
 ## Shortened Causative Passive Form
 to be made to do something
 
-- This form cannot be used in cases where the shorter causative form ends in「さす」, in other words, you can't have a「さされる」ending.
+This form cannot be used in cases where the shorter causative form ends in「さす」, in other words, you can't have a「さされる」ending.
 
-**Godan Verbs**  
+- **Godan Verbs**  
 /u/ → /a/ + される
 
-**Irregular Verbs**  
+- **Irregular Verbs**  
 する → される
 
 | Godan Verbs           | Ichidan Verbs           | Irregular Verbs       |

@@ -41,17 +41,25 @@ Verb (Dictionary Form / ない Form) + こと　に　する
 It has been decided that..; it turns out that..  
 Verb (Dictionary Form / ない Form) + こと　に　なる
 
+---
+
 ## Adjective Nominalizer  
 form adjectives to a noun
 
 **さ**
-adjective nominalizer  
-い・Verbal Adjectives - い + さ  
-な・Noun Adjectives + さ
+adjective nominalizer
+- い・Verbal Adjectives - い + さ
+- な・Noun Adjectives + さ
+
+---
 
 ## Phrase Nominalizer  
 form phrases to a noun
 
 **ということ**
-phrase nominalizer  
-Phrase + (だ)ということ
+phrase nominalizer
+
+- Verb Phrase + ということ
+- Noun Phrase + だということ
+- い・Verbal Adjective Phrase + ということ
+- な・Noun Adjectives Phrase + だということ

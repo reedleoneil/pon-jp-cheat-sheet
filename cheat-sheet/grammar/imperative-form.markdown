@@ -33,33 +33,40 @@ Verb (Stem Form) + な
 | 待つ → 待ちなさい |                     |                 |
 | 直る → 直りなさい |                     |                 |
 
+---
+
 ## Imperative Form II
 do~
 
 <!-- - Used for instruction or command, often used by male superior. -->
 
-**Godan Verbs**  
-/u/ → /e/
+**れ・ろ**  
+Verb (Imperative Form)
 
-**Ichidan Verbs**  
-る → ろ
+- **Godan Verbs**  
+  /u/ → /e/
 
-**Irregular Verbs**  
-- する → しろ
-- くる → こい
-- くれる → くれ
+- **Ichidan Verbs**  
+  る → ろ
+
+- **Irregular Verbs**  
+  する → しろ  
+  くる → こい  
+  くれる → くれ
 
 | Godan Verbs   | Ichidan Verbs   | Irregular Verbs |
 |:------------- |:--------------- |:--------------- |
 | 話す → 話せ   | 食べる → 食べろ | する → しろ     |
 | 聞く → 聞け   |                 | 来る → こい     |
-| 泳ぐ → 泳げ   |                 |                 |
+| 泳ぐ → 泳げ   |                 | くれる → くれ   |
 | 飲む → 飲め   |                 |                 |
 | 遊ぶ → 遊べ   |                 |                 |
 | 死ぬ → 死ね   |                 |                 |
 | 買う → 買え   |                 |                 |
 | 待つ → 待って |                 |                 |
 | 直る → 置け   |                 |                 |
+
+---
 
 ## Prohibitive Form
 don't~

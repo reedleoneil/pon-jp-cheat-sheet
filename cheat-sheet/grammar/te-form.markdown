@@ -10,37 +10,27 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 1. TOC
 {:toc}
 
-## て Form
-te form
+## Verb て Form
+connect two verbs or sentences
 
-**Godan Verbs**  
-す → して  
-く → いて  
-ぐ → いで  
-む → んで  
-ぶ → んで  
-ぬ → んで  
-る → って  
-う → って  
-つ → って
+- **Godan Verbs**  
+  す → して  
+  く → いて  
+  ぐ → いで  
+  む → んで  
+  ぶ → んで  
+  ぬ → んで  
+  る → って  
+  う → って  
+  つ → って
 
-**Ichidan Verbs**  
-る → て
+- **Ichidan Verbs**  
+  る → て
 
-**Irregular Verbs**  
-する → して  
-来る → きて  
-行く → 行って
-
-**い・Verbal Adjectives**  
-い → く + て  
-ない　→ なくて
-
-**な・Noun Adjectives**  
-\+ で
-
-**Nouns**  
-\+ で
+- **Irregular Verbs**  
+  する → して  
+  来る → きて  
+  行く → 行って
 
 | Godan Verbs   | Ichidan Verbs   | Irregular Verbs |
 |:------------- |:--------------- |:--------------- |
@@ -53,10 +43,6 @@ te form
 | 買う → 買って |                 |                 |
 | 待つ → 待って |                 |                 |
 | 直る → 直って |                 |                 |
-
-| い・Verbal Adjectives | な・Noun Adjectives | Nouns         |
-|:--------------------- |:------------------- |:------------- |
-| 美味しい → 美味しくて | 静か → 静かで       | 先生 → 先生で |
 
 **てくる** to do… and come back; to become; to continue; to start~  
 Verb (て Form) + くる
@@ -72,20 +58,60 @@ Verb (て Form) +　おく
 
 **てしまう** to do something by accident, to finish completely  
 Verb (て Form) + しまう  
- て → ちゃう・ちまう  
- で → じゃう・じまう  
+- て → ちゃう・ちまう  
+- で → じゃう・じまう  
+
+**てもいい** may do; okay to do  
+Verb (て　Form) + も + いい  
+
+**ても構わない** may do; okay to do   
+Verb (て　Form) + も + かまわない
+
+**ても大丈夫** may do; okay to do  
+Verb (て　Form) + も + だいじょうぶ
+
+---
+
+## Noun て Form
+used to connect nouns
+
+- **Nouns**  
+  \+ で
+
+---
+
+## Adjective て Form
+used to connect adjectives  
+
+verbial adjectives conjucate like verbs and noun adjectives conjucate like nouns  
+
+- **い・Verbal Adjectives**  
+  い → く + て  
+  ない　→ なくて
+
+- **な・Noun Adjectives**  
+  \+ で
+
+---
 
 **ても・でも** even if  
-Verb (て Form) + も  
-い・Verbal Adjective (て Form) + も  
-Noun + で + も  
-な・Noun Adjective + で + も  
-Interrogative Noun + で + も  
-  だれ + でも (anyone)  
-  何 + でも (anything)  
-  いつ + でも (anytime)  
-  どこ + でも (anywhere)  
-  どれ + でも (anything)  
 
-**てもいい・ても構わない・ても大丈夫** may do; okay to do  
-Verb (て　Form) + も + いい・構わない・大丈夫
+- **Verbs**  
+  Verb (て Form) + も  
+
+- **Nouns**  
+  Noun + で + も  
+
+- **い・Verbal Adjective**  
+  Adjective (て Form) + も  
+
+- **な・Noun Adjective**  
+  Adjective + で + も  
+
+- **Interogatives**  
+  Interrogative Noun + で + も  
+  - だれ + でも (anyone)  
+  - なに + でも (anything)  
+  - いつ + でも (anytime)  
+  - どこ + でも (anywhere)  
+  - どれ + でも (anything)  

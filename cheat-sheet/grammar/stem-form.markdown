@@ -11,15 +11,15 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 {:toc}
 
 ## Stem Form
-stem form
+also known Pre-ます Form
 
-**Godan Verbs**  
+- **Godan Verbs**  
 /u/ → /i/
 
-**Ichidan Verbs**  
+- **Ichidan Verbs**  
 \- る
 
-**Irregular Verbs**  
+- **Irregular Verbs**  
 する → し  
 来る → き
 
