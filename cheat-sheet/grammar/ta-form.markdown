@@ -64,4 +64,4 @@ verbial adjectives conjucate like verbs and noun adjectives conjucate like nouns
   ない　→ なかった
 
 - **な・Noun Adjectives**  
-  \+ だ
+  \+ だった
