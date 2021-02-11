@@ -18,3 +18,12 @@ to show signs of; to appear; to feel, to think
 
 ### な-adjective
 add がる
+
+## がり
+someone tends to; has a tendency to; has a sensitivity to~
+
+### い-adjective
+い → がり
+
+### な-adjective
+add がり
