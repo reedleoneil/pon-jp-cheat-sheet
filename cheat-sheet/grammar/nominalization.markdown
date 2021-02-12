@@ -63,3 +63,13 @@ phrase nominalizer
 - Noun Phrase + だということ
 - い・Verbal Adjective Phrase + ということ
 - な・Noun Adjectives Phrase + だということ
+
+## General Nominalizer
+
+**の**
+general nominalizer
+
+- Verb + の
+- Noun + なの
+- い・Verbal Adjectives + の
+- な・Noun Adjectives + なの
