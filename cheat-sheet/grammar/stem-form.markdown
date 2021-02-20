@@ -54,3 +54,6 @@ Verb (Stem Form) + だす
 Verb (Stem Form) + すぎる  
 い・Verbal Adjective - い + すぎる  
 な・Noun Adjective + すぎる  
+
+**あげる** to finish doing~  
+Verb (Stem Form) +  あげる・あがる
