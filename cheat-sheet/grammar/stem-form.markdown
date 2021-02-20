@@ -57,3 +57,6 @@ Verb (Stem Form) + すぎる
 
 **あげる** to finish doing~  
 Verb (Stem Form) +  あげる・あがる
+
+**合う** do something together  
+Verb (Stem Form) + あう
