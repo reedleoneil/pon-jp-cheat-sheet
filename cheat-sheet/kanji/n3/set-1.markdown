@@ -82,6 +82,8 @@ double, twice, times
 # 放
 set free, release, liberate
 
+| 放す     | はなす       | to release                                         |
+| 放れる   | はなれる     | to be released                                     |
 | 放題     | ほうだい     | as much as you would like to, as uch as one  likes |
 | 食べ放題 | たべほうだい | eat all you can                                    |
 | 飲み放題 | のみほうだい | drink all you can, bottomless                      |
@@ -96,6 +98,7 @@ vice-, assistant, aide, duplicate
 # 的
 bull's eye, target, adjective ending
 
+| 的     | まと        | mark, target                  |
 | 否定的 | ひていてき   | negative, contradictory       |
 | 目的   | もくてき     | purpose, goal, objective      |
 | 国際的 | こくさいてき | international                 |
@@ -120,6 +123,7 @@ again, twice
 # 無
 nothingness, none, not
 
+| 無い | ない     | nonexistent; not being (there)     |
 | 無事 | ぶじ     | saftey, peace, quitness            |
 | 無料 | むりょう | free, no charge                    |
 | 無断 | むだん   | without permission, without notice |
@@ -129,6 +133,7 @@ nothingness, none, not
 # 各
 each, every, either
 
+| 各々 | おのおの | each                              |
 | 各地 | かくち   | every place, various places       |
 | 各自 | かくじ   | each person, everyone, respective |
 | 各国 | かっこく | each country, many country        |
@@ -137,6 +142,7 @@ each, every, either
 # 未
 un-, not yet, still, even now
 
+| 未だ | まだ   | still; as yet; only​               |
 | 未定 | みてい | not yet fixed, undecided, pending |
 | 未来 | みらい | the future (distant future)       |
 | 未満 | みまん | less than, insufficient           |
