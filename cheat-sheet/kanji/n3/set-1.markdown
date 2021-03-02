@@ -82,7 +82,6 @@ double, twice, times
 # 放
 set free, release, liberate
 
-| ～倍     | ～ばい       | double, twice, times                               |
 | 放題     | ほうだい     | as much as you would like to, as uch as one  likes |
 | 食べ放題 | たべほうだい | eat all you can                                    |
 | 飲み放題 | のみほうだい | drink all you can, bottomless                      |
@@ -138,7 +137,6 @@ each, every, either
 # 未
 un-, not yet, still, even now
 
-| 各地 | かくち | every place, various places       |
 | 未定 | みてい | not yet fixed, undecided, pending |
 | 未来 | みらい | the future (distant future)       |
 | 未満 | みまん | less than, insufficient           |
