@@ -59,7 +59,7 @@ period, time, date, term
 | 期限   | きげん     | term, time frame, time limit, deadline, cutoff |
 | 延期   | えんき     | postponement, adjournment                      |
 | 定期   | ていき     | fixed period/term, regular period              |
-| 定期寒 | ていきかん | period                                         |
+| 定期間 | ていきかん | fixed period/term, regular period              |
 | 定期券 | ていきけん | commuter pass, season pass                     |
 | 長期   | ちょうき   | long term                                      |
 | 短期   | たんき     | short term                                     |
