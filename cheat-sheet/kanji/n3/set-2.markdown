@@ -89,3 +89,75 @@ made in..., manufacture
 | 製品 | せいひん | manufactured goods, finished goods, product |
 | ～製 | ～せい   | made, make                                  |
 | 製作 | せいさく | manufacture, production                     |
+
+# 量
+quantity, measure, weight, amount, consider, estimate, surmise
+
+| 量   | りょう     | quantity, amount, volume, portion (of food)        |
+| 増量 | ぞうりょう | increased volume or quantity                       |
+| 数量 | すうりょう | quanity, volume                                    |
+| 減量 | げんりょう | loss in wieght (esp. body weight), lost in quanity |
+| 大量 | たいりょう | large quantity, mass (eg. mass production, etc)    |
+
+# 型
+mould, type, model
+
+| 型   | かた     | model, type (machine, goods, etc.) pattern, template, size |
+| 大型 | おおがた | large, large scale, jumbo                                  |
+| 新型 | しんがた | new type, new style, new model, new strain (virus)         |
+| 小型 | こがた   | small size, tiny, compact                                  |
+
+# 般
+carrier, carry, all, general, sort, kind
+
+| 一般   | いっぱん     | general, universal, ordinary, average, common |
+| 一般に | いっぱんに   | in general, generally                         |
+| 一般的 | いっぱんてき | popular, typical, general                     |
+
+# 賞
+prize, reward, price
+
+| 賞       | しょう         | prize, award          |
+| 賞金     | しょうきん     | prize, motetary award |
+| 賞品     | しょうひん     | price, trophy         |
+| 賞味期限 | しょうみきげん | best before date      |
+
+# 他
+other, another, the others
+
+| 他の   | ほかの | other, the rest, outside, beyond                |
+| その他 | そのた | etc, otherwise, besides, in addtition, the rest |
+
+# 初
+first time, beggining
+
+| 最初   | さいしょ   | beginning, outset, irst, onset                           |
+| 初め   | はじめ     | beginning, start outset, opening, fist (in line), origin |
+| 初めて | はじめて   | for the first time, only after... is it...               |
+| 初級   | しょきゅう | elemtary level                                           |
+
+# 角
+angle, corner, square, horn
+
+| 角     | かど         | corner              |
+| 角度   | かくど       | angle               |
+| 四角い | しかくい     | square, rectangular |
+| 三角形 | さんかくけい | triangle            |
+
+# 例
+example, custom, usage, precedent
+
+| 例     | れい     | instance, example, case, illusration, usage, said, aforementioned, custom, practice |
+| 例えば | たとえば | for example, for instance                                                           |
+
+# 共
+together, both, nither, all, and, alike, with
+
+| 共同 | きょうどう | doing together (as equals), sharing common (land, etc.), joint (statement, etc.), cooperation, collaboration |
+| 共に | ともに     | together, jointly                                                                                            |
+
+# 総
+general, whole, all, full, total
+
+| 総理 | そうり | prime minister, premier |
+| 総   | そう   | whole, all, general     |
