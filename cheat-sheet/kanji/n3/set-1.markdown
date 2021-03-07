@@ -51,7 +51,7 @@ No., residence
 # 課
 chapter, section, department
 
-| 課長 | かちょう | ~years old                                                  |
+| 課長 | かちょう | section manager; section chief                                                  |
 | ～課 | ～か     | lesson, section (in an org), coutner (lessons and chapters) |
 | 日課 | にっか   | daily lesson, daily work, daily routine                     |
 
