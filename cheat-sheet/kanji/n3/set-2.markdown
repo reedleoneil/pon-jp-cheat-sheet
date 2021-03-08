@@ -131,8 +131,8 @@ other, another, the others
 # 初
 first time, beggining
 
-| 最初   | さいしょ   | beginning, outset, irst, onset                           |
-| 初め   | はじめ     | beginning, start outset, opening, fist (in line), origin |
+| 最初   | さいしょ   | beginning, outset, first, onset                           |
+| 初め   | はじめ     | beginning, start outset, opening, first (in line), origin |
 | 初めて | はじめて   | for the first time, only after... is it...               |
 | 初級   | しょきゅう | elemtary level                                           |
 
