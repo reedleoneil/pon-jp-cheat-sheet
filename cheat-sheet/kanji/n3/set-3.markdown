@@ -30,7 +30,7 @@ sleep, die, sleepy
 | 眠る | ねむる   | to sleep, to die |
 | 睡眠 | すいみん | sleep            |
 
-# 優しい
+# 優
 tenderness, excel, actor, superiority
 
 | 優しい | やさしい     | tender, kind, gentle, graceful |
