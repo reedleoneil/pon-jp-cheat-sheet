@@ -27,8 +27,7 @@ dirty, pollute, disgrace, rape, defile
 # 濃
 concentrated, thick, dark, undiluted
 
-| 濃い | こい | deep (color), dark; strong (flavor, smell); thick (consistency); strong (possibility) |
-|      |      |                                                                                       |
+| 濃い | こい | deep (color), dark; strong (flavor, smell); thick (consistency); strong (possibility) |                                                                                    |
 
 # 浅
 shallow, wretched, superficial
