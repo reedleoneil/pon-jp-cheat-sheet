@@ -74,3 +74,62 @@ longing, greed, desire, craving
 | 欲しい | ほしい     | wanted, wished for, in need of, desired |
 | 食欲   | しょくよく | appetite (for food)                     |
 | 意欲   | いよく     | will, desire, ambition                  |
+
+# 屈
+yield, bend, flinch, submit
+
+| 屈む   | かがむ   | to stoop, to lean over, to bend forward |
+| 屈める | かがめる | to stoop, to bend                       |
+| 退屈   | たいくつ | tedium, boredom                         |
+
+# 普
+universal, widely, generally
+
+| 普通 | ふつう | generally, ordinary, usually; regular/local train |
+
+# 貿
+trade, exchange
+
+| 貿易 | ぼうえき | foreign/international trade |
+
+# 易
+easy, ready to, simple
+
+| 安易   | あんい   | easy, simple; easy-going    |
+| 易しい | やさしい | easy, plain, simple         |
+| 貿易   | ぼうえき | foreign/international trade |
+
+# 得
+gain, get, find, earn, acquire, profit, advantage
+
+| 得意 | とくい   | triumph, prosperity; pride, one's strong point, one's forte, one's specialty |
+| 納得 | なっとく | consent, assent, agreement; understanding, comprehension, grasp              |
+
+# 暇
+spare time, rest, leisure
+
+| 休暇 | きゅうか | holiday, day off, absence (from work) |
+| 暇   | ひま     | spare/free time; time off, day off    |
+
+# 順
+obey, order, turn
+
+| 順番 | じゅんばん   | order of things       |
+| 順調 | じゅんちょう | favorable, doing well |
+
+# 勢
+forces, energy, military strength
+
+| 勢い | いきおい | force                                |
+| 大勢 | おおぜい | many, crowd, great, number of people |
+
+# 偉
+admirable, greatness
+
+| 偉い | えらい | great, admirable, distinguished |
+| 偉大 | いだい | greatness                       |
+
+# 絶
+discontinue, beyond, cut off
+
+| 絶対 | ぜったい | absolutely, unconditionally |
