@@ -43,6 +43,7 @@ deep, intensify, strengthen
 
 # 丸
 round, full (month), perfection, pills, make round, roll up
+
 | 丸い | まるい | round, circular, spherical; harmonious, calm |
 
 # 固
