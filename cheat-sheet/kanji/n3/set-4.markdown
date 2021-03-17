@@ -102,8 +102,9 @@ easy, ready to, simple
 # 得
 gain, get, find, earn, acquire, profit, advantage
 
-| 得意 | とくい   | triumph, prosperity; pride, one's strong point, one's forte, one's specialty |
-| 納得 | なっとく | consent, assent, agreement; understanding, comprehension, grasp              |
+| 得る | える     | to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain |
+| 得意 | とくい   | triumph, prosperity; pride, one's strong point, one's forte, one's specialty      |
+| 納得 | なっとく | consent, assent, agreement; understanding, comprehension, grasp                   |
 
 # 暇
 spare time, rest, leisure
@@ -132,4 +133,5 @@ admirable, greatness
 # 絶
 discontinue, beyond, cut off
 
+| 絶える | たえる | to die out, to peter out, to become extinct |
 | 絶対 | ぜったい | absolutely, unconditionally |
