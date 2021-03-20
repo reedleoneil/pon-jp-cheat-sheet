@@ -109,7 +109,7 @@ un-, non-, mistake, negative, injustice
 | 非常口 | ひじょうぐち | emergency exit               |
 | 是非   | ぜひ         | certainly, without fail      |
 
-#常
+# 常
 usual, ordinary, normal, common
 
 | 非常口 | ひじょうぐち | emergency exit              |
