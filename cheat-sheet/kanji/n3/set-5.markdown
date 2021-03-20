@@ -1,10 +1,10 @@
-﻿-
+﻿---
 layout: default
 title: Set 5
 parent: N3 Kanji List
 grand_parent: <ruby>漢字<rt>かんじ</rt></ruby> Kanji
 nav_order: 5
--
+---
 
 ## <ruby>漢字<rt>かんじ</rt></ruby>リスト
 {: .no_toc .text-delta }
