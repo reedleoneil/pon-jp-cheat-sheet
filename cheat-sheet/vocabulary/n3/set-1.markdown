@@ -16,6 +16,7 @@ nav_order: 1
 |                    | コーヒーカップ             | coffee cup                                       |
 | 茶碗               | ちゃわん                   | rice bowl; tea cup; teacup                       |
 | 湯飲み茶わん       | ゆのみちゃわん             | tea cup                                          |
+| 冷蔵庫             | れいぞうこ                 | refrigerator                                     |
 |                    | ガスレンジ                 | gas stove                                        |
 |                    | ガスコンロ                 | gas stove                                        |
 |                    | ガラスのコップ             | glass                                            |
@@ -43,14 +44,17 @@ nav_order: 1
 | 冷凍して保存する   | れいとうしてほぞんする     | freeze to store                                  |
 | 冷凍する           | れいとうする               | freezing; cold storage; refrigeration            |
 | 保存する           | ほぞんする                 | preservation; conservation; storage; maintenance |
+| 残り物を暖める     | のこりものをあたためる     | warm up left over food in a microwave            |
+| 温める             | あたためる                 | to warm; to heat                                 |
 | ビールを冷やす     | ビールをひやす             | chill the beer                                   |
 | ビールが冷えている | ビールがひえている         | the beer is chilled                              |
 | 冷やす             | ひやす                     | to cool, to chill                                |
 | 冷える             | ひえる                     | to grow cold, to get chilly                      |
 |                    | エアコンのリモコン         | remote control for the air conditioner           |
 |                    | スイッチ                   | switch                                           |
-| 電顕を入れる       | でんけんをいれる           | plug in                                          |
-| 電顕を切る         | でんけんをきる             | unplug                                           |
+| 電源を入れる       | でんげんをいれる           | plug in                                          |
+| 電源を切る         | でんげんをきる             | unplug                                           |
+| 電源               | でんげん                   | source of electricity; electrical power          |
 | じゅうたんを敷く   | じゅうたんをしく           | carpet the floor                                 |
 | 敷く               | しく                       | to spread out, to lay out                        |
 | 部屋を暖める       | へやをあたためる           | heat up the room                                 |
