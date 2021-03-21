@@ -38,7 +38,7 @@ nav_order: 1
 | 水道の蛇口を捻る   | すいどうのじゃぐちをひねる | turn on a tap                                    |
 | 蛇口               | じゃぐち                   | faucet, tap                                      |
 | 捻る               | ひねる                     | to twist; to wrench; to turn                     |
-| 水が氷る           | みずがこおる               | water freezes                                    |
+| 水が凍る           | みずがこおる               | water freezes                                    |
 | 氷になる           | こおりになる               | turn into ice                                    |
 | 凍る               | こおる                     | to freeze; to be frozen over                     |
 | 冷凍して保存する   | れいとうしてほぞんする     | freeze to store                                  |
