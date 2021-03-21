@@ -58,7 +58,7 @@ nav_order: 1
 | じゅうたんを敷く   | じゅうたんをしく           | carpet the floor                                 |
 | 敷く               | しく                       | to spread out, to lay out                        |
 | 部屋を暖める       | へやをあたためる           | heat up the room                                 |
-| 温める             | あたためる                 | to warm, to heat                                 |
+| 暖める             | あたためる                 | to warm, to heat                                 |
 | 暖房をつける       | だんぼうをつける           | turn the heater on                               |
 | 冷房が効いている   | れいぼうがきいている       | be well air-conditioned                          |
 |                    | クーラ                     | cooler                                           |
