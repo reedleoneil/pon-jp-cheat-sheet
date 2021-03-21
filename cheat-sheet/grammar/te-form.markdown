@@ -73,6 +73,12 @@ Verb (て　Form) + も + かまわない
 **ても大丈夫** may do; okay to do  
 Verb (て　Form) + も + だいじょうぶ
 
+**からでないと** must first do; cannot do without first doing~
+Verb (て　Form) + からでないと
+
+**からでなければ** must first do; cannot do without first doing~
+Verb (て　Form) + からでなければ
+
 ---
 
 ## Noun て Form
