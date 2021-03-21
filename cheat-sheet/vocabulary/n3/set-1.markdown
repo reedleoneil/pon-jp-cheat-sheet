@@ -44,7 +44,7 @@ nav_order: 1
 | 冷凍して保存する   | れいとうしてほぞんする     | freeze to store                                  |
 | 冷凍する           | れいとうする               | freezing; cold storage; refrigeration            |
 | 保存する           | ほぞんする                 | preservation; conservation; storage; maintenance |
-| 残り物を暖める     | のこりものをあたためる     | warm up left over food in a microwave            |
+| 残り物を温める     | のこりものをあたためる     | warm up left over food in a microwave            |
 | 温める             | あたためる                 | to warm; to heat                                 |
 | ビールを冷やす     | ビールをひやす             | chill the beer                                   |
 | ビールが冷えている | ビールがひえている         | the beer is chilled                              |
