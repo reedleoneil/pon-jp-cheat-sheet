@@ -18,7 +18,6 @@ nav_order: 2
 | ～個                   | ～こ                           | pieces                              |
 | 調味料                 | ちょうみりょう                 | seasoning                           |
 | 水                     | みず                           | water                               |
-| 酒                     | さけ                           | cooking wine                        |
 | 醤油                   | しょうゆ                       | soy sauce                           |
 | 砂糖                   | さとう                         | sugar                               |
 | 酒                     | さけ                           | rice wine                           |
