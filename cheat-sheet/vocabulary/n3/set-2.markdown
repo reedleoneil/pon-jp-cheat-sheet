@@ -43,6 +43,7 @@ nav_order: 2
 | 栄養のバランスを考える | えいようのばらんすをかんがえる | think about the nutritional balance |
 | カロリーが高い食品     | カロリーがたかいしょくひん     | high calorie food                   |
 | はかりで量る           | はきりではかる                 | weigh on a scale                    |
+|  塩を少々入れる        | しおをしょうしょういれる         | salt slighty                       |
 | 皮をむく               | かわをむく                     | peel...                             |
 | 材料を刻む             | ざいりょうをきざむ             | chop the ingredient                 |
 | 大きめに切る           | おきめにきる                   | cut in big pieces                   |
