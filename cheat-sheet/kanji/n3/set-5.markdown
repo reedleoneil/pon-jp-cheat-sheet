@@ -113,7 +113,7 @@ un-, non-, mistake, negative, injustice
 usual, ordinary, normal, common
 
 | 非常口 | ひじょうぐち | emergency exit              |
-| 正常   | えいじょう   | normalcy, normal            |
+| 正常   | せいじょう   | normalcy, normal            |
 | 日常   | にちじょう   | ordinary, regular, everyday |
 | 常識   | じょうしき   | common sense                |
 
