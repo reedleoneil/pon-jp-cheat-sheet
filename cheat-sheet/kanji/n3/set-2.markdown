@@ -57,6 +57,7 @@ period, time, date, term
 
 | 期間   | きかん     | period, term, interval                         |
 | 期限   | きげん     | term, time frame, time limit, deadline, cutoff |
+| 期待   | きたい     | expectation, anticipation, hope                |
 | 延期   | えんき     | postponement, adjournment                      |
 | 定期   | ていき     | fixed period/term, regular period              |
 | 定期間 | ていきかん | fixed period/term, regular period              |
