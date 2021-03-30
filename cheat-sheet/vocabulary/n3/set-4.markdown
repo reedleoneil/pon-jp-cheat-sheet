@@ -32,7 +32,8 @@ nav_order: 4
 | 掃除機をかける             | そうじきをかける               | to vacuum                       |
 | ほうきで掃く               | ほうきではく                   | to sweep                        |
 | 水をくむ                   | みずをくむ                     | fill with water                 |
-| 雑巾を濡らす               | ぞうきんをぬらす               | wring the rag                   |
+| 雑巾を濡らす               | ぞうきんをぬらす               | wet the rag                     |
+| 雑巾を絞る                 | ぞうきんをしぼる               | wring the rag                   |
 | 床を吹く                   | ゆかをふく                     | wipe the floor                  |
 | 布巾で食器を拭く           | ふきんでしょっきをふく         | dry the dishes with a tea towel |
 | 台布巾でテーブルを拭く     | だいふきんでテーブルをふく     | wipe a table with a cloth       |
