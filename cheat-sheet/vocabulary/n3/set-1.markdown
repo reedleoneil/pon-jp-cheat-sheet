@@ -15,7 +15,7 @@ nav_order: 1
 |                    | ワイングラス               | wine glass                                       |
 |                    | コーヒーカップ             | coffee cup                                       |
 | 茶碗               | ちゃわん                   | rice bowl; tea cup; teacup                       |
-| 湯飲み茶わん       | ゆのみちゃわん             | tea cup                                          |
+| 湯飲み茶わ         | ゆのみ                     | tea cup                                          |
 | 冷蔵庫             | れいぞうこ                 | refrigerator                                     |
 |                    | ガスレンジ                 | gas stove                                        |
 |                    | ガスコンロ                 | gas stove                                        |
