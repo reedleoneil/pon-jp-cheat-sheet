@@ -34,7 +34,7 @@ nav_order: 3
 | 焦げる         | こげる           | to burn                           |
 | ひっくり返す   | ひっくりがえす   | turn over                         |
 | 裏返す         | うらがえす       | turn over                         |
-| 味をかける     | あじをかける     | to season                         |
+| 味をつける     | あじをつける     | to season                         |
 | 塩を加える     | しおをくわえる   | add salt                          |
 | 胡椒を振る     | こしょうをふる   | sprinkle pepper                   |
 | 味見をする     | あじみをする     | to taste                          |
