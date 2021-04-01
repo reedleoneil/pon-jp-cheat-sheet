@@ -24,3 +24,9 @@ nav_exclude: true
 | 調査する   | ちょうさする | to investigate                                                           |
 | 責任       | せきにん     | duty, responsibility                                                     |
 | 慌てる     | あわてる     | to become confused, to be flustered, to panic                            |
+| 期待       | きたい       | expectation                                                              |
+| 様々       | さまざま     | various                                                                  |
+| 帰宅       | きたく       | returning home                                                           |
+| 地方       | ちほう       | district                                                                 |
+| 害         | がい         | injury; harm; evil influence; damage                                     |
+| 整理       | せいり       | sorting, arrangement                                                     |
