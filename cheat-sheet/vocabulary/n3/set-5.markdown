@@ -32,5 +32,5 @@ nav_order: 5
 | フイシャツにアイロンをかける |                                  | iron a shirt                       |
 | しわを伸ばす                 | しわをのばす                     | take the creases out               |
 | しわが伸びる                 | しわがのびる                     | the creases have been smoothed out |
-| ウールのセーターが縮む       | ウールのセーターちぢむ           | the woolen sweater has shrunk      |
+| ウールのセーターが縮む       | ウールのセーターがちぢむ         | the woolen sweater has shrunk      |
 | ジーンズの色が落ちる         | ジーンズのいろがおちる           | a pair of jeans has faded          |
