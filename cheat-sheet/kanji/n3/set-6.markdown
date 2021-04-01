@@ -1,9 +1,9 @@
 ﻿---
 layout: default
-title: Set 5
+title: Set 6
 parent: N3 Kanji List
 grand_parent: <ruby>漢字<rt>かんじ</rt></ruby> Kanji
-nav_order: 5
+nav_order: 6
 ---
 
 ## <ruby>漢字<rt>かんじ</rt></ruby>リスト
