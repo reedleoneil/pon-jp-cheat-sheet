@@ -121,7 +121,7 @@ usual, ordinary, normal, common
 riot, war, disorder
 
 | 乱れる | みだれる | to be disordered, to be disarranged                   |
-| 乱す   | みだる   | to throw into disorder, to disarrange                 |
+| 乱す   | みだす   | to throw into disorder, to disarrange                 |
 | 乱暴   | らんぼう | rude, violent, rough, lawless, reckless, unreasonable |
 
 # 暴
