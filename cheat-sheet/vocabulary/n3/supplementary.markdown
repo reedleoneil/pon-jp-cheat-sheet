@@ -30,3 +30,6 @@ nav_exclude: true
 | 地方       | ちほう       | district                                                                 |
 | 害         | がい         | injury; harm; evil influence; damage                                     |
 | 整理       | せいり       | sorting, arrangement                                                     |
+| 本人       | ほんにん     | the person in question                                                   |
+| 確かめる   | たしかめる   | to ascertain; to check; to make sure                                     |
+| 感謝       | かんしゃ     | thanks; gratitude                                                        |
