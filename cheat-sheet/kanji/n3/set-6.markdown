@@ -62,8 +62,9 @@ skill, art, craft, ability, feat, performance
 # 術
 art, technique, skill, means, trick, resources
 
-| 美術 | びじゅつ   | art, fine arts                  |
-| 手術 | しゅじゅつ | (surgical) operation, procedure |
+| 美術 | びじゅつ   | art, fine arts                                 |
+| 技術 | ぎじゅつ   | technology, engineering, technique, art, craft |
+| 手術 | しゅじゅつ | (surgical) operation, procedure                |
 
 # 務
 task, duties
