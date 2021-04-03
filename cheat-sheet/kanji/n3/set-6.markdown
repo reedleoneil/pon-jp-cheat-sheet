@@ -105,19 +105,21 @@ etc., class (first), quality, equal, similar
 # 授
 impart, instruct, grant, confer
 
-| 教授 | きょうじゅ | professor, teaching, instruction          |
-| 授業 | じゅぎょう | lesson, class work, teaching, instruction |
+| 授ける  | さすける   | to grant                                  |
+| 教授    | きょうじゅ | professor, teaching, instruction          |
+| 授業    | じゅぎょう | lesson, class work, teaching, instruction |
 
 # 専
 specialty, mainly, exclusive, solely
 
 | 専門   | せんもん   | specialty, subject of study, area of expertise |
 | 専門家 | せんもんか | specialist, expert, professional, authority    |
-| 選考   | せんこう   | major subject, special subject                 |
+| 専攻   | せんこう   | major subject, special subject                 |
 
 # 門
 gate
 
+| 門   | もん      | gate                                                                       |
 | 専門 | せんもん   | specialty, subject of study, area of expertise                             |
 | 入門 | にゅうもん | primer, introduction (with する), entering institution, beginning training |
 
