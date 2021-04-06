@@ -95,6 +95,11 @@ graduate, soldier, private, die
 single, alone, spontaneously, Germany
 
 | 独身 | どくしん   | single, unmarried      |
+
+# 身
+somebody, person, one's station in life
+
+| 独身 | どくしん   | single, unmarried      |
 | 身分 | みぶん     | social status          |
 | 全身 | ぜんしん   | whole body             |
 | 出身 | しゅっしん | person's origin        |
