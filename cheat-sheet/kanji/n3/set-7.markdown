@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Set 7
 parent: N3 Kanji List
@@ -20,8 +20,8 @@ grandchild, decendants
 # 供
 submit, offer, serve (meal), accompany
 
-| 子供      | こども    | grandchild                           |
-| 供える    | そなえる  | to offer, to sacrifice, to dedicate​  |
+| 子供   | こども   | grandchild                            |
+| 供える | そなえる | to offer, to sacrifice, to dedicate​ |
 
 # 息
 breath, respiration, son
@@ -109,6 +109,7 @@ person in charge, connection, duty
 
 # 責
 blame, condemn, censure
+
 | 責める | せめる       | to blame, to condemn                            |
 | 責任   | せきにん     | duty, responsibility                            |
 | 責任者 | せきにんしゃ | person in charge, responsible party, supervisor |
