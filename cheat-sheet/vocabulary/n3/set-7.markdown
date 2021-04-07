@@ -23,7 +23,7 @@ nav_order: 7
 | 上旬                 | じょうじゅん                 | the first 10 days of the month                   |
 | 初旬                 | しょじゅん                   | the first 10 days of the month                   |
 | 中旬                 | ちゅうじゅん                 | the middle 10 days of the month                  |
-| 下旬                 | げしゅん                     | the last 10 days of the month                    |
+| 下旬                 | げじゅん                     | the last 10 days of the month                    |
 | 月末                 | げつまつ                     | the end of the month                             |
 | 平日                 | へいじつ                     | weekday                                          |
 | 祝日                 | しゅくじつ                   | national holiday                                 |
