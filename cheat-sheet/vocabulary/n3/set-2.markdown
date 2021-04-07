@@ -48,7 +48,7 @@ nav_order: 2
 | 材料を刻む             | ざいりょうをきざむ             | chop the ingredient                 |
 | 大きめに切る           | おきめにきる                   | cut in big pieces                   |
 | 3センチ幅に切る        | 3センチはばにきる              | cut into 3 centimeter pieces        |
-| 味噌汁が温くなる       | みそしるがぬくなる             | the miso soup is lukewarm           |
+| 味噌汁が温くなる       | みそしるがぬるくなる             | the miso soup is lukewarm           |
 | ラップをかぶせる       | らっぷをかぶせる               | cover...　with plastic wrap         |
 | ラップをかける         | らっぷをかける                 | cover... with plastic wrap          |
 | ラップでくるむ         | らっぷでくるむ                 | wrap... with plastic wrap           |
