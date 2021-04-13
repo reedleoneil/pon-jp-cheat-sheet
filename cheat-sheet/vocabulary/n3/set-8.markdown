@@ -10,14 +10,14 @@ nav_order: 8
 
 | 漢字                     | 仮名                                 | 意味                                           |
 | :----------------------- | :----------------------------------- | :--------------------------------------------- |
-| 拝見                     | はいけん                             | seeing; looking a                              |
+| 拝見                     | はいけん                             | seeing; looking at                              |
 | 車掌                     | しゃしょう                           | conductor  (train)                             |
 | 階段を上がる             | かいだんをあがる                     | go up the stairs                               |
 | 階段を下る               | かいだんをくだる                     | go  down the stairs                            |
 | エスカレーターの上り     |                                      | going up elevator                              |
 | エスカレーターの下り     |                                      | going down elevator                            |
-| 下り電車                 | くだりでんしゃ                       | outbound hill                                  |
-| 上り電車                 | のぼりでんしゃ                       | inbound hill                                   |
+| 下り電車                 | くだりでんしゃ                       | outbound train                                 |
+| 上り電車                 | のぼりでんしゃ                       | inbound train                                  |
 | 地方から中央に向かう電車 | ちほうからちゅうおうにむかうでんしゃ | a train going to the big city from a rural are |
 | 列車の時刻を調べる       | れっしゃのじこくをしらべる           | look up the train time                         |
 | 時刻表                   | じこくひょう                         | shedule/timetable                              |
