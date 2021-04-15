@@ -72,7 +72,7 @@ flour, powder, dust
 | 歯磨き粉 | はみがきこ | toothpaste           |
 | 花粉     | かふん     | pollen               |
 
-# 刺す
+# 刺
 
 | 刺す | さす   | to pierce to stab, to prick, to sting, to bite, to stich |
 | 名刺 | めいし | business card, calling card                              |
