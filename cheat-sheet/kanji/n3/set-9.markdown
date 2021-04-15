@@ -106,3 +106,35 @@ sand
 | 砂   | すな   | sand, grit |
 | 砂糖 | さとう | sugar      |
 | 砂漠 | さばく | desert     |
+
+# 塩
+salt
+
+| 塩   | しお       | salt, common salt, table salt |
+| 食塩 | しょくえん | table salt                    |
+| 塩分 | えんぶん   | salt content                  |
+
+# 油
+oil, fat
+
+| 油   | あぶら   | oil                          |
+| 醤油 | しょうゆ | soy sauce                    |
+| 灯油 | とうゆ   | lamp oil, kerosene           |
+| 石油 | せきゆ   | oil, petroleum oil, kerosene |
+
+# 菓
+candy, cakes, fruit
+
+| お菓子 | おかし | confections, sweet, candy |
+| 和菓子 | わがし | Japanese confectionery    |
+
+# 貝
+shellfish
+
+| 貝  | かい | shell, shellfish |
+
+# 缶
+tin can, container
+
+| 缶   | かん     | can, tin (applies to かま), boiler |
+| 缶詰 | かんづめ | canned goods                       |
