@@ -32,7 +32,7 @@ nav_order: 3
 | 水を切る       | みずをきる       | dry off                           |
 | 混ぜる         | まぜる           | to mix                            |
 | 焦げる         | こげる           | to burn                           |
-| ひっくり返す   | ひっくりがえす   | turn over                         |
+| ひっくり返す   | ひっくりかえす   | turn over                         |
 | 裏返す         | うらがえす       | turn over                         |
 | 味をつける     | あじをつける     | to season                         |
 | 塩を加える     | しおをくわえる   | add salt                          |
