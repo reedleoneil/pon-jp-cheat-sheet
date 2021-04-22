@@ -10,7 +10,7 @@ nav_order: 8
 
 | 漢字                     | 仮名                                 | 意味                                           |
 | :----------------------- | :----------------------------------- | :--------------------------------------------- |
-| 拝見                     | はいけん                             | seeing; looking at                              |
+| 拝見                     | はいけん                             | seeing; looking at                             |
 | 車掌                     | しゃしょう                           | conductor  (train)                             |
 | 階段を上がる             | かいだんをあがる                     | go up the stairs                               |
 | 階段を下る               | かいだんをくだる                     | go  down the stairs                            |
@@ -36,6 +36,6 @@ nav_order: 8
 | 特急料金                 | とっきゅうりょうきん                 | super-express train fare                       |
 | 回数券                   | かいすうけん                         | discount (bulk) ticket                         |
 | 定期券                   | ていきけん                           | commuting pass                                 |
-| 改札を通る               | かいさつぐちをとおる                 | go through a ticket gate                       |
+| 改札口を通る             | かいさつぐちをとおる                 | go through a ticket gate                       |
 | 切符を払い戻す           | きっぷをはらいもどす                 | get a refund for a train ticket                |
 | 払い戻し                 | はらいもどし                         | refund                                         |
