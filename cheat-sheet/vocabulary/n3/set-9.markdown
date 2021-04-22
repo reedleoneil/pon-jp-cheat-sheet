@@ -19,6 +19,7 @@ nav_order: 9
 | 下車する                         | げしゃする                                 | get off the train                                    |
 | 発射する                         | はっしゃする                               | leave                                                |
 | 電車の中はガラガラです           | でんしゃのなかはがらがらです               | the train is empty                                   |
+| 空っぽ                           | からっぽ                                   | empty, vacant                                        |
 | 満員電車で通勤する               | まんいんでんしゃでつうきんする             | commute in a packed train                            |
 | 電車が揺れる                     | でんしゃがゆれる                           | the train joggles                                    |
 | 始発                             | しはつ                                     | the first train of the day                           |
