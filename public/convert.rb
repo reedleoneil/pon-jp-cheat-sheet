@@ -12,7 +12,8 @@ end
             is_meaning = true
         elsif is_meaning
             is_meaning = false
-            file_append "  onyomi: "
+            file_append "  meaning: " + line.strip
+            file_append "  vocabulary: "
         elsif line.include?("|")
             l = line.split("|")
             file_append "    -"

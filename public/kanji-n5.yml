@@ -1,5 +1,6 @@
 -
   kanji: 一
+  meaning: one
   vocabulary: 
     -
       kanji: 一
@@ -11,6 +12,7 @@
       meaning: one piece
 -
   kanji: 二
+  meaning: two
   vocabulary: 
     -
       kanji: 二
@@ -22,6 +24,7 @@
       meaning: two pieces
 -
   kanji: 三
+  meaning: three
   vocabulary: 
     -
       kanji: 三
@@ -33,6 +36,7 @@
       meaning: three pieces
 -
   kanji: 四
+  meaning: four
   vocabulary: 
     -
       kanji: 四
@@ -44,6 +48,7 @@
       meaning: four pieces
 -
   kanji: 五
+  meaning: five
   vocabulary: 
     -
       kanji: 五
@@ -55,6 +60,7 @@
       meaning: five pieces
 -
   kanji: 六
+  meaning: six
   vocabulary: 
     -
       kanji: 六
@@ -66,6 +72,7 @@
       meaning: six pieces
 -
   kanji: 七
+  meaning: seven
   vocabulary: 
     -
       kanji: 七
@@ -77,6 +84,7 @@
       meaning: seven pieces
 -
   kanji: 八
+  meaning: eight
   vocabulary: 
     -
       kanji: 八
@@ -88,6 +96,7 @@
       meaning: eight pieces
 -
   kanji: 九
+  meaning: nine
   vocabulary: 
     -
       kanji: 九
@@ -99,6 +108,7 @@
       meaning: nine pieces
 -
   kanji: 十
+  meaning: ten
   vocabulary: 
     -
       kanji: 十
@@ -110,6 +120,7 @@
       meaning: ten pieces
 -
   kanji: 百
+  meaning: hundred
   vocabulary: 
     -
       kanji: 百
@@ -129,6 +140,7 @@
       meaning: 800
 -
   kanji: 千
+  meaning: thousand
   vocabulary: 
     -
       kanji: 千
@@ -144,6 +156,7 @@
       meaning: 8,000
 -
   kanji: 万
+  meaning: ten thousand
   vocabulary: 
     -
       kanji: 万
@@ -151,6 +164,7 @@
       meaning: 10,000
 -
   kanji: 日
+  meaning: day, sun, Japan, counter for days
   vocabulary: 
     -
       kanji: 日
@@ -218,6 +232,7 @@
       meaning: Sunday
 -
   kanji: 月
+  meaning: month, moon
   vocabulary: 
     -
       kanji: 月
@@ -249,6 +264,7 @@
       meaning: 10 months
 -
   kanji: 火
+  meaning: fire
   vocabulary: 
     -
       kanji: 火
@@ -260,6 +276,7 @@
       meaning: Tuesday
 -
   kanji: 水
+  meaning: water
   vocabulary: 
     -
       kanji: 水
@@ -271,6 +288,7 @@
       meaning: Wednesday
 -
   kanji: 木
+  meaning: tree, wood
   vocabulary: 
     -
       kanji: 木
@@ -282,6 +300,7 @@
       meaning: Thursday
 -
   kanji: 金
+  meaning: gold
   vocabulary: 
     -
       kanji: お金
@@ -293,6 +312,7 @@
       meaning: Friday
 -
   kanji: 土
+  meaning: soil, earth, ground
   vocabulary: 
     -
       kanji: 土
@@ -304,6 +324,7 @@
       meaning: Saturday
 -
   kanji: 円
+  meaning: circle, yen, round
   vocabulary: 
     -
       kanji: ~円
@@ -311,6 +332,7 @@
       meaning: Yen
 -
   kanji: 何
+  meaning: what
   vocabulary: 
     -
       kanji: 何
@@ -318,6 +340,7 @@
       meaning: what
 -
   kanji: 本
+  meaning: book, origin, counter for long cylindrical things
   vocabulary: 
     -
       kanji: 本
@@ -353,6 +376,7 @@
       meaning: 100 long objects
 -
   kanji: 人
+  meaning: person
   vocabulary: 
     -
       kanji: 人
@@ -376,6 +400,7 @@
       meaning: how many persons
 -
   kanji: 女
+  meaning: woman, female
   vocabulary: 
     -
       kanji: 女
@@ -383,6 +408,7 @@
       meaning: female
 -
   kanji: 男
+  meaning: man, male
   vocabulary: 
     -
       kanji: 男
@@ -390,6 +416,7 @@
       meaning: male
 -
   kanji: 子
+  meaning: child, sign of the rat
   vocabulary: 
     -
       kanji: 子ども
@@ -405,6 +432,7 @@
       meaning: girl
 -
   kanji: 父
+  meaning: father
   vocabulary: 
     -
       kanji: 父
@@ -416,6 +444,7 @@
       meaning: your father
 -
   kanji: 母
+  meaning: mother
   vocabulary: 
     -
       kanji: 母
@@ -427,6 +456,7 @@
       meaning: your mother
 -
   kanji: 友
+  meaning: friend
   vocabulary: 
     -
       kanji: 友だち
@@ -434,6 +464,7 @@
       meaning: friend
 -
   kanji: 半
+  meaning: half, middle
   vocabulary: 
     -
       kanji: ~半
@@ -441,6 +472,7 @@
       meaning: ~ half
 -
   kanji: 分
+  meaning: part, minute of time, understand
   vocabulary: 
     -
       kanji: ~分
@@ -452,6 +484,7 @@
       meaning: half
 -
   kanji: 時
+  meaning: time, hour
   vocabulary: 
     -
       kanji: ~時
@@ -459,6 +492,7 @@
       meaning: ~ o`clock
 -
   kanji: 週
+  meaning: week
   vocabulary: 
     -
       kanji: ~週
@@ -466,6 +500,7 @@
       meaning: ~ week
 -
   kanji: 年
+  meaning: year, counter for years
   vocabulary: 
     -
       kanji: ~年
@@ -473,6 +508,7 @@
       meaning: ~ year
 -
   kanji: 間
+  meaning: interval, space
   vocabulary: 
     -
       kanji: 間
@@ -496,6 +532,7 @@
       meaning: no. of years
 -
   kanji: 今
+  meaning: now
   vocabulary: 
     -
       kanji: 今
@@ -519,6 +556,7 @@
       meaning: this year
 -
   kanji: 先
+  meaning: before, ahead, previous, future, precedence
   vocabulary: 
     -
       kanji: 先
@@ -526,6 +564,7 @@
       meaning: ahead
 -
   kanji: 来
+  meaning: come, due, next, cause, become
   vocabulary: 
     -
       kanji: 来る
@@ -545,6 +584,7 @@
       meaning: next year
 -
   kanji: 毎
+  meaning: every
   vocabulary: 
     -
       kanji: 毎日
@@ -564,6 +604,7 @@
       meaning: every year
 -
   kanji: 午
+  meaning: noon, sign of the horse
   vocabulary: 
     -
       kanji: 午後
@@ -575,6 +616,7 @@
       meaning: a.m.
 -
   kanji: 前
+  meaning: in front, before
   vocabulary: 
     -
       kanji: 前
@@ -586,6 +628,7 @@
       meaning: a.m.
 -
   kanji: 後
+  meaning: behind, back, later
   vocabulary: 
     -
       kanji: 後
@@ -601,6 +644,7 @@
       meaning: p.m.
 -
   kanji: 朝
+  meaning: morning
   vocabulary: 
     -
       kanji: 朝
@@ -616,6 +660,7 @@
       meaning: this morning
 -
   kanji: 晩
+  meaning: night
   vocabulary: 
     -
       kanji: 晩
@@ -631,6 +676,7 @@
       meaning: tonight
 -
   kanji: 夏
+  meaning: summer
   vocabulary: 
     -
       kanji: 夏
@@ -638,6 +684,7 @@
       meaning: summer
 -
   kanji: 春
+  meaning: spring
   vocabulary: 
     -
       kanji: 春
@@ -645,6 +692,7 @@
       meaning: spring
 -
   kanji: 冬
+  meaning: fall
   vocabulary: 
     -
       kanji: 冬
@@ -652,6 +700,7 @@
       meaning: winter
 -
   kanji: 秋
+  meaning: autumn
   vocabulary: 
     -
       kanji: 秋
@@ -659,6 +708,7 @@
       meaning: autumn
 -
   kanji: 正
+  meaning: correct, justice, righteous
   vocabulary: 
     -
       kanji: 正しい
@@ -670,6 +720,7 @@
       meaning: New Year
 -
   kanji: 上
+  meaning: above, up
   vocabulary: 
     -
       kanji: 上
@@ -685,6 +736,7 @@
       meaning: raise
 -
   kanji: 下
+  meaning: below, down
   vocabulary: 
     -
       kanji: 下
@@ -692,6 +744,7 @@
       meaning: under
 -
   kanji: 右
+  meaning: right
   vocabulary: 
     -
       kanji: 右
@@ -699,6 +752,7 @@
       meaning: right
 -
   kanji: 左
+  meaning: left
   vocabulary: 
     -
       kanji: 左
@@ -706,6 +760,7 @@
       meaning: left
 -
   kanji: 中
+  meaning: inside, middle
   vocabulary: 
     -
       kanji: 中
@@ -721,6 +776,7 @@
       meaning: all night long
 -
   kanji: 外
+  meaning: outside
   vocabulary: 
     -
       kanji: 外
@@ -728,6 +784,7 @@
       meaning: outside
 -
   kanji: 北
+  meaning: north
   vocabulary: 
     -
       kanji: 北
@@ -735,6 +792,7 @@
       meaning: north
 -
   kanji: 南
+  meaning: south
   vocabulary: 
     -
       kanji: 南
@@ -742,6 +800,7 @@
       meaning: south
 -
   kanji: 東
+  meaning: east
   vocabulary: 
     -
       kanji: 東
@@ -749,6 +808,7 @@
       meaning: east
 -
   kanji: 西
+  meaning: west
   vocabulary: 
     -
       kanji: 西
@@ -756,6 +816,7 @@
       meaning: west
 -
   kanji: 大
+  meaning: large, big
   vocabulary: 
     -
       kanji: 大きい
@@ -763,6 +824,7 @@
       meaning: big
 -
   kanji: 小
+  meaning: little, small
   vocabulary: 
     -
       kanji: 小さい
@@ -770,6 +832,7 @@
       meaning: small
 -
   kanji: 安
+  meaning: cheap
   vocabulary: 
     -
       kanji: 安い
@@ -777,6 +840,7 @@
       meaning: cheap
 -
   kanji: 高
+  meaning: tall, high, expensive
   vocabulary: 
     -
       kanji: 高い
@@ -784,6 +848,7 @@
       meaning: tall/expensive
 -
   kanji: 新
+  meaning: new
   vocabulary: 
     -
       kanji: 新しい
@@ -791,6 +856,7 @@
       meaning: new
 -
   kanji: 古
+  meaning: old
   vocabulary: 
     -
       kanji: 古い
@@ -802,6 +868,7 @@
       meaning: used books
 -
   kanji: 長
+  meaning: long, leader, superior, senior
   vocabulary: 
     -
       kanji: 長い
@@ -809,6 +876,7 @@
       meaning: long
 -
   kanji: 早
+  meaning: early, fast
   vocabulary: 
     -
       kanji: 早い
@@ -816,6 +884,7 @@
       meaning: early
 -
   kanji: 近
+  meaning: near
   vocabulary: 
     -
       kanji: 近い
@@ -827,6 +896,7 @@
       meaning: near
 -
   kanji: 明
+  meaning: bright, light
   vocabulary: 
     -
       kanji: 明るい
@@ -838,6 +908,7 @@
       meaning: tomorrow
 -
   kanji: 少
+  meaning: few, little
   vocabulary: 
     -
       kanji: 少し
@@ -849,6 +920,7 @@
       meaning: a little
 -
   kanji: 多
+  meaning: many, frequent, much
   vocabulary: 
     -
       kanji: 多い
@@ -856,6 +928,7 @@
       meaning: many
 -
   kanji: 有
+  meaning: possess, have, exist
   vocabulary: 
     -
       kanji: 有名な
@@ -863,6 +936,7 @@
       meaning: famous
 -
   kanji: 名
+  meaning: name
   vocabulary: 
     -
       kanji: 名前
@@ -874,6 +948,7 @@
       meaning: famous
 -
   kanji: 色
+  meaning: color
   vocabulary: 
     -
       kanji: いろ
@@ -881,6 +956,7 @@
       meaning: 
 -
   kanji: 白
+  meaning: white
   vocabulary: 
     -
       kanji: 白い
@@ -888,6 +964,7 @@
       meaning: white
 -
   kanji: 青
+  meaning: blue
   vocabulary: 
     -
       kanji: 青い
@@ -895,6 +972,7 @@
       meaning: blue
 -
   kanji: 赤
+  meaning: red
   vocabulary: 
     -
       kanji: 赤い
@@ -902,6 +980,7 @@
       meaning: red
 -
   kanji: 茶
+  meaning: tea
   vocabulary: 
     -
       kanji: お茶
@@ -913,6 +992,7 @@
       meaning: brown
 -
   kanji: 黒
+  meaning: black
   vocabulary: 
     -
       kanji: 黒い
@@ -920,6 +1000,7 @@
       meaning: black
 -
   kanji: 書
+  meaning: write
   vocabulary: 
     -
       kanji: 書く
@@ -927,6 +1008,7 @@
       meaning: to write
 -
   kanji: 行
+  meaning: going
   vocabulary: 
     -
       kanji: 行く
@@ -934,6 +1016,7 @@
       meaning: to go
 -
   kanji: 食
+  meaning: eat, food
   vocabulary: 
     -
       kanji: 食べる
@@ -941,6 +1024,7 @@
       meaning: to eat
 -
   kanji: 飲
+  meaning: drink
   vocabulary: 
     -
       kanji: 飲む
@@ -948,6 +1032,7 @@
       meaning: to drink
 -
   kanji: 買
+  meaning: buy
   vocabulary: 
     -
       kanji: 買う
@@ -955,6 +1040,7 @@
       meaning: to buy
 -
   kanji: 見
+  meaning: see
   vocabulary: 
     -
       kanji: 見る
@@ -962,6 +1048,7 @@
       meaning: to watch
 -
   kanji: 生
+  meaning: life, birth
   vocabulary: 
     -
       kanji: 生まれる
@@ -977,6 +1064,7 @@
       meaning: year level
 -
   kanji: 休
+  meaning: rest
   vocabulary: 
     -
       kanji: 休み
@@ -996,6 +1084,7 @@
       meaning: break
 -
   kanji: 帰
+  meaning: homecoming
   vocabulary: 
     -
       kanji: 帰る
@@ -1003,6 +1092,7 @@
       meaning: to go home
 -
   kanji: 売
+  meaning: sell
   vocabulary: 
     -
       kanji: 売る
@@ -1010,6 +1100,7 @@
       meaning: to sell
 -
   kanji: 入
+  meaning: enter, insert
   vocabulary: 
     -
       kanji: 入る
@@ -1025,6 +1116,7 @@
       meaning: to enter school
 -
   kanji: 出
+  meaning: exit, leave, go out
   vocabulary: 
     -
       kanji: 出る
@@ -1040,6 +1132,7 @@
       meaning: to go out
 -
   kanji: 止
+  meaning: stop, halt
   vocabulary: 
     -
       kanji: 止まる
@@ -1047,6 +1140,7 @@
       meaning: to stop
 -
   kanji: 切
+  meaning: cut
   vocabulary: 
     -
       kanji: 切る
@@ -1054,6 +1148,7 @@
       meaning: to cut
 -
   kanji: 立
+  meaning: stand up, rise
   vocabulary: 
     -
       kanji: 立つ
@@ -1061,6 +1156,7 @@
       meaning: to stand
 -
   kanji: 持
+  meaning: hold, have
   vocabulary: 
     -
       kanji: 持つ
@@ -1068,6 +1164,7 @@
       meaning: to carry
 -
   kanji: 待
+  meaning: wait
   vocabulary: 
     -
       kanji: 待つ
@@ -1075,6 +1172,7 @@
       meaning: to wait
 -
   kanji: 閉
+  meaning: close
   vocabulary: 
     -
       kanji: 閉める
@@ -1082,6 +1180,7 @@
       meaning: to close
 -
   kanji: 開
+  meaning: open
   vocabulary: 
     -
       kanji: 開ける
@@ -1093,6 +1192,7 @@
       meaning: to open
 -
   kanji: 聞
+  meaning: hear, ask, listen
   vocabulary: 
     -
       kanji: 聞く
@@ -1104,6 +1204,7 @@
       meaning: newspaper
 -
   kanji: 知
+  meaning: know, wisdom
   vocabulary: 
     -
       kanji: 知る
@@ -1111,6 +1212,7 @@
       meaning: to know
 -
   kanji: 学
+  meaning: study, learning, science
   vocabulary: 
     -
       kanji: 学ぶ
@@ -1134,6 +1236,7 @@
       meaning: university student
 -
   kanji: 会
+  meaning: meeting, meet
   vocabulary: 
     -
       kanji: 会う
@@ -1149,6 +1252,7 @@
       meaning: institute
 -
   kanji: 着
+  meaning: arrive, wear
   vocabulary: 
     -
       kanji: 着る
@@ -1164,6 +1268,7 @@
       meaning: jacket
 -
   kanji: 使
+  meaning: use
   vocabulary: 
     -
       kanji: 使う
@@ -1171,6 +1276,7 @@
       meaning: to use
 -
   kanji: 作
+  meaning: make
   vocabulary: 
     -
       kanji: 作る
@@ -1178,6 +1284,7 @@
       meaning: to make
 -
   kanji: 言
+  meaning: say, word
   vocabulary: 
     -
       kanji: 言う
@@ -1185,6 +1292,7 @@
       meaning: to say
 -
   kanji: 語
+  meaning: word, speech, language
   vocabulary: 
     -
       kanji: 日本語
@@ -1196,6 +1304,7 @@
       meaning: language
 -
   kanji: 話
+  meaning: tale, talk
   vocabulary: 
     -
       kanji: 会話
@@ -1211,6 +1320,7 @@
       meaning: to speak
 -
   kanji: 読
+  meaning: read
   vocabulary: 
     -
       kanji: 読む
@@ -1222,6 +1332,7 @@
       meaning: reading
 -
   kanji: 店
+  meaning: store, shop
   vocabulary: 
     -
       kanji: 店
@@ -1237,6 +1348,7 @@
       meaning: main store
 -
   kanji: 校
+  meaning: exam, school
   vocabulary: 
     -
       kanji: 高校
@@ -1256,6 +1368,7 @@
       meaning: highschool student
 -
   kanji: 国
+  meaning: country
   vocabulary: 
     -
       kanji: 国
@@ -1279,6 +1392,7 @@
       meaning: Chinese (person)
 -
   kanji: 家
+  meaning: house, home, family
   vocabulary: 
     -
       kanji: 家
@@ -1286,6 +1400,7 @@
       meaning: house
 -
   kanji: 車
+  meaning: car
   vocabulary: 
     -
       kanji: 車
@@ -1297,6 +1412,7 @@
       meaning: used cars
 -
   kanji: 道
+  meaning: road-way, street
   vocabulary: 
     -
       kanji: 道
@@ -1304,6 +1420,7 @@
       meaning: road
 -
   kanji: 駅
+  meaning: station
   vocabulary: 
     -
       kanji: 駅
@@ -1311,6 +1428,7 @@
       meaning: station
 -
   kanji: 京
+  meaning: tokyo
   vocabulary: 
     -
       kanji: 東京
@@ -1322,6 +1440,7 @@
       meaning: Kyoto
 -
   kanji: 都
+  meaning: capital
   vocabulary: 
     -
       kanji: 東京都
@@ -1333,6 +1452,7 @@
       meaning: city
 -
   kanji: 方
+  meaning: direction, person
   vocabulary: 
     -
       kanji: 方
@@ -1356,6 +1476,7 @@
       meaning: way of reading
 -
   kanji: 仕
+  meaning: attend, doing, official, serve
   vocabulary: 
     -
       kanji: 仕方
@@ -1363,6 +1484,7 @@
       meaning: ways
 -
   kanji: 事
+  meaning: matter, thing, fact
   vocabulary: 
     -
       kanji: 仕事
@@ -1374,6 +1496,7 @@
       meaning: fact
 -
   kanji: 社
+  meaning: company, firm, office, association, shrine
   vocabulary: 
     -
       kanji: 会社
@@ -1393,6 +1516,7 @@
       meaning: society
 -
   kanji: 銀
+  meaning: silver
   vocabulary: 
     -
       kanji: 銀行
@@ -1400,6 +1524,7 @@
       meaning: bank
 -
   kanji: 員
+  meaning: employee, member
   vocabulary: 
     -
       kanji: 銀行員
@@ -1415,6 +1540,7 @@
       meaning: comp. employee
 -
   kanji: 活
+  meaning: lively, resuscitation, being helped, living
   vocabulary: 
     -
       kanji: 生活
@@ -1422,6 +1548,7 @@
       meaning: lifestyle
 -
   kanji: 紙
+  meaning: paper
   vocabulary: 
     -
       kanji: 紙
@@ -1429,6 +1556,7 @@
       meaning: paper
 -
   kanji: 字
+  meaning: character, letter
   vocabulary: 
     -
       kanji: 字
@@ -1436,6 +1564,7 @@
       meaning: letter/character
 -
   kanji: 英
+  meaning: England, English
   vocabulary: 
     -
       kanji: 英語
@@ -1447,6 +1576,7 @@
       meaning: Britain
 -
   kanji: 町
+  meaning: town, village, block, street
   vocabulary: 
     -
       kanji: 町
@@ -1454,6 +1584,7 @@
       meaning: town
 -
   kanji: 口
+  meaning: mouth
   vocabulary: 
     -
       kanji: 口
@@ -1485,6 +1616,7 @@
       meaning: West exit
 -
   kanji: 手
+  meaning: hand
   vocabulary: 
     -
       kanji: 手
@@ -1500,6 +1632,7 @@
       meaning: stamp
 -
   kanji: 目
+  meaning: eye
   vocabulary: 
     -
       kanji: 目
@@ -1515,6 +1648,7 @@
       meaning: subordinate
 -
   kanji: 耳
+  meaning: ear
   vocabulary: 
     -
       kanji: 耳
@@ -1522,6 +1656,7 @@
       meaning: ear
 -
   kanji: 足
+  meaning: leg, foot, be sufficient
   vocabulary: 
     -
       kanji: 足りる
@@ -1533,6 +1668,7 @@
       meaning: feet
 -
   kanji: 体
+  meaning: body
   vocabulary: 
     -
       kanji: 体
@@ -1540,6 +1676,7 @@
       meaning: body
 -
   kanji: 犬
+  meaning: dog
   vocabulary: 
     -
       kanji: 犬
@@ -1547,6 +1684,7 @@
       meaning: dog
 -
   kanji: 魚
+  meaning: fish
   vocabulary: 
     -
       kanji: 魚
@@ -1554,6 +1692,7 @@
       meaning: fish
 -
   kanji: 天
+  meaning: heavens, sky, imperial
   vocabulary: 
     -
       kanji: 天気
@@ -1561,6 +1700,7 @@
       meaning: weather
 -
   kanji: 気
+  meaning: spirit, mind, air, atmosphere, mood
   vocabulary: 
     -
       kanji: 空気
@@ -1580,6 +1720,7 @@
       meaning: feeling
 -
   kanji: 山
+  meaning: mountain
   vocabulary: 
     -
       kanji: 山
@@ -1591,6 +1732,7 @@
       meaning: Mount ~
 -
   kanji: 川
+  meaning: stream, river
   vocabulary: 
     -
       kanji: 川
@@ -1606,6 +1748,7 @@
       meaning: surname
 -
   kanji: 田
+  meaning: rice field, rice paddy
   vocabulary: 
     -
       kanji: 田
@@ -1621,6 +1764,7 @@
       meaning: surname
 -
   kanji: 花
+  meaning: flower
   vocabulary: 
     -
       kanji: 花
@@ -1636,6 +1780,7 @@
       meaning: fireworks
 -
   kanji: 空
+  meaning: empty, sky, void
   vocabulary: 
     -
       kanji: 空
@@ -1643,6 +1788,7 @@
       meaning: sky
 -
   kanji: 海
+  meaning: sea, ocean
   vocabulary: 
     -
       kanji: 海
@@ -1658,6 +1804,7 @@
       meaning: Hokkaido
 -
   kanji: 風
+  meaning: wind, air
   vocabulary: 
     -
       kanji: 風
@@ -1665,6 +1812,7 @@
       meaning: wind
 -
   kanji: 雨
+  meaning: rain
   vocabulary: 
     -
       kanji: 雨
@@ -1676,6 +1824,7 @@
       meaning: heavy rain
 -
   kanji: 雪
+  meaning: snow
   vocabulary: 
     -
       kanji: 雪
@@ -1683,6 +1832,7 @@
       meaning: snow
 -
   kanji: 電
+  meaning: electricity
   vocabulary: 
     -
       kanji: 電話

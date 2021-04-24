@@ -1,5 +1,6 @@
 -
   kanji: 個
+  meaning: individual
   vocabulary: 
     -
       kanji: 個性
@@ -19,6 +20,7 @@
       meaning: number of articles, quantity
 -
   kanji: 冊
+  meaning: tome, volume
   vocabulary: 
     -
       kanji: ～冊
@@ -30,6 +32,7 @@
       meaning: number of books
 -
   kanji: 階
+  meaning: storey, stairs
   vocabulary: 
     -
       kanji: ～階
@@ -41,6 +44,7 @@
       meaning: stairs, stairway
 -
   kanji: 匹
+  meaning: equal, counter (small animal, rolls of cloth)
   vocabulary: 
     -
       kanji: ～匹
@@ -48,6 +52,7 @@
       meaning: counter for small animal, rolls of cloth
 -
   kanji: 歳
+  meaning: year-end, age, occasion
   vocabulary: 
     -
       kanji: ～歳
@@ -59,6 +64,7 @@
       meaning: twenty years old
 -
   kanji: 第
+  meaning: No., residence
   vocabulary: 
     -
       kanji: ～第
@@ -66,6 +72,7 @@
       meaning: prefix for forming ordinal numbers
 -
   kanji: 課
+  meaning: chapter, section, department
   vocabulary: 
     -
       kanji: 課長
@@ -81,6 +88,7 @@
       meaning: daily lesson, daily work, daily routine
 -
   kanji: 線
+  meaning: line, track
   vocabulary: 
     -
       kanji: 線
@@ -96,6 +104,7 @@
       meaning: underline
 -
   kanji: 兆
+  meaning: trillion, omen
   vocabulary: 
     -
       kanji: 何兆円
@@ -111,6 +120,7 @@
       meaning: omen
 -
   kanji: 億
+  meaning: hundred million, billion
   vocabulary: 
     -
       kanji: ～億
@@ -118,6 +128,7 @@
       meaning: hundred million
 -
   kanji: 倍
+  meaning: double, twice, times
   vocabulary: 
     -
       kanji: ～倍
@@ -125,6 +136,7 @@
       meaning: double, twice, times
 -
   kanji: 放
+  meaning: set free, release, liberate
   vocabulary: 
     -
       kanji: 放す
@@ -148,6 +160,7 @@
       meaning: drink all you can, bottomless
 -
   kanji: 副
+  meaning: vice-, assistant, aide, duplicate
   vocabulary: 
     -
       kanji: 副
@@ -163,6 +176,7 @@
       meaning: vice president (of a club, etc.)
 -
   kanji: 的
+  meaning: bull's eye, target, adjective ending
   vocabulary: 
     -
       kanji: 的
@@ -186,6 +200,7 @@
       meaning: personal, private, individual
 -
   kanji: 級
+  meaning: class, rank, grade
   vocabulary: 
     -
       kanji: 高級
@@ -205,6 +220,7 @@
       meaning: elemtary level
 -
   kanji: 再
+  meaning: again, twice
   vocabulary: 
     -
       kanji: 再び
@@ -224,6 +240,7 @@
       meaning: week after next
 -
   kanji: 無
+  meaning: nothingness, none, not
   vocabulary: 
     -
       kanji: 無い
@@ -251,6 +268,7 @@
       meaning: infinity, infinite, limitless
 -
   kanji: 各
+  meaning: each, every, either
   vocabulary: 
     -
       kanji: 各々
@@ -274,6 +292,7 @@
       meaning: every station
 -
   kanji: 未
+  meaning: un-, not yet, still, even now
   vocabulary: 
     -
       kanji: 未だ
@@ -293,6 +312,7 @@
       meaning: less than, insufficient
 -
   kanji: 祭
+  meaning: ritual, worship, celebrate
   vocabulary: 
     -
       kanji: 文化祭
@@ -308,6 +328,7 @@
       meaning: festival suffix
 -
   kanji: 限
+  meaning: limit, restrict, to best of ability
   vocabulary: 
     -
       kanji: 限界
@@ -335,6 +356,7 @@
       meaning: term, time frame, time limit, deadline, cutoff
 -
   kanji: 昨
+  meaning: yesterday, previous
   vocabulary: 
     -
       kanji: 昨日
@@ -354,6 +376,7 @@
       meaning: last year
 -
   kanji: 末
+  meaning: end, close, tip, powder
   vocabulary: 
     -
       kanji: 末
@@ -377,6 +400,7 @@
       meaning: youngest son
 -
   kanji: 在
+  meaning: exist, outskirts, suburbs, located in
   vocabulary: 
     -
       kanji: 不在
@@ -388,6 +412,7 @@
       meaning: now, current, present
 -
   kanji: 昔
+  meaning: once upon a time, antiquity
   vocabulary: 
     -
       kanji: 昔
@@ -403,6 +428,7 @@
       meaning: old tale, folk tale, legend
 -
   kanji: 期
+  meaning: period, time, date, term
   vocabulary: 
     -
       kanji: 期間
@@ -442,6 +468,7 @@
       meaning: short term
 -
   kanji: 念
+  meaning: wish, sense, idea, desire, attention
   vocabulary: 
     -
       kanji: 残念
@@ -457,6 +484,7 @@
       meaning: holiday, memorial day
 -
   kanji: 秒
+  meaning: second
   vocabulary: 
     -
       kanji: 秒
@@ -464,6 +492,7 @@
       meaning: second
 -
   kanji: 制
+  meaning: system, law, rule
   vocabulary: 
     -
       kanji: 制服
@@ -479,6 +508,7 @@
       meaning: system, institution, organization
 -
   kanji: 製
+  meaning: made in..., manufacture
   vocabulary: 
     -
       kanji: 製品
@@ -494,6 +524,7 @@
       meaning: manufacture, production
 -
   kanji: 量
+  meaning: quantity, measure, weight, amount, consider, estimate, surmise
   vocabulary: 
     -
       kanji: 量
@@ -517,6 +548,7 @@
       meaning: large quantity, mass (eg. mass production, etc)
 -
   kanji: 型
+  meaning: mould, type, model
   vocabulary: 
     -
       kanji: 型
@@ -536,6 +568,7 @@
       meaning: small size, tiny, compact
 -
   kanji: 般
+  meaning: carrier, carry, all, general, sort, kind
   vocabulary: 
     -
       kanji: 一般
@@ -551,6 +584,7 @@
       meaning: popular, typical, general
 -
   kanji: 賞
+  meaning: prize, reward, price
   vocabulary: 
     -
       kanji: 賞
@@ -570,6 +604,7 @@
       meaning: best before date
 -
   kanji: 他
+  meaning: other, another, the others
   vocabulary: 
     -
       kanji: 他の
@@ -581,6 +616,7 @@
       meaning: etc, otherwise, besides, in addtition, the rest
 -
   kanji: 初
+  meaning: first time, beggining
   vocabulary: 
     -
       kanji: 最初
@@ -600,6 +636,7 @@
       meaning: elemtary level
 -
   kanji: 角
+  meaning: angle, corner, square, horn
   vocabulary: 
     -
       kanji: 角
@@ -619,6 +656,7 @@
       meaning: triangle
 -
   kanji: 例
+  meaning: example, custom, usage, precedent
   vocabulary: 
     -
       kanji: 例
@@ -630,6 +668,7 @@
       meaning: for example, for instance
 -
   kanji: 共
+  meaning: together, both, nither, all, and, alike, with
   vocabulary: 
     -
       kanji: 共同
@@ -641,6 +680,7 @@
       meaning: together, jointly
 -
   kanji: 総
+  meaning: general, whole, all, full, total
   vocabulary: 
     -
       kanji: 総理
@@ -652,6 +692,7 @@
       meaning: whole, all, general
 -
   kanji: 悲
+  meaning: grieve, sad, deplore, regret
   vocabulary: 
     -
       kanji: 悲しむ
@@ -663,6 +704,7 @@
       meaning: sad, sorrowful
 -
   kanji: 悔
+  meaning: repent, regret
   vocabulary: 
     -
       kanji: 悔しい
@@ -670,6 +712,7 @@
       meaning: vexing, annoying, frstrating, regrettable, morifying
 -
   kanji: 眠
+  meaning: sleep, die, sleepy
   vocabulary: 
     -
       kanji: 眠い
@@ -685,6 +728,7 @@
       meaning: sleep
 -
   kanji: 優
+  meaning: tenderness, excel, actor, superiority
   vocabulary: 
     -
       kanji: 優しい
@@ -704,6 +748,7 @@
       meaning: priority seat, courtesy seat
 -
   kanji: 怖
+  meaning: dreadful, be frightened
   vocabulary: 
     -
       kanji: 怖い
@@ -711,6 +756,7 @@
       meaning: scary, frightening, eerie, dreadful
 -
   kanji: 懐
+  meaning: feelings, heart, years, miss someone
   vocabulary: 
     -
       kanji: 懐かしい
@@ -718,6 +764,7 @@
       meaning: dear, desired, missed
 -
   kanji: 恐
+  meaning: fear, dread, awe
   vocabulary: 
     -
       kanji: 恐い
@@ -733,6 +780,7 @@
       meaning: dinasour
 -
   kanji: 激
+  meaning: violent, get excited, enraged chafe, incite
   vocabulary: 
     -
       kanji: 激しい
@@ -740,6 +788,7 @@
       meaning: violent, furious, extreme, intense, fierce, strong, vehement, reintless, steep
 -
   kanji: 嫌
+  meaning: dislike, detest, hate
   vocabulary: 
     -
       kanji: 嫌い
@@ -751,6 +800,7 @@
       meaning: disagreeable, detestable, unpleasant, reluctant
 -
   kanji: 厳
+  meaning: stern, strictness, severity, rigidity
   vocabulary: 
     -
       kanji: 厳しい
@@ -758,6 +808,7 @@
       meaning: severe, strict, rigid, intense, harsh, tough
 -
   kanji: 細
+  meaning: get thin, slender, detailed, precise
   vocabulary: 
     -
       kanji: 細い
@@ -769,6 +820,7 @@
       meaning: small, fine, minor, trival, sensitive, attentive
 -
   kanji: 詳
+  meaning: detailed, full, minute, accurate, well-informed
   vocabulary: 
     -
       kanji: 詳しい
@@ -776,6 +828,7 @@
       meaning: detailed, full, accurate, knowing very well, well-informed
 -
   kanji: 珍
+  meaning: rare, curious, strange
   vocabulary: 
     -
       kanji: 珍しい
@@ -783,6 +836,7 @@
       meaning: unusual, rare, curious
 -
   kanji: 貧
+  meaning: poverty, poor
   vocabulary: 
     -
       kanji: 貧しい
@@ -790,6 +844,7 @@
       meaning: poor, needy
 -
   kanji: 賢
+  meaning: 
   vocabulary: 
     -
       kanji: 賢い
@@ -797,6 +852,7 @@
       meaning: wise, clever, smart
 -
   kanji: 難
+  meaning: difficult, trouble, accident, defect
   vocabulary: 
     -
       kanji: 難しい
@@ -812,6 +868,7 @@
       meaning: perplexity, difficult question/problem
 -
   kanji: 暖
+  meaning: warmth
   vocabulary: 
     -
       kanji: 暖かい
@@ -823,6 +880,7 @@
       meaning: heater
 -
   kanji: 厚
+  meaning: thick, heavy, rich, ind, cordial, shameless
   vocabulary: 
     -
       kanji: 厚い
@@ -830,6 +888,7 @@
       meaning: thick, deep, heavy, kind cordial, hospitable, warm
 -
   kanji: 涼
+  meaning: refreshing, nice and cool
   vocabulary: 
     -
       kanji: 涼しい
@@ -837,6 +896,7 @@
       meaning: cool, refreshing
 -
   kanji: 辛
+  meaning: spicy, bitter, hot, acrid
   vocabulary: 
     -
       kanji: 辛い
@@ -848,6 +908,7 @@
       meaning: painful, difficult (emotionally), bitter, tough, hard (usually of situations)
 -
   kanji: 薄
+  meaning: dilute, weak (tea)
   vocabulary: 
     -
       kanji: 薄い
@@ -855,6 +916,7 @@
       meaning: thin; pale, light; watery, dilute; weak (taste, etc.); slim (probability, etc.)
 -
   kanji: 汚
+  meaning: dirty, pollute, disgrace, rape, defile
   vocabulary: 
     -
       kanji: 汚い
@@ -870,6 +932,7 @@
       meaning: to pollute, to contaminate; to defile
 -
   kanji: 濃
+  meaning: concentrated, thick, dark, undiluted
   vocabulary: 
     -
       kanji: 濃い
@@ -877,6 +940,7 @@
       meaning: deep (color), dark; strong (flavor, smell); thick (consistency); strong (possibility)
 -
   kanji: 浅
+  meaning: shallow, wretched, superficial
   vocabulary: 
     -
       kanji: 浅い
@@ -888,6 +952,7 @@
       meaning: Asakusa (district in Tokyo)
 -
   kanji: 深
+  meaning: deep, intensify, strengthen
   vocabulary: 
     -
       kanji: 深い
@@ -899,6 +964,7 @@
       meaning: late at night, midnight
 -
   kanji: 丸
+  meaning: round, full (month), perfection, pills, make round, roll up
   vocabulary: 
     -
       kanji: 丸い
@@ -906,6 +972,7 @@
       meaning: round, circular, spherical; harmonious, calm
 -
   kanji: 固
+  meaning: harden, set, clot, curdle
   vocabulary: 
     -
       kanji: 固まる
@@ -917,6 +984,7 @@
       meaning: hard, solid, though; stiff, tight; strong, firm; formal, bookish
 -
   kanji: 苦
+  meaning: suffering, trial, worry, feel bitter
   vocabulary: 
     -
       kanji: 苦い
@@ -944,6 +1012,7 @@
       meaning: troubles, hardships
 -
   kanji: 快
+  meaning: cheerful, pleasant, comfortable
   vocabulary: 
     -
       kanji: 快速
@@ -955,6 +1024,7 @@
       meaning: pleasant, agreeable
 -
   kanji: 欲
+  meaning: longing, greed, desire, craving
   vocabulary: 
     -
       kanji: 欲しい
@@ -970,6 +1040,7 @@
       meaning: will, desire, ambition
 -
   kanji: 屈
+  meaning: yield, bend, flinch, submit
   vocabulary: 
     -
       kanji: 屈む
@@ -985,6 +1056,7 @@
       meaning: tedium, boredom
 -
   kanji: 普
+  meaning: universal, widely, generally
   vocabulary: 
     -
       kanji: 普通
@@ -992,6 +1064,7 @@
       meaning: generally, ordinary, usually; regular/local train
 -
   kanji: 貿
+  meaning: trade, exchange
   vocabulary: 
     -
       kanji: 貿易
@@ -999,6 +1072,7 @@
       meaning: foreign/international trade
 -
   kanji: 易
+  meaning: easy, ready to, simple
   vocabulary: 
     -
       kanji: 安易
@@ -1014,6 +1088,7 @@
       meaning: foreign/international trade
 -
   kanji: 得
+  meaning: gain, get, find, earn, acquire, profit, advantage
   vocabulary: 
     -
       kanji: 得る
@@ -1029,6 +1104,7 @@
       meaning: consent, assent, agreement; understanding, comprehension, grasp
 -
   kanji: 暇
+  meaning: spare time, rest, leisure
   vocabulary: 
     -
       kanji: 休暇
@@ -1040,6 +1116,7 @@
       meaning: spare/free time; time off, day off
 -
   kanji: 順
+  meaning: obey, order, turn
   vocabulary: 
     -
       kanji: 順番
@@ -1051,6 +1128,7 @@
       meaning: favorable, doing well
 -
   kanji: 勢
+  meaning: forces, energy, military strength
   vocabulary: 
     -
       kanji: 勢い
@@ -1062,6 +1140,7 @@
       meaning: many, crowd, great, number of people
 -
   kanji: 偉
+  meaning: admirable, greatness
   vocabulary: 
     -
       kanji: 偉い
@@ -1073,6 +1152,7 @@
       meaning: greatness
 -
   kanji: 絶
+  meaning: discontinue, beyond, cut off
   vocabulary: 
     -
       kanji: 絶える
@@ -1084,6 +1164,7 @@
       meaning: absolutely, unconditionally
 -
   kanji: 素
+  meaning: elementary, principle, naked, uncovered
   vocabulary: 
     -
       kanji: 素直な
@@ -1095,6 +1176,7 @@
       meaning: brand name of MSG
 -
   kanji: 直
+  meaning: straightway, honesty, fix, repair
   vocabulary: 
     -
       kanji: 素直な
@@ -1118,6 +1200,7 @@
       meaning: direct, immediate
 -
   kanji: 幸
+  meaning: happiness, blessing, fortune
   vocabulary: 
     -
       kanji: 幸い
@@ -1137,6 +1220,7 @@
       meaning: good luck, fortune
 -
   kanji: 福
+  meaning: blessing, fortune, luck, wealth
   vocabulary: 
     -
       kanji: 幸福な
@@ -1144,6 +1228,7 @@
       meaning: happiness, blessedness, joy
 -
   kanji: 複
+  meaning: duplicate, double, compound, multiple
   vocabulary: 
     -
       kanji: 複雑
@@ -1151,6 +1236,7 @@
       meaning: complex, complicated, mixed (feelings)
 -
   kanji: 雑
+  meaning: miscellaneous
   vocabulary: 
     -
       kanji: 複雑
@@ -1166,6 +1252,7 @@
       meaning: magazine, journal, periodical
 -
   kanji: 迷
+  meaning: astray, lost, be perplexed, in doubt
   vocabulary: 
     -
       kanji: 迷う
@@ -1177,6 +1264,7 @@
       meaning: trouble, bother, annoyance
 -
   kanji: 惑
+  meaning: beguile, delusion, perplexity
   vocabulary: 
     -
       kanji: 迷惑
@@ -1184,6 +1272,7 @@
       meaning: trouble, bother, annoyance
 -
   kanji: 奇
+  meaning: strange, curiosity
   vocabulary: 
     -
       kanji: 奇妙
@@ -1191,6 +1280,7 @@
       meaning: strange, curious
 -
   kanji: 妙
+  meaning: exquisite, strange, mystery, miracle
   vocabulary: 
     -
       kanji: 奇妙
@@ -1198,6 +1288,7 @@
       meaning: strange, curious
 -
   kanji: 危
+  meaning: dangerous, fear, uneasy
   vocabulary: 
     -
       kanji: 危ない
@@ -1217,6 +1308,7 @@
       meaning: crisis, danger, risk
 -
   kanji: 険
+  meaning: precipitous, inaccessible, place
   vocabulary: 
     -
       kanji: 危険な
@@ -1228,6 +1320,7 @@
       meaning: precipitous, rugged, inaccessible, steep
 -
   kanji: 簡
+  meaning: simplicity, brevity
   vocabulary: 
     -
       kanji: 簡単
@@ -1235,6 +1328,7 @@
       meaning: simple, easy, uncomplicated
 -
   kanji: 単
+  meaning: simple, one, single
   vocabulary: 
     -
       kanji: 簡単
@@ -1254,6 +1348,7 @@
       meaning: simply, merely
 -
   kanji: 非
+  meaning: un-, non-, mistake, negative, injustice
   vocabulary: 
     -
       kanji: 非常
@@ -1273,6 +1368,7 @@
       meaning: certainly, without fail
 -
   kanji: 常
+  meaning: usual, ordinary, normal, common
   vocabulary: 
     -
       kanji: 非常口
@@ -1292,6 +1388,7 @@
       meaning: common sense
 -
   kanji: 乱
+  meaning: riot, war, disorder
   vocabulary: 
     -
       kanji: 乱れる
@@ -1307,6 +1404,7 @@
       meaning: rude, violent, rough, lawless, reckless, unreasonable
 -
   kanji: 暴
+  meaning: outburst, rave, force, violence, cruelty
   vocabulary: 
     -
       kanji: 乱暴
@@ -1314,6 +1412,7 @@
       meaning: rude, violent, rough, lawless, reckless, unreasonable
 -
   kanji: 豊
+  meaning: bountiful, rich, excellent
   vocabulary: 
     -
       kanji: 豊富
@@ -1325,6 +1424,7 @@
       meaning: abundant, wealthy, plentiful, rich
 -
   kanji: 富
+  meaning: wealth, enrich, abundant
   vocabulary: 
     -
       kanji: 豊富
@@ -1336,6 +1436,7 @@
       meaning: Mt. Fuji
 -
   kanji: 労
+  meaning: labor, thank for, toil, trouble
   vocabulary: 
     -
       kanji: 苦労
@@ -1351,6 +1452,7 @@
       meaning: employee, worker, laborer
 -
   kanji: 警
+  meaning: admonish, commandment
   vocabulary: 
     -
       kanji: 警官
@@ -1362,6 +1464,7 @@
       meaning: police, police officer
 -
   kanji: 察
+  meaning: guess, presume, surmise, judge, understand
   vocabulary: 
     -
       kanji: 警察
@@ -1377,6 +1480,7 @@
       meaning: police station
 -
   kanji: 師
+  meaning: expert, teacher, master, model
   vocabulary: 
     -
       kanji: 教師
@@ -1392,6 +1496,7 @@
       meaning: nurse
 -
   kanji: 臣
+  meaning: retainer, subject
   vocabulary: 
     -
       kanji: 総理大臣
@@ -1399,6 +1504,7 @@
       meaning: prime minister
 -
   kanji: 秘
+  meaning: secret, conceal
   vocabulary: 
     -
       kanji: 秘める
@@ -1414,6 +1520,7 @@
       meaning: secret, secrecy, confidentiality
 -
   kanji: 技
+  meaning: skill, art, craft, ability, feat, performance
   vocabulary: 
     -
       kanji: 技術
@@ -1433,6 +1540,7 @@
       meaning: technical skill, ability
 -
   kanji: 術
+  meaning: art, technique, skill, means, trick, resources
   vocabulary: 
     -
       kanji: 美術
@@ -1448,6 +1556,7 @@
       meaning: (surgical) operation, procedure
 -
   kanji: 務
+  meaning: task, duties
   vocabulary: 
     -
       kanji: 事務
@@ -1471,6 +1580,7 @@
       meaning: tax office
 -
   kanji: 盗
+  meaning: steal, rob
   vocabulary: 
     -
       kanji: 盗む
@@ -1482,6 +1592,7 @@
       meaning: robber, robbery, burglary
 -
   kanji: 農
+  meaning: agriculture, farmers
   vocabulary: 
     -
       kanji: 農業
@@ -1493,6 +1604,7 @@
       meaning: farmer, farming family, farmhouse
 -
   kanji: 受
+  meaning: accept, undergo, answer (phone), take, get, catch
   vocabulary: 
     -
       kanji: 受ける
@@ -1512,6 +1624,7 @@
       meaning: examinee
 -
   kanji: 等
+  meaning: etc., class (first), quality, equal, similar
   vocabulary: 
     -
       kanji: 等しい
@@ -1527,6 +1640,7 @@
       meaning: equality, impartiality
 -
   kanji: 授
+  meaning: impart, instruct, grant, confer
   vocabulary: 
     -
       kanji: 授ける
@@ -1542,6 +1656,7 @@
       meaning: lesson, class work, teaching, instruction
 -
   kanji: 専
+  meaning: specialty, mainly, exclusive, solely
   vocabulary: 
     -
       kanji: 専門
@@ -1557,6 +1672,7 @@
       meaning: major subject, special subject
 -
   kanji: 門
+  meaning: gate
   vocabulary: 
     -
       kanji: 門
@@ -1572,6 +1688,7 @@
       meaning: primer, introduction (with する), entering institution, beginning training
 -
   kanji: 政
+  meaning: politics, government
   vocabulary: 
     -
       kanji: 政治
@@ -1587,6 +1704,7 @@
       meaning: government, administration
 -
   kanji: 府
+  meaning: urban prefecture, government office, representative body
   vocabulary: 
     -
       kanji: 政府
@@ -1598,6 +1716,7 @@
       meaning: administrative division of Japan
 -
   kanji: 選
+  meaning: elect, select, choose, prefer
   vocabulary: 
     -
       kanji: 選ぶ
@@ -1613,6 +1732,7 @@
       meaning: player
 -
   kanji: 挙
+  meaning: raise, plan, project, behavior
   vocabulary: 
     -
       kanji: 選挙
@@ -1620,6 +1740,7 @@
       meaning: election
 -
   kanji: 孫
+  meaning: grandchild, decendants
   vocabulary: 
     -
       kanji: 孫
@@ -1627,6 +1748,7 @@
       meaning: grandchild
 -
   kanji: 供
+  meaning: submit, offer, serve (meal), accompany
   vocabulary: 
     -
       kanji: 子供
@@ -1638,6 +1760,7 @@
       meaning: to offer, to sacrifice, to dedicate​
 -
   kanji: 息
+  meaning: breath, respiration, son
   vocabulary: 
     -
       kanji: 息
@@ -1649,6 +1772,7 @@
       meaning: son
 -
   kanji: 娘
+  meaning: daughter, girl
   vocabulary: 
     -
       kanji: 娘
@@ -1656,6 +1780,7 @@
       meaning: (my) daughter, girl
 -
   kanji: 徒
+  meaning: on foot, junior, emptiness, futility, uselessness, gang, set
   vocabulary: 
     -
       kanji: 徒歩
@@ -1667,6 +1792,7 @@
       meaning: pupil
 -
   kanji: 児
+  meaning: newborn baby, child, young of animals
   vocabulary: 
     -
       kanji: 育児
@@ -1678,6 +1804,7 @@
       meaning: children, juvenile
 -
   kanji: 仲
+  meaning: go-between, relationship
   vocabulary: 
     -
       kanji: 仲間
@@ -1685,6 +1812,7 @@
       meaning: fellow, colleage, associate, comrade, group, circle of friends
 -
   kanji: 患
+  meaning: afflicted, disease, suffer from, be ill
   vocabulary: 
     -
       kanji: 患う
@@ -1696,6 +1824,7 @@
       meaning: patient
 -
   kanji: 恋
+  meaning: romance, in love, yearn for, darling
   vocabulary: 
     -
       kanji: 恋人
@@ -1707,6 +1836,7 @@
       meaning: love, passion, emotion, affections
 -
   kanji: 老
+  meaning: old man, old age, grow old
   vocabulary: 
     -
       kanji: 老人
@@ -1714,6 +1844,7 @@
       meaning: the aged, old person
 -
   kanji: 齢
+  meaning: age
   vocabulary: 
     -
       kanji: 高齢
@@ -1725,6 +1856,7 @@
       meaning: age, years
 -
   kanji: 性
+  meaning: sex, gender, nature
   vocabulary: 
     -
       kanji: 個性
@@ -1756,6 +1888,7 @@
       meaning: character, personality
 -
   kanji: 卒
+  meaning: graduate, soldier, private, die
   vocabulary: 
     -
       kanji: 卒業
@@ -1767,6 +1900,7 @@
       meaning: graduate, alumnus
 -
   kanji: 独
+  meaning: single, alone, spontaneously, Germany
   vocabulary: 
     -
       kanji: 独身
@@ -1774,6 +1908,7 @@
       meaning: single, unmarried
 -
   kanji: 身
+  meaning: somebody, person, one's station in life
   vocabulary: 
     -
       kanji: 独身
@@ -1801,6 +1936,7 @@
       meaning: raw sliced fish
 -
   kanji: 係
+  meaning: person in charge, connection, duty
   vocabulary: 
     -
       kanji: 係の人
@@ -1812,6 +1948,7 @@
       meaning: relation, relationship, connection
 -
   kanji: 責
+  meaning: blame, condemn, censure
   vocabulary: 
     -
       kanji: 責める
@@ -1827,6 +1964,7 @@
       meaning: person in charge, responsible party, supervisor
 -
   kanji: 任
+  meaning: responsibility, term, entrust to
   vocabulary: 
     -
       kanji: 任せる
@@ -1838,6 +1976,7 @@
       meaning: duty, responsibility
 -
   kanji: 互
+  meaning: mutually, reciprocally, together
   vocabulary: 
     -
       kanji: お互いに
@@ -1849,6 +1988,7 @@
       meaning: mutal, reciprocal
 -
   kanji: 王
+  meaning: king, rule, magnate
   vocabulary: 
     -
       kanji: 王
@@ -1864,6 +2004,7 @@
       meaning: king
 -
   kanji: 胸
+  meaning: breast, chest, heart, feeling
   vocabulary: 
     -
       kanji: 胸
@@ -1871,6 +2012,7 @@
       meaning: chest, breast, heart, mind, feelings
 -
   kanji: 脳
+  meaning: brain, memory
   vocabulary: 
     -
       kanji: 脳
@@ -1882,6 +2024,7 @@
       meaning: head, leader
 -
   kanji: 皮
+  meaning: pelt, skin, hide, leather
   vocabulary: 
     -
       kanji: 皮
@@ -1901,6 +2044,7 @@
       meaning: dermatology
 -
   kanji: 膚
+  meaning: skin, body, grain, texture, disposition
   vocabulary: 
     -
       kanji: 皮膚
@@ -1908,6 +2052,7 @@
       meaning: skin
 -
   kanji: 腰
+  meaning: loins, hips, waist
   vocabulary: 
     -
       kanji: 腰
@@ -1915,6 +2060,7 @@
       meaning: back, lower back, waist, hips
 -
   kanji: 歯
+  meaning: tooth, cog
   vocabulary: 
     -
       kanji: 歯
@@ -1934,6 +2080,7 @@
       meaning: cavity, tooth decay, caries
 -
   kanji: 鼻
+  meaning: nose, snout
   vocabulary: 
     -
       kanji: 鼻
@@ -1945,6 +2092,7 @@
       meaning: otolaryngology, concerning the ear nose and throat (ENT)
 -
   kanji: 肌
+  meaning: texture, skin, body, grain
   vocabulary: 
     -
       kanji: 肌
@@ -1952,6 +2100,7 @@
       meaning: skin
 -
   kanji: 骨
+  meaning: skeleton, bone, remains, frame
   vocabulary: 
     -
       kanji: 骨
@@ -1963,6 +2112,7 @@
       meaning: bone fracture
 -
   kanji: 折
+  meaning: fold, break, fracture, bend, yield, submit
   vocabulary: 
     -
       kanji: 折れる
@@ -1986,6 +2136,7 @@
       meaning: origami, art of folding paper
 -
   kanji: 胃
+  meaning: stomach
   vocabulary: 
     -
       kanji: 胃
@@ -1993,6 +2144,7 @@
       meaning: stomach
 -
   kanji: 血
+  meaning: blood
   vocabulary: 
     -
       kanji: 血
@@ -2004,6 +2156,7 @@
       meaning: bleeding, hemorage
 -
   kanji: 汗
+  meaning: sweat, perspire
   vocabulary: 
     -
       kanji: 汗
@@ -2011,6 +2164,7 @@
       meaning: sweat
 -
   kanji: 涙
+  meaning: tears, sympathy
   vocabulary: 
     -
       kanji: 涙
@@ -2018,6 +2172,7 @@
       meaning: tears
 -
   kanji: 指
+  meaning: fingers, point to, indicate, put into, measure (ruler)
   vocabulary: 
     -
       kanji: 指
@@ -2033,6 +2188,7 @@
       meaning: reserved seat
 -
   kanji: 健
+  meaning: healthy, health, strength
   vocabulary: 
     -
       kanji: 健康
@@ -2044,6 +2200,7 @@
       meaning: vigorous; healthy; sound
 -
   kanji: 康
+  meaning: ease, peace
   vocabulary: 
     -
       kanji: 健康
@@ -2051,6 +2208,7 @@
       meaning: health, healthy, wholesome
 -
   kanji: 亡
+  meaning: deceased, the late, dying, perished
   vocabulary: 
     -
       kanji: 亡くなる
@@ -2062,6 +2220,7 @@
       meaning: death, mortality
 -
   kanji: 類
+  meaning: sort, kind, variety, class, genus
   vocabulary: 
     -
       kanji: 書類
@@ -2077,6 +2236,7 @@
       meaning: humanity, mankind
 -
   kanji: 命
+  meaning: fate, command, decree, destiny, life, appoint
   vocabulary: 
     -
       kanji: 命
@@ -2092,6 +2252,7 @@
       meaning: life span
 -
   kanji: 蔵
+  meaning: storehouse, hide, own, have, posess
   vocabulary: 
     -
       kanji: 冷蔵庫
@@ -2099,6 +2260,7 @@
       meaning: refrigirator
 -
   kanji: 庫
+  meaning: warehouse, storehouse
   vocabulary: 
     -
       kanji: 金庫
@@ -2114,6 +2276,7 @@
       meaning: warehouse
 -
   kanji: 凍
+  meaning: frozen, congeal, refrigerate
   vocabulary: 
     -
       kanji: 凍る
@@ -2125,6 +2288,7 @@
       meaning: freezer
 -
   kanji: 壁
+  meaning: wall, stomach (lining), fence
   vocabulary: 
     -
       kanji: 壁
@@ -2132,6 +2296,7 @@
       meaning: wall, partition
 -
   kanji: 根
+  meaning: roof, radical, head (pimple)
   vocabulary: 
     -
       kanji: 根
@@ -2143,6 +2308,7 @@
       meaning: roof
 -
   kanji: 具
+  meaning: tool, utensil, means, indgridients, sets of furniture
   vocabulary: 
     -
       kanji: 具合
@@ -2150,6 +2316,7 @@
       meaning: condition, state, manner, health
 -
   kanji: 器
+  meaning: 
   vocabulary: 
     -
       kanji: 機器
@@ -2165,6 +2332,7 @@
       meaning: musical instrument
 -
   kanji: 床
+  meaning: floor
   vocabulary: 
     -
       kanji: 床
@@ -2172,6 +2340,7 @@
       meaning: floor
 -
   kanji: 麦
+  meaning: barley, wheat
   vocabulary: 
     -
       kanji: 麦
@@ -2187,6 +2356,7 @@
       meaning: barley tea
 -
   kanji: 粉
+  meaning: flour, powder, dust
   vocabulary: 
     -
       kanji: 粉
@@ -2206,6 +2376,7 @@
       meaning: pollen
 -
   kanji: 刺
+  meaning: 
   vocabulary: 
     -
       kanji: 刺す
@@ -2221,6 +2392,7 @@
       meaning: raw sliced fish
 -
   kanji: 袋
+  meaning: sack, bag pouch
   vocabulary: 
     -
       kanji: 袋
@@ -2244,6 +2416,7 @@
       meaning: Japanese socks (with split toe)
 -
   kanji: 湯
+  meaning: hot water, hat bath, hot spring
   vocabulary: 
     -
       kanji: お湯
@@ -2251,6 +2424,7 @@
       meaning: hot water, hot bath
 -
   kanji: 材
+  meaning: lumber, log, timber, wood, materials, ingridients, talent
   vocabulary: 
     -
       kanji: 材料
@@ -2270,6 +2444,7 @@
       meaning: lumber
 -
   kanji: 砂
+  meaning: sand
   vocabulary: 
     -
       kanji: 砂
@@ -2285,6 +2460,7 @@
       meaning: desert
 -
   kanji: 塩
+  meaning: salt
   vocabulary: 
     -
       kanji: 塩
@@ -2300,6 +2476,7 @@
       meaning: salt content
 -
   kanji: 油
+  meaning: oil, fat
   vocabulary: 
     -
       kanji: 油
@@ -2319,6 +2496,7 @@
       meaning: oil, petroleum oil, kerosene
 -
   kanji: 菓
+  meaning: candy, cakes, fruit
   vocabulary: 
     -
       kanji: お菓子
@@ -2330,6 +2508,7 @@
       meaning: Japanese confectionery
 -
   kanji: 貝
+  meaning: shellfish
   vocabulary: 
     -
       kanji: 貝
@@ -2337,6 +2516,7 @@
       meaning: shell, shellfish
 -
   kanji: 缶
+  meaning: tin can, container
   vocabulary: 
     -
       kanji: 缶
