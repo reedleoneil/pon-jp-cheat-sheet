@@ -1,0 +1,3342 @@
+[
+    {
+      "kanji": "個",
+      "meaning": "individual",
+      "vocabulary": [
+        {
+          "kanji": "個性",
+          "kana": "こせい",
+          "meaning": "individuality, personality"
+        },
+        {
+          "kanji": "～個",
+          "kana": "～こ",
+          "meaning": "counter (piece)"
+        },
+        {
+          "kanji": "個人",
+          "kana": "こじん",
+          "meaning": "individual, private person"
+        },
+        {
+          "kanji": "個数",
+          "kana": "こすう",
+          "meaning": "number of articles, quantity"
+        }
+      ]
+    },
+    {
+      "kanji": "冊",
+      "meaning": "tome, volume",
+      "vocabulary": [
+        {
+          "kanji": "～冊",
+          "kana": "～さつ",
+          "meaning": "counter for books"
+        },
+        {
+          "kanji": "冊数",
+          "kana": "さっすう",
+          "meaning": "number of books"
+        }
+      ]
+    },
+    {
+      "kanji": "階",
+      "meaning": "storey, stairs",
+      "vocabulary": [
+        {
+          "kanji": "～階",
+          "kana": "～かい",
+          "meaning": "counter for storeys, floors of a building"
+        },
+        {
+          "kanji": "階段",
+          "kana": "かいだん",
+          "meaning": "stairs, stairway"
+        }
+      ]
+    },
+    {
+      "kanji": "匹",
+      "meaning": "equal, counter (small animal, rolls of cloth)",
+      "vocabulary": [
+        {
+          "kanji": "～匹",
+          "kana": "～ひき",
+          "meaning": "counter for small animal, rolls of cloth"
+        }
+      ]
+    },
+    {
+      "kanji": "歳",
+      "meaning": "year-end, age, occasion",
+      "vocabulary": [
+        {
+          "kanji": "～歳",
+          "kana": "～さい",
+          "meaning": "~years old"
+        },
+        {
+          "kanji": "二十歳",
+          "kana": "はたち",
+          "meaning": "twenty years old"
+        }
+      ]
+    },
+    {
+      "kanji": "第",
+      "meaning": "No., residence",
+      "vocabulary": [
+        {
+          "kanji": "～第",
+          "kana": "～だい",
+          "meaning": "prefix for forming ordinal numbers"
+        }
+      ]
+    },
+    {
+      "kanji": "課",
+      "meaning": "chapter, section, department",
+      "vocabulary": [
+        {
+          "kanji": "課長",
+          "kana": "かちょう",
+          "meaning": "section manager; section chief"
+        },
+        {
+          "kanji": "～課",
+          "kana": "～か",
+          "meaning": "lesson, section (in an org), coutner (lessons and chapters)"
+        },
+        {
+          "kanji": "日課",
+          "kana": "にっか",
+          "meaning": "daily lesson, daily work, daily routine"
+        }
+      ]
+    },
+    {
+      "kanji": "線",
+      "meaning": "line, track",
+      "vocabulary": [
+        {
+          "kanji": "線",
+          "kana": "せん",
+          "meaning": "line, ray (X-ray), beam, line (railroad), track, lane"
+        },
+        {
+          "kanji": "番線",
+          "kana": "ばんせん",
+          "meaning": "track number"
+        },
+        {
+          "kanji": "下線",
+          "kana": "かせん",
+          "meaning": "underline"
+        }
+      ]
+    },
+    {
+      "kanji": "兆",
+      "meaning": "trillion, omen",
+      "vocabulary": [
+        {
+          "kanji": "何兆円",
+          "kana": "なんちょうえん",
+          "meaning": "several trillion Japanese yen"
+        },
+        {
+          "kanji": "兆す",
+          "kana": "きざす",
+          "meaning": "to show signs"
+        },
+        {
+          "kanji": "兆し",
+          "kana": "きざし",
+          "meaning": "omen"
+        }
+      ]
+    },
+    {
+      "kanji": "億",
+      "meaning": "hundred million, billion",
+      "vocabulary": [
+        {
+          "kanji": "～億",
+          "kana": "～おく",
+          "meaning": "hundred million"
+        }
+      ]
+    },
+    {
+      "kanji": "倍",
+      "meaning": "double, twice, times",
+      "vocabulary": [
+        {
+          "kanji": "～倍",
+          "kana": "～ばい",
+          "meaning": "double, twice, times"
+        }
+      ]
+    },
+    {
+      "kanji": "放",
+      "meaning": "set free, release, liberate",
+      "vocabulary": [
+        {
+          "kanji": "放す",
+          "kana": "はなす",
+          "meaning": "to release"
+        },
+        {
+          "kanji": "放れる",
+          "kana": "はなれる",
+          "meaning": "to be released"
+        },
+        {
+          "kanji": "放題",
+          "kana": "ほうだい",
+          "meaning": "as much as you would like to, as uch as one  likes"
+        },
+        {
+          "kanji": "食べ放題",
+          "kana": "たべほうだい",
+          "meaning": "eat all you can"
+        },
+        {
+          "kanji": "飲み放題",
+          "kana": "のみほうだい",
+          "meaning": "drink all you can, bottomless"
+        }
+      ]
+    },
+    {
+      "kanji": "副",
+      "meaning": "vice-, assistant, aide, duplicate",
+      "vocabulary": [
+        {
+          "kanji": "副",
+          "kana": "ふく",
+          "meaning": "assistant, associate, vice-, sub-, deputy, duplicate, copy"
+        },
+        {
+          "kanji": "副社長",
+          "kana": "ふくしゃちょう",
+          "meaning": "executive vice president"
+        },
+        {
+          "kanji": "副会長",
+          "kana": "ふくかいちょう",
+          "meaning": "vice president (of a club, etc.)"
+        }
+      ]
+    },
+    {
+      "kanji": "的",
+      "meaning": "bull's eye, target, adjective ending",
+      "vocabulary": [
+        {
+          "kanji": "的",
+          "kana": "まと",
+          "meaning": "mark, target"
+        },
+        {
+          "kanji": "否定的",
+          "kana": "ひていてき",
+          "meaning": "negative, contradictory"
+        },
+        {
+          "kanji": "目的",
+          "kana": "もくてき",
+          "meaning": "purpose, goal, objective"
+        },
+        {
+          "kanji": "国際的",
+          "kana": "こくさいてき",
+          "meaning": "international"
+        },
+        {
+          "kanji": "個人的",
+          "kana": "こじんてき",
+          "meaning": "personal, private, individual"
+        }
+      ]
+    },
+    {
+      "kanji": "級",
+      "meaning": "class, rank, grade",
+      "vocabulary": [
+        {
+          "kanji": "高級",
+          "kana": "こうきゅう",
+          "meaning": "high class, high grade/rank"
+        },
+        {
+          "kanji": "上級",
+          "kana": "じょうきゅう",
+          "meaning": "advanced level, high grade"
+        },
+        {
+          "kanji": "中級",
+          "kana": "ちゅうきゅう",
+          "meaning": "intermidate level"
+        },
+        {
+          "kanji": "初級",
+          "kana": "しょきゅう",
+          "meaning": "elemtary level"
+        }
+      ]
+    },
+    {
+      "kanji": "再",
+      "meaning": "again, twice",
+      "vocabulary": [
+        {
+          "kanji": "再び",
+          "kana": "ふたた",
+          "meaning": "again; once more; a second time"
+        },
+        {
+          "kanji": "再入国",
+          "kana": "さいにゅうこく",
+          "meaning": "re-entry into a country"
+        },
+        {
+          "kanji": "再生",
+          "kana": "さいせい",
+          "meaning": "regeneration, playback"
+        },
+        {
+          "kanji": "再来週",
+          "kana": "さらいしゅう",
+          "meaning": "week after next"
+        }
+      ]
+    },
+    {
+      "kanji": "無",
+      "meaning": "nothingness, none, not",
+      "vocabulary": [
+        {
+          "kanji": "無い",
+          "kana": "ない",
+          "meaning": "nonexistent; not being (there)"
+        },
+        {
+          "kanji": "無事",
+          "kana": "ぶじ",
+          "meaning": "saftey, peace, quitness"
+        },
+        {
+          "kanji": "無料",
+          "kana": "むりょう",
+          "meaning": "free, no charge"
+        },
+        {
+          "kanji": "無断",
+          "kana": "むだん",
+          "meaning": "without permission, without notice"
+        },
+        {
+          "kanji": "無理",
+          "kana": "むり",
+          "meaning": "unreasonable, impossible"
+        },
+        {
+          "kanji": "無限",
+          "kana": "むげん",
+          "meaning": "infinity, infinite, limitless"
+        }
+      ]
+    },
+    {
+      "kanji": "各",
+      "meaning": "each, every, either",
+      "vocabulary": [
+        {
+          "kanji": "各々",
+          "kana": "おのおの",
+          "meaning": "each"
+        },
+        {
+          "kanji": "各地",
+          "kana": "かくち",
+          "meaning": "every place, various places"
+        },
+        {
+          "kanji": "各自",
+          "kana": "かくじ",
+          "meaning": "each person, everyone, respective"
+        },
+        {
+          "kanji": "各国",
+          "kana": "かっこく",
+          "meaning": "each country, many country"
+        },
+        {
+          "kanji": "各駅",
+          "kana": "かくえき",
+          "meaning": "every station"
+        }
+      ]
+    },
+    {
+      "kanji": "未",
+      "meaning": "un-, not yet, still, even now",
+      "vocabulary": [
+        {
+          "kanji": "未だ",
+          "kana": "まだ",
+          "meaning": "still; as yet; only​"
+        },
+        {
+          "kanji": "未定",
+          "kana": "みてい",
+          "meaning": "not yet fixed, undecided, pending"
+        },
+        {
+          "kanji": "未来",
+          "kana": "みらい",
+          "meaning": "the future (distant future)"
+        },
+        {
+          "kanji": "未満",
+          "kana": "みまん",
+          "meaning": "less than, insufficient"
+        }
+      ]
+    },
+    {
+      "kanji": "祭",
+      "meaning": "ritual, worship, celebrate",
+      "vocabulary": [
+        {
+          "kanji": "文化祭",
+          "kana": "ぶんかさい",
+          "meaning": "school festival, cultural/arts festival"
+        },
+        {
+          "kanji": "お祭る",
+          "kana": "おまつる",
+          "meaning": "festival, feast"
+        },
+        {
+          "kanji": "～祭",
+          "kana": "～さい",
+          "meaning": "festival suffix"
+        }
+      ]
+    },
+    {
+      "kanji": "限",
+      "meaning": "limit, restrict, to best of ability",
+      "vocabulary": [
+        {
+          "kanji": "限界",
+          "kana": "げんかい",
+          "meaning": "limit, bound"
+        },
+        {
+          "kanji": "限度",
+          "kana": "げんど",
+          "meaning": "limit, bound"
+        },
+        {
+          "kanji": "限定",
+          "kana": "げんてい",
+          "meaning": "limit, restriction"
+        },
+        {
+          "kanji": "制限",
+          "kana": "せいげん",
+          "meaning": "restriction, restraint, limitation, limit"
+        },
+        {
+          "kanji": "限る",
+          "kana": "かぎる",
+          "meaning": "to restrict, to limit, to be restricted to, to be limited to"
+        },
+        {
+          "kanji": "期限",
+          "kana": "きげん",
+          "meaning": "term, time frame, time limit, deadline, cutoff"
+        }
+      ]
+    },
+    {
+      "kanji": "昨",
+      "meaning": "yesterday, previous",
+      "vocabulary": [
+        {
+          "kanji": "昨日",
+          "kana": "きのう",
+          "meaning": "yesterday"
+        },
+        {
+          "kanji": "昨日",
+          "kana": "さくじつ",
+          "meaning": "yesterday"
+        },
+        {
+          "kanji": "昨夜",
+          "kana": "さくや",
+          "meaning": "last night"
+        },
+        {
+          "kanji": "昨年",
+          "kana": "さくねん",
+          "meaning": "last year"
+        }
+      ]
+    },
+    {
+      "kanji": "末",
+      "meaning": "end, close, tip, powder",
+      "vocabulary": [
+        {
+          "kanji": "末",
+          "kana": "すえ",
+          "meaning": "end, tip, top"
+        },
+        {
+          "kanji": "月末",
+          "kana": "げつまつ",
+          "meaning": "end of the month"
+        },
+        {
+          "kanji": "年末",
+          "kana": "ねんまつ",
+          "meaning": "end of the year"
+        },
+        {
+          "kanji": "週末",
+          "kana": "しゅうまつ",
+          "meaning": "weekend"
+        },
+        {
+          "kanji": "末っ子",
+          "kana": "すえっこ",
+          "meaning": "youngest son"
+        }
+      ]
+    },
+    {
+      "kanji": "在",
+      "meaning": "exist, outskirts, suburbs, located in",
+      "vocabulary": [
+        {
+          "kanji": "不在",
+          "kana": "ふざい",
+          "meaning": "absence, disregard, indifference"
+        },
+        {
+          "kanji": "現在",
+          "kana": "げんざい",
+          "meaning": "now, current, present"
+        }
+      ]
+    },
+    {
+      "kanji": "昔",
+      "meaning": "once upon a time, antiquity",
+      "vocabulary": [
+        {
+          "kanji": "昔",
+          "kana": "むかし",
+          "meaning": "olden days, former"
+        },
+        {
+          "kanji": "昔々",
+          "kana": "むかしむかし",
+          "meaning": "olden days, former"
+        },
+        {
+          "kanji": "昔話",
+          "kana": "ｍかしばなし",
+          "meaning": "old tale, folk tale, legend"
+        }
+      ]
+    },
+    {
+      "kanji": "期",
+      "meaning": "period, time, date, term",
+      "vocabulary": [
+        {
+          "kanji": "期間",
+          "kana": "きかん",
+          "meaning": "period, term, interval"
+        },
+        {
+          "kanji": "期限",
+          "kana": "きげん",
+          "meaning": "term, time frame, time limit, deadline, cutoff"
+        },
+        {
+          "kanji": "期待",
+          "kana": "きたい",
+          "meaning": "expectation, anticipation, hope"
+        },
+        {
+          "kanji": "延期",
+          "kana": "えんき",
+          "meaning": "postponement, adjournment"
+        },
+        {
+          "kanji": "定期",
+          "kana": "ていき",
+          "meaning": "fixed period/term, regular period"
+        },
+        {
+          "kanji": "定期間",
+          "kana": "ていきかん",
+          "meaning": "fixed period/term, regular period"
+        },
+        {
+          "kanji": "定期券",
+          "kana": "ていきけん",
+          "meaning": "commuter pass, season pass"
+        },
+        {
+          "kanji": "長期",
+          "kana": "ちょうき",
+          "meaning": "long term"
+        },
+        {
+          "kanji": "短期",
+          "kana": "たんき",
+          "meaning": "short term"
+        }
+      ]
+    },
+    {
+      "kanji": "念",
+      "meaning": "wish, sense, idea, desire, attention",
+      "vocabulary": [
+        {
+          "kanji": "残念",
+          "kana": "ざんねん",
+          "meaning": "deprlorable, regret"
+        },
+        {
+          "kanji": "記念",
+          "kana": "きねん",
+          "meaning": "commemoration"
+        },
+        {
+          "kanji": "記念日",
+          "kana": "きねんび",
+          "meaning": "holiday, memorial day"
+        }
+      ]
+    },
+    {
+      "kanji": "秒",
+      "meaning": "second",
+      "vocabulary": [
+        {
+          "kanji": "秒",
+          "kana": "びょう",
+          "meaning": "second"
+        }
+      ]
+    },
+    {
+      "kanji": "制",
+      "meaning": "system, law, rule",
+      "vocabulary": [
+        {
+          "kanji": "制服",
+          "kana": "せいふく",
+          "meaning": "uniform"
+        },
+        {
+          "kanji": "制限",
+          "kana": "せいげん",
+          "meaning": "restriction, restraint, limitation, limit"
+        },
+        {
+          "kanji": "制度",
+          "kana": "せいど",
+          "meaning": "system, institution, organization"
+        }
+      ]
+    },
+    {
+      "kanji": "製",
+      "meaning": "made in..., manufacture",
+      "vocabulary": [
+        {
+          "kanji": "製品",
+          "kana": "せいひん",
+          "meaning": "manufactured goods, finished goods, product"
+        },
+        {
+          "kanji": "～製",
+          "kana": "～せい",
+          "meaning": "made, make"
+        },
+        {
+          "kanji": "製作",
+          "kana": "せいさく",
+          "meaning": "manufacture, production"
+        }
+      ]
+    },
+    {
+      "kanji": "量",
+      "meaning": "quantity, measure, weight, amount, consider, estimate, surmise",
+      "vocabulary": [
+        {
+          "kanji": "量",
+          "kana": "りょう",
+          "meaning": "quantity, amount, volume, portion (of food)"
+        },
+        {
+          "kanji": "増量",
+          "kana": "ぞうりょう",
+          "meaning": "increased volume or quantity"
+        },
+        {
+          "kanji": "数量",
+          "kana": "すうりょう",
+          "meaning": "quanity, volume"
+        },
+        {
+          "kanji": "減量",
+          "kana": "げんりょう",
+          "meaning": "loss in wieght (esp. body weight), lost in quanity"
+        },
+        {
+          "kanji": "大量",
+          "kana": "たいりょう",
+          "meaning": "large quantity, mass (eg. mass production, etc)"
+        }
+      ]
+    },
+    {
+      "kanji": "型",
+      "meaning": "mould, type, model",
+      "vocabulary": [
+        {
+          "kanji": "型",
+          "kana": "かた",
+          "meaning": "model, type (machine, goods, etc.) pattern, template, size"
+        },
+        {
+          "kanji": "大型",
+          "kana": "おおがた",
+          "meaning": "large, large scale, jumbo"
+        },
+        {
+          "kanji": "新型",
+          "kana": "しんがた",
+          "meaning": "new type, new style, new model, new strain (virus)"
+        },
+        {
+          "kanji": "小型",
+          "kana": "こがた",
+          "meaning": "small size, tiny, compact"
+        }
+      ]
+    },
+    {
+      "kanji": "般",
+      "meaning": "carrier, carry, all, general, sort, kind",
+      "vocabulary": [
+        {
+          "kanji": "一般",
+          "kana": "いっぱん",
+          "meaning": "general, universal, ordinary, average, common"
+        },
+        {
+          "kanji": "一般に",
+          "kana": "いっぱんに",
+          "meaning": "in general, generally"
+        },
+        {
+          "kanji": "一般的",
+          "kana": "いっぱんてき",
+          "meaning": "popular, typical, general"
+        }
+      ]
+    },
+    {
+      "kanji": "賞",
+      "meaning": "prize, reward, price",
+      "vocabulary": [
+        {
+          "kanji": "賞",
+          "kana": "しょう",
+          "meaning": "prize, award"
+        },
+        {
+          "kanji": "賞金",
+          "kana": "しょうきん",
+          "meaning": "prize, motetary award"
+        },
+        {
+          "kanji": "賞品",
+          "kana": "しょうひん",
+          "meaning": "price, trophy"
+        },
+        {
+          "kanji": "賞味期限",
+          "kana": "しょうみきげん",
+          "meaning": "best before date"
+        }
+      ]
+    },
+    {
+      "kanji": "他",
+      "meaning": "other, another, the others",
+      "vocabulary": [
+        {
+          "kanji": "他の",
+          "kana": "ほかの",
+          "meaning": "other, the rest, outside, beyond"
+        },
+        {
+          "kanji": "その他",
+          "kana": "そのた",
+          "meaning": "etc, otherwise, besides, in addtition, the rest"
+        }
+      ]
+    },
+    {
+      "kanji": "初",
+      "meaning": "first time, beggining",
+      "vocabulary": [
+        {
+          "kanji": "最初",
+          "kana": "さいしょ",
+          "meaning": "beginning, outset, first, onset"
+        },
+        {
+          "kanji": "初め",
+          "kana": "はじめ",
+          "meaning": "beginning, start outset, opening, first (in line), origin"
+        },
+        {
+          "kanji": "初めて",
+          "kana": "はじめて",
+          "meaning": "for the first time, only after... is it..."
+        },
+        {
+          "kanji": "初級",
+          "kana": "しょきゅう",
+          "meaning": "elemtary level"
+        }
+      ]
+    },
+    {
+      "kanji": "角",
+      "meaning": "angle, corner, square, horn",
+      "vocabulary": [
+        {
+          "kanji": "角",
+          "kana": "かど",
+          "meaning": "corner"
+        },
+        {
+          "kanji": "角度",
+          "kana": "かくど",
+          "meaning": "angle"
+        },
+        {
+          "kanji": "四角い",
+          "kana": "しかくい",
+          "meaning": "square, rectangular"
+        },
+        {
+          "kanji": "三角形",
+          "kana": "さんかくけい",
+          "meaning": "triangle"
+        }
+      ]
+    },
+    {
+      "kanji": "例",
+      "meaning": "example, custom, usage, precedent",
+      "vocabulary": [
+        {
+          "kanji": "例",
+          "kana": "れい",
+          "meaning": "instance, example, case, illusration, usage, said, aforementioned, custom, practice"
+        },
+        {
+          "kanji": "例えば",
+          "kana": "たとえば",
+          "meaning": "for example, for instance"
+        }
+      ]
+    },
+    {
+      "kanji": "共",
+      "meaning": "together, both, nither, all, and, alike, with",
+      "vocabulary": [
+        {
+          "kanji": "共同",
+          "kana": "きょうどう",
+          "meaning": "doing together (as equals), sharing common (land, etc.), joint (statement, etc.), cooperation, collaboration"
+        },
+        {
+          "kanji": "共に",
+          "kana": "ともに",
+          "meaning": "together, jointly"
+        }
+      ]
+    },
+    {
+      "kanji": "総",
+      "meaning": "general, whole, all, full, total",
+      "vocabulary": [
+        {
+          "kanji": "総理",
+          "kana": "そうり",
+          "meaning": "prime minister, premier"
+        },
+        {
+          "kanji": "総",
+          "kana": "そう",
+          "meaning": "whole, all, general"
+        }
+      ]
+    },
+    {
+      "kanji": "悲",
+      "meaning": "grieve, sad, deplore, regret",
+      "vocabulary": [
+        {
+          "kanji": "悲しむ",
+          "kana": "かなしむ",
+          "meaning": "to be sad, to mourn for, to regret"
+        },
+        {
+          "kanji": "悲しい",
+          "kana": "かなしい",
+          "meaning": "sad, sorrowful"
+        }
+      ]
+    },
+    {
+      "kanji": "悔",
+      "meaning": "repent, regret",
+      "vocabulary": [
+        {
+          "kanji": "悔しい",
+          "kana": "くやしい",
+          "meaning": "vexing, annoying, frstrating, regrettable, morifying"
+        }
+      ]
+    },
+    {
+      "kanji": "眠",
+      "meaning": "sleep, die, sleepy",
+      "vocabulary": [
+        {
+          "kanji": "眠い",
+          "kana": "ねむい",
+          "meaning": "sleepy, drowsy"
+        },
+        {
+          "kanji": "眠る",
+          "kana": "ねむる",
+          "meaning": "to sleep, to die"
+        },
+        {
+          "kanji": "睡眠",
+          "kana": "すいみん",
+          "meaning": "sleep"
+        }
+      ]
+    },
+    {
+      "kanji": "優",
+      "meaning": "tenderness, excel, actor, superiority",
+      "vocabulary": [
+        {
+          "kanji": "優しい",
+          "kana": "やさしい",
+          "meaning": "tender, kind, gentle, graceful"
+        },
+        {
+          "kanji": "女優",
+          "kana": "じょゆう",
+          "meaning": "actress"
+        },
+        {
+          "kanji": "優先",
+          "kana": "ゆうせん",
+          "meaning": "preference, priority"
+        },
+        {
+          "kanji": "優先席",
+          "kana": "ゆうせんせき",
+          "meaning": "priority seat, courtesy seat"
+        }
+      ]
+    },
+    {
+      "kanji": "怖",
+      "meaning": "dreadful, be frightened",
+      "vocabulary": [
+        {
+          "kanji": "怖い",
+          "kana": "こわい",
+          "meaning": "scary, frightening, eerie, dreadful"
+        }
+      ]
+    },
+    {
+      "kanji": "懐",
+      "meaning": "feelings, heart, years, miss someone",
+      "vocabulary": [
+        {
+          "kanji": "懐かしい",
+          "kana": "なつかしい",
+          "meaning": "dear, desired, missed"
+        }
+      ]
+    },
+    {
+      "kanji": "恐",
+      "meaning": "fear, dread, awe",
+      "vocabulary": [
+        {
+          "kanji": "恐い",
+          "kana": "こわい",
+          "meaning": "scary, frightening, eerie, dreadful"
+        },
+        {
+          "kanji": "恐怖",
+          "kana": "きょうふ",
+          "meaning": "fear, dread, dismay, terror, horror, scare, panic"
+        },
+        {
+          "kanji": "恐竜",
+          "kana": "きょうりゅう",
+          "meaning": "dinasour"
+        }
+      ]
+    },
+    {
+      "kanji": "激",
+      "meaning": "violent, get excited, enraged chafe, incite",
+      "vocabulary": [
+        {
+          "kanji": "激しい",
+          "kana": "はげしい",
+          "meaning": "violent, furious, extreme, intense, fierce, strong, vehement, reintless, steep"
+        }
+      ]
+    },
+    {
+      "kanji": "嫌",
+      "meaning": "dislike, detest, hate",
+      "vocabulary": [
+        {
+          "kanji": "嫌い",
+          "kana": "きらい",
+          "meaning": "dislike, hate"
+        },
+        {
+          "kanji": "嫌な",
+          "kana": "いやな",
+          "meaning": "disagreeable, detestable, unpleasant, reluctant"
+        }
+      ]
+    },
+    {
+      "kanji": "厳",
+      "meaning": "stern, strictness, severity, rigidity",
+      "vocabulary": [
+        {
+          "kanji": "厳しい",
+          "kana": "きびしい",
+          "meaning": "severe, strict, rigid, intense, harsh, tough"
+        }
+      ]
+    },
+    {
+      "kanji": "細",
+      "meaning": "get thin, slender, detailed, precise",
+      "vocabulary": [
+        {
+          "kanji": "細い",
+          "kana": "ほそい",
+          "meaning": "thin, slender, fine"
+        },
+        {
+          "kanji": "細かい",
+          "kana": "こまかい",
+          "meaning": "small, fine, minor, trival, sensitive, attentive"
+        }
+      ]
+    },
+    {
+      "kanji": "詳",
+      "meaning": "detailed, full, minute, accurate, well-informed",
+      "vocabulary": [
+        {
+          "kanji": "詳しい",
+          "kana": "くわしい",
+          "meaning": "detailed, full, accurate, knowing very well, well-informed"
+        }
+      ]
+    },
+    {
+      "kanji": "珍",
+      "meaning": "rare, curious, strange",
+      "vocabulary": [
+        {
+          "kanji": "珍しい",
+          "kana": "めずらしい",
+          "meaning": "unusual, rare, curious"
+        }
+      ]
+    },
+    {
+      "kanji": "貧",
+      "meaning": "poverty, poor",
+      "vocabulary": [
+        {
+          "kanji": "貧しい",
+          "kana": "まずしい",
+          "meaning": "poor, needy"
+        }
+      ]
+    },
+    {
+      "kanji": "賢",
+      "meaning": null,
+      "vocabulary": [
+        {
+          "kanji": "賢い",
+          "kana": "かしこい",
+          "meaning": "wise, clever, smart"
+        }
+      ]
+    },
+    {
+      "kanji": "難",
+      "meaning": "difficult, trouble, accident, defect",
+      "vocabulary": [
+        {
+          "kanji": "難しい",
+          "kana": "むずかしい",
+          "meaning": "difficult, hard"
+        },
+        {
+          "kanji": "困難",
+          "kana": "こんなん",
+          "meaning": "difficulty, distress"
+        },
+        {
+          "kanji": "難問",
+          "kana": "なんもん",
+          "meaning": "perplexity, difficult question/problem"
+        }
+      ]
+    },
+    {
+      "kanji": "暖",
+      "meaning": "warmth",
+      "vocabulary": [
+        {
+          "kanji": "暖かい",
+          "kana": "あたたかい",
+          "meaning": "warm, mild, genial"
+        },
+        {
+          "kanji": "暖房",
+          "kana": "だんぼう",
+          "meaning": "heater"
+        }
+      ]
+    },
+    {
+      "kanji": "厚",
+      "meaning": "thick, heavy, rich, ind, cordial, shameless",
+      "vocabulary": [
+        {
+          "kanji": "厚い",
+          "kana": "あつい",
+          "meaning": "thick, deep, heavy, kind cordial, hospitable, warm"
+        }
+      ]
+    },
+    {
+      "kanji": "涼",
+      "meaning": "refreshing, nice and cool",
+      "vocabulary": [
+        {
+          "kanji": "涼しい",
+          "kana": "すずしい",
+          "meaning": "cool, refreshing"
+        }
+      ]
+    },
+    {
+      "kanji": "辛",
+      "meaning": "spicy, bitter, hot, acrid",
+      "vocabulary": [
+        {
+          "kanji": "辛い",
+          "kana": "からい",
+          "meaning": "spicy, hot, harsh (critisism), sever (punishment)"
+        },
+        {
+          "kanji": "辛い",
+          "kana": "つらい",
+          "meaning": "painful, difficult (emotionally), bitter, tough, hard (usually of situations)"
+        }
+      ]
+    },
+    {
+      "kanji": "薄",
+      "meaning": "dilute, weak (tea)",
+      "vocabulary": [
+        {
+          "kanji": "薄い",
+          "kana": "うすい",
+          "meaning": "thin; pale, light; watery, dilute; weak (taste, etc.); slim (probability, etc.)"
+        }
+      ]
+    },
+    {
+      "kanji": "汚",
+      "meaning": "dirty, pollute, disgrace, rape, defile",
+      "vocabulary": [
+        {
+          "kanji": "汚い",
+          "kana": "きたない",
+          "meaning": "dirty, filthy; disordered, messy; indecent (language); underhanded"
+        },
+        {
+          "kanji": "汚れる",
+          "kana": "よごれる",
+          "meaning": "to get dirty; to become corrupted"
+        },
+        {
+          "kanji": "汚す",
+          "kana": "よごす",
+          "meaning": "to pollute, to contaminate; to defile"
+        }
+      ]
+    },
+    {
+      "kanji": "濃",
+      "meaning": "concentrated, thick, dark, undiluted",
+      "vocabulary": [
+        {
+          "kanji": "濃い",
+          "kana": "こい",
+          "meaning": "deep (color), dark; strong (flavor, smell); thick (consistency); strong (possibility)"
+        }
+      ]
+    },
+    {
+      "kanji": "浅",
+      "meaning": "shallow, wretched, superficial",
+      "vocabulary": [
+        {
+          "kanji": "浅い",
+          "kana": "あさい",
+          "meaning": "shallow, superficial; slight (wound), light (sleep), pale (color)"
+        },
+        {
+          "kanji": "浅草",
+          "kana": "あさくさ",
+          "meaning": "Asakusa (district in Tokyo)"
+        }
+      ]
+    },
+    {
+      "kanji": "深",
+      "meaning": "deep, intensify, strengthen",
+      "vocabulary": [
+        {
+          "kanji": "深い",
+          "kana": "ふかい",
+          "meaning": "deep, profound, dense, close (relationship), late"
+        },
+        {
+          "kanji": "深夜",
+          "kana": "しんや",
+          "meaning": "late at night, midnight"
+        }
+      ]
+    },
+    {
+      "kanji": "丸",
+      "meaning": "round, full (month), perfection, pills, make round, roll up",
+      "vocabulary": [
+        {
+          "kanji": "丸い",
+          "kana": "まるい",
+          "meaning": "round, circular, spherical; harmonious, calm"
+        }
+      ]
+    },
+    {
+      "kanji": "固",
+      "meaning": "harden, set, clot, curdle",
+      "vocabulary": [
+        {
+          "kanji": "固まる",
+          "kana": "かたまる",
+          "meaning": "to harden, to solidify; to become firm, to become certain; to gather (together), to assemble"
+        },
+        {
+          "kanji": "固い",
+          "kana": "かたい",
+          "meaning": "hard, solid, though; stiff, tight; strong, firm; formal, bookish"
+        }
+      ]
+    },
+    {
+      "kanji": "苦",
+      "meaning": "suffering, trial, worry, feel bitter",
+      "vocabulary": [
+        {
+          "kanji": "苦い",
+          "kana": "にがい",
+          "meaning": "bitter"
+        },
+        {
+          "kanji": "苦手",
+          "kana": "にがて",
+          "meaning": "poor (at), dislike (of), difficult to deal with"
+        },
+        {
+          "kanji": "苦しい",
+          "kana": "くるしい",
+          "meaning": "painful, difficult; need, tight (budget)"
+        },
+        {
+          "kanji": "苦しむ",
+          "kana": "くるしむ",
+          "meaning": "to suffer, to be worried"
+        },
+        {
+          "kanji": "苦しめる",
+          "kana": "くるしめる",
+          "meaning": "to torment, to hurt"
+        },
+        {
+          "kanji": "苦労",
+          "kana": "くろう",
+          "meaning": "troubles, hardships"
+        }
+      ]
+    },
+    {
+      "kanji": "快",
+      "meaning": "cheerful, pleasant, comfortable",
+      "vocabulary": [
+        {
+          "kanji": "快速",
+          "kana": "かいそく",
+          "meaning": "high speed, mobility; rapid-service frustrating"
+        },
+        {
+          "kanji": "快い",
+          "kana": "こころよい",
+          "meaning": "pleasant, agreeable"
+        }
+      ]
+    },
+    {
+      "kanji": "欲",
+      "meaning": "longing, greed, desire, craving",
+      "vocabulary": [
+        {
+          "kanji": "欲しい",
+          "kana": "ほしい",
+          "meaning": "wanted, wished for, in need of, desired"
+        },
+        {
+          "kanji": "食欲",
+          "kana": "しょくよく",
+          "meaning": "appetite (for food)"
+        },
+        {
+          "kanji": "意欲",
+          "kana": "いよく",
+          "meaning": "will, desire, ambition"
+        }
+      ]
+    },
+    {
+      "kanji": "屈",
+      "meaning": "yield, bend, flinch, submit",
+      "vocabulary": [
+        {
+          "kanji": "屈む",
+          "kana": "かがむ",
+          "meaning": "to stoop, to lean over, to bend forward"
+        },
+        {
+          "kanji": "屈める",
+          "kana": "かがめる",
+          "meaning": "to stoop, to bend"
+        },
+        {
+          "kanji": "退屈",
+          "kana": "たいくつ",
+          "meaning": "tedium, boredom"
+        }
+      ]
+    },
+    {
+      "kanji": "普",
+      "meaning": "universal, widely, generally",
+      "vocabulary": [
+        {
+          "kanji": "普通",
+          "kana": "ふつう",
+          "meaning": "generally, ordinary, usually; regular/local train"
+        }
+      ]
+    },
+    {
+      "kanji": "貿",
+      "meaning": "trade, exchange",
+      "vocabulary": [
+        {
+          "kanji": "貿易",
+          "kana": "ぼうえき",
+          "meaning": "foreign/international trade"
+        }
+      ]
+    },
+    {
+      "kanji": "易",
+      "meaning": "easy, ready to, simple",
+      "vocabulary": [
+        {
+          "kanji": "安易",
+          "kana": "あんい",
+          "meaning": "easy, simple; easy-going"
+        },
+        {
+          "kanji": "易しい",
+          "kana": "やさしい",
+          "meaning": "easy, plain, simple"
+        },
+        {
+          "kanji": "貿易",
+          "kana": "ぼうえき",
+          "meaning": "foreign/international trade"
+        }
+      ]
+    },
+    {
+      "kanji": "得",
+      "meaning": "gain, get, find, earn, acquire, profit, advantage",
+      "vocabulary": [
+        {
+          "kanji": "得る",
+          "kana": "える",
+          "meaning": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain"
+        },
+        {
+          "kanji": "得意",
+          "kana": "とくい",
+          "meaning": "triumph, prosperity; pride, one's strong point, one's forte, one's specialty"
+        },
+        {
+          "kanji": "納得",
+          "kana": "なっとく",
+          "meaning": "consent, assent, agreement; understanding, comprehension, grasp"
+        }
+      ]
+    },
+    {
+      "kanji": "暇",
+      "meaning": "spare time, rest, leisure",
+      "vocabulary": [
+        {
+          "kanji": "休暇",
+          "kana": "きゅうか",
+          "meaning": "holiday, day off, absence (from work)"
+        },
+        {
+          "kanji": "暇",
+          "kana": "ひま",
+          "meaning": "spare/free time; time off, day off"
+        }
+      ]
+    },
+    {
+      "kanji": "順",
+      "meaning": "obey, order, turn",
+      "vocabulary": [
+        {
+          "kanji": "順番",
+          "kana": "じゅんばん",
+          "meaning": "order of things"
+        },
+        {
+          "kanji": "順調",
+          "kana": "じゅんちょう",
+          "meaning": "favorable, doing well"
+        }
+      ]
+    },
+    {
+      "kanji": "勢",
+      "meaning": "forces, energy, military strength",
+      "vocabulary": [
+        {
+          "kanji": "勢い",
+          "kana": "いきおい",
+          "meaning": "force"
+        },
+        {
+          "kanji": "大勢",
+          "kana": "おおぜい",
+          "meaning": "many, crowd, great, number of people"
+        }
+      ]
+    },
+    {
+      "kanji": "偉",
+      "meaning": "admirable, greatness",
+      "vocabulary": [
+        {
+          "kanji": "偉い",
+          "kana": "えらい",
+          "meaning": "great, admirable, distinguished"
+        },
+        {
+          "kanji": "偉大",
+          "kana": "いだい",
+          "meaning": "greatness"
+        }
+      ]
+    },
+    {
+      "kanji": "絶",
+      "meaning": "discontinue, beyond, cut off",
+      "vocabulary": [
+        {
+          "kanji": "絶える",
+          "kana": "たえる",
+          "meaning": "to die out, to peter out, to become extinct"
+        },
+        {
+          "kanji": "絶対",
+          "kana": "ぜったい",
+          "meaning": "absolutely, unconditionally"
+        }
+      ]
+    },
+    {
+      "kanji": "素",
+      "meaning": "elementary, principle, naked, uncovered",
+      "vocabulary": [
+        {
+          "kanji": "素直な",
+          "kana": "すなお",
+          "meaning": "obidient, meek, honest, frank"
+        },
+        {
+          "kanji": "味の素",
+          "kana": "あじのもと",
+          "meaning": "brand name of MSG"
+        }
+      ]
+    },
+    {
+      "kanji": "直",
+      "meaning": "straightway, honesty, fix, repair",
+      "vocabulary": [
+        {
+          "kanji": "素直な",
+          "kana": "すなお",
+          "meaning": "obidient, meek, honest, frank"
+        },
+        {
+          "kanji": "直す",
+          "kana": "なおす",
+          "meaning": "to fix, to correct"
+        },
+        {
+          "kanji": "直る",
+          "kana": "なおる",
+          "meaning": "to get mended, to be fixed"
+        },
+        {
+          "kanji": "直線",
+          "kana": "ちょくせん",
+          "meaning": "straight line"
+        },
+        {
+          "kanji": "直接",
+          "kana": "ちょくせつ",
+          "meaning": "direct, immediate"
+        }
+      ]
+    },
+    {
+      "kanji": "幸",
+      "meaning": "happiness, blessing, fortune",
+      "vocabulary": [
+        {
+          "kanji": "幸い",
+          "kana": "さいわい",
+          "meaning": "happiness, blessedness, luck, fortune"
+        },
+        {
+          "kanji": "幸福な",
+          "kana": "こうふく",
+          "meaning": "happiness, blessedness, joy"
+        },
+        {
+          "kanji": "幸せ",
+          "kana": "しあわせ",
+          "meaning": "happiness, good fortune, blessing"
+        },
+        {
+          "kanji": "幸運な",
+          "kana": "こううん",
+          "meaning": "good luck, fortune"
+        }
+      ]
+    },
+    {
+      "kanji": "福",
+      "meaning": "blessing, fortune, luck, wealth",
+      "vocabulary": [
+        {
+          "kanji": "幸福な",
+          "kana": "こうふく",
+          "meaning": "happiness, blessedness, joy"
+        }
+      ]
+    },
+    {
+      "kanji": "複",
+      "meaning": "duplicate, double, compound, multiple",
+      "vocabulary": [
+        {
+          "kanji": "複雑",
+          "kana": "ふくざつ",
+          "meaning": "complex, complicated, mixed (feelings)"
+        }
+      ]
+    },
+    {
+      "kanji": "雑",
+      "meaning": "miscellaneous",
+      "vocabulary": [
+        {
+          "kanji": "複雑",
+          "kana": "ふくざつ",
+          "meaning": "complex, complicated, mixed (feelings)"
+        },
+        {
+          "kanji": "混雑",
+          "kana": "こんざつ",
+          "meaning": "congestion, crowding, confusion, disorder"
+        },
+        {
+          "kanji": "雑誌",
+          "kana": "ざっし",
+          "meaning": "magazine, journal, periodical"
+        }
+      ]
+    },
+    {
+      "kanji": "迷",
+      "meaning": "astray, lost, be perplexed, in doubt",
+      "vocabulary": [
+        {
+          "kanji": "迷う",
+          "kana": "まよう",
+          "meaning": "to lose one's way, to get lost, to be perplexed"
+        },
+        {
+          "kanji": "迷惑",
+          "kana": "めいわく",
+          "meaning": "trouble, bother, annoyance"
+        }
+      ]
+    },
+    {
+      "kanji": "惑",
+      "meaning": "beguile, delusion, perplexity",
+      "vocabulary": [
+        {
+          "kanji": "迷惑",
+          "kana": "めいわく",
+          "meaning": "trouble, bother, annoyance"
+        }
+      ]
+    },
+    {
+      "kanji": "奇",
+      "meaning": "strange, curiosity",
+      "vocabulary": [
+        {
+          "kanji": "奇妙",
+          "kana": "きみょう",
+          "meaning": "strange, curious"
+        }
+      ]
+    },
+    {
+      "kanji": "妙",
+      "meaning": "exquisite, strange, mystery, miracle",
+      "vocabulary": [
+        {
+          "kanji": "奇妙",
+          "kana": "きみょう",
+          "meaning": "strange, curious"
+        }
+      ]
+    },
+    {
+      "kanji": "危",
+      "meaning": "dangerous, fear, uneasy",
+      "vocabulary": [
+        {
+          "kanji": "危ない",
+          "kana": "あぶない",
+          "meaning": "dangerous, risky, hazardous"
+        },
+        {
+          "kanji": "危うい",
+          "kana": "あやうい",
+          "meaning": "dangerous, risky, hazardous"
+        },
+        {
+          "kanji": "危険な",
+          "kana": "きけん",
+          "meaning": "danger, peril, hazard"
+        },
+        {
+          "kanji": "危機",
+          "kana": "きき",
+          "meaning": "crisis, danger, risk"
+        }
+      ]
+    },
+    {
+      "kanji": "険",
+      "meaning": "precipitous, inaccessible, place",
+      "vocabulary": [
+        {
+          "kanji": "危険な",
+          "kana": "きけん",
+          "meaning": "danger, peril, hazard"
+        },
+        {
+          "kanji": "険しい",
+          "kana": "けわしい",
+          "meaning": "precipitous, rugged, inaccessible, steep"
+        }
+      ]
+    },
+    {
+      "kanji": "簡",
+      "meaning": "simplicity, brevity",
+      "vocabulary": [
+        {
+          "kanji": "簡単",
+          "kana": "かんたん",
+          "meaning": "simple, easy, uncomplicated"
+        }
+      ]
+    },
+    {
+      "kanji": "単",
+      "meaning": "simple, one, single",
+      "vocabulary": [
+        {
+          "kanji": "簡単",
+          "kana": "かんたん",
+          "meaning": "simple, easy, uncomplicated"
+        },
+        {
+          "kanji": "単語",
+          "kana": "たんご",
+          "meaning": "word, vocabulary"
+        },
+        {
+          "kanji": "単位",
+          "kana": "たんい",
+          "meaning": "unit, denomination, credit (in school)"
+        },
+        {
+          "kanji": "単に",
+          "kana": "たんに",
+          "meaning": "simply, merely"
+        }
+      ]
+    },
+    {
+      "kanji": "非",
+      "meaning": "un-, non-, mistake, negative, injustice",
+      "vocabulary": [
+        {
+          "kanji": "非常",
+          "kana": "ひじょう",
+          "meaning": "emergency"
+        },
+        {
+          "kanji": "非常に",
+          "kana": "ひじょうに",
+          "meaning": "very, extremely, exceedingly"
+        },
+        {
+          "kanji": "非常口",
+          "kana": "ひじょうぐち",
+          "meaning": "emergency exit"
+        },
+        {
+          "kanji": "是非",
+          "kana": "ぜひ",
+          "meaning": "certainly, without fail"
+        }
+      ]
+    },
+    {
+      "kanji": "常",
+      "meaning": "usual, ordinary, normal, common",
+      "vocabulary": [
+        {
+          "kanji": "非常口",
+          "kana": "ひじょうぐち",
+          "meaning": "emergency exit"
+        },
+        {
+          "kanji": "正常",
+          "kana": "せいじょう",
+          "meaning": "normalcy, normal"
+        },
+        {
+          "kanji": "日常",
+          "kana": "にちじょう",
+          "meaning": "ordinary, regular, everyday"
+        },
+        {
+          "kanji": "常識",
+          "kana": "じょうしき",
+          "meaning": "common sense"
+        }
+      ]
+    },
+    {
+      "kanji": "乱",
+      "meaning": "riot, war, disorder",
+      "vocabulary": [
+        {
+          "kanji": "乱れる",
+          "kana": "みだれる",
+          "meaning": "to be disordered, to be disarranged"
+        },
+        {
+          "kanji": "乱す",
+          "kana": "みだす",
+          "meaning": "to throw into disorder, to disarrange"
+        },
+        {
+          "kanji": "乱暴",
+          "kana": "らんぼう",
+          "meaning": "rude, violent, rough, lawless, reckless, unreasonable"
+        }
+      ]
+    },
+    {
+      "kanji": "暴",
+      "meaning": "outburst, rave, force, violence, cruelty",
+      "vocabulary": [
+        {
+          "kanji": "乱暴",
+          "kana": "らんぼう",
+          "meaning": "rude, violent, rough, lawless, reckless, unreasonable"
+        }
+      ]
+    },
+    {
+      "kanji": "豊",
+      "meaning": "bountiful, rich, excellent",
+      "vocabulary": [
+        {
+          "kanji": "豊富",
+          "kana": "ほうふ",
+          "meaning": "abundance, wealth, plenty"
+        },
+        {
+          "kanji": "豊",
+          "kana": "ゆたか",
+          "meaning": "abundant, wealthy, plentiful, rich"
+        }
+      ]
+    },
+    {
+      "kanji": "富",
+      "meaning": "wealth, enrich, abundant",
+      "vocabulary": [
+        {
+          "kanji": "豊富",
+          "kana": "ほうふ",
+          "meaning": "abundance, wealth, plenty"
+        },
+        {
+          "kanji": "富士山",
+          "kana": "ふじさん",
+          "meaning": "Mt. Fuji"
+        }
+      ]
+    },
+    {
+      "kanji": "労",
+      "meaning": "labor, thank for, toil, trouble",
+      "vocabulary": [
+        {
+          "kanji": "苦労",
+          "kana": "くろう",
+          "meaning": "troubles, hardships"
+        },
+        {
+          "kanji": "労働",
+          "kana": "ろうどう",
+          "meaning": "manual labor, toil, work"
+        },
+        {
+          "kanji": "労働者",
+          "kana": "ろうどうしゃ",
+          "meaning": "employee, worker, laborer"
+        }
+      ]
+    },
+    {
+      "kanji": "警",
+      "meaning": "admonish, commandment",
+      "vocabulary": [
+        {
+          "kanji": "警官",
+          "kana": "けいかん",
+          "meaning": "police officer"
+        },
+        {
+          "kanji": "警察",
+          "kana": "けいさつ",
+          "meaning": "police, police officer"
+        }
+      ]
+    },
+    {
+      "kanji": "察",
+      "meaning": "guess, presume, surmise, judge, understand",
+      "vocabulary": [
+        {
+          "kanji": "警察",
+          "kana": "けいさつ",
+          "meaning": "police"
+        },
+        {
+          "kanji": "警察官",
+          "kana": "けいさつかん",
+          "meaning": "police officer"
+        },
+        {
+          "kanji": "警察署",
+          "kana": "けいさつしょ",
+          "meaning": "police station"
+        }
+      ]
+    },
+    {
+      "kanji": "師",
+      "meaning": "expert, teacher, master, model",
+      "vocabulary": [
+        {
+          "kanji": "教師",
+          "kana": "きょうし",
+          "meaning": "teacher"
+        },
+        {
+          "kanji": "医師",
+          "kana": "いし",
+          "meaning": "doctor, physician"
+        },
+        {
+          "kanji": "看護師",
+          "kana": "かんごし",
+          "meaning": "nurse"
+        }
+      ]
+    },
+    {
+      "kanji": "臣",
+      "meaning": "retainer, subject",
+      "vocabulary": [
+        {
+          "kanji": "総理大臣",
+          "kana": "そうりだいじん",
+          "meaning": "prime minister"
+        }
+      ]
+    },
+    {
+      "kanji": "秘",
+      "meaning": "secret, conceal",
+      "vocabulary": [
+        {
+          "kanji": "秘める",
+          "kana": "ひめる",
+          "meaning": "to hide; to keep to oneself"
+        },
+        {
+          "kanji": "秘書",
+          "kana": "ひしょ",
+          "meaning": "secretary"
+        },
+        {
+          "kanji": "秘密",
+          "kana": "ひみつ",
+          "meaning": "secret, secrecy, confidentiality"
+        }
+      ]
+    },
+    {
+      "kanji": "技",
+      "meaning": "skill, art, craft, ability, feat, performance",
+      "vocabulary": [
+        {
+          "kanji": "技術",
+          "kana": "ぎじゅつ",
+          "meaning": "technology, engineering, technique, art, craft"
+        },
+        {
+          "kanji": "技術者",
+          "kana": "ぎじゅつしゃ",
+          "meaning": "engineer, technical expert, technician"
+        },
+        {
+          "kanji": "技術的",
+          "kana": "ぎじゅつてき",
+          "meaning": "technical, practical,"
+        },
+        {
+          "kanji": "技能",
+          "kana": "ぎのう",
+          "meaning": "technical skill, ability"
+        }
+      ]
+    },
+    {
+      "kanji": "術",
+      "meaning": "art, technique, skill, means, trick, resources",
+      "vocabulary": [
+        {
+          "kanji": "美術",
+          "kana": "びじゅつ",
+          "meaning": "art, fine arts"
+        },
+        {
+          "kanji": "技術",
+          "kana": "ぎじゅつ",
+          "meaning": "technology, engineering, technique, art, craft"
+        },
+        {
+          "kanji": "手術",
+          "kana": "しゅじゅつ",
+          "meaning": "(surgical) operation, procedure"
+        }
+      ]
+    },
+    {
+      "kanji": "務",
+      "meaning": "task, duties",
+      "vocabulary": [
+        {
+          "kanji": "事務",
+          "kana": "じむ",
+          "meaning": "business, office work"
+        },
+        {
+          "kanji": "事務署",
+          "kana": "じむしょ",
+          "meaning": "office"
+        },
+        {
+          "kanji": "公務",
+          "kana": "こうむ",
+          "meaning": "official/public business"
+        },
+        {
+          "kanji": "公務員",
+          "kana": "こうむいん",
+          "meaning": "government worker, public/civil, servant"
+        },
+        {
+          "kanji": "税務署",
+          "kana": "ぜいむしょ",
+          "meaning": "tax office"
+        }
+      ]
+    },
+    {
+      "kanji": "盗",
+      "meaning": "steal, rob",
+      "vocabulary": [
+        {
+          "kanji": "盗む",
+          "kana": "ぬすむ",
+          "meaning": "to steal,"
+        },
+        {
+          "kanji": "強盗",
+          "kana": "ごうとう",
+          "meaning": "robber, robbery, burglary"
+        }
+      ]
+    },
+    {
+      "kanji": "農",
+      "meaning": "agriculture, farmers",
+      "vocabulary": [
+        {
+          "kanji": "農業",
+          "kana": "のうぎょう",
+          "meaning": "agriculture"
+        },
+        {
+          "kanji": "農家",
+          "kana": "のうか",
+          "meaning": "farmer, farming family, farmhouse"
+        }
+      ]
+    },
+    {
+      "kanji": "受",
+      "meaning": "accept, undergo, answer (phone), take, get, catch",
+      "vocabulary": [
+        {
+          "kanji": "受ける",
+          "kana": "うける",
+          "meaning": "to receive; to get"
+        },
+        {
+          "kanji": "受信",
+          "kana": "じゅしん",
+          "meaning": "reception (radio), receipt (email)"
+        },
+        {
+          "kanji": "受験",
+          "kana": "じゅけん",
+          "meaning": "taking an exam"
+        },
+        {
+          "kanji": "受験者",
+          "kana": "じゅけんしゃ",
+          "meaning": "examinee"
+        }
+      ]
+    },
+    {
+      "kanji": "等",
+      "meaning": "etc., class (first), quality, equal, similar",
+      "vocabulary": [
+        {
+          "kanji": "等しい",
+          "kana": "ひとしい",
+          "meaning": "equal, identical, the same"
+        },
+        {
+          "kanji": "高等学校",
+          "kana": "こうとうがっこう",
+          "meaning": "senior high school"
+        },
+        {
+          "kanji": "平等",
+          "kana": "びょうどう",
+          "meaning": "equality, impartiality"
+        }
+      ]
+    },
+    {
+      "kanji": "授",
+      "meaning": "impart, instruct, grant, confer",
+      "vocabulary": [
+        {
+          "kanji": "授ける",
+          "kana": "さすける",
+          "meaning": "to grant"
+        },
+        {
+          "kanji": "教授",
+          "kana": "きょうじゅ",
+          "meaning": "professor, teaching, instruction"
+        },
+        {
+          "kanji": "授業",
+          "kana": "じゅぎょう",
+          "meaning": "lesson, class work, teaching, instruction"
+        }
+      ]
+    },
+    {
+      "kanji": "専",
+      "meaning": "specialty, mainly, exclusive, solely",
+      "vocabulary": [
+        {
+          "kanji": "専門",
+          "kana": "せんもん",
+          "meaning": "specialty, subject of study, area of expertise"
+        },
+        {
+          "kanji": "専門家",
+          "kana": "せんもんか",
+          "meaning": "specialist, expert, professional, authority"
+        },
+        {
+          "kanji": "専攻",
+          "kana": "せんこう",
+          "meaning": "major subject, special subject"
+        }
+      ]
+    },
+    {
+      "kanji": "門",
+      "meaning": "gate",
+      "vocabulary": [
+        {
+          "kanji": "門",
+          "kana": "もん",
+          "meaning": "gate"
+        },
+        {
+          "kanji": "専門",
+          "kana": "せんもん",
+          "meaning": "specialty, subject of study, area of expertise"
+        },
+        {
+          "kanji": "入門",
+          "kana": "にゅうもん",
+          "meaning": "primer, introduction (with する), entering institution, beginning training"
+        }
+      ]
+    },
+    {
+      "kanji": "政",
+      "meaning": "politics, government",
+      "vocabulary": [
+        {
+          "kanji": "政治",
+          "kana": "せいじ",
+          "meaning": "politics, government"
+        },
+        {
+          "kanji": "政治家",
+          "kana": "せいじか",
+          "meaning": "politician, statesman"
+        },
+        {
+          "kanji": "政府",
+          "kana": "せいふ",
+          "meaning": "government, administration"
+        }
+      ]
+    },
+    {
+      "kanji": "府",
+      "meaning": "urban prefecture, government office, representative body",
+      "vocabulary": [
+        {
+          "kanji": "政府",
+          "kana": "せいふ",
+          "meaning": "government, administration"
+        },
+        {
+          "kanji": "都道府県",
+          "kana": "とどうふけん",
+          "meaning": "administrative division of Japan"
+        }
+      ]
+    },
+    {
+      "kanji": "選",
+      "meaning": "elect, select, choose, prefer",
+      "vocabulary": [
+        {
+          "kanji": "選ぶ",
+          "kana": "えらぶ",
+          "meaning": "to choose, to select"
+        },
+        {
+          "kanji": "選挙",
+          "kana": "せんきょ",
+          "meaning": "election"
+        },
+        {
+          "kanji": "選手",
+          "kana": "せんしゅ",
+          "meaning": "player"
+        }
+      ]
+    },
+    {
+      "kanji": "挙",
+      "meaning": "raise, plan, project, behavior",
+      "vocabulary": [
+        {
+          "kanji": "選挙",
+          "kana": "せんきょ",
+          "meaning": "election"
+        }
+      ]
+    },
+    {
+      "kanji": "孫",
+      "meaning": "grandchild, decendants",
+      "vocabulary": [
+        {
+          "kanji": "孫",
+          "kana": "まご",
+          "meaning": "grandchild"
+        }
+      ]
+    },
+    {
+      "kanji": "供",
+      "meaning": "submit, offer, serve (meal), accompany",
+      "vocabulary": [
+        {
+          "kanji": "子供",
+          "kana": "こども",
+          "meaning": "grandchild"
+        },
+        {
+          "kanji": "供える",
+          "kana": "そなえる",
+          "meaning": "to offer, to sacrifice, to dedicate​"
+        }
+      ]
+    },
+    {
+      "kanji": "息",
+      "meaning": "breath, respiration, son",
+      "vocabulary": [
+        {
+          "kanji": "息",
+          "kana": "いき",
+          "meaning": "breath, breathing"
+        },
+        {
+          "kanji": "息子",
+          "kana": "むすこ",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "kanji": "娘",
+      "meaning": "daughter, girl",
+      "vocabulary": [
+        {
+          "kanji": "娘",
+          "kana": "むすめ",
+          "meaning": "(my) daughter, girl"
+        }
+      ]
+    },
+    {
+      "kanji": "徒",
+      "meaning": "on foot, junior, emptiness, futility, uselessness, gang, set",
+      "vocabulary": [
+        {
+          "kanji": "徒歩",
+          "kana": "とほ",
+          "meaning": "walking, goin on foot"
+        },
+        {
+          "kanji": "生徒",
+          "kana": "せいと",
+          "meaning": "pupil"
+        }
+      ]
+    },
+    {
+      "kanji": "児",
+      "meaning": "newborn baby, child, young of animals",
+      "vocabulary": [
+        {
+          "kanji": "育児",
+          "kana": "いくじ",
+          "meaning": "childcare, nursing, upbringing"
+        },
+        {
+          "kanji": "児童",
+          "kana": "じどう",
+          "meaning": "children, juvenile"
+        }
+      ]
+    },
+    {
+      "kanji": "仲",
+      "meaning": "go-between, relationship",
+      "vocabulary": [
+        {
+          "kanji": "仲間",
+          "kana": "なかま",
+          "meaning": "fellow, colleage, associate, comrade, group, circle of friends"
+        }
+      ]
+    },
+    {
+      "kanji": "患",
+      "meaning": "afflicted, disease, suffer from, be ill",
+      "vocabulary": [
+        {
+          "kanji": "患う",
+          "kana": "わずらう",
+          "meaning": "to be ill, to suffer from"
+        },
+        {
+          "kanji": "患者",
+          "kana": "かんじゃ",
+          "meaning": "patient"
+        }
+      ]
+    },
+    {
+      "kanji": "恋",
+      "meaning": "romance, in love, yearn for, darling",
+      "vocabulary": [
+        {
+          "kanji": "恋人",
+          "kana": "こいびと",
+          "meaning": "lover, sweetheart"
+        },
+        {
+          "kanji": "恋愛",
+          "kana": "れんあい",
+          "meaning": "love, passion, emotion, affections"
+        }
+      ]
+    },
+    {
+      "kanji": "老",
+      "meaning": "old man, old age, grow old",
+      "vocabulary": [
+        {
+          "kanji": "老人",
+          "kana": "ろうじん",
+          "meaning": "the aged, old person"
+        }
+      ]
+    },
+    {
+      "kanji": "齢",
+      "meaning": "age",
+      "vocabulary": [
+        {
+          "kanji": "高齢",
+          "kana": "こうれい",
+          "meaning": "advanced (old) age"
+        },
+        {
+          "kanji": "年齢",
+          "kana": "ねんれい",
+          "meaning": "age, years"
+        }
+      ]
+    },
+    {
+      "kanji": "性",
+      "meaning": "sex, gender, nature",
+      "vocabulary": [
+        {
+          "kanji": "個性",
+          "kana": "こせい",
+          "meaning": "individuality, personality"
+        },
+        {
+          "kanji": "性能",
+          "kana": "せいのう",
+          "meaning": "ability, performance"
+        },
+        {
+          "kanji": "性別",
+          "kana": "せいべつ",
+          "meaning": "sex, gender"
+        },
+        {
+          "kanji": "酸性",
+          "kana": "さんせい",
+          "meaning": "acidity"
+        },
+        {
+          "kanji": "女性",
+          "kana": "じょせい",
+          "meaning": "woman, female"
+        },
+        {
+          "kanji": "男性",
+          "kana": "だんせい",
+          "meaning": "man, male"
+        },
+        {
+          "kanji": "性格",
+          "kana": "せいかく",
+          "meaning": "character, personality"
+        }
+      ]
+    },
+    {
+      "kanji": "卒",
+      "meaning": "graduate, soldier, private, die",
+      "vocabulary": [
+        {
+          "kanji": "卒業",
+          "kana": "そつぎょう",
+          "meaning": "graduation, completion"
+        },
+        {
+          "kanji": "卒業生",
+          "kana": "そつぎょうせい",
+          "meaning": "graduate, alumnus"
+        }
+      ]
+    },
+    {
+      "kanji": "独",
+      "meaning": "single, alone, spontaneously, Germany",
+      "vocabulary": [
+        {
+          "kanji": "独身",
+          "kana": "どくしん",
+          "meaning": "single, unmarried"
+        }
+      ]
+    },
+    {
+      "kanji": "身",
+      "meaning": "somebody, person, one's station in life",
+      "vocabulary": [
+        {
+          "kanji": "独身",
+          "kana": "どくしん",
+          "meaning": "single, unmarried"
+        },
+        {
+          "kanji": "身分",
+          "kana": "みぶん",
+          "meaning": "social status"
+        },
+        {
+          "kanji": "全身",
+          "kana": "ぜんしん",
+          "meaning": "whole body"
+        },
+        {
+          "kanji": "出身",
+          "kana": "しゅっしん",
+          "meaning": "person's origin"
+        },
+        {
+          "kanji": "身長",
+          "kana": "しんちょう",
+          "meaning": "height (body), stature"
+        },
+        {
+          "kanji": "刺身",
+          "kana": "さしみ",
+          "meaning": "raw sliced fish"
+        }
+      ]
+    },
+    {
+      "kanji": "係",
+      "meaning": "person in charge, connection, duty",
+      "vocabulary": [
+        {
+          "kanji": "係の人",
+          "kana": "かかりのひと",
+          "meaning": "person in charge"
+        },
+        {
+          "kanji": "関係",
+          "kana": "かんけい",
+          "meaning": "relation, relationship, connection"
+        }
+      ]
+    },
+    {
+      "kanji": "責",
+      "meaning": "blame, condemn, censure",
+      "vocabulary": [
+        {
+          "kanji": "責める",
+          "kana": "せめる",
+          "meaning": "to blame, to condemn"
+        },
+        {
+          "kanji": "責任",
+          "kana": "せきにん",
+          "meaning": "duty, responsibility"
+        },
+        {
+          "kanji": "責任者",
+          "kana": "せきにんしゃ",
+          "meaning": "person in charge, responsible party, supervisor"
+        }
+      ]
+    },
+    {
+      "kanji": "任",
+      "meaning": "responsibility, term, entrust to",
+      "vocabulary": [
+        {
+          "kanji": "任せる",
+          "kana": "まかせる",
+          "meaning": "to entrust"
+        },
+        {
+          "kanji": "責任",
+          "kana": "せきにん",
+          "meaning": "duty, responsibility"
+        }
+      ]
+    },
+    {
+      "kanji": "互",
+      "meaning": "mutually, reciprocally, together",
+      "vocabulary": [
+        {
+          "kanji": "お互いに",
+          "kana": "おたがいに",
+          "meaning": "mutually, with each other, reciprocally"
+        },
+        {
+          "kanji": "相互",
+          "kana": "そうご",
+          "meaning": "mutal, reciprocal"
+        }
+      ]
+    },
+    {
+      "kanji": "王",
+      "meaning": "king, rule, magnate",
+      "vocabulary": [
+        {
+          "kanji": "王",
+          "kana": "おう",
+          "meaning": "king, sovereign, ruler, monarch"
+        },
+        {
+          "kanji": "女王",
+          "kana": "じょおう",
+          "meaning": "queen"
+        },
+        {
+          "kanji": "国王",
+          "kana": "こくおう",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "kanji": "胸",
+      "meaning": "breast, chest, heart, feeling",
+      "vocabulary": [
+        {
+          "kanji": "胸",
+          "kana": "むね",
+          "meaning": "chest, breast, heart, mind, feelings"
+        }
+      ]
+    },
+    {
+      "kanji": "脳",
+      "meaning": "brain, memory",
+      "vocabulary": [
+        {
+          "kanji": "脳",
+          "kana": "のう",
+          "meaning": "brain"
+        },
+        {
+          "kanji": "首脳",
+          "kana": "しゅのう",
+          "meaning": "head, leader"
+        }
+      ]
+    },
+    {
+      "kanji": "皮",
+      "meaning": "pelt, skin, hide, leather",
+      "vocabulary": [
+        {
+          "kanji": "皮",
+          "kana": "かわ",
+          "meaning": "skin, hide, rind, peel, wrapping"
+        },
+        {
+          "kanji": "皮膚",
+          "kana": "皮膚",
+          "meaning": "skin"
+        },
+        {
+          "kanji": "皮膚病",
+          "kana": "ひふびょう",
+          "meaning": "skin disease"
+        },
+        {
+          "kanji": "皮膚科",
+          "kana": "ひふか",
+          "meaning": "dermatology"
+        }
+      ]
+    },
+    {
+      "kanji": "膚",
+      "meaning": "skin, body, grain, texture, disposition",
+      "vocabulary": [
+        {
+          "kanji": "皮膚",
+          "kana": "皮膚",
+          "meaning": "skin"
+        }
+      ]
+    },
+    {
+      "kanji": "腰",
+      "meaning": "loins, hips, waist",
+      "vocabulary": [
+        {
+          "kanji": "腰",
+          "kana": "こし",
+          "meaning": "back, lower back, waist, hips"
+        }
+      ]
+    },
+    {
+      "kanji": "歯",
+      "meaning": "tooth, cog",
+      "vocabulary": [
+        {
+          "kanji": "歯",
+          "kana": "は",
+          "meaning": "tooth"
+        },
+        {
+          "kanji": "歯科",
+          "kana": "しか",
+          "meaning": "dentistry"
+        },
+        {
+          "kanji": "歯医者",
+          "kana": "はいしゃ",
+          "meaning": "dentist"
+        },
+        {
+          "kanji": "虫歯",
+          "kana": "むしば",
+          "meaning": "cavity, tooth decay, caries"
+        }
+      ]
+    },
+    {
+      "kanji": "鼻",
+      "meaning": "nose, snout",
+      "vocabulary": [
+        {
+          "kanji": "鼻",
+          "kana": "はな",
+          "meaning": "nose"
+        },
+        {
+          "kanji": "耳鼻科",
+          "kana": "じびか",
+          "meaning": "otolaryngology, concerning the ear nose and throat (ENT)"
+        }
+      ]
+    },
+    {
+      "kanji": "肌",
+      "meaning": "texture, skin, body, grain",
+      "vocabulary": [
+        {
+          "kanji": "肌",
+          "kana": "はだ",
+          "meaning": "skin"
+        }
+      ]
+    },
+    {
+      "kanji": "骨",
+      "meaning": "skeleton, bone, remains, frame",
+      "vocabulary": [
+        {
+          "kanji": "骨",
+          "kana": "ほね",
+          "meaning": "bone, frame, outliner core"
+        },
+        {
+          "kanji": "骨折",
+          "kana": "こっせつ",
+          "meaning": "bone fracture"
+        }
+      ]
+    },
+    {
+      "kanji": "折",
+      "meaning": "fold, break, fracture, bend, yield, submit",
+      "vocabulary": [
+        {
+          "kanji": "折れる",
+          "kana": "おれる",
+          "meaning": "to be broken, to snap, to racture, to be folded, to give in"
+        },
+        {
+          "kanji": "骨折",
+          "kana": "こっせつ",
+          "meaning": "bone fracture"
+        },
+        {
+          "kanji": "右折",
+          "kana": "うせつ",
+          "meaning": "rigth turn"
+        },
+        {
+          "kanji": "左折",
+          "kana": "させつ",
+          "meaning": "left turn"
+        },
+        {
+          "kanji": "折り紙",
+          "kana": "おりがみ",
+          "meaning": "origami, art of folding paper"
+        }
+      ]
+    },
+    {
+      "kanji": "胃",
+      "meaning": "stomach",
+      "vocabulary": [
+        {
+          "kanji": "胃",
+          "kana": "い",
+          "meaning": "stomach"
+        }
+      ]
+    },
+    {
+      "kanji": "血",
+      "meaning": "blood",
+      "vocabulary": [
+        {
+          "kanji": "血",
+          "kana": "ち",
+          "meaning": "blood"
+        },
+        {
+          "kanji": "出血",
+          "kana": "しゅっけつ",
+          "meaning": "bleeding, hemorage"
+        }
+      ]
+    },
+    {
+      "kanji": "汗",
+      "meaning": "sweat, perspire",
+      "vocabulary": [
+        {
+          "kanji": "汗",
+          "kana": "あせ",
+          "meaning": "sweat"
+        }
+      ]
+    },
+    {
+      "kanji": "涙",
+      "meaning": "tears, sympathy",
+      "vocabulary": [
+        {
+          "kanji": "涙",
+          "kana": "なみだ",
+          "meaning": "tears"
+        }
+      ]
+    },
+    {
+      "kanji": "指",
+      "meaning": "fingers, point to, indicate, put into, measure (ruler)",
+      "vocabulary": [
+        {
+          "kanji": "指",
+          "kana": "ゆび",
+          "meaning": "fingers"
+        },
+        {
+          "kanji": "指輪",
+          "kana": "ゆびわ",
+          "meaning": "ring (jewelry)"
+        },
+        {
+          "kanji": "指定席",
+          "kana": "していせき",
+          "meaning": "reserved seat"
+        }
+      ]
+    },
+    {
+      "kanji": "健",
+      "meaning": "healthy, health, strength",
+      "vocabulary": [
+        {
+          "kanji": "健康",
+          "kana": "けんこう",
+          "meaning": "health, healthy, wholesome"
+        },
+        {
+          "kanji": "健やか",
+          "kana": "すこやか",
+          "meaning": "vigorous; healthy; sound"
+        }
+      ]
+    },
+    {
+      "kanji": "康",
+      "meaning": "ease, peace",
+      "vocabulary": [
+        {
+          "kanji": "健康",
+          "kana": "けんこう",
+          "meaning": "health, healthy, wholesome"
+        }
+      ]
+    },
+    {
+      "kanji": "亡",
+      "meaning": "deceased, the late, dying, perished",
+      "vocabulary": [
+        {
+          "kanji": "亡くなる",
+          "kana": "なくなる",
+          "meaning": "to die"
+        },
+        {
+          "kanji": "死亡",
+          "kana": "しぼう",
+          "meaning": "death, mortality"
+        }
+      ]
+    },
+    {
+      "kanji": "類",
+      "meaning": "sort, kind, variety, class, genus",
+      "vocabulary": [
+        {
+          "kanji": "書類",
+          "kana": "しょるい",
+          "meaning": "documents, offical paper"
+        },
+        {
+          "kanji": "分類",
+          "kana": "ぶんるい",
+          "meaning": "classification, categoriztion"
+        },
+        {
+          "kanji": "人類",
+          "kana": "じんるい",
+          "meaning": "humanity, mankind"
+        }
+      ]
+    },
+    {
+      "kanji": "命",
+      "meaning": "fate, command, decree, destiny, life, appoint",
+      "vocabulary": [
+        {
+          "kanji": "命",
+          "kana": "いのち",
+          "meaning": "life, life source, lifetime, life span"
+        },
+        {
+          "kanji": "命令",
+          "kana": "めいれい",
+          "meaning": "order, command, decree directive"
+        },
+        {
+          "kanji": "寿命",
+          "kana": "じゅみょう",
+          "meaning": "life span"
+        }
+      ]
+    },
+    {
+      "kanji": "蔵",
+      "meaning": "storehouse, hide, own, have, posess",
+      "vocabulary": [
+        {
+          "kanji": "冷蔵庫",
+          "kana": "れいぞうこ",
+          "meaning": "refrigirator"
+        }
+      ]
+    },
+    {
+      "kanji": "庫",
+      "meaning": "warehouse, storehouse",
+      "vocabulary": [
+        {
+          "kanji": "金庫",
+          "kana": "きんこ",
+          "meaning": "safe, vault, strongbox, depositor, treasury, cash office"
+        },
+        {
+          "kanji": "車庫",
+          "kana": "しゃこ",
+          "meaning": "garage"
+        },
+        {
+          "kanji": "倉庫",
+          "kana": "そうこ",
+          "meaning": "warehouse"
+        }
+      ]
+    },
+    {
+      "kanji": "凍",
+      "meaning": "frozen, congeal, refrigerate",
+      "vocabulary": [
+        {
+          "kanji": "凍る",
+          "kana": "こおる",
+          "meaning": "to freeze, to be froze over, to congeal"
+        },
+        {
+          "kanji": "冷凍庫",
+          "kana": "れいとうこ",
+          "meaning": "freezer"
+        }
+      ]
+    },
+    {
+      "kanji": "壁",
+      "meaning": "wall, stomach (lining), fence",
+      "vocabulary": [
+        {
+          "kanji": "壁",
+          "kana": "かべ",
+          "meaning": "wall, partition"
+        }
+      ]
+    },
+    {
+      "kanji": "根",
+      "meaning": "roof, radical, head (pimple)",
+      "vocabulary": [
+        {
+          "kanji": "根",
+          "kana": "ね",
+          "meaning": "root (of a plant, tooth, hair, etc.), center (of a pimple), root source, origin"
+        },
+        {
+          "kanji": "屋根",
+          "kana": "やね",
+          "meaning": "roof"
+        }
+      ]
+    },
+    {
+      "kanji": "具",
+      "meaning": "tool, utensil, means, indgridients, sets of furniture",
+      "vocabulary": [
+        {
+          "kanji": "具合",
+          "kana": "ぐあい",
+          "meaning": "condition, state, manner, health"
+        }
+      ]
+    },
+    {
+      "kanji": "器",
+      "meaning": null,
+      "vocabulary": [
+        {
+          "kanji": "機器",
+          "kana": "きき",
+          "meaning": "device, equipment, machinery, apparatus"
+        },
+        {
+          "kanji": "食器",
+          "kana": "しょっき",
+          "meaning": "tableware"
+        },
+        {
+          "kanji": "楽器",
+          "kana": "がっき",
+          "meaning": "musical instrument"
+        }
+      ]
+    },
+    {
+      "kanji": "床",
+      "meaning": "floor",
+      "vocabulary": [
+        {
+          "kanji": "床",
+          "kana": "ゆか",
+          "meaning": "floor"
+        }
+      ]
+    },
+    {
+      "kanji": "麦",
+      "meaning": "barley, wheat",
+      "vocabulary": [
+        {
+          "kanji": "麦",
+          "kana": "むぎ",
+          "meaning": "wheat, barley, oat"
+        },
+        {
+          "kanji": "小麦",
+          "kana": "こむぎ",
+          "meaning": "wheat"
+        },
+        {
+          "kanji": "麦茶",
+          "kana": "むぎちゃ",
+          "meaning": "barley tea"
+        }
+      ]
+    },
+    {
+      "kanji": "粉",
+      "meaning": "flour, powder, dust",
+      "vocabulary": [
+        {
+          "kanji": "粉",
+          "kana": "こな",
+          "meaning": "flour, wheat, powder"
+        },
+        {
+          "kanji": "小麦粉",
+          "kana": "こむぎこ",
+          "meaning": "wheat flour"
+        },
+        {
+          "kanji": "歯磨き粉",
+          "kana": "はみがきこ",
+          "meaning": "toothpaste"
+        },
+        {
+          "kanji": "花粉",
+          "kana": "かふん",
+          "meaning": "pollen"
+        }
+      ]
+    },
+    {
+      "kanji": "刺",
+      "meaning": null,
+      "vocabulary": [
+        {
+          "kanji": "刺す",
+          "kana": "さす",
+          "meaning": "to pierce to stab, to prick, to sting, to bite, to stich"
+        },
+        {
+          "kanji": "名刺",
+          "kana": "めいし",
+          "meaning": "business card, calling card"
+        },
+        {
+          "kanji": "刺身",
+          "kana": "さしみ",
+          "meaning": "raw sliced fish"
+        }
+      ]
+    },
+    {
+      "kanji": "袋",
+      "meaning": "sack, bag pouch",
+      "vocabulary": [
+        {
+          "kanji": "袋",
+          "kana": "ふくろ",
+          "meaning": "bag, sack, pouch"
+        },
+        {
+          "kanji": "ゴミ袋",
+          "kana": "ごみぶくろ",
+          "meaning": "garbage bag"
+        },
+        {
+          "kanji": "紙袋",
+          "kana": "かみぶくろ",
+          "meaning": "paper bag"
+        },
+        {
+          "kanji": "手袋",
+          "kana": "てぶくろ",
+          "meaning": "glove, mitten, mitt"
+        },
+        {
+          "kanji": "足袋",
+          "kana": "たび",
+          "meaning": "Japanese socks (with split toe)"
+        }
+      ]
+    },
+    {
+      "kanji": "湯",
+      "meaning": "hot water, hat bath, hot spring",
+      "vocabulary": [
+        {
+          "kanji": "お湯",
+          "kana": "おゆ",
+          "meaning": "hot water, hot bath"
+        }
+      ]
+    },
+    {
+      "kanji": "材",
+      "meaning": "lumber, log, timber, wood, materials, ingridients, talent",
+      "vocabulary": [
+        {
+          "kanji": "材料",
+          "kana": "ざいりょう",
+          "meaning": "ingredients, materials"
+        },
+        {
+          "kanji": "教材",
+          "kana": "きょうざい",
+          "meaning": "teaching materials"
+        },
+        {
+          "kanji": "人材",
+          "kana": "じんざい",
+          "meaning": "personnel"
+        },
+        {
+          "kanji": "木材",
+          "kana": "もくざい",
+          "meaning": "lumber"
+        }
+      ]
+    },
+    {
+      "kanji": "砂",
+      "meaning": "sand",
+      "vocabulary": [
+        {
+          "kanji": "砂",
+          "kana": "すな",
+          "meaning": "sand, grit"
+        },
+        {
+          "kanji": "砂糖",
+          "kana": "さとう",
+          "meaning": "sugar"
+        },
+        {
+          "kanji": "砂漠",
+          "kana": "さばく",
+          "meaning": "desert"
+        }
+      ]
+    },
+    {
+      "kanji": "塩",
+      "meaning": "salt",
+      "vocabulary": [
+        {
+          "kanji": "塩",
+          "kana": "しお",
+          "meaning": "salt, common salt, table salt"
+        },
+        {
+          "kanji": "食塩",
+          "kana": "しょくえん",
+          "meaning": "table salt"
+        },
+        {
+          "kanji": "塩分",
+          "kana": "えんぶん",
+          "meaning": "salt content"
+        }
+      ]
+    },
+    {
+      "kanji": "油",
+      "meaning": "oil, fat",
+      "vocabulary": [
+        {
+          "kanji": "油",
+          "kana": "あぶら",
+          "meaning": "oil"
+        },
+        {
+          "kanji": "醤油",
+          "kana": "しょうゆ",
+          "meaning": "soy sauce"
+        },
+        {
+          "kanji": "灯油",
+          "kana": "とうゆ",
+          "meaning": "lamp oil, kerosene"
+        },
+        {
+          "kanji": "石油",
+          "kana": "せきゆ",
+          "meaning": "oil, petroleum oil, kerosene"
+        }
+      ]
+    },
+    {
+      "kanji": "菓",
+      "meaning": "candy, cakes, fruit",
+      "vocabulary": [
+        {
+          "kanji": "お菓子",
+          "kana": "おかし",
+          "meaning": "confections, sweet, candy"
+        },
+        {
+          "kanji": "和菓子",
+          "kana": "わがし",
+          "meaning": "Japanese confectionery"
+        }
+      ]
+    },
+    {
+      "kanji": "貝",
+      "meaning": "shellfish",
+      "vocabulary": [
+        {
+          "kanji": "貝",
+          "kana": "かい",
+          "meaning": "shell, shellfish"
+        }
+      ]
+    },
+    {
+      "kanji": "缶",
+      "meaning": "tin can, container",
+      "vocabulary": [
+        {
+          "kanji": "缶",
+          "kana": "かん",
+          "meaning": "can, tin (applies to かま), boiler"
+        },
+        {
+          "kanji": "缶詰",
+          "kana": "かんづめ",
+          "meaning": "canned goods"
+        }
+      ]
+    }
+  ]
