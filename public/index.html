@@ -23,6 +23,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mqtt/4.2.6/mqtt.min.js" integrity="sha512-DD/bXhp28PWFubyhBKR7vt5FUMRCbEJ8KtC4Oq/MTWniMUytsPM5pFDaUTaHDRd7zC8cHpKvv6FaUI2OP/czlw==" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js" integrity="sha512-3PRVLmoBYuBDbCEojg5qdmd9UhkPiyoczSFYjnLhFb2KAFsWWEMlAPt0olX1Nv7zGhDfhGEVkXsu51a55nlYmw==" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/msgpack-lite/0.1.26/msgpack.min.js" integrity="sha512-harMiusNxs02ryf3eqc3iQalz2RSd0z38vzOyuFwvQyW046h2m+/47WiDmPW9soh/p71WQMRSkhSynEww3/bOA==" crossorigin="anonymous"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js" integrity="sha512-CSBhVREyzHAjAFfBlIBakjoRUKp5h7VSweP0InR/pAJyptH7peuhCsqAI/snV+TwZmXZqoUklpXp6R6wMnYf5Q==" crossorigin="anonymous"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.js" integrity="sha512-CwxrLIN0dww6lRc/oKeZiI9oGlOob2HPMU0Yu0g+P3/G1cuTii+tt0jpyEKhilfrV7D/zmvKiVPIHUDU6xbBxg==" crossorigin="anonymous"></script>
 
   <style>
   body {
@@ -70,6 +72,28 @@
     font-weight: bold;
     cursor:pointer;
   }
+
+  .re-table {
+    width: 100%;
+    white-space: nowrap;
+  }
+
+  .re-table tr th:first-child,
+  .re-table tr td:first-child {
+    padding-left: 0.25rem;
+  }
+
+  .re-table th {
+    background-color: #000000;
+    -webkit-text-stroke: 0.1px #696969;
+    color: #FFFFFF;
+    text-shadow: -0.01px -0.01px 0 #696969, 0.01px -0.01px 0 #696969, -0.01px 0.01px 0 #696969, 0.01px 0.01px 0 #696969, -0.01px -0.01px 3px #696969, 0.01px -0.01px 3px #696969, -0.01px 0.01px 3px #696969, 0.01px 0.01px 3px #696969;
+    font-weight: bold;
+  }
+
+  #main-panel {
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  }
   </style>
 </head>
 <body>
@@ -84,24 +108,29 @@
             <div class="re-panel-header mb-1 px-1 pt-1" data-toggle="collapse"  href="#kanji-collapse">漢字 Kanji</div>
             <div id="kanji-collapse" class="collapse">
               <div>
-                  <label for="level"><b>Level:</b></label>
-                  <input type="checkbox" id="N5" name="N5" value=""> N5
-                  <input type="checkbox" id="N4" name="N4" value=""> N4 
-                  <input type="checkbox" id="N3" name="N3" value=""> N3
-                  <input type="checkbox" id="N2" name="N2" value=""> N2
-                  <input type="checkbox" id="N1" name="N1" value=""> N1
-                  <br>
-                  <label for="mode"><b>Mode:</b></label>
-                  <select id="mode">
-                    <option value="1">Kanji + Vocabulary</option>
-                    <option value="2">Kanji</option>
-                    <option value="3">Vocabulary</option>
-                  </select>
-                  <br>
-                  <label for="cars"><b>Range:</b></label>
-                  <input type="number" id="quantity" name="quantity" min="1" max="5"> <input type="number" id="quaantity" name="quantity" min="1" max="5">
-                  <button type="button" class="re-button">Shuffle</button> 
-                  <br>
+                <label for="kanji-level"><b>Level:</b></label>
+                <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5"> N5
+                <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4"> N4 
+                <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3"> N3
+                <input type="checkbox" id="n2-kanji-checkbox" name="kanji-level" value="n2" disabled> N2
+                <input type="checkbox" id="n1-kanji-checkbox" name="kanji-level" value="n1" disabled> N1
+                <br>
+                <label for="kanji-mode"><b>Mode:</b></label>
+                <select id="kanji-mode">
+                  <option value="kanji">Kanji</option>
+                  <option value="vocabulary">Vocabulary</option>
+                </select>
+                <br>
+                <label for="display"><b>Display:</b></label>
+                <input type="checkbox" id="N5" name="N5" value=""> 仮名
+                <input type="checkbox" id="N4" name="N4" value=""> 意味
+                <br>
+                <div>
+                    <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
+                    <input type="range" id="kanji-span-list-font-size" min="100" max="300" style="vertical-align:middle;" />
+                </div>
+                <button type="button" class="re-button" onclick="_test()">Shuffle</button> 
+                <br>
               </div>
             </div>
           </div>
@@ -128,31 +157,10 @@
         <div class="re-border">
           <div id="main-panel">
             <div>
-              <h1>個 冊 階 匹 歳 第 課 線 兆 億 倍 放 副 的 級 再 無 各 未 祭 限 昨 末 在 昔 期 念 秒 制 製 量 型 般 賞 他 初 角 例 共 総 悲 悔 眠 優 怖 懐 恐 激 嫌 厳 細 詳 珍 貧 賢 難 暖 厚 涼 辛 薄 汚 濃 浅 深 丸 固 苦 快 欲 屈 普 貿 易 得 暇 順 勢 偉 絶 素 直 幸 福 複 雑 迷 惑 奇 妙 危 険 簡 単 非 常 乱 暴 豊 富 労 警 察 師 臣 秘 技 術 務 盗 農 受 等 授 専 門 政 府 選 挙 孫 供 息 娘 徒 児 仲 患 恋 老 齢 性 卒 独 身 係 責 任 互 王 胸 脳 皮 膚 腰 歯 鼻 肌 骨 折 胃 血 汗 涙 指 健 康 亡 類 命 蔵 庫 凍 壁 根 具 器 床 麦 粉 刺 袋 湯 材 砂 塩 油 菓 貝 缶</h1>
+              <!-- <h1>個 冊 階 匹 歳 第 課 線 兆 億 倍 放 副 的 級 再 無 各 未 祭 限 昨 末 在 昔 期 念 秒 制 製 量 型 般 賞 他 初 角 例 共 総 悲 悔 眠 優 怖 懐 恐 激 嫌 厳 細 詳 珍 貧 賢 難 暖 厚 涼 辛 薄 汚 濃 浅 深 丸 固 苦 快 欲 屈 普 貿 易 得 暇 順 勢 偉 絶 素 直 幸 福 複 雑 迷 惑 奇 妙 危 険 簡 単 非 常 乱 暴 豊 富 労 警 察 師 臣 秘 技 術 務 盗 農 受 等 授 専 門 政 府 選 挙 孫 供 息 娘 徒 児 仲 患 恋 老 齢 性 卒 独 身 係 責 任 互 王 胸 脳 皮 膚 腰 歯 鼻 肌 骨 折 胃 血 汗 涙 指 健 康 亡 類 命 蔵 庫 凍 壁 根 具 器 床 麦 粉 刺 袋 湯 材 砂 塩 油 菓 貝 缶</h1> -->
+              <h1><span href="#" data-toggle="popover" data-trigger="hover" data-html="true" title="individual" data-content="個性	こせい	individuality, personality    <br>～個	～こ	counter (piece)<br>個人	こじん	individual, private person<br>個数	こすう	number of articles, quantity<br>">個</span> 冊 階 匹 歳 第 課 線 兆 億 倍 放 副 的 級 再 無 各 未 祭 限 昨 末 在 昔 期 念 秒 制 製 量 型 般 賞 他 初 角 例 共 総 悲 悔 眠 優 怖 懐 恐 激 嫌 厳 細 詳 珍 貧 賢 難 暖 厚 涼 辛 薄 汚 濃 浅 深 丸 固 苦 快 欲 屈 普 貿 易 得 暇 順 勢 偉 絶 素 直 幸 福 複 雑 迷 惑 奇 妙 危 険 簡 単 非 常 乱 暴 豊 富 労 警 察 師 臣 秘 技 術 務 盗 農 受 等 授 専 門 政 府 選 挙 孫 供 息 娘 徒 児 仲 患 恋 老 齢 性 卒 独 身 係 責 任 互 王 胸 脳 皮 膚 腰 歯 鼻 肌 骨 折 胃 血 汗 涙 指 健 康 亡 類 命 蔵 庫 凍 壁 根 具 器 床 麦 粉 刺 袋 湯 材 砂 塩 油 菓 貝 缶</h1>
             
               <div>
-                <div class="row mb-2">
-                  <div class="col-sm-1">
-                    <label style="font-size:3em;">個</label>
-                  </div>
-                  <div class="col-sm-11">
-                    個性	こせい	individuality, personality    <br>
-                    ～個	～こ	counter (piece)<br>
-                    個人	こじん	individual, private person<br>
-                    個数	こすう	number of articles, quantity<br>
-                  </div>
-                </div>
-                <div class="row mb-2">
-                  <div class="col-sm-1">
-                    <label style="font-size:3em;">個</label>
-                  </div>
-                  <div class="col-sm-11">
-                    個性	こせい	individuality, personality    <br>
-                    ～個	～こ	counter (piece)<br>
-                    個人	こじん	individual, private person<br>
-                    個数	こすう	number of articles, quantity<br>
-                  </div>
-                </div>
                 <div class="row mb-2">
                   <div class="col-sm-1">
                     <label style="font-size:3em;">個</label>
@@ -170,5 +178,203 @@
         </div>
     </div>
   </div>
+  <script>
+  var n5Kanji, n4Kanji, n3Kanji, n2Kanji, n1Kanji;
+
+  fetch('kanji-n5.json')
+  .then(response => response.json())
+  .then(data => n5Kanji = data);
+
+  fetch('kanji-n4.json')
+  .then(response => response.json())
+  .then(data => n4Kanji = data);
+
+  fetch('kanji-n3.json')
+  .then(response => response.json())
+  .then(data => n3Kanji = data);
+
+  const _generateKanjiSpanList = (kanjiList) => {
+    let div = document.createElement("div");
+        //div.setAttribute("id", "div-kanji-span-list");
+
+    kanjiList.forEach((k, index) => {
+      let span = document.createElement("span");
+        span.setAttribute("data-toggle", "popover");
+        span.setAttribute("data-trigger", "hover");
+        span.setAttribute("data-html", "true");
+        span.setAttribute("title", k.meaning);
+        span.setAttribute("data-content", _generateDataContent(k.vocabulary).outerHTML);
+        span.innerText = k.kanji + " ";
+
+        div.appendChild(span);
+    });
+     
+    return div;
+  };
+
+  const _generateDataContent = (vocabulary) => {
+    let div = document.createElement("div");
+
+    vocabulary.forEach((v, index) => {
+      let spanKanji = document.createElement("span");
+          spanKanji.innerText = v.kanji;
+
+      let whitespace = document.createTextNode("\u00A0");
+
+      let spanMeaning = document.createElement("span");
+          spanMeaning.innerText = v.meaning;
+
+      let br = document.createElement("br");
+
+      div.appendChild(spanKanji);
+      div.appendChild(whitespace);
+      div.appendChild(spanMeaning);
+      div.appendChild(br);
+    });
+
+    return div;
+  };
+
+  const _generateKanjiVocabularyRows = (vocabulary) => {
+    let rows = [];
+    vocabulary.forEach((v, index) => {
+      let tr = document.createElement("tr");
+      
+      let tdKanji = document.createElement("td");
+          tdKanji.innerText = v.kanji;
+
+      let tdKana = document.createElement("td");
+          tdKana.innerText = v.kana;
+
+      let tdMeaning = document.createElement("td");
+          tdMeaning.innerText = v.meaning;
+
+      tr.appendChild(tdKanji);
+      tr.appendChild(tdKana);
+      tr.appendChild(tdMeaning);
+
+      rows.push(tr);
+    });
+
+    return rows;
+  };
+
+  const _generateKanjiVocabularyList = (kanjiList) => {
+    let div = document.createElement("div");
+        div.setAttribute("style", "overflow-x:auto;");
+        
+    let table = document.createElement("table");
+        table.setAttribute("class", "re-table");
+
+    kanjiList.forEach((k, index) => {
+      let rows = _generateKanjiVocabularyRows(k.vocabulary);
+      let tr
+      rows.forEach((r, index) => {
+        table.appendChild(r);
+      });
+    });
+     
+    div.appendChild(table);
+    return div;
+  };
+
+  const _getKanjiLevel = () => {
+    let kanjiCheckboxes = document.querySelectorAll('input[name="kanji-level"]:checked');
+    
+    let kanjiLevels = [];
+    kanjiCheckboxes.forEach((checkbox) => {
+      kanjiLevels.push(checkbox.value);
+    });
+
+    return kanjiLevels;
+  }
+
+  const _getKanjiMode = () => {
+    return document.getElementById("kanji-mode").value;
+  }
+
+  const _getKanijFontSize = () => {
+    return document.getElementById("kanji-span-list-font-size").value;
+  };
+
+  const _test = () => {
+    // var test = _generateKanjiSpanList(n3Kanji);
+    //     test.setAttribute("id", "div-kanji-span-list");
+    // document.getElementById("main-panel").innerHTML = test.outerHTML;
+    // $('[data-toggle="popover"]').popover({
+    //   html: true,
+    // sanitize: false
+    // });
+
+    // document.getElementById("kanji-span-list-font-size").onchange = () => {
+    //   console.log(document.getElementById("kanji-span-list-font-size").value);
+    //   document.getElementById("div-kanji-span-list").setAttribute("style", "font-size: "+document.getElementById("kanji-span-list-font-size").value+"%")
+    // };
+
+    var test = _generateKanjiVocabularyList(n3Kanji);
+        test.setAttribute("id", "div-kanji-span-list");
+
+    document.getElementById("main-panel").innerHTML = test.outerHTML;
+
+
+  }
+
+  const _renderKanjiVocabularyList = (kanjiList) => {
+    let list = _generateKanjiVocabularyList(kanjiList);
+    list.setAttribute("id", "div-kanji-vocabulary-list");
+    document.getElementById("main-panel").innerHTML = list.outerHTML;
+  };
+
+  const _renderKanjiSpanList = (kanjiList) => {
+    let list = _generateKanjiSpanList(kanjiList);
+    list.setAttribute("id", "div-kanji-span-list");
+    document.getElementById("main-panel").innerHTML = list.outerHTML;
+
+    _renderKanjiFont();
+
+    $('[data-toggle="popover"]').popover({
+      html: true,
+      sanitize: false
+    });
+  };
+
+  const _renderKanji = () => {
+    let level = _getKanjiLevel();
+    let mode = _getKanjiMode();
+    let kanjiList = [];
+
+    if (level.includes("n5"))
+      kanjiList = kanjiList.concat(n5Kanji);
+    if (level.includes("n4"))
+      kanjiList = kanjiList.concat(n4Kanji);
+    if (level.includes("n3"))
+      kanjiList = kanjiList.concat(n3Kanji);
+    if (level.includes("n2"))
+      kanjiList = kanjiList.concat(n2Kanji);
+    if (level.includes("n1"))
+      kanjiList = kanjiList.concat(n1Kanji);
+
+    switch(mode) {
+      case "kanji":
+        _renderKanjiSpanList(kanjiList);
+        break;
+      case "vocabulary":
+        _renderKanjiVocabularyList(kanjiList);
+        break;
+      default:
+        // code block
+    }
+  };
+
+  const _renderKanjiFont = () => {
+    let fontSize = _getKanijFontSize();
+    document.getElementById("div-kanji-span-list").setAttribute("style", "font-size: " + fontSize + "%");
+  };
+
+  document.querySelectorAll('input[name="kanji-level"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
+  document.getElementById("kanji-mode").onchange = _renderKanji;
+  document.getElementById("kanji-span-list-font-size").onchange = _renderKanjiFont;
+
+  </script>
 </body>
 </html>
