@@ -122,8 +122,8 @@
                 </select>
                 <br>
                 <label for="display"><b>Display:</b></label>
-                <input type="checkbox" id="N5" name="N5" value=""> 仮名
-                <input type="checkbox" id="N4" name="N4" value=""> 意味
+                <input type="checkbox" id="kana-display-filter" name="kanj-display-filter" value="kana"> 仮名
+                <input type="checkbox" id="meaning-display-filter" name="kanj-display-filter" value="meaning"> 意味
                 <br>
                 <div>
                     <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
@@ -268,7 +268,6 @@
 
     kanjiList.forEach((k, index) => {
       let rows = _generateKanjiVocabularyRows(k.vocabulary);
-      let tr
       rows.forEach((r, index) => {
         table.appendChild(r);
       });
@@ -295,6 +294,17 @@
 
   const _getKanijFontSize = () => {
     return document.getElementById("kanji-span-list-font-size").value;
+  };
+
+  const _getKanjiDisplayFilters = () => {
+    let kanjiDisplayFilterCheckboxes = document.querySelectorAll('input[name="kanj-display-filter"]:checked');
+    
+    let kanjiDisplayFilters = [];
+    kanjiDisplayFilterCheckboxes.forEach((checkbox) => {
+      kanjiDisplayFilters.push(checkbox.value);
+    });
+
+    return kanjiDisplayFilters;
   };
 
   const _test = () => {
