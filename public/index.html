@@ -138,7 +138,7 @@
                     <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
                     <input type="range" id="kanji-span-list-font-size" min="100" max="300" style="vertical-align:middle;" />
                 </div>
-                <button type="button" class="re-button" onclick="_test()">Shuffle</button> 
+                <button type="button" id="kanji-shuffle-button" class="re-button">Shuffle</button> 
                 <br>
               </div>
             </div>
@@ -165,24 +165,7 @@
     <div class="col-sm-9 px-1 mt-2">
         <div class="re-border">
           <div id="main-panel">
-            <div>
-              <!-- <h1>個 冊 階 匹 歳 第 課 線 兆 億 倍 放 副 的 級 再 無 各 未 祭 限 昨 末 在 昔 期 念 秒 制 製 量 型 般 賞 他 初 角 例 共 総 悲 悔 眠 優 怖 懐 恐 激 嫌 厳 細 詳 珍 貧 賢 難 暖 厚 涼 辛 薄 汚 濃 浅 深 丸 固 苦 快 欲 屈 普 貿 易 得 暇 順 勢 偉 絶 素 直 幸 福 複 雑 迷 惑 奇 妙 危 険 簡 単 非 常 乱 暴 豊 富 労 警 察 師 臣 秘 技 術 務 盗 農 受 等 授 専 門 政 府 選 挙 孫 供 息 娘 徒 児 仲 患 恋 老 齢 性 卒 独 身 係 責 任 互 王 胸 脳 皮 膚 腰 歯 鼻 肌 骨 折 胃 血 汗 涙 指 健 康 亡 類 命 蔵 庫 凍 壁 根 具 器 床 麦 粉 刺 袋 湯 材 砂 塩 油 菓 貝 缶</h1> -->
-              <h1><span href="#" data-toggle="popover" data-trigger="hover" data-html="true" title="individual" data-content="個性	こせい	individuality, personality    <br>～個	～こ	counter (piece)<br>個人	こじん	individual, private person<br>個数	こすう	number of articles, quantity<br>">個</span> 冊 階 匹 歳 第 課 線 兆 億 倍 放 副 的 級 再 無 各 未 祭 限 昨 末 在 昔 期 念 秒 制 製 量 型 般 賞 他 初 角 例 共 総 悲 悔 眠 優 怖 懐 恐 激 嫌 厳 細 詳 珍 貧 賢 難 暖 厚 涼 辛 薄 汚 濃 浅 深 丸 固 苦 快 欲 屈 普 貿 易 得 暇 順 勢 偉 絶 素 直 幸 福 複 雑 迷 惑 奇 妙 危 険 簡 単 非 常 乱 暴 豊 富 労 警 察 師 臣 秘 技 術 務 盗 農 受 等 授 専 門 政 府 選 挙 孫 供 息 娘 徒 児 仲 患 恋 老 齢 性 卒 独 身 係 責 任 互 王 胸 脳 皮 膚 腰 歯 鼻 肌 骨 折 胃 血 汗 涙 指 健 康 亡 類 命 蔵 庫 凍 壁 根 具 器 床 麦 粉 刺 袋 湯 材 砂 塩 油 菓 貝 缶</h1>
             
-              <div>
-                <div class="row mb-2">
-                  <div class="col-sm-1">
-                    <label style="font-size:3em;">個</label>
-                  </div>
-                  <div class="col-sm-11">
-                    個性	こせい	individuality, personality    <br>
-                    ～個	～こ	counter (piece)<br>
-                    個人	こじん	individual, private person<br>
-                    個数	こすう	number of articles, quantity<br>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
     </div>
@@ -375,10 +358,26 @@
     document.getElementById("div-kanji-span-list").setAttribute("style", "font-size: " + fontSize + "%");
   };
 
+  const _renderKanjiShuffled = () => {
+    _shuffle(n5Kanji);
+    _shuffle(n4Kanji);
+    _shuffle(n3Kanji);
+
+    _renderKanji();
+  }
+
+  const _shuffle = (array) => {
+    for (let i = array.length - 1; i > 0; i--) {
+      let j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  };
+
   document.querySelectorAll('input[name="kanji-level"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
   document.querySelectorAll('input[name="kanj-display-filter"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
   document.getElementById("kanji-mode").onchange = _renderKanji;
   document.getElementById("kanji-span-list-font-size").onchange = _renderKanjiFont;
+  document.getElementById("kanji-shuffle-button").onclick = _renderKanjiShuffled;
 
   </script>
 </body>
