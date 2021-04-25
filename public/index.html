@@ -68,7 +68,8 @@
     0.01px 0.01px 0 #696969, 
     -0.01px -0.01px 3px #696969, 
     0.01px -0.01px 3px #696969, 
-    -0.01px 0.01px 3px #696969, 0.01px 0.01px 3px #696969;
+    -0.01px 0.01px 3px #696969, 
+    0.01px 0.01px 3px #696969;
     font-weight: bold;
     cursor:pointer;
   }
@@ -87,7 +88,15 @@
     background-color: #000000;
     -webkit-text-stroke: 0.1px #696969;
     color: #FFFFFF;
-    text-shadow: -0.01px -0.01px 0 #696969, 0.01px -0.01px 0 #696969, -0.01px 0.01px 0 #696969, 0.01px 0.01px 0 #696969, -0.01px -0.01px 3px #696969, 0.01px -0.01px 3px #696969, -0.01px 0.01px 3px #696969, 0.01px 0.01px 3px #696969;
+    text-shadow: 
+    -0.01px -0.01px 0 #696969, 
+    0.01px -0.01px 0 #696969, 
+    -0.01px 0.01px 0 #696969, 
+    0.01px 0.01px 0 #696969, 
+    -0.01px -0.01px 3px #696969, 
+    0.01px -0.01px 3px #696969, 
+    -0.01px 0.01px 3px #696969, 
+    0.01px 0.01px 3px #696969;
     font-weight: bold;
   }
 
@@ -122,8 +131,8 @@
                 </select>
                 <br>
                 <label for="display"><b>Display:</b></label>
-                <input type="checkbox" id="kana-display-filter" name="kanj-display-filter" value="kana"> 仮名
-                <input type="checkbox" id="meaning-display-filter" name="kanj-display-filter" value="meaning"> 意味
+                <input type="checkbox" id="kana-display-filter" name="kanj-display-filter" value="kana" checked> 仮名
+                <input type="checkbox" id="meaning-display-filter" name="kanj-display-filter" value="meaning" checked> 意味
                 <br>
                 <div>
                     <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
@@ -203,7 +212,7 @@
         span.setAttribute("data-trigger", "hover");
         span.setAttribute("data-html", "true");
         span.setAttribute("title", k.meaning);
-        span.setAttribute("data-content", _generateDataContent(k.vocabulary).outerHTML);
+        span.setAttribute("data-content", _generateDataContent(k.vocabulary, _getKanjiDisplayFilter()).outerHTML);
         span.innerText = k.kanji + " ";
 
         div.appendChild(span);
@@ -212,46 +221,53 @@
     return div;
   };
 
-  const _generateDataContent = (vocabulary) => {
+  const _generateDataContent = (vocabulary, filter = []) => {
     let div = document.createElement("div");
 
     vocabulary.forEach((v, index) => {
       let spanKanji = document.createElement("span");
           spanKanji.innerText = v.kanji;
+      div.appendChild(spanKanji);
 
-      let whitespace = document.createTextNode("\u00A0");
+      if (filter.includes("meaning")) {
+        let whitespace = document.createTextNode("\u00A0");
+        let spanMeaning = document.createElement("span");
+            spanMeaning.innerText = v.meaning;
+            spanMeaning.setAttribute("class", "kanji-meaning");
+        div.appendChild(whitespace);
+        div.appendChild(spanMeaning);
+      }
 
-      let spanMeaning = document.createElement("span");
-          spanMeaning.innerText = v.meaning;
 
       let br = document.createElement("br");
-
-      div.appendChild(spanKanji);
-      div.appendChild(whitespace);
-      div.appendChild(spanMeaning);
       div.appendChild(br);
     });
 
     return div;
   };
 
-  const _generateKanjiVocabularyRows = (vocabulary) => {
+  const _generateKanjiVocabularyRows = (vocabulary, filter = []) => {
     let rows = [];
     vocabulary.forEach((v, index) => {
       let tr = document.createElement("tr");
       
       let tdKanji = document.createElement("td");
           tdKanji.innerText = v.kanji;
-
-      let tdKana = document.createElement("td");
-          tdKana.innerText = v.kana;
-
-      let tdMeaning = document.createElement("td");
-          tdMeaning.innerText = v.meaning;
-
       tr.appendChild(tdKanji);
-      tr.appendChild(tdKana);
-      tr.appendChild(tdMeaning);
+
+      if (filter.includes("kana")) {
+        let tdKana = document.createElement("td");
+            tdKana.innerText = v.kana;
+            tdKana.setAttribute("class", "kanji-kana");
+        tr.appendChild(tdKana);
+      }
+
+      if (filter.includes("meaning")) {
+        let tdMeaning = document.createElement("td");
+          tdMeaning.innerText = v.meaning;
+          tdMeaning.setAttribute("class", "kanji-meaning");
+        tr.appendChild(tdMeaning);
+      }
 
       rows.push(tr);
     });
@@ -267,7 +283,7 @@
         table.setAttribute("class", "re-table");
 
     kanjiList.forEach((k, index) => {
-      let rows = _generateKanjiVocabularyRows(k.vocabulary);
+      let rows = _generateKanjiVocabularyRows(k.vocabulary, _getKanjiDisplayFilter());
       rows.forEach((r, index) => {
         table.appendChild(r);
       });
@@ -296,7 +312,7 @@
     return document.getElementById("kanji-span-list-font-size").value;
   };
 
-  const _getKanjiDisplayFilters = () => {
+  const _getKanjiDisplayFilter = () => {
     let kanjiDisplayFilterCheckboxes = document.querySelectorAll('input[name="kanj-display-filter"]:checked');
     
     let kanjiDisplayFilters = [];
@@ -306,28 +322,6 @@
 
     return kanjiDisplayFilters;
   };
-
-  const _test = () => {
-    // var test = _generateKanjiSpanList(n3Kanji);
-    //     test.setAttribute("id", "div-kanji-span-list");
-    // document.getElementById("main-panel").innerHTML = test.outerHTML;
-    // $('[data-toggle="popover"]').popover({
-    //   html: true,
-    // sanitize: false
-    // });
-
-    // document.getElementById("kanji-span-list-font-size").onchange = () => {
-    //   console.log(document.getElementById("kanji-span-list-font-size").value);
-    //   document.getElementById("div-kanji-span-list").setAttribute("style", "font-size: "+document.getElementById("kanji-span-list-font-size").value+"%")
-    // };
-
-    var test = _generateKanjiVocabularyList(n3Kanji);
-        test.setAttribute("id", "div-kanji-span-list");
-
-    document.getElementById("main-panel").innerHTML = test.outerHTML;
-
-
-  }
 
   const _renderKanjiVocabularyList = (kanjiList) => {
     let list = _generateKanjiVocabularyList(kanjiList);
@@ -382,6 +376,7 @@
   };
 
   document.querySelectorAll('input[name="kanji-level"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
+  document.querySelectorAll('input[name="kanj-display-filter"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
   document.getElementById("kanji-mode").onchange = _renderKanji;
   document.getElementById("kanji-span-list-font-size").onchange = _renderKanjiFont;
 
