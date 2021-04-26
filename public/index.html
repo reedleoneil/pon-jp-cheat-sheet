@@ -114,26 +114,29 @@
             <div class="re-panel-header mb-1 px-1 pt-1 text-center">ポンの日本語総まとめ</div>
           </div>
           <div>
-            <div class="re-panel-header mb-1 px-1 pt-1" data-toggle="collapse"  href="#kanji-collapse">漢字 Kanji</div>
+            <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse"  href="#kanji-collapse">漢字 Kanji</div>
             <div id="kanji-collapse" class="collapse">
-              <div>
-                <label for="kanji-level"><b>Level:</b></label>
-                <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5"> N5
-                <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4"> N4 
-                <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3"> N3
-                <input type="checkbox" id="n2-kanji-checkbox" name="kanji-level" value="n2" disabled> N2
-                <input type="checkbox" id="n1-kanji-checkbox" name="kanji-level" value="n1" disabled> N1
-                <br>
-                <label for="kanji-mode"><b>Mode:</b></label>
-                <select id="kanji-mode">
-                  <option value="kanji">Kanji</option>
-                  <option value="vocabulary">Vocabulary</option>
-                </select>
-                <br>
-                <label for="display"><b>Display:</b></label>
-                <input type="checkbox" id="kana-display-filter" name="kanj-display-filter" value="kana" checked> 仮名
-                <input type="checkbox" id="meaning-display-filter" name="kanj-display-filter" value="meaning" checked> 意味
-                <br>
+              <div class="mt-1">
+                <div>
+                  <label for="kanji-level"><b>Level:</b></label>
+                  <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5"> N5
+                  <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4"> N4 
+                  <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3"> N3
+                  <input type="checkbox" id="n2-kanji-checkbox" name="kanji-level" value="n2" disabled> N2
+                  <input type="checkbox" id="n1-kanji-checkbox" name="kanji-level" value="n1" disabled> N1
+                </div>
+                <div>
+                  <label for="kanji-mode"><b>Mode:</b></label>
+                  <select id="kanji-mode">
+                    <option value="kanji">Kanji</option>
+                    <option value="vocabulary">Vocabulary</option>
+                  </select>
+                </div>
+                <div>
+                  <label for="display"><b>Display:</b></label>
+                <input type="checkbox" id="kanji-kana-display-filter" name="kanji-display-filter" value="kana" checked> 仮名
+                <input type="checkbox" id="kanji-meaning-display-filter" name="kanji-display-filter" value="meaning" checked> 意味
+                </div>
                 <div>
                     <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
                     <input type="range" id="kanji-span-list-font-size" min="100" max="300" style="vertical-align:middle;" />
@@ -146,15 +149,28 @@
           <div>
             <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse" href="#vocabulary-collapse">語彙 Vocabulary</div>
             <div id="vocabulary-collapse" class="collapse">
-              <div>
-                test
+              <div class="mt-1">
+                <div>
+                  <label for="kanji-level"><b>Level:</b></label>
+                  <input type="checkbox" id="n5-vocabulary-checkbox" name="vocabulary-level" value="n5"> N5
+                  <input type="checkbox" id="n4-vocabulary-checkbox" name="vocabulary-level" value="n4"> N4 
+                  <input type="checkbox" id="n3-vocabulary-checkbox" name="vocabulary-level" value="n3"> N3
+                  <input type="checkbox" id="n2-vocabulary-checkbox" name="vocabulary-level" value="n2" disabled> N2
+                  <input type="checkbox" id="n1-vocabulary-checkbox" name="vocabulary-level" value="n1" disabled> N1
+                </div>
+                <div>
+                  <label for="display"><b>Display:</b></label>
+                  <input type="checkbox" id="vocabulary-kana-display-filter" name="vocabulary-display-filter" value="kana" checked> 仮名
+                  <input type="checkbox" id="vocabulary-meaning-display-filter" name="vocabulary-display-filter" value="meaning" checked> 意味
+                </div>
+                <button type="button" id="vocabulary-shuffle-button" class="re-button">Shuffle</button> 
               </div>
             </div>
           </div>
           <div>
             <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse" href="#grammar-collapse">文法 Grammar</div>
             <div id="grammar-collapse" class="collapse">
-              <div>
+              <div class="mt-1">
                 test
               </div>
             </div>
@@ -302,7 +318,7 @@
   };
 
   const _getKanjiDisplayFilter = () => {
-    let kanjiDisplayFilterCheckboxes = document.querySelectorAll('input[name="kanj-display-filter"]:checked');
+    let kanjiDisplayFilterCheckboxes = document.querySelectorAll('input[name="kanji-display-filter"]:checked');
     
     let kanjiDisplayFilters = [];
     kanjiDisplayFilterCheckboxes.forEach((checkbox) => {
@@ -380,7 +396,7 @@
   };
 
   document.querySelectorAll('input[name="kanji-level"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
-  document.querySelectorAll('input[name="kanj-display-filter"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
+  document.querySelectorAll('input[name="kanji-display-filter"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
   document.getElementById("kanji-mode").onchange = _renderKanji;
   document.getElementById("kanji-span-list-font-size").onchange = _renderKanjiFont;
   document.getElementById("kanji-shuffle-button").onclick = _renderKanjiShuffled;
