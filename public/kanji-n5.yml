@@ -1,0 +1,1848 @@
+-
+  kanji: 一
+  meaning: one
+  vocabulary: 
+    -
+      kanji: 一
+      kana: いち
+      meaning: one
+    -
+      kanji: 一つ
+      kana: ひとつ
+      meaning: one piece
+-
+  kanji: 二
+  meaning: two
+  vocabulary: 
+    -
+      kanji: 二
+      kana: に
+      meaning: two
+    -
+      kanji: 二つ
+      kana: ふたつ
+      meaning: two pieces
+-
+  kanji: 三
+  meaning: three
+  vocabulary: 
+    -
+      kanji: 三
+      kana: さん
+      meaning: three
+    -
+      kanji: 三つ
+      kana: みっつ
+      meaning: three pieces
+-
+  kanji: 四
+  meaning: four
+  vocabulary: 
+    -
+      kanji: 四
+      kana: よん・し
+      meaning: four
+    -
+      kanji: 四つ
+      kana: よっつ
+      meaning: four pieces
+-
+  kanji: 五
+  meaning: five
+  vocabulary: 
+    -
+      kanji: 五
+      kana: ご
+      meaning: five
+    -
+      kanji: 五つ
+      kana: いつつ
+      meaning: five pieces
+-
+  kanji: 六
+  meaning: six
+  vocabulary: 
+    -
+      kanji: 六
+      kana: ろく
+      meaning: six
+    -
+      kanji: 六つ
+      kana: むっつ
+      meaning: six pieces
+-
+  kanji: 七
+  meaning: seven
+  vocabulary: 
+    -
+      kanji: 七
+      kana: なな・しち
+      meaning: seven
+    -
+      kanji: 七つ
+      kana: ななつ
+      meaning: seven pieces
+-
+  kanji: 八
+  meaning: eight
+  vocabulary: 
+    -
+      kanji: 八
+      kana: はち
+      meaning: eight
+    -
+      kanji: 八つ
+      kana: やっつ
+      meaning: eight pieces
+-
+  kanji: 九
+  meaning: nine
+  vocabulary: 
+    -
+      kanji: 九
+      kana: きゅう
+      meaning: nine
+    -
+      kanji: 九つ
+      kana: ここのつ
+      meaning: nine pieces
+-
+  kanji: 十
+  meaning: ten
+  vocabulary: 
+    -
+      kanji: 十
+      kana: じゅう
+      meaning: ten
+    -
+      kanji: 十
+      kana: とお
+      meaning: ten pieces
+-
+  kanji: 百
+  meaning: hundred
+  vocabulary: 
+    -
+      kanji: 百
+      kana: ひゃく
+      meaning: 100
+    -
+      kanji: 三百
+      kana: さんびゃく
+      meaning: 300
+    -
+      kanji: 六百
+      kana: ろっぴゃく
+      meaning: 600
+    -
+      kanji: 八百
+      kana: はっぴゃく
+      meaning: 800
+-
+  kanji: 千
+  meaning: thousand
+  vocabulary: 
+    -
+      kanji: 千
+      kana: せん
+      meaning: 1,000
+    -
+      kanji: 三千
+      kana: さんぜん
+      meaning: 3,000
+    -
+      kanji: 八千
+      kana: はっせん
+      meaning: 8,000
+-
+  kanji: 万
+  meaning: ten thousand
+  vocabulary: 
+    -
+      kanji: 万
+      kana: まん
+      meaning: 10,000
+-
+  kanji: 日
+  meaning: day, sun, Japan, counter for days
+  vocabulary: 
+    -
+      kanji: 日
+      kana: ひ
+      meaning: sun
+    -
+      kanji: 一日
+      kana: ついたち
+      meaning: 1st day
+    -
+      kanji: 一日
+      kana: いちにち
+      meaning: one day
+    -
+      kanji: 二日
+      kana: ふつか
+      meaning: 2nd day
+    -
+      kanji: 三日
+      kana: みっか
+      meaning: 3rd day
+    -
+      kanji: 四日
+      kana: よっか
+      meaning: 4th day
+    -
+      kanji: 五日
+      kana: いつか
+      meaning: 5th day
+    -
+      kanji: 六日
+      kana: むいか
+      meaning: 6th day
+    -
+      kanji: 七日
+      kana: なのか
+      meaning: 7th day
+    -
+      kanji: 八日
+      kana: ようか
+      meaning: 8th day
+    -
+      kanji: 九日
+      kana: ここのか
+      meaning: 9th day
+    -
+      kanji: 十日
+      kana: とおか
+      meaning: 10th day
+    -
+      kanji: 十四日
+      kana: じゅうよっか
+      meaning: 14th day
+    -
+      kanji: 二十日
+      kana: はつか
+      meaning: 20th day
+    -
+      kanji: 二十四日
+      kana: にじゅうよっか
+      meaning: 24th day
+    -
+      kanji: 日よう日
+      kana: にちようび
+      meaning: Sunday
+-
+  kanji: 月
+  meaning: month, moon
+  vocabulary: 
+    -
+      kanji: 月
+      kana: つき
+      meaning: moon
+    -
+      kanji: 四月
+      kana: しがつ
+      meaning: April
+    -
+      kanji: 九月
+      kana: くがつ
+      meaning: September
+    -
+      kanji: 一か月
+      kana: いっかげつ
+      meaning: 1 month
+    -
+      kanji: 六か月
+      kana: ろっかげつ
+      meaning: 6 months
+    -
+      kanji: 八か月
+      kana: はっかげつ
+      meaning: 8 months
+    -
+      kanji: 十か月
+      kana: じゅっかげつ
+      meaning: 10 months
+-
+  kanji: 火
+  meaning: fire
+  vocabulary: 
+    -
+      kanji: 火
+      kana: ひ
+      meaning: fire
+    -
+      kanji: 火よう日
+      kana: かようび
+      meaning: Tuesday
+-
+  kanji: 水
+  meaning: water
+  vocabulary: 
+    -
+      kanji: 水
+      kana: みず
+      meaning: water
+    -
+      kanji: 水よう日
+      kana: すいようび
+      meaning: Wednesday
+-
+  kanji: 木
+  meaning: tree, wood
+  vocabulary: 
+    -
+      kanji: 木
+      kana: き
+      meaning: tree
+    -
+      kanji: 木よう日
+      kana: もくようび
+      meaning: Thursday
+-
+  kanji: 金
+  meaning: gold
+  vocabulary: 
+    -
+      kanji: お金
+      kana: おかね
+      meaning: money
+    -
+      kanji: 金よう日
+      kana: きんようび
+      meaning: Friday
+-
+  kanji: 土
+  meaning: soil, earth, ground
+  vocabulary: 
+    -
+      kanji: 土
+      kana: つち
+      meaning: land
+    -
+      kanji: 土よう日
+      kana: どようび
+      meaning: Saturday
+-
+  kanji: 円
+  meaning: circle, yen, round
+  vocabulary: 
+    -
+      kanji: ~円
+      kana: ~えん
+      meaning: Yen
+-
+  kanji: 何
+  meaning: what
+  vocabulary: 
+    -
+      kanji: 何
+      kana: なん・なに
+      meaning: what
+-
+  kanji: 本
+  meaning: book, origin, counter for long cylindrical things
+  vocabulary: 
+    -
+      kanji: 本
+      kana: ほん
+      meaning: book
+    -
+      kanji: 日本
+      kana: にほん
+      meaning: Japan
+    -
+      kanji: 一本
+      kana: いっぽん
+      meaning: 1 long object
+    -
+      kanji: 三本
+      kana: さんぼん
+      meaning: 3 long objects
+    -
+      kanji: 六本
+      kana: ろっぽん
+      meaning: 6 long objects
+    -
+      kanji: 八本
+      kana: はっぽん
+      meaning: 8 long objects
+    -
+      kanji: 何本
+      kana: なんぼん
+      meaning: how many pieces
+    -
+      kanji: 百本
+      kana: ひゃっぽん
+      meaning: 100 long objects
+-
+  kanji: 人
+  meaning: person
+  vocabulary: 
+    -
+      kanji: 人
+      kana: ひと
+      meaning: person
+    -
+      kanji: 日本人
+      kana: にほんじん
+      meaning: Japanese (person)
+    -
+      kanji: 一人
+      kana: ひとり
+      meaning: 1 person
+    -
+      kanji: 二人
+      kana: ふたり
+      meaning: 2 persons
+    -
+      kanji: 何人
+      kana: なんにん
+      meaning: how many persons
+-
+  kanji: 女
+  meaning: woman, female
+  vocabulary: 
+    -
+      kanji: 女
+      kana: おんな
+      meaning: female
+-
+  kanji: 男
+  meaning: man, male
+  vocabulary: 
+    -
+      kanji: 男
+      kana: おとこ
+      meaning: male
+-
+  kanji: 子
+  meaning: child, sign of the rat
+  vocabulary: 
+    -
+      kanji: 子ども
+      kana: こども
+      meaning: child
+    -
+      kanji: 男の子
+      kana: おとこのこ
+      meaning: boy
+    -
+      kanji: 女の子
+      kana: おんなのこ
+      meaning: girl
+-
+  kanji: 父
+  meaning: father
+  vocabulary: 
+    -
+      kanji: 父
+      kana: ちち
+      meaning: father
+    -
+      kanji: お父さん
+      kana: おとうさん
+      meaning: your father
+-
+  kanji: 母
+  meaning: mother
+  vocabulary: 
+    -
+      kanji: 母
+      kana: はは
+      meaning: mother
+    -
+      kanji: お母さん
+      kana: おかあさん
+      meaning: your mother
+-
+  kanji: 友
+  meaning: friend
+  vocabulary: 
+    -
+      kanji: 友だち
+      kana: ともだち
+      meaning: friend
+-
+  kanji: 半
+  meaning: half, middle
+  vocabulary: 
+    -
+      kanji: ~半
+      kana: ~はん
+      meaning: ~ half
+-
+  kanji: 分
+  meaning: part, minute of time, understand
+  vocabulary: 
+    -
+      kanji: ~分
+      kana: ~ふん
+      meaning: ~ minutes
+    -
+      kanji: 半分
+      kana: はんぶん
+      meaning: half
+-
+  kanji: 時
+  meaning: time, hour
+  vocabulary: 
+    -
+      kanji: ~時
+      kana: ~じ
+      meaning: ~ o`clock
+-
+  kanji: 週
+  meaning: week
+  vocabulary: 
+    -
+      kanji: ~週
+      kana: ~しゅう
+      meaning: ~ week
+-
+  kanji: 年
+  meaning: year, counter for years
+  vocabulary: 
+    -
+      kanji: ~年
+      kana: ~ねん
+      meaning: ~ year
+-
+  kanji: 間
+  meaning: interval, space
+  vocabulary: 
+    -
+      kanji: 間
+      kana: あいだ
+      meaning: in between
+    -
+      kanji: 時間
+      kana: じかん
+      meaning: time
+    -
+      kanji: ~日間
+      kana: ~にちかん
+      meaning: no. of days
+    -
+      kanji: ~週間
+      kana: ~しゅうかん
+      meaning: no. of weeks
+    -
+      kanji: ~年間
+      kana: ~ねんかん
+      meaning: no. of years
+-
+  kanji: 今
+  meaning: now
+  vocabulary: 
+    -
+      kanji: 今
+      kana: いま
+      meaning: now
+    -
+      kanji: 今日
+      kana: きょう
+      meaning: today
+    -
+      kanji: 今週
+      kana: こんしゅう
+      meaning: this week
+    -
+      kanji: 今月
+      kana: こんげつ
+      meaning: this month
+    -
+      kanji: 今年
+      kana: ことし
+      meaning: this year
+-
+  kanji: 先
+  meaning: before, ahead, previous, future, precedence
+  vocabulary: 
+    -
+      kanji: 先
+      kana: さき
+      meaning: ahead
+-
+  kanji: 来
+  meaning: come, due, next, cause, become
+  vocabulary: 
+    -
+      kanji: 来る
+      kana: くる
+      meaning: to come
+    -
+      kanji: 来週
+      kana: らいしゅう
+      meaning: next week
+    -
+      kanji: 来月
+      kana: らいげつ
+      meaning: next month
+    -
+      kanji: 来年
+      kana: らいねん
+      meaning: next year
+-
+  kanji: 毎
+  meaning: every
+  vocabulary: 
+    -
+      kanji: 毎日
+      kana: まいにち
+      meaning: everyday
+    -
+      kanji: 毎週
+      kana: まいしゅう
+      meaning: every week
+    -
+      kanji: 毎月
+      kana: まいつき
+      meaning: every month
+    -
+      kanji: 毎年
+      kana: まいとし
+      meaning: every year
+-
+  kanji: 午
+  meaning: noon, sign of the horse
+  vocabulary: 
+    -
+      kanji: 午後
+      kana: ごご
+      meaning: p.m.
+    -
+      kanji: 午前
+      kana: ごぜん
+      meaning: a.m.
+-
+  kanji: 前
+  meaning: in front, before
+  vocabulary: 
+    -
+      kanji: 前
+      kana: まえ
+      meaning: front/before
+    -
+      kanji: 午前
+      kana: ごぜん
+      meaning: a.m.
+-
+  kanji: 後
+  meaning: behind, back, later
+  vocabulary: 
+    -
+      kanji: 後
+      kana: あと
+      meaning: later/after
+    -
+      kanji: 後ろ
+      kana: うしろ
+      meaning: back/behind
+    -
+      kanji: 午後
+      kana: ごご
+      meaning: p.m.
+-
+  kanji: 朝
+  meaning: morning
+  vocabulary: 
+    -
+      kanji: 朝
+      kana: あさ
+      meaning: morning
+    -
+      kanji: 毎朝
+      kana: まいあさ
+      meaning: every morning
+    -
+      kanji: 今朝
+      kana: けさ
+      meaning: this morning
+-
+  kanji: 晩
+  meaning: night
+  vocabulary: 
+    -
+      kanji: 晩
+      kana: ばん
+      meaning: night
+    -
+      kanji: 毎晩
+      kana: まいばん
+      meaning: every night
+    -
+      kanji: 今晩
+      kana: こんばん
+      meaning: tonight
+-
+  kanji: 夏
+  meaning: summer
+  vocabulary: 
+    -
+      kanji: 夏
+      kana: なつ
+      meaning: summer
+-
+  kanji: 春
+  meaning: spring
+  vocabulary: 
+    -
+      kanji: 春
+      kana: はる
+      meaning: spring
+-
+  kanji: 冬
+  meaning: fall
+  vocabulary: 
+    -
+      kanji: 冬
+      kana: ふゆ
+      meaning: winter
+-
+  kanji: 秋
+  meaning: autumn
+  vocabulary: 
+    -
+      kanji: 秋
+      kana: あき
+      meaning: autumn
+-
+  kanji: 正
+  meaning: correct, justice, righteous
+  vocabulary: 
+    -
+      kanji: 正しい
+      kana: ただしい
+      meaning: correct
+    -
+      kanji: 正月
+      kana: しょうがつ
+      meaning: New Year
+-
+  kanji: 上
+  meaning: above, up
+  vocabulary: 
+    -
+      kanji: 上
+      kana: うえ
+      meaning: on top/above
+    -
+      kanji: 上げる
+      kana: あげる
+      meaning: give
+    -
+      kanji: 上がる
+      kana: あがる
+      meaning: raise
+-
+  kanji: 下
+  meaning: below, down
+  vocabulary: 
+    -
+      kanji: 下
+      kana: した
+      meaning: under
+-
+  kanji: 右
+  meaning: right
+  vocabulary: 
+    -
+      kanji: 右
+      kana: みぎ
+      meaning: right
+-
+  kanji: 左
+  meaning: left
+  vocabulary: 
+    -
+      kanji: 左
+      kana: ひだり
+      meaning: left
+-
+  kanji: 中
+  meaning: inside, middle
+  vocabulary: 
+    -
+      kanji: 中
+      kana: なか
+      meaning: inside
+    -
+      kanji: 一日中
+      kana: いちにちじゅう
+      meaning: all day long
+    -
+      kanji: 一晩中
+      kana: ひとばんじゅう
+      meaning: all night long
+-
+  kanji: 外
+  meaning: outside
+  vocabulary: 
+    -
+      kanji: 外
+      kana: そと
+      meaning: outside
+-
+  kanji: 北
+  meaning: north
+  vocabulary: 
+    -
+      kanji: 北
+      kana: きた
+      meaning: north
+-
+  kanji: 南
+  meaning: south
+  vocabulary: 
+    -
+      kanji: 南
+      kana: みなみ
+      meaning: south
+-
+  kanji: 東
+  meaning: east
+  vocabulary: 
+    -
+      kanji: 東
+      kana: ひがし
+      meaning: east
+-
+  kanji: 西
+  meaning: west
+  vocabulary: 
+    -
+      kanji: 西
+      kana: にし
+      meaning: west
+-
+  kanji: 大
+  meaning: large, big
+  vocabulary: 
+    -
+      kanji: 大きい
+      kana: おおきい
+      meaning: big
+-
+  kanji: 小
+  meaning: little, small
+  vocabulary: 
+    -
+      kanji: 小さい
+      kana: ちいさい
+      meaning: small
+-
+  kanji: 安
+  meaning: cheap
+  vocabulary: 
+    -
+      kanji: 安い
+      kana: やすい
+      meaning: cheap
+-
+  kanji: 高
+  meaning: tall, high, expensive
+  vocabulary: 
+    -
+      kanji: 高い
+      kana: たかい
+      meaning: tall/expensive
+-
+  kanji: 新
+  meaning: new
+  vocabulary: 
+    -
+      kanji: 新しい
+      kana: あたらしい
+      meaning: new
+-
+  kanji: 古
+  meaning: old
+  vocabulary: 
+    -
+      kanji: 古い
+      kana: ふるい
+      meaning: old
+    -
+      kanji: 古本
+      kana: ふるほん
+      meaning: used books
+-
+  kanji: 長
+  meaning: long, leader, superior, senior
+  vocabulary: 
+    -
+      kanji: 長い
+      kana: ながい
+      meaning: long
+-
+  kanji: 早
+  meaning: early, fast
+  vocabulary: 
+    -
+      kanji: 早い
+      kana: はやい
+      meaning: early
+-
+  kanji: 近
+  meaning: near
+  vocabulary: 
+    -
+      kanji: 近い
+      kana: ちかい
+      meaning: near
+    -
+      kanji: 近く
+      kana: ちかく
+      meaning: near
+-
+  kanji: 明
+  meaning: bright, light
+  vocabulary: 
+    -
+      kanji: 明るい
+      kana: あかるい
+      meaning: bright
+    -
+      kanji: 明日
+      kana: あした
+      meaning: tomorrow
+-
+  kanji: 少
+  meaning: few, little
+  vocabulary: 
+    -
+      kanji: 少し
+      kana: すこし
+      meaning: a little
+    -
+      kanji: 少ない
+      kana: すくない
+      meaning: a little
+-
+  kanji: 多
+  meaning: many, frequent, much
+  vocabulary: 
+    -
+      kanji: 多い
+      kana: おおい
+      meaning: many
+-
+  kanji: 有
+  meaning: possess, have, exist
+  vocabulary: 
+    -
+      kanji: 有名な
+      kana: ゆうめい(な)
+      meaning: famous
+-
+  kanji: 名
+  meaning: name
+  vocabulary: 
+    -
+      kanji: 名前
+      kana: なまえ
+      meaning: name
+    -
+      kanji: 有名な
+      kana: ゆうめい(な)
+      meaning: famous
+-
+  kanji: 色
+  meaning: color
+  vocabulary: 
+    -
+      kanji: いろ
+      kana: color
+      meaning: 
+-
+  kanji: 白
+  meaning: white
+  vocabulary: 
+    -
+      kanji: 白い
+      kana: しろい
+      meaning: white
+-
+  kanji: 青
+  meaning: blue
+  vocabulary: 
+    -
+      kanji: 青い
+      kana: あおい
+      meaning: blue
+-
+  kanji: 赤
+  meaning: red
+  vocabulary: 
+    -
+      kanji: 赤い
+      kana: あかい
+      meaning: red
+-
+  kanji: 茶
+  meaning: tea
+  vocabulary: 
+    -
+      kanji: お茶
+      kana: おちゃ
+      meaning: tea
+    -
+      kanji: 茶色
+      kana: ちゃいろい
+      meaning: brown
+-
+  kanji: 黒
+  meaning: black
+  vocabulary: 
+    -
+      kanji: 黒い
+      kana: くろい
+      meaning: black
+-
+  kanji: 書
+  meaning: write
+  vocabulary: 
+    -
+      kanji: 書く
+      kana: かく
+      meaning: to write
+-
+  kanji: 行
+  meaning: going
+  vocabulary: 
+    -
+      kanji: 行く
+      kana: いく
+      meaning: to go
+-
+  kanji: 食
+  meaning: eat, food
+  vocabulary: 
+    -
+      kanji: 食べる
+      kana: たべる
+      meaning: to eat
+-
+  kanji: 飲
+  meaning: drink
+  vocabulary: 
+    -
+      kanji: 飲む
+      kana: のむ
+      meaning: to drink
+-
+  kanji: 買
+  meaning: buy
+  vocabulary: 
+    -
+      kanji: 買う
+      kana: かう
+      meaning: to buy
+-
+  kanji: 見
+  meaning: see
+  vocabulary: 
+    -
+      kanji: 見る
+      kana: みる
+      meaning: to watch
+-
+  kanji: 生
+  meaning: life, birth
+  vocabulary: 
+    -
+      kanji: 生まれる
+      kana: うまれる
+      meaning: to be born
+    -
+      kanji: 先生
+      kana: せんせい
+      meaning: teacher
+    -
+      kanji: ~年生
+      kana: ~ねんせい
+      meaning: year level
+-
+  kanji: 休
+  meaning: rest
+  vocabulary: 
+    -
+      kanji: 休み
+      kana: やすみ
+      meaning: holiday
+    -
+      kanji: 休む
+      kana: やすむ
+      meaning: to take a break
+    -
+      kanji: 夏休み
+      kana: なつやすみ
+      meaning: summer vacation
+    -
+      kanji: 休日
+      kana: きゅうじつ
+      meaning: break
+-
+  kanji: 帰
+  meaning: homecoming
+  vocabulary: 
+    -
+      kanji: 帰る
+      kana: かえる
+      meaning: to go home
+-
+  kanji: 売
+  meaning: sell
+  vocabulary: 
+    -
+      kanji: 売る
+      kana: うる
+      meaning: to sell
+-
+  kanji: 入
+  meaning: enter, insert
+  vocabulary: 
+    -
+      kanji: 入る
+      kana: はいる
+      meaning: to enter
+    -
+      kanji: 入れる
+      kana: いれる
+      meaning: to insert
+    -
+      kanji: 入学
+      kana: にゅうがく
+      meaning: to enter school
+-
+  kanji: 出
+  meaning: exit, leave, go out
+  vocabulary: 
+    -
+      kanji: 出る
+      kana: でる
+      meaning: to go out
+    -
+      kanji: 出す
+      kana: だす
+      meaning: to submit
+    -
+      kanji: 出かける
+      kana: でかける
+      meaning: to go out
+-
+  kanji: 止
+  meaning: stop, halt
+  vocabulary: 
+    -
+      kanji: 止まる
+      kana: とまる
+      meaning: to stop
+-
+  kanji: 切
+  meaning: cut
+  vocabulary: 
+    -
+      kanji: 切る
+      kana: きる
+      meaning: to cut
+-
+  kanji: 立
+  meaning: stand up, rise
+  vocabulary: 
+    -
+      kanji: 立つ
+      kana: たつ
+      meaning: to stand
+-
+  kanji: 持
+  meaning: hold, have
+  vocabulary: 
+    -
+      kanji: 持つ
+      kana: もつ
+      meaning: to carry
+-
+  kanji: 待
+  meaning: wait
+  vocabulary: 
+    -
+      kanji: 待つ
+      kana: まつ
+      meaning: to wait
+-
+  kanji: 閉
+  meaning: close
+  vocabulary: 
+    -
+      kanji: 閉める
+      kana: しめる
+      meaning: to close
+-
+  kanji: 開
+  meaning: open
+  vocabulary: 
+    -
+      kanji: 開ける
+      kana: あける
+      meaning: to open
+    -
+      kanji: 開く
+      kana: あく
+      meaning: to open
+-
+  kanji: 聞
+  meaning: hear, ask, listen
+  vocabulary: 
+    -
+      kanji: 聞く
+      kana: きく
+      meaning: to listen
+    -
+      kanji: 新聞
+      kana: しんぶん
+      meaning: newspaper
+-
+  kanji: 知
+  meaning: know, wisdom
+  vocabulary: 
+    -
+      kanji: 知る
+      kana: しる
+      meaning: to know
+-
+  kanji: 学
+  meaning: study, learning, science
+  vocabulary: 
+    -
+      kanji: 学ぶ
+      kana: まなぶ
+      meaning: to learn
+    -
+      kanji: 大学
+      kana: だいがく
+      meaning: university
+    -
+      kanji: 学生
+      kana: がくせい
+      meaning: student
+    -
+      kanji: 見学
+      kana: けんがく
+      meaning: tour
+    -
+      kanji: 大学生
+      kana: だいがくせい
+      meaning: university student
+-
+  kanji: 会
+  meaning: meeting, meet
+  vocabulary: 
+    -
+      kanji: 会う
+      kana: あう
+      meaning: to meet
+    -
+      kanji: 会長
+      kana: かいちょう
+      meaning: chairman
+    -
+      kanji: 学会
+      kana: がっかい
+      meaning: institute
+-
+  kanji: 着
+  meaning: arrive, wear
+  vocabulary: 
+    -
+      kanji: 着る
+      kana: きる
+      meaning: to wear (upper)
+    -
+      kanji: 着く
+      kana: つく
+      meaning: to arrive
+    -
+      kanji: 上着
+      kana: うわぎ
+      meaning: jacket
+-
+  kanji: 使
+  meaning: use
+  vocabulary: 
+    -
+      kanji: 使う
+      kana: つかう
+      meaning: to use
+-
+  kanji: 作
+  meaning: make
+  vocabulary: 
+    -
+      kanji: 作る
+      kana: つくる
+      meaning: to make
+-
+  kanji: 言
+  meaning: say, word
+  vocabulary: 
+    -
+      kanji: 言う
+      kana: いう
+      meaning: to say
+-
+  kanji: 語
+  meaning: word, speech, language
+  vocabulary: 
+    -
+      kanji: 日本語
+      kana: にほんご
+      meaning: Japanese
+    -
+      kanji: 言語
+      kana: げんご
+      meaning: language
+-
+  kanji: 話
+  meaning: tale, talk
+  vocabulary: 
+    -
+      kanji: 会話
+      kana: かいわ
+      meaning: conversation
+    -
+      kanji: 話
+      kana: はなし
+      meaning: story/talk
+    -
+      kanji: 話す
+      kana: はなす
+      meaning: to speak
+-
+  kanji: 読
+  meaning: read
+  vocabulary: 
+    -
+      kanji: 読む
+      kana: よむ
+      meaning: to read
+    -
+      kanji: 読書
+      kana: どくしょ
+      meaning: reading
+-
+  kanji: 店
+  meaning: store, shop
+  vocabulary: 
+    -
+      kanji: 店
+      kana: みせ
+      meaning: store
+    -
+      kanji: 売店
+      kana: ばいてん
+      meaning: stall
+    -
+      kanji: 本店
+      kana: ほんてん
+      meaning: main store
+-
+  kanji: 校
+  meaning: exam, school
+  vocabulary: 
+    -
+      kanji: 高校
+      kana: こうこう
+      meaning: high school
+    -
+      kanji: 学校
+      kana: がっこう
+      meaning: school
+    -
+      kanji: 校長
+      kana: こうちょう
+      meaning: principal
+    -
+      kanji: 高校生
+      kana: こうこうせい
+      meaning: highschool student
+-
+  kanji: 国
+  meaning: country
+  vocabulary: 
+    -
+      kanji: 国
+      kana: くに
+      meaning: country
+    -
+      kanji: 外国
+      kana: がいこく
+      meaning: foreign country
+    -
+      kanji: 中国
+      kana: ちゅうごく
+      meaning: China
+    -
+      kanji: 外国人
+      kana: がいこくじん
+      meaning: foreigner
+    -
+      kanji: 中国人
+      kana: ちゅうごくじん
+      meaning: Chinese (person)
+-
+  kanji: 家
+  meaning: house, home, family
+  vocabulary: 
+    -
+      kanji: 家
+      kana: いえ
+      meaning: house
+-
+  kanji: 車
+  meaning: car
+  vocabulary: 
+    -
+      kanji: 車
+      kana: くらま
+      meaning: car
+    -
+      kanji: 中古車
+      kana: ちゅうこしゃ
+      meaning: used cars
+-
+  kanji: 道
+  meaning: road-way, street
+  vocabulary: 
+    -
+      kanji: 道
+      kana: みち
+      meaning: road
+-
+  kanji: 駅
+  meaning: station
+  vocabulary: 
+    -
+      kanji: 駅
+      kana: えき
+      meaning: station
+-
+  kanji: 京
+  meaning: tokyo
+  vocabulary: 
+    -
+      kanji: 東京
+      kana: とうきょう
+      meaning: Tokyo
+    -
+      kanji: 京都
+      kana: きょうと
+      meaning: Kyoto
+-
+  kanji: 都
+  meaning: capital
+  vocabulary: 
+    -
+      kanji: 東京都
+      kana: とうきょうと
+      meaning: Tokyo Metropolitan
+    -
+      kanji: 都会
+      kana: とかい
+      meaning: city
+-
+  kanji: 方
+  meaning: direction, person
+  vocabulary: 
+    -
+      kanji: 方
+      kana: かた
+      meaning: person (formal)
+    -
+      kanji: 方
+      kana: かた・ほう
+      meaning: method/direction
+    -
+      kanji: 食べ方
+      kana: たべかた
+      meaning: way of eating
+    -
+      kanji: 書き方
+      kana: かきかた
+      meaning: way of writing
+    -
+      kanji: 読み方
+      kana: よみかた
+      meaning: way of reading
+-
+  kanji: 仕
+  meaning: attend, doing, official, serve
+  vocabulary: 
+    -
+      kanji: 仕方
+      kana: しかた
+      meaning: ways
+-
+  kanji: 事
+  meaning: matter, thing, fact
+  vocabulary: 
+    -
+      kanji: 仕事
+      kana: しごと
+      meaning: work
+    -
+      kanji: 事
+      kana: こと
+      meaning: fact
+-
+  kanji: 社
+  meaning: company, firm, office, association, shrine
+  vocabulary: 
+    -
+      kanji: 会社
+      kana: かいしゃ
+      meaning: company
+    -
+      kanji: 本社
+      kana: ほんしゃ
+      meaning: main office
+    -
+      kanji: 社長
+      kana: しゃちょう
+      meaning: company president
+    -
+      kanji: 社会
+      kana: しゃかい
+      meaning: society
+-
+  kanji: 銀
+  meaning: silver
+  vocabulary: 
+    -
+      kanji: 銀行
+      kana: ぎんこう
+      meaning: bank
+-
+  kanji: 員
+  meaning: employee, member
+  vocabulary: 
+    -
+      kanji: 銀行員
+      kana: ぎんこういん
+      meaning: bank employee
+    -
+      kanji: 社員
+      kana: しゃいん
+      meaning: employee
+    -
+      kanji: 会社員
+      kana: かいしゃいん
+      meaning: comp. employee
+-
+  kanji: 活
+  meaning: lively, resuscitation, being helped, living
+  vocabulary: 
+    -
+      kanji: 生活
+      kana: せいかつ
+      meaning: lifestyle
+-
+  kanji: 紙
+  meaning: paper
+  vocabulary: 
+    -
+      kanji: 紙
+      kana: かみ
+      meaning: paper
+-
+  kanji: 字
+  meaning: character, letter
+  vocabulary: 
+    -
+      kanji: 字
+      kana: じ
+      meaning: letter/character
+-
+  kanji: 英
+  meaning: England, English
+  vocabulary: 
+    -
+      kanji: 英語
+      kana: えいご
+      meaning: English
+    -
+      kanji: 英国
+      kana: えいこく
+      meaning: Britain
+-
+  kanji: 町
+  meaning: town, village, block, street
+  vocabulary: 
+    -
+      kanji: 町
+      kana: まち
+      meaning: town
+-
+  kanji: 口
+  meaning: mouth
+  vocabulary: 
+    -
+      kanji: 口
+      kana: くち
+      meaning: mouth
+    -
+      kanji: 出口
+      kana: でぐち
+      meaning: exit
+    -
+      kanji: 入り口
+      kana: いりぐち
+      meaning: entrance
+    -
+      kanji: 北口
+      kana: きたぐち
+      meaning: North exit
+    -
+      kanji: 南口
+      kana: みなみぐち
+      meaning: South exit
+    -
+      kanji: 東口
+      kana: ひがしぐち
+      meaning: East exit
+    -
+      kanji: 西口
+      kana: にしぐち
+      meaning: West exit
+-
+  kanji: 手
+  meaning: hand
+  vocabulary: 
+    -
+      kanji: 手
+      kana: て
+      meaning: hand
+    -
+      kanji: 手紙
+      kana: てがみ
+      meaning: letter
+    -
+      kanji: 切手
+      kana: きって
+      meaning: stamp
+-
+  kanji: 目
+  meaning: eye
+  vocabulary: 
+    -
+      kanji: 目
+      kana: め
+      meaning: eyes
+    -
+      kanji: 目上
+      kana: めうえ
+      meaning: superior
+    -
+      kanji: 目下
+      kana: めした
+      meaning: subordinate
+-
+  kanji: 耳
+  meaning: ear
+  vocabulary: 
+    -
+      kanji: 耳
+      kana: みみ
+      meaning: ear
+-
+  kanji: 足
+  meaning: leg, foot, be sufficient
+  vocabulary: 
+    -
+      kanji: 足りる
+      kana: たりる
+      meaning: to be enough
+    -
+      kanji: 足
+      kana: あし
+      meaning: feet
+-
+  kanji: 体
+  meaning: body
+  vocabulary: 
+    -
+      kanji: 体
+      kana: からだ
+      meaning: body
+-
+  kanji: 犬
+  meaning: dog
+  vocabulary: 
+    -
+      kanji: 犬
+      kana: いぬ
+      meaning: dog
+-
+  kanji: 魚
+  meaning: fish
+  vocabulary: 
+    -
+      kanji: 魚
+      kana: さかな
+      meaning: fish
+-
+  kanji: 天
+  meaning: heavens, sky, imperial
+  vocabulary: 
+    -
+      kanji: 天気
+      kana: てんき
+      meaning: weather
+-
+  kanji: 気
+  meaning: spirit, mind, air, atmosphere, mood
+  vocabulary: 
+    -
+      kanji: 空気
+      kana: くうき
+      meaning: air
+    -
+      kanji: 天気
+      kana: てんき
+      meaning: weather
+    -
+      kanji: 気分
+      kana: きぶん
+      meaning: mood
+    -
+      kanji: 気持ち
+      kana: きもち
+      meaning: feeling
+-
+  kanji: 山
+  meaning: mountain
+  vocabulary: 
+    -
+      kanji: 山
+      kana: やま
+      meaning: mountain
+    -
+      kanji: ~山
+      kana: ~さん
+      meaning: Mount ~
+-
+  kanji: 川
+  meaning: stream, river
+  vocabulary: 
+    -
+      kanji: 川
+      kana: かわ
+      meaning: river
+    -
+      kanji: 小川
+      kana: おがわ
+      meaning: surname
+    -
+      kanji: 山川
+      kana: やまがわ
+      meaning: surname
+-
+  kanji: 田
+  meaning: rice field, rice paddy
+  vocabulary: 
+    -
+      kanji: 田
+      kana: た
+      meaning: field
+    -
+      kanji: 山田
+      kana: やまだ
+      meaning: surname
+    -
+      kanji: 田中
+      kana: たなか
+      meaning: surname
+-
+  kanji: 花
+  meaning: flower
+  vocabulary: 
+    -
+      kanji: 花
+      kana: はな
+      meaning: flower
+    -
+      kanji: 花見
+      kana: はなみ
+      meaning: flower viewing
+    -
+      kanji: 花火
+      kana: はなび
+      meaning: fireworks
+-
+  kanji: 空
+  meaning: empty, sky, void
+  vocabulary: 
+    -
+      kanji: 空
+      kana: そら
+      meaning: sky
+-
+  kanji: 海
+  meaning: sea, ocean
+  vocabulary: 
+    -
+      kanji: 海
+      kana: うみ
+      meaning: sea
+    -
+      kanji: 海外
+      kana: かいがい
+      meaning: abroad
+    -
+      kanji: 北海道
+      kana: ほっかいどう
+      meaning: Hokkaido
+-
+  kanji: 風
+  meaning: wind, air
+  vocabulary: 
+    -
+      kanji: 風
+      kana: かぜ
+      meaning: wind
+-
+  kanji: 雨
+  meaning: rain
+  vocabulary: 
+    -
+      kanji: 雨
+      kana: あめ
+      meaning: rain
+    -
+      kanji: 大雨
+      kana: おおあめ
+      meaning: heavy rain
+-
+  kanji: 雪
+  meaning: snow
+  vocabulary: 
+    -
+      kanji: 雪
+      kana: ゆき
+      meaning: snow
+-
+  kanji: 電
+  meaning: electricity
+  vocabulary: 
+    -
+      kanji: 電話
+      kana: でんわ
+      meaning: phone
+    -
+      kanji: 電車
+      kana: でんしゃ
+      meaning: train
+    -
+      kanji: 電気
+      kana: でんき
+      meaning: electricity

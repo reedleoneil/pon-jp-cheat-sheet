@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="reed leoneil">
+  <meta name="keywords" content="reed leoneil">
+  <meta name="author" content="@reedleoneil">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pon's Japanese Cheat Sheet</title>
+  <link rel="icon" type="image/png" href="https://reedleoneil.github.io/IMG_0020.PNG">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+  <!-- CSS only -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+  <!-- JS, Popper.js, and jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ClientJS/0.1.11/client.min.js" integrity="sha512-MwKUpp841sot4mmGDfVcpJxb4vcaYHnpyn17CTHT3RUm585khw5gnRM6xwDm15aJ3sfpf6d4P8FLLfQKAo3mfA==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mqtt/4.2.6/mqtt.min.js" integrity="sha512-DD/bXhp28PWFubyhBKR7vt5FUMRCbEJ8KtC4Oq/MTWniMUytsPM5pFDaUTaHDRd7zC8cHpKvv6FaUI2OP/czlw==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js" integrity="sha512-3PRVLmoBYuBDbCEojg5qdmd9UhkPiyoczSFYjnLhFb2KAFsWWEMlAPt0olX1Nv7zGhDfhGEVkXsu51a55nlYmw==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/msgpack-lite/0.1.26/msgpack.min.js" integrity="sha512-harMiusNxs02ryf3eqc3iQalz2RSd0z38vzOyuFwvQyW046h2m+/47WiDmPW9soh/p71WQMRSkhSynEww3/bOA==" crossorigin="anonymous"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js" integrity="sha512-CSBhVREyzHAjAFfBlIBakjoRUKp5h7VSweP0InR/pAJyptH7peuhCsqAI/snV+TwZmXZqoUklpXp6R6wMnYf5Q==" crossorigin="anonymous"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.js" integrity="sha512-CwxrLIN0dww6lRc/oKeZiI9oGlOob2HPMU0Yu0g+P3/G1cuTii+tt0jpyEKhilfrV7D/zmvKiVPIHUDU6xbBxg==" crossorigin="anonymous"></script>
+
+  <style>
+  body {
+    font-family: monospace;
+    font-size: 1em;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 7.5px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:96em;
+    color: #000000;
+  }
+
+  .re-border {
+    box-shadow: 
+    -1px -1px 0 #696969,
+    1px -1px 0 #696969,
+    -1px 1px 0 #696969,
+    1px 1px 0 #696969,
+    -1px -1px 3px #696969,
+    1px -1px 3px #696969,
+    -1px 1px 3px #696969,
+    1px 1px 3px #696969;
+    padding: 5px 5px;
+  }
+
+  .re-button {
+    width: 100%;
+  }
+
+  .re-panel-header {
+    background-color: #000000;
+    -webkit-text-stroke: 0.1px #696969;
+    color: #FFFFFF;
+    text-shadow: 
+    -0.01px -0.01px 0 #696969, 
+    0.01px -0.01px 0 #696969, 
+    -0.01px 0.01px 0 #696969, 
+    0.01px 0.01px 0 #696969, 
+    -0.01px -0.01px 3px #696969, 
+    0.01px -0.01px 3px #696969, 
+    -0.01px 0.01px 3px #696969, 
+    0.01px 0.01px 3px #696969;
+    font-weight: bold;
+    cursor:pointer;
+  }
+
+  .re-table {
+    width: 100%;
+    white-space: nowrap;
+  }
+
+  .re-table tr th:first-child,
+  .re-table tr td:first-child {
+    padding-left: 0.25rem;
+  }
+
+  .re-table th {
+    background-color: #000000;
+    -webkit-text-stroke: 0.1px #696969;
+    color: #FFFFFF;
+    text-shadow: 
+    -0.01px -0.01px 0 #696969, 
+    0.01px -0.01px 0 #696969, 
+    -0.01px 0.01px 0 #696969, 
+    0.01px 0.01px 0 #696969, 
+    -0.01px -0.01px 3px #696969, 
+    0.01px -0.01px 3px #696969, 
+    -0.01px 0.01px 3px #696969, 
+    0.01px 0.01px 3px #696969;
+    font-weight: bold;
+  }
+
+  #main-panel {
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  }
+  </style>
+</head>
+<body>
+  <div class="row">
+    <div class="col-sm-3 px-1 mt-2">
+      <div class="re-border">
+        <div id="left-panel">
+          <div>
+            <div class="re-panel-header mb-1 px-1 pt-1 text-center">ポンの日本語総まとめ</div>
+          </div>
+          <div>
+            <div class="re-panel-header mb-1 px-1 pt-1" data-toggle="collapse"  href="#kanji-collapse">漢字 Kanji</div>
+            <div id="kanji-collapse" class="collapse">
+              <div>
+                <label for="kanji-level"><b>Level:</b></label>
+                <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5"> N5
+                <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4"> N4 
+                <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3"> N3
+                <input type="checkbox" id="n2-kanji-checkbox" name="kanji-level" value="n2" disabled> N2
+                <input type="checkbox" id="n1-kanji-checkbox" name="kanji-level" value="n1" disabled> N1
+                <br>
+                <label for="kanji-mode"><b>Mode:</b></label>
+                <select id="kanji-mode">
+                  <option value="kanji">Kanji</option>
+                  <option value="vocabulary">Vocabulary</option>
+                </select>
+                <br>
+                <label for="display"><b>Display:</b></label>
+                <input type="checkbox" id="kana-display-filter" name="kanj-display-filter" value="kana" checked> 仮名
+                <input type="checkbox" id="meaning-display-filter" name="kanj-display-filter" value="meaning" checked> 意味
+                <br>
+                <div>
+                    <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
+                    <input type="range" id="kanji-span-list-font-size" min="100" max="300" style="vertical-align:middle;" />
+                </div>
+                <button type="button" id="kanji-shuffle-button" class="re-button">Shuffle</button> 
+                <br>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse" href="#vocabulary-collapse">語彙 Vocabulary</div>
+            <div id="vocabulary-collapse" class="collapse">
+              <div>
+                test
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse" href="#grammar-collapse">文法 Grammar</div>
+            <div id="grammar-collapse" class="collapse">
+              <div>
+                test
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-9 px-1 mt-2">
+        <div class="re-border">
+          <div id="main-panel">
+            <p><ruby>日本語<rt>にほんご</rt></ruby> Kodigo</p>
+            <p>kódigó: [noun] code • cheat sheet • crib note</p>
+            <p>I studied Japanese language for around 2 years by myself. I used a lot of resources like Genki I & II, Udemy Online Japanese Course, Tae Kim's Guide to Japanese Grammar, etc.. but still failed JLPT N4 examination last December 2019.</p>
+            <p>I am still learning N4 and my goal is to reach at least N3 level. I will be updating this cheat sheet regularly when I am reviewing or learning any vocabulary, kanji or grammar.</p>
+            <p>Update February 10, 2021:</p>
+            <p>I have completed studying N4 and currently reviewing. I will be soon starting N3 and looking forward to reach N2.</p>
+            <p>Link for <a href="/">v1 markdown</a></p>
+          </div>
+        </div>
+    </div>
+  </div>
+  <script>
+  var n5Kanji, n4Kanji, n3Kanji, n2Kanji, n1Kanji;
+
+  fetch('kanji-n5.json')
+  .then(response => response.json())
+  .then(data => n5Kanji = data);
+
+  fetch('kanji-n4.json')
+  .then(response => response.json())
+  .then(data => n4Kanji = data);
+
+  fetch('kanji-n3.json')
+  .then(response => response.json())
+  .then(data => n3Kanji = data);
+
+  const _generateKanjiSpanList = (kanjiList) => {
+    let div = document.createElement("div");
+        //div.setAttribute("id", "div-kanji-span-list");
+
+    kanjiList.forEach((k, index) => {
+      let span = document.createElement("span");
+        span.setAttribute("data-toggle", "popover");
+        span.setAttribute("data-trigger", "hover");
+        span.setAttribute("data-html", "true");
+        span.setAttribute("title", k.meaning);
+        span.setAttribute("data-content", _generateDataContent(k.vocabulary, _getKanjiDisplayFilter()).outerHTML);
+        span.innerText = k.kanji + " ";
+
+        div.appendChild(span);
+    });
+     
+    return div;
+  };
+
+  const _generateDataContent = (vocabulary, filter = []) => {
+    let div = document.createElement("div");
+
+    vocabulary.forEach((v, index) => {
+      let spanKanji = document.createElement("span");
+          spanKanji.innerText = v.kanji;
+      div.appendChild(spanKanji);
+
+      if (filter.includes("meaning")) {
+        let whitespace = document.createTextNode("\u00A0");
+        let spanMeaning = document.createElement("span");
+            spanMeaning.innerText = v.meaning;
+            spanMeaning.setAttribute("class", "kanji-meaning");
+        div.appendChild(whitespace);
+        div.appendChild(spanMeaning);
+      }
+
+
+      let br = document.createElement("br");
+      div.appendChild(br);
+    });
+
+    return div;
+  };
+
+  const _generateKanjiVocabularyRows = (vocabulary, filter = []) => {
+    let rows = [];
+    vocabulary.forEach((v, index) => {
+      let tr = document.createElement("tr");
+      
+      let tdKanji = document.createElement("td");
+          tdKanji.innerText = v.kanji;
+      tr.appendChild(tdKanji);
+
+      if (filter.includes("kana")) {
+        let tdKana = document.createElement("td");
+            tdKana.innerText = v.kana;
+            tdKana.setAttribute("class", "kanji-kana");
+        tr.appendChild(tdKana);
+      }
+
+      if (filter.includes("meaning")) {
+        let tdMeaning = document.createElement("td");
+          tdMeaning.innerText = v.meaning;
+          tdMeaning.setAttribute("class", "kanji-meaning");
+        tr.appendChild(tdMeaning);
+      }
+
+      rows.push(tr);
+    });
+
+    return rows;
+  };
+
+  const _generateKanjiVocabularyList = (kanjiList) => {
+    let div = document.createElement("div");
+        div.setAttribute("style", "overflow-x:auto;");
+        
+    let table = document.createElement("table");
+        table.setAttribute("class", "re-table");
+
+    kanjiList.forEach((k, index) => {
+      let rows = _generateKanjiVocabularyRows(k.vocabulary, _getKanjiDisplayFilter());
+      rows.forEach((r, index) => {
+        table.appendChild(r);
+      });
+    });
+     
+    div.appendChild(table);
+    return div;
+  };
+
+  const _getKanjiLevel = () => {
+    let kanjiCheckboxes = document.querySelectorAll('input[name="kanji-level"]:checked');
+    
+    let kanjiLevels = [];
+    kanjiCheckboxes.forEach((checkbox) => {
+      kanjiLevels.push(checkbox.value);
+    });
+
+    return kanjiLevels;
+  }
+
+  const _getKanjiMode = () => {
+    return document.getElementById("kanji-mode").value;
+  }
+
+  const _getKanijFontSize = () => {
+    return document.getElementById("kanji-span-list-font-size").value;
+  };
+
+  const _getKanjiDisplayFilter = () => {
+    let kanjiDisplayFilterCheckboxes = document.querySelectorAll('input[name="kanj-display-filter"]:checked');
+    
+    let kanjiDisplayFilters = [];
+    kanjiDisplayFilterCheckboxes.forEach((checkbox) => {
+      kanjiDisplayFilters.push(checkbox.value);
+    });
+
+    return kanjiDisplayFilters;
+  };
+
+  const _renderKanjiVocabularyList = (kanjiList) => {
+    let list = _generateKanjiVocabularyList(kanjiList);
+    list.setAttribute("id", "div-kanji-vocabulary-list");
+    document.getElementById("main-panel").innerHTML = list.outerHTML;
+  };
+
+  const _renderKanjiSpanList = (kanjiList) => {
+    let list = _generateKanjiSpanList(kanjiList);
+    list.setAttribute("id", "div-kanji-span-list");
+    document.getElementById("main-panel").innerHTML = list.outerHTML;
+
+    _renderKanjiFont();
+
+    $('[data-toggle="popover"]').popover({
+      html: true,
+      sanitize: false
+    });
+  };
+
+  const _renderKanji = () => {
+    let level = _getKanjiLevel();
+    let mode = _getKanjiMode();
+    let kanjiList = [];
+
+    if (level.includes("n5"))
+      kanjiList = kanjiList.concat(n5Kanji);
+    if (level.includes("n4"))
+      kanjiList = kanjiList.concat(n4Kanji);
+    if (level.includes("n3"))
+      kanjiList = kanjiList.concat(n3Kanji);
+    if (level.includes("n2"))
+      kanjiList = kanjiList.concat(n2Kanji);
+    if (level.includes("n1"))
+      kanjiList = kanjiList.concat(n1Kanji);
+
+    switch(mode) {
+      case "kanji":
+        _renderKanjiSpanList(kanjiList);
+        break;
+      case "vocabulary":
+        _renderKanjiVocabularyList(kanjiList);
+        break;
+      default:
+        // code block
+    }
+  };
+
+  const _renderKanjiFont = () => {
+    let fontSize = _getKanijFontSize();
+    document.getElementById("div-kanji-span-list").setAttribute("style", "font-size: " + fontSize + "%");
+  };
+
+  const _renderKanjiShuffled = () => {
+    _shuffle(n5Kanji);
+    _shuffle(n4Kanji);
+    _shuffle(n3Kanji);
+
+    _renderKanji();
+  }
+
+  const _shuffle = (array) => {
+    for (let i = array.length - 1; i > 0; i--) {
+      let j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  };
+
+  document.querySelectorAll('input[name="kanji-level"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
+  document.querySelectorAll('input[name="kanj-display-filter"]').forEach((checkbox) => checkbox.onclick = _renderKanji);
+  document.getElementById("kanji-mode").onchange = _renderKanji;
+  document.getElementById("kanji-span-list-font-size").onchange = _renderKanjiFont;
+  document.getElementById("kanji-shuffle-button").onclick = _renderKanjiShuffled;
+
+  </script>
+</body>
+</html>
