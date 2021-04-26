@@ -102,7 +102,7 @@
             <div class="re-panel-header mb-1 px-1 pt-1 text-center">ポンの日本語総まとめ</div>
           </div>
           <div>
-            <div class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#kanji-collapse">漢字 Kanji</div>
+            <div id="kanji-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#kanji-collapse">漢字 Kanji</div>
             <div id="kanji-collapse" class="collapse" data-bs-parent="#left-panel">
               <div class="mt-1">
                 <div>
@@ -135,7 +135,7 @@
             </div>
           </div>
           <div>
-            <div class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#vocabulary-collapse">語彙 Vocabulary</div>
+            <div id="vocabulary-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#vocabulary-collapse">語彙 Vocabulary</div>
             <div id="vocabulary-collapse" class="collapse" data-bs-parent="#left-panel">
               <div class="mt-1">
                 <div>
@@ -156,7 +156,7 @@
             </div>
           </div>
           <div>
-            <div class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#grammar-collapse">文法 Grammar</div>
+            <div id="grammar-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#grammar-collapse">文法 Grammar</div>
             <div id="grammar-collapse" class="collapse" data-bs-parent="#left-panel">
               <div class="mt-1">
                 test
@@ -494,6 +494,8 @@
   document.querySelectorAll('input[name="vocabulary-display-filter"]').forEach((checkbox) => checkbox.onclick = _renderVocabulary);
   document.getElementById("vocabulary-shuffle-button").onclick = _renderVocabularyShuffled;
 
+  document.getElementById("kanji-nav").onclick = _renderKanji;
+  document.getElementById("vocabulary-nav").onclick = _renderVocabulary;
   </script>
 </body>
 </html>
