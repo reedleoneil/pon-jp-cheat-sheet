@@ -11,21 +11,9 @@
   <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-  <!-- CSS only -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
-  <!-- JS, Popper.js, and jQuery -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/ClientJS/0.1.11/client.min.js" integrity="sha512-MwKUpp841sot4mmGDfVcpJxb4vcaYHnpyn17CTHT3RUm585khw5gnRM6xwDm15aJ3sfpf6d4P8FLLfQKAo3mfA==" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mqtt/4.2.6/mqtt.min.js" integrity="sha512-DD/bXhp28PWFubyhBKR7vt5FUMRCbEJ8KtC4Oq/MTWniMUytsPM5pFDaUTaHDRd7zC8cHpKvv6FaUI2OP/czlw==" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js" integrity="sha512-3PRVLmoBYuBDbCEojg5qdmd9UhkPiyoczSFYjnLhFb2KAFsWWEMlAPt0olX1Nv7zGhDfhGEVkXsu51a55nlYmw==" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/msgpack-lite/0.1.26/msgpack.min.js" integrity="sha512-harMiusNxs02ryf3eqc3iQalz2RSd0z38vzOyuFwvQyW046h2m+/47WiDmPW9soh/p71WQMRSkhSynEww3/bOA==" crossorigin="anonymous"></script>
-  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js" integrity="sha512-CSBhVREyzHAjAFfBlIBakjoRUKp5h7VSweP0InR/pAJyptH7peuhCsqAI/snV+TwZmXZqoUklpXp6R6wMnYf5Q==" crossorigin="anonymous"></script> -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.js" integrity="sha512-CwxrLIN0dww6lRc/oKeZiI9oGlOob2HPMU0Yu0g+P3/G1cuTii+tt0jpyEKhilfrV7D/zmvKiVPIHUDU6xbBxg==" crossorigin="anonymous"></script>
-
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
   <style>
   body {
     font-family: monospace;
@@ -114,14 +102,14 @@
             <div class="re-panel-header mb-1 px-1 pt-1 text-center">ポンの日本語総まとめ</div>
           </div>
           <div>
-            <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse" href="#kanji-collapse">漢字 Kanji</div>
-            <div id="kanji-collapse" class="collapse">
+            <div class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#kanji-collapse">漢字 Kanji</div>
+            <div id="kanji-collapse" class="collapse" data-bs-parent="#left-panel">
               <div class="mt-1">
                 <div>
                   <label for="kanji-level"><b>Level:</b></label>
-                  <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5"> N5
-                  <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4"> N4 
-                  <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3"> N3
+                  <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5" checked> N5
+                  <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4" checked> N4 
+                  <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3" checked> N3
                   <input type="checkbox" id="n2-kanji-checkbox" name="kanji-level" value="n2" disabled> N2
                   <input type="checkbox" id="n1-kanji-checkbox" name="kanji-level" value="n1" disabled> N1
                 </div>
@@ -147,14 +135,14 @@
             </div>
           </div>
           <div>
-            <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse" href="#vocabulary-collapse">語彙 Vocabulary</div>
-            <div id="vocabulary-collapse" class="collapse">
+            <div class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#vocabulary-collapse">語彙 Vocabulary</div>
+            <div id="vocabulary-collapse" class="collapse" data-bs-parent="#left-panel">
               <div class="mt-1">
                 <div>
                   <label for="kanji-level"><b>Level:</b></label>
-                  <input type="checkbox" id="n5-vocabulary-checkbox" name="vocabulary-level" value="n5"> N5
-                  <input type="checkbox" id="n4-vocabulary-checkbox" name="vocabulary-level" value="n4"> N4 
-                  <input type="checkbox" id="n3-vocabulary-checkbox" name="vocabulary-level" value="n3"> N3
+                  <input type="checkbox" id="n5-vocabulary-checkbox" name="vocabulary-level" value="n5" checked> N5
+                  <input type="checkbox" id="n4-vocabulary-checkbox" name="vocabulary-level" value="n4" checked> N4 
+                  <input type="checkbox" id="n3-vocabulary-checkbox" name="vocabulary-level" value="n3" checked> N3
                   <input type="checkbox" id="n2-vocabulary-checkbox" name="vocabulary-level" value="n2" disabled> N2
                   <input type="checkbox" id="n1-vocabulary-checkbox" name="vocabulary-level" value="n1" disabled> N1
                 </div>
@@ -168,8 +156,8 @@
             </div>
           </div>
           <div>
-            <div class="re-panel-header mt-1 px-1 pt-1" data-toggle="collapse" href="#grammar-collapse">文法 Grammar</div>
-            <div id="grammar-collapse" class="collapse">
+            <div class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#grammar-collapse">文法 Grammar</div>
+            <div id="grammar-collapse" class="collapse" data-bs-parent="#left-panel">
               <div class="mt-1">
                 test
               </div>
@@ -226,11 +214,10 @@
 
     kanjiList.forEach((k, index) => {
       let span = document.createElement("span");
-        span.setAttribute("data-toggle", "popover");
-        span.setAttribute("data-trigger", "hover");
-        span.setAttribute("data-html", "true");
+        span.setAttribute("data-bs-toggle", "popover");
+        span.setAttribute("data-bs-trigger", "hover");
         span.setAttribute("title", k.meaning);
-        span.setAttribute("data-content", _generateDataContent(k.vocabulary, _getKanjiDisplayFilter()).outerHTML);
+        span.setAttribute("data-bs-content", _generateDataContent(k.vocabulary, _getKanjiDisplayFilter()).outerHTML);
         span.innerText = k.kanji + " ";
 
         div.appendChild(span);
@@ -348,10 +335,14 @@
 
     _renderKanjiFont();
 
-    $('[data-toggle="popover"]').popover({
-      html: true,
-      sanitize: false
+    var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'));
+    var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+      return new bootstrap.Popover(popoverTriggerEl, {
+        html: true,
+        sanitize: false
+      });
     });
+
   };
 
   const _renderKanjiVocabularyList = (kanjiList) => {
