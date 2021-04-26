@@ -72,6 +72,11 @@
     padding-left: 0.25rem;
   }
 
+  .re-table tr th,
+  .re-table tr td {
+    padding-right: 1rem;
+  }
+
   .re-table th {
     background-color: #000000;
     -webkit-text-stroke: 0.1px #696969;
@@ -91,6 +96,10 @@
   #main-panel {
     font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   }
+
+  .popover {
+    max-width: 100vw;
+  };
   </style>
 </head>
 <body>
@@ -228,24 +237,30 @@
 
   const _generateDataContent = (vocabulary, filter = []) => {
     let div = document.createElement("div");
+    let table = document.createElement("table");
+        table.setAttribute("class", "re-table");
+    div.appendChild(table);
 
     vocabulary.forEach((v, index) => {
-      let spanKanji = document.createElement("span");
-          spanKanji.innerText = v.kanji;
-      div.appendChild(spanKanji);
+      let tr = document.createElement("tr");
+      table.appendChild(tr);
 
-      if (filter.includes("meaning")) {
-        let whitespace = document.createTextNode("\u00A0");
-        let spanMeaning = document.createElement("span");
-            spanMeaning.innerText = v.meaning;
-            spanMeaning.setAttribute("class", "kanji-meaning");
-        div.appendChild(whitespace);
-        div.appendChild(spanMeaning);
+      let tdKanji = document.createElement("td");
+          tdKanji.innerText = v.kanji;
+      tr.appendChild(tdKanji);
+
+      if (filter.includes("kana")) {
+        let tdKana = document.createElement("td");
+            tdKana.innerText = v.kana;
+        tr.appendChild(tdKana);
       }
 
-
-      let br = document.createElement("br");
-      div.appendChild(br);
+      if (filter.includes("meaning")) {
+        let tdMeaning = document.createElement("td");
+            tdMeaning.innerText = v.meaning;
+            tdMeaning.setAttribute("class", "kanji-meaning");
+        tr.appendChild(tdMeaning);
+      }
     });
 
     return div;
