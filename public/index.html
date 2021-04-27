@@ -368,6 +368,8 @@
     let displayFilter = _getKanjiDisplayFilter();
     let kanjiList = [];
 
+    document.getElementById('kanji-span-list-font-size').disabled = mode === 'vocabulary';
+
     if (level.includes('n5'))
       kanjiList = kanjiList.concat(n5Kanji);
     if (level.includes('n4'))
