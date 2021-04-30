@@ -3057,6 +3057,26 @@
           "kanji": "具合",
           "kana": "ぐあい",
           "meaning": "condition, state, manner, health"
+        },
+        {
+          "kanji": "文房具",
+          "kana": "ぶんぼうぐ",
+          "meaning": "stationary"
+        },
+        {
+          "kanji": "具体的",
+          "kana": "ぐたいてき",
+          "meaning": "concrete, tangible, definite, specific"
+        },
+        {
+          "kanji": "家具",
+          "kana": "かぐ",
+          "meaning": "furniture"
+        },
+        {
+          "kanji": "道具",
+          "kana": "どうぐ",
+          "meaning": "tool, implement, instrument, utensil"
         }
       ]
     },
