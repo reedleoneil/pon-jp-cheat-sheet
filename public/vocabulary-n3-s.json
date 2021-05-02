@@ -1,1542 +1,177 @@
 [
   {
-    "kanji": "青い",
-    "kana": "あおい",
-    "meaning": "blue"
+    "kanji": "溶ける",
+    "kana": "とける",
+    "meaning": "to melt; to thaw; to fuse​"
   },
   {
-    "kanji": "赤い",
-    "kana": "あかい",
-    "meaning": "red"
+    "kanji": "重ねる",
+    "kana": "かさねる",
+    "meaning": "to pile up"
   },
   {
-    "kanji": "明るい",
-    "kana": "あかるい",
-    "meaning": "bright, cheerful"
+    "kanji": "生える",
+    "kana": "はえる",
+    "meaning": "to grow; to spring up; to sprout"
   },
   {
-    "kanji": null,
-    "kana": "あたたかい",
-    "meaning": "warm"
+    "kanji": "手続き",
+    "kana": "てつづき",
+    "meaning": "procedure; process; proceedings; formalities"
   },
   {
-    "kanji": "新しい",
-    "kana": "あたらしい",
-    "meaning": "new"
+    "kanji": "実物",
+    "kana": "じつぶつ",
+    "meaning": "real thing; original; actual"
   },
   {
-    "kanji": "暑い",
-    "kana": "あつい",
-    "meaning": "hot"
+    "kanji": "間もなく",
+    "kana": "まもなく",
+    "meaning": "soon; shortly; before long; in a short time; in a little while​"
   },
   {
-    "kanji": "熱い",
-    "kana": "あつい",
-    "meaning": "hot (thing)"
+    "kanji": "飛び立つ",
+    "kana": "とびたつ",
+    "meaning": "to jump up; to start up; to leap to one's feet; to fly away; to take off"
   },
   {
-    "kanji": "厚い",
-    "kana": "あつい",
-    "meaning": "thick"
+    "kanji": "緊張",
+    "kana": "きんちょう",
+    "meaning": "tension; mental strain; nervousness"
   },
   {
-    "kanji": null,
-    "kana": "あぶない",
-    "meaning": "dangerous"
+    "kanji": "瞬間",
+    "kana": "しゅんかん",
+    "meaning": "moment, second, instant"
   },
   {
-    "kanji": null,
-    "kana": "あまい",
-    "meaning": "sweet"
+    "kanji": "でき上げた",
+    "kana": "できあげた",
+    "meaning": "completed"
   },
   {
-    "kanji": null,
-    "kana": "いい・よい",
-    "meaning": "good"
+    "kanji": "農薬",
+    "kana": "のうやく",
+    "meaning": "agricultural chemical"
   },
   {
-    "kanji": null,
-    "kana": "いそがしい",
-    "meaning": "busy"
+    "kanji": "調査する",
+    "kana": "ちょうさする",
+    "meaning": "to investigate"
   },
   {
-    "kanji": null,
-    "kana": "いたい",
-    "meaning": "painful"
+    "kanji": "責任",
+    "kana": "せきにん",
+    "meaning": "duty, responsibility"
   },
   {
-    "kanji": null,
-    "kana": "いや(な)",
-    "meaning": "disagreeable"
+    "kanji": "慌てる",
+    "kana": "あわてる",
+    "meaning": "to become confused, to be flustered, to panic"
   },
   {
-    "kanji": null,
-    "kana": "いろいろ(な)",
+    "kanji": "期待",
+    "kana": "きたい",
+    "meaning": "expectation"
+  },
+  {
+    "kanji": "様々",
+    "kana": "さま ざま",
     "meaning": "various"
   },
   {
-    "kanji": null,
-    "kana": "うすい",
-    "meaning": "thin, weak"
+    "kanji": "帰宅",
+    "kana": "きたく",
+    "meaning": "returning home"
   },
   {
-    "kanji": null,
-    "kana": "おいしい",
-    "meaning": "delicious"
+    "kanji": "地方",
+    "kana": "ちほう",
+    "meaning": "district"
   },
   {
-    "kanji": "大きい",
-    "kana": "おおきい",
-    "meaning": "big"
+    "kanji": "害",
+    "kana": "がい",
+    "meaning": "injury; harm; evil influence; damage"
   },
   {
-    "kanji": null,
-    "kana": "おおぜい",
-    "meaning": "many (people)"
+    "kanji": "整理",
+    "kana": "せいり",
+    "meaning": "sorting, arrangement"
   },
   {
-    "kanji": null,
-    "kana": "おそい",
-    "meaning": "late, slow"
+    "kanji": "本人",
+    "kana": "ほんにん",
+    "meaning": "the person in question"
   },
   {
-    "kanji": null,
-    "kana": "おなじ",
-    "meaning": "same"
+    "kanji": "確かめる",
+    "kana": "たしかめる",
+    "meaning": "to ascertain; to check; to make sure"
   },
   {
-    "kanji": null,
-    "kana": "おもい",
-    "meaning": "heavy"
+    "kanji": "感謝",
+    "kana": "かんしゃ",
+    "meaning": "thanks; gratitude"
   },
   {
-    "kanji": null,
-    "kana": "おもしろい",
-    "meaning": "interesting"
+    "kanji": "偶然",
+    "kana": "ぐうぜん",
+    "meaning": "coincidence"
   },
   {
-    "kanji": null,
-    "kana": "からい",
-    "meaning": "spicy"
+    "kanji": "揺れる",
+    "kana": "ゆれる",
+    "meaning": "to shake"
   },
   {
-    "kanji": null,
-    "kana": "かるい",
-    "meaning": "light"
+    "kanji": "我慢する",
+    "kana": "がまんする",
+    "meaning": "endurance, self-control"
   },
   {
-    "kanji": null,
-    "kana": "かわいい",
-    "meaning": "cute, charming"
+    "kanji": "体型",
+    "kana": "たいけい",
+    "meaning": "figure, body shape"
   },
   {
-    "kanji": null,
-    "kana": "かんたん",
-    "meaning": "easy"
+    "kanji": "長男",
+    "kana": "ちょうなん",
+    "meaning": "eldest son"
   },
   {
-    "kanji": null,
-    "kana": "きいろい",
-    "meaning": "yellow"
+    "kanji": "次男",
+    "kana": "じなん",
+    "meaning": "second son"
   },
   {
-    "kanji": null,
-    "kana": "きたない",
-    "meaning": "dirty"
+    "kanji": "気楽",
+    "kana": "きらく",
+    "meaning": "carefree; comfortable; at ease​"
   },
   {
-    "kanji": null,
-    "kana": "きらい(な)",
-    "meaning": "dislike"
+    "kanji": "緊張感",
+    "kana": "きんちょうかん",
+    "meaning": "feeling of tension"
   },
   {
-    "kanji": null,
-    "kana": "きれい(な)",
-    "meaning": "pretty, clean"
+    "kanji": "教授",
+    "kana": "きょうじゅ",
+    "meaning": "professor"
   },
   {
-    "kanji": null,
-    "kana": "くらい",
-    "meaning": "dark"
+    "kanji": "取り組む",
+    "kana": "とりくむ",
+    "meaning": "to tackle"
   },
   {
-    "kanji": null,
-    "kana": "くろい",
-    "meaning": "black"
+    "kanji": "競争",
+    "kana": "きょうそう",
+    "meaning": "competition, rivalry"
   },
   {
-    "kanji": null,
-    "kana": "げんき(な)",
-    "meaning": "fine, healthy"
-  },
-  {
-    "kanji": null,
-    "kana": "さむい",
-    "meaning": "cold"
-  },
-  {
-    "kanji": null,
-    "kana": "しずか(な)",
-    "meaning": "quiet"
-  },
-  {
-    "kanji": "白い",
-    "kana": "しろい",
-    "meaning": "white"
-  },
-  {
-    "kanji": null,
-    "kana": "じょうず(な)",
-    "meaning": "good, skillful"
-  },
-  {
-    "kanji": null,
-    "kana": "じょうぶ(な)",
-    "meaning": "strong"
-  },
-  {
-    "kanji": null,
-    "kana": "すき(な)",
-    "meaning": "like"
-  },
-  {
-    "kanji": null,
-    "kana": "すずしい",
-    "meaning": "cool"
-  },
-  {
-    "kanji": "背が高い",
-    "kana": "せがたかい",
-    "meaning": "tall"
-  },
-  {
-    "kanji": "背が低い",
-    "kana": "せがひくい",
-    "meaning": "short, low"
-  },
-  {
-    "kanji": null,
-    "kana": "せまい",
-    "meaning": "narrow"
-  },
-  {
-    "kanji": null,
-    "kana": "たいせつ(な)",
-    "meaning": "important"
-  },
-  {
-    "kanji": null,
-    "kana": "たいへん(な)",
-    "meaning": "difficult, hard"
-  },
-  {
-    "kanji": "高い",
-    "kana": "たかい",
-    "meaning": "high, expensive"
-  },
-  {
-    "kanji": null,
-    "kana": "だいすき(な)",
-    "meaning": "very likeable"
-  },
-  {
-    "kanji": null,
-    "kana": "たのしい",
-    "meaning": "fun, enjoyable"
-  },
-  {
-    "kanji": null,
-    "kana": "だるい",
-    "meaning": "dull, sluggish"
-  },
-  {
-    "kanji": null,
-    "kana": "たくさん",
-    "meaning": "many, a lot"
-  },
-  {
-    "kanji": "小さい",
-    "kana": "ちいさい",
-    "meaning": "small"
-  },
-  {
-    "kanji": "近い",
-    "kana": "ちかい",
-    "meaning": "near"
-  },
-  {
-    "kanji": null,
-    "kana": "ちゃいろ",
-    "meaning": "brown"
-  },
-  {
-    "kanji": null,
-    "kana": "つまらない",
-    "meaning": "boring"
-  },
-  {
-    "kanji": null,
-    "kana": "つめたい",
-    "meaning": "cold (things)"
-  },
-  {
-    "kanji": null,
-    "kana": "つよい",
-    "meaning": "strong"
-  },
-  {
-    "kanji": null,
-    "kana": "とおい",
-    "meaning": "far"
-  },
-  {
-    "kanji": "長い",
-    "kana": "ながい",
-    "meaning": "long"
-  },
-  {
-    "kanji": null,
-    "kana": "にぎやか(な)",
-    "meaning": "lively"
-  },
-  {
-    "kanji": "早い",
-    "kana": "はやい",
-    "meaning": "early"
-  },
-  {
-    "kanji": "速い",
-    "kana": "はやい",
-    "meaning": "quick, fast"
-  },
-  {
-    "kanji": null,
-    "kana": "ひくい",
-    "meaning": "low, short"
-  },
-  {
-    "kanji": null,
-    "kana": "ひま(な)",
-    "meaning": "free time"
-  },
-  {
-    "kanji": null,
-    "kana": "ひろい",
-    "meaning": "wide"
-  },
-  {
-    "kanji": null,
-    "kana": "ふとい",
-    "meaning": "fat"
-  },
-  {
-    "kanji": "古い",
-    "kana": "ふるい",
-    "meaning": "old"
-  },
-  {
-    "kanji": null,
-    "kana": "ふべん(な)",
-    "meaning": "inconvenience"
-  },
-  {
-    "kanji": null,
-    "kana": "へた(な)",
-    "meaning": "poor, unskillful"
-  },
-  {
-    "kanji": null,
-    "kana": "べんり(な)",
-    "meaning": "convenient"
-  },
-  {
-    "kanji": null,
-    "kana": "ほしい",
-    "meaning": "want"
-  },
-  {
-    "kanji": null,
-    "kana": "ほそい",
-    "meaning": "slender, thin"
-  },
-  {
-    "kanji": null,
-    "kana": "まずい",
-    "meaning": "bad-tasting"
-  },
-  {
-    "kanji": null,
-    "kana": "まるい",
-    "meaning": "round"
-  },
-  {
-    "kanji": null,
-    "kana": "みじかい",
-    "meaning": "short"
-  },
-  {
-    "kanji": null,
-    "kana": "むずかしい",
-    "meaning": "difficult"
-  },
-  {
-    "kanji": null,
-    "kana": "やさしい",
-    "meaning": "kind, easy, simple"
-  },
-  {
-    "kanji": null,
-    "kana": "やすい",
-    "meaning": "cheap"
-  },
-  {
-    "kanji": null,
-    "kana": "よわい",
-    "meaning": "weak"
-  },
-  {
-    "kanji": null,
-    "kana": "ゆうめい(な)",
-    "meaning": "famous"
-  },
-  {
-    "kanji": null,
-    "kana": "りっぱ(な)",
-    "meaning": "splendid"
-  },
-  {
-    "kanji": null,
-    "kana": "わかい",
-    "meaning": "young"
-  },
-  {
-    "kanji": null,
-    "kana": "わるい",
-    "meaning": "bad"
-  },
-  {
-    "kanji": null,
-    "kana": "あまり",
-    "meaning": "not very (neg. ending)"
-  },
-  {
-    "kanji": null,
-    "kana": "いっしょ",
-    "meaning": "together"
-  },
-  {
-    "kanji": null,
-    "kana": "いつも",
-    "meaning": "always"
-  },
-  {
-    "kanji": null,
-    "kana": "さいきん",
-    "meaning": "recently"
-  },
-  {
-    "kanji": null,
-    "kana": "さいご(に)",
-    "meaning": "last, final"
-  },
-  {
-    "kanji": null,
-    "kana": "~すぎ",
-    "meaning": "after, past over"
-  },
-  {
-    "kanji": null,
-    "kana": "すぐ(に)",
-    "meaning": "right away"
-  },
-  {
-    "kanji": null,
-    "kana": "すこし",
-    "meaning": "little + verb/ adj."
-  },
-  {
-    "kanji": null,
-    "kana": "~ずつ",
-    "meaning": "each, respectively"
-  },
-  {
-    "kanji": null,
-    "kana": "ぜんぶ",
-    "meaning": "all, whole"
-  },
-  {
-    "kanji": null,
-    "kana": "ぜんぜん",
-    "meaning": "not at all + V/ A (neg. ending)"
-  },
-  {
-    "kanji": null,
-    "kana": "たいてい",
-    "meaning": "usually, generally"
-  },
-  {
-    "kanji": null,
-    "kana": "たいへん",
-    "meaning": "very"
-  },
-  {
-    "kanji": null,
-    "kana": "だけ",
-    "meaning": "only (N + pos. ending)"
-  },
-  {
-    "kanji": null,
-    "kana": "たぶん",
-    "meaning": "probably"
-  },
-  {
-    "kanji": null,
-    "kana": "ちょうど",
-    "meaning": "exactly"
-  },
-  {
-    "kanji": null,
-    "kana": "だんだん",
-    "meaning": "gradually, step by step"
-  },
-  {
-    "kanji": null,
-    "kana": "ちょっと",
-    "meaning": "for a moment"
-  },
-  {
-    "kanji": null,
-    "kana": "つぎ(に)",
-    "meaning": "next, coming"
-  },
-  {
-    "kanji": null,
-    "kana": "できるだけ",
-    "meaning": "as possible"
-  },
-  {
-    "kanji": null,
-    "kana": "どうぞ",
-    "meaning": "please, by all means"
-  },
-  {
-    "kanji": null,
-    "kana": "どうも",
-    "meaning": "thanks"
-  },
-  {
-    "kanji": null,
-    "kana": "ときどき",
-    "meaning": "sometimes"
-  },
-  {
-    "kanji": null,
-    "kana": "とても",
-    "meaning": "very, by no means"
-  },
-  {
-    "kanji": null,
-    "kana": "はじめ(に)",
-    "meaning": "to begin with, first of all"
-  },
-  {
-    "kanji": null,
-    "kana": "ほか(に)",
-    "meaning": "other, except for"
-  },
-  {
-    "kanji": null,
-    "kana": "ほんとう(に)",
-    "meaning": "really, very"
-  },
-  {
-    "kanji": null,
-    "kana": "まっすぐ",
-    "meaning": "straight, direct"
-  },
-  {
-    "kanji": null,
-    "kana": "また",
-    "meaning": "again, as well"
-  },
-  {
-    "kanji": null,
-    "kana": "まだ",
-    "meaning": "yet, still (with neg.-not yet)"
-  },
-  {
-    "kanji": null,
-    "kana": "もう",
-    "meaning": "already, soon"
-  },
-  {
-    "kanji": null,
-    "kana": "もちろん",
-    "meaning": "of course"
-  },
-  {
-    "kanji": null,
-    "kana": "もっと",
-    "meaning": "more, further"
-  },
-  {
-    "kanji": null,
-    "kana": "ゆっくり(と)",
-    "meaning": "slowly"
-  },
-  {
-    "kanji": null,
-    "kana": "よく",
-    "meaning": "well, fully, often"
-  },
-  {
-    "kanji": null,
-    "kana": "~が",
-    "meaning": "but"
-  },
-  {
-    "kanji": null,
-    "kana": "~から",
-    "meaning": "from, since, because"
-  },
-  {
-    "kanji": null,
-    "kana": "~けど",
-    "meaning": "but, however"
-  },
-  {
-    "kanji": null,
-    "kana": "~けれども",
-    "meaning": "but, however"
-  },
-  {
-    "kanji": null,
-    "kana": "~ので",
-    "meaning": "because of,"
-  },
-  {
-    "kanji": null,
-    "kana": "しかし",
-    "meaning": "however, but"
-  },
-  {
-    "kanji": null,
-    "kana": "そして",
-    "meaning": "then, and then"
-  },
-  {
-    "kanji": null,
-    "kana": "それから",
-    "meaning": "after that, and then"
-  },
-  {
-    "kanji": null,
-    "kana": "それで",
-    "meaning": "therefore, accordingly"
-  },
-  {
-    "kanji": null,
-    "kana": "それでは",
-    "meaning": "if so, well"
-  },
-  {
-    "kanji": null,
-    "kana": "それに",
-    "meaning": "besides, moreover"
-  },
-  {
-    "kanji": null,
-    "kana": "だから",
-    "meaning": "because, therefore"
-  },
-  {
-    "kanji": null,
-    "kana": "ですから",
-    "meaning": "because, therefore"
-  },
-  {
-    "kanji": null,
-    "kana": "でも",
-    "meaning": "but, even if"
-  },
-  {
-    "kanji": null,
-    "kana": "ごろ",
-    "meaning": "around (time)"
-  },
-  {
-    "kanji": null,
-    "kana": "ぐらい",
-    "meaning": "aproximately"
-  },
-  {
-    "kanji": "上",
-    "kana": "うえ",
-    "meaning": "up, above"
-  },
-  {
-    "kanji": "下",
-    "kana": "した",
-    "meaning": "down"
-  },
-  {
-    "kanji": "左",
-    "kana": "ひだり",
-    "meaning": "left"
-  },
-  {
-    "kanji": "右",
-    "kana": "みぎ",
-    "meaning": "right"
-  },
-  {
-    "kanji": "中",
-    "kana": "なか",
-    "meaning": "inside"
-  },
-  {
-    "kanji": "外",
-    "kana": "そと",
-    "meaning": "outside"
-  },
-  {
-    "kanji": "北",
-    "kana": "きた",
-    "meaning": "north"
-  },
-  {
-    "kanji": "南",
-    "kana": "みなみ",
-    "meaning": "south"
-  },
-  {
-    "kanji": "東",
-    "kana": "ひがし",
-    "meaning": "east"
-  },
-  {
-    "kanji": "西",
-    "kana": "にし",
-    "meaning": "west"
-  },
-  {
-    "kanji": "後ろ",
-    "kana": "うしろ",
-    "meaning": "behind"
-  },
-  {
-    "kanji": "前",
-    "kana": "まえ",
-    "meaning": "in front"
-  },
-  {
-    "kanji": "間",
-    "kana": "あいだ",
-    "meaning": "middle"
-  },
-  {
-    "kanji": "近く",
-    "kana": "ちかく",
-    "meaning": "near"
-  },
-  {
-    "kanji": null,
-    "kana": "むこう",
-    "meaning": "across"
-  },
-  {
-    "kanji": null,
-    "kana": "となり",
-    "meaning": "beside"
-  },
-  {
-    "kanji": null,
-    "kana": "よこ",
-    "meaning": "beside"
-  },
-  {
-    "kanji": null,
-    "kana": "そば",
-    "meaning": "beside"
-  },
-  {
-    "kanji": "会う",
-    "kana": "あう",
-    "meaning": "meet"
-  },
-  {
-    "kanji": "上がる",
-    "kana": "あがる",
-    "meaning": "increase"
-  },
-  {
-    "kanji": "開く",
-    "kana": "あく",
-    "meaning": "open"
-  },
-  {
-    "kanji": null,
-    "kana": "あそぶ",
-    "meaning": "play"
-  },
-  {
-    "kanji": "集まる",
-    "kana": "あつまる",
-    "meaning": "gather"
-  },
-  {
-    "kanji": null,
-    "kana": "あらう",
-    "meaning": "wash"
-  },
-  {
-    "kanji": null,
-    "kana": "ある",
-    "meaning": "have"
-  },
-  {
-    "kanji": null,
-    "kana": "ある",
-    "meaning": "be"
-  },
-  {
-    "kanji": null,
-    "kana": "あるく",
-    "meaning": "walk"
-  },
-  {
-    "kanji": "言う",
-    "kana": "いう",
-    "meaning": "say"
-  },
-  {
-    "kanji": "行く",
-    "kana": "いく",
-    "meaning": "go"
-  },
-  {
-    "kanji": null,
-    "kana": "いただく",
-    "meaning": "receive (hon)"
-  },
-  {
-    "kanji": null,
-    "kana": "いる",
-    "meaning": "need"
-  },
-  {
-    "kanji": null,
-    "kana": "うたう",
-    "meaning": "sing"
-  },
-  {
-    "kanji": null,
-    "kana": "うる",
-    "meaning": "sell"
-  },
-  {
-    "kanji": null,
-    "kana": "おく",
-    "meaning": "put, place"
-  },
-  {
-    "kanji": null,
-    "kana": "おくる",
-    "meaning": "send"
-  },
-  {
-    "kanji": null,
-    "kana": "おす",
-    "meaning": "push"
-  },
-  {
-    "kanji": null,
-    "kana": "おもう",
-    "meaning": "think"
-  },
-  {
-    "kanji": null,
-    "kana": "およぐ",
-    "meaning": "swim"
-  },
-  {
-    "kanji": null,
-    "kana": "おわる",
-    "meaning": "finish"
-  },
-  {
-    "kanji": "買う",
-    "kana": "かう",
-    "meaning": "buy"
-  },
-  {
-    "kanji": null,
-    "kana": "かえす",
-    "meaning": "return"
-  },
-  {
-    "kanji": "帰る",
-    "kana": "かえる",
-    "meaning": "go home"
-  },
-  {
-    "kanji": null,
-    "kana": "かかる",
-    "meaning": "take"
-  },
-  {
-    "kanji": null,
-    "kana": "かかる",
-    "meaning": "cost"
-  },
-  {
-    "kanji": "書く",
-    "kana": "かく",
-    "meaning": "write"
-  },
-  {
-    "kanji": "貸す",
-    "kana": "かす",
-    "meaning": "lend"
-  },
-  {
-    "kanji": null,
-    "kana": "かぶる",
-    "meaning": "wear (headgear)"
-  },
-  {
-    "kanji": "考える",
-    "kana": "かんがえる",
-    "meaning": "think about, ponder"
-  },
-  {
-    "kanji": "聞く",
-    "kana": "きく",
-    "meaning": "listen, ask"
-  },
-  {
-    "kanji": null,
-    "kana": "くもる",
-    "meaning": "be cloudy"
-  },
-  {
-    "kanji": null,
-    "kana": "けす",
-    "meaning": "turn off"
-  },
-  {
-    "kanji": null,
-    "kana": "こまる",
-    "meaning": "be troubled"
-  },
-  {
-    "kanji": null,
-    "kana": "さがす",
-    "meaning": "search, look for"
-  },
-  {
-    "kanji": null,
-    "kana": "さく",
-    "meaning": "bloom (flower)"
-  },
-  {
-    "kanji": null,
-    "kana": "さす",
-    "meaning": "open (umbrella)"
-  },
-  {
-    "kanji": null,
-    "kana": "しぬ",
-    "meaning": "die"
-  },
-  {
-    "kanji": "閉まる",
-    "kana": "しまる",
-    "meaning": "close"
-  },
-  {
-    "kanji": "知る",
-    "kana": "しる",
-    "meaning": "know"
-  },
-  {
-    "kanji": null,
-    "kana": "すう",
-    "meaning": "smoke"
-  },
-  {
-    "kanji": null,
-    "kana": "すむ",
-    "meaning": "live"
-  },
-  {
-    "kanji": null,
-    "kana": "すわる",
-    "meaning": "sit down"
-  },
-  {
-    "kanji": "立つ",
-    "kana": "たつ",
-    "meaning": "to stand"
-  },
-  {
-    "kanji": null,
-    "kana": "たのむ",
-    "meaning": "ask"
-  },
-  {
-    "kanji": "出す",
-    "kana": "だす",
-    "meaning": "send"
-  },
-  {
-    "kanji": null,
-    "kana": "ちがう",
-    "meaning": "be differ"
-  },
-  {
-    "kanji": "使う",
-    "kana": "つかう",
-    "meaning": "use"
-  },
-  {
-    "kanji": "着く",
-    "kana": "つく",
-    "meaning": "arrive"
-  },
-  {
-    "kanji": "作る",
-    "kana": "つくる",
-    "meaning": "to make"
-  },
-  {
-    "kanji": null,
-    "kana": "とおる",
-    "meaning": "to pass by"
-  },
-  {
-    "kanji": null,
-    "kana": "とぶ",
-    "meaning": "fly"
-  },
-  {
-    "kanji": null,
-    "kana": "とまる",
-    "meaning": "stay"
-  },
-  {
-    "kanji": "取る",
-    "kana": "とる",
-    "meaning": "take (photo)"
-  },
-  {
-    "kanji": null,
-    "kana": "とる",
-    "meaning": "get"
-  },
-  {
-    "kanji": null,
-    "kana": "なく",
-    "meaning": "cry"
-  },
-  {
-    "kanji": "習う",
-    "kana": "ならう",
-    "meaning": "learn"
-  },
-  {
-    "kanji": null,
-    "kana": "ならぶ",
-    "meaning": "align (i.v.)"
-  },
-  {
-    "kanji": null,
-    "kana": "なる",
-    "meaning": "become"
-  },
-  {
-    "kanji": null,
-    "kana": "ぬぐ",
-    "meaning": "take off"
-  },
-  {
-    "kanji": "上る",
-    "kana": "のぼる",
-    "meaning": "climb"
-  },
-  {
-    "kanji": "飲む",
-    "kana": "のむ",
-    "meaning": "drink"
-  },
-  {
-    "kanji": "乗る",
-    "kana": "のる",
-    "meaning": "ride"
-  },
-  {
-    "kanji": "入る",
-    "kana": "はいる",
-    "meaning": "enter"
-  },
-  {
-    "kanji": null,
-    "kana": "はく",
-    "meaning": "wear (lower garment)"
-  },
-  {
-    "kanji": null,
-    "kana": "はしる",
-    "meaning": "run"
-  },
-  {
-    "kanji": "始まる",
-    "kana": "はじまる",
-    "meaning": "begin (i.v.)"
-  },
-  {
-    "kanji": "働く",
-    "kana": "はたらく",
-    "meaning": "work"
-  },
-  {
-    "kanji": "話す",
-    "kana": "はなす",
-    "meaning": "speak"
-  },
-  {
-    "kanji": null,
-    "kana": "はらう",
-    "meaning": "pay"
-  },
-  {
-    "kanji": null,
-    "kana": "はる",
-    "meaning": "paste, stick"
-  },
-  {
-    "kanji": null,
-    "kana": "ひく",
-    "meaning": "pull"
-  },
-  {
-    "kanji": null,
-    "kana": "ひく",
-    "meaning": "catch cold"
-  },
-  {
-    "kanji": null,
-    "kana": "ひく",
-    "meaning": "play (instrument)"
-  },
-  {
-    "kanji": null,
-    "kana": "ひく",
-    "meaning": "consult (dictionary)"
-  },
-  {
-    "kanji": "降る",
-    "kana": "ふる",
-    "meaning": "to fall"
-  },
-  {
-    "kanji": null,
-    "kana": "まがる",
-    "meaning": "to turn"
-  },
-  {
-    "kanji": "待つ",
-    "kana": "まつ",
-    "meaning": "wait"
-  },
-  {
-    "kanji": null,
-    "kana": "ふく",
-    "meaning": "blow (wind)"
-  },
-  {
-    "kanji": null,
-    "kana": "みがく",
-    "meaning": "brush"
-  },
-  {
-    "kanji": "持つ",
-    "kana": "もつ",
-    "meaning": "hold, have"
-  },
-  {
-    "kanji": null,
-    "kana": "もらう",
-    "meaning": "receive"
-  },
-  {
-    "kanji": "休む",
-    "kana": "やすむ",
-    "meaning": "rest"
-  },
-  {
-    "kanji": null,
-    "kana": "やる",
-    "meaning": "do"
-  },
-  {
-    "kanji": null,
-    "kana": "よぶ",
-    "meaning": "call, summon"
-  },
-  {
-    "kanji": "読む",
-    "kana": "よむ",
-    "meaning": "read"
-  },
-  {
-    "kanji": null,
-    "kana": "わかる",
-    "meaning": "understand"
-  },
-  {
-    "kanji": null,
-    "kana": "わたす",
-    "meaning": "hand over"
-  },
-  {
-    "kanji": null,
-    "kana": "わたる",
-    "meaning": "to cross"
-  },
-  {
-    "kanji": null,
-    "kana": "おどる",
-    "meaning": "dance"
-  },
-  {
-    "kanji": null,
-    "kana": "はずす",
-    "meaning": "take off (accessories)"
-  },
-  {
-    "kanji": null,
-    "kana": "たのむ",
-    "meaning": "ask"
-  },
-  {
-    "kanji": null,
-    "kana": "やめる",
-    "meaning": "stop, resign"
-  },
-  {
-    "kanji": "開ける",
-    "kana": "あける",
-    "meaning": "open"
-  },
-  {
-    "kanji": null,
-    "kana": "あげる",
-    "meaning": "give"
-  },
-  {
-    "kanji": "上げる",
-    "kana": "あげる",
-    "meaning": "raise"
-  },
-  {
-    "kanji": null,
-    "kana": "あびる",
-    "meaning": "bathe (シャワー)"
-  },
-  {
-    "kanji": null,
-    "kana": "いる",
-    "meaning": "need"
-  },
-  {
-    "kanji": "入れる",
-    "kana": "いれる",
-    "meaning": "insert"
-  },
-  {
-    "kanji": "生まれる",
-    "kana": "うまれる",
-    "meaning": "be born"
-  },
-  {
-    "kanji": null,
-    "kana": "おきる",
-    "meaning": "wake up"
-  },
-  {
-    "kanji": "教える",
-    "kana": "おしえる",
-    "meaning": "teach"
-  },
-  {
-    "kanji": null,
-    "kana": "おぼえる",
-    "meaning": "remember"
-  },
-  {
-    "kanji": "降りる",
-    "kana": "おりる",
-    "meaning": "get off"
-  },
-  {
-    "kanji": null,
-    "kana": "かける",
-    "meaning": "call (でんわ)"
-  },
-  {
-    "kanji": null,
-    "kana": "かける",
-    "meaning": "wear (めがね)"
-  },
-  {
-    "kanji": "借りる",
-    "kana": "かりる",
-    "meaning": "borrow"
-  },
-  {
-    "kanji": null,
-    "kana": "きえる",
-    "meaning": "disappear"
-  },
-  {
-    "kanji": null,
-    "kana": "きめる",
-    "meaning": "decide"
-  },
-  {
-    "kanji": null,
-    "kana": "きる",
-    "meaning": "cut"
-  },
-  {
-    "kanji": "答える",
-    "kana": "こたえる",
-    "meaning": "answer"
-  },
-  {
-    "kanji": "閉める",
-    "kana": "しめる",
-    "meaning": "close"
-  },
-  {
-    "kanji": null,
-    "kana": "しめる",
-    "meaning": "wear ( ネクタ)"
-  },
-  {
-    "kanji": "食べる",
-    "kana": "たべる",
-    "meaning": "eat"
-  },
-  {
-    "kanji": null,
-    "kana": "つかれる",
-    "meaning": "be tired"
-  },
-  {
-    "kanji": null,
-    "kana": "つける",
-    "meaning": "turn on"
-  },
-  {
-    "kanji": null,
-    "kana": "つとめる",
-    "meaning": "to work"
-  },
-  {
-    "kanji": "出かける",
-    "kana": "でかける",
-    "meaning": "go out"
-  },
-  {
-    "kanji": null,
-    "kana": "できる",
-    "meaning": "can do"
-  },
-  {
-    "kanji": "出る",
-    "kana": "でる",
-    "meaning": "come out"
-  },
-  {
-    "kanji": null,
-    "kana": "ならべる",
-    "meaning": "arrange (t.v.)"
-  },
-  {
-    "kanji": "寝る",
-    "kana": "ねる",
-    "meaning": "sleep"
-  },
-  {
-    "kanji": null,
-    "kana": "はれる",
-    "meaning": "be sunny"
-  },
-  {
-    "kanji": "見せる",
-    "kana": "みせる",
-    "meaning": "show"
-  },
-  {
-    "kanji": "見る",
-    "kana": "みる",
-    "meaning": "see, watch"
-  },
-  {
-    "kanji": null,
-    "kana": "わすれる",
-    "meaning": "forget"
-  },
-  {
-    "kanji": null,
-    "kana": "すてる",
-    "meaning": "to throw"
-  },
-  {
-    "kanji": "来る",
-    "kana": "くる",
-    "meaning": "come"
-  },
-  {
-    "kanji": null,
-    "kana": "する",
-    "meaning": "do"
-  },
-  {
-    "kanji": "買い物",
-    "kana": "かいものする",
-    "meaning": "shopping"
-  },
-  {
-    "kanji": null,
-    "kana": "けっこんする",
-    "meaning": "get married"
-  },
-  {
-    "kanji": null,
-    "kana": "さんぽする",
-    "meaning": "take a stroll"
-  },
-  {
-    "kanji": "仕事",
-    "kana": "しごとする",
-    "meaning": "work"
-  },
-  {
-    "kanji": null,
-    "kana": "しつもんする",
-    "meaning": "ask question"
-  },
-  {
-    "kanji": null,
-    "kana": "しつれいする",
-    "meaning": "excuse me (ex)"
-  },
-  {
-    "kanji": null,
-    "kana": "せんたくする",
-    "meaning": "do laundry"
-  },
-  {
-    "kanji": null,
-    "kana": "そうじする",
-    "meaning": "clean"
-  },
-  {
-    "kanji": "電話",
-    "kana": "でんわする",
-    "meaning": "call"
-  },
-  {
-    "kanji": null,
-    "kana": "べんきょうする",
-    "meaning": "study"
-  },
-  {
-    "kanji": null,
-    "kana": "りょこうする",
-    "meaning": "trip, travel"
-  },
-  {
-    "kanji": null,
-    "kana": "れんしゅうする",
-    "meaning": "practice"
-  },
-  {
-    "kanji": null,
-    "kana": "れんらくする",
-    "meaning": "contact"
-  },
-  {
-    "kanji": null,
-    "kana": "そうだんする",
-    "meaning": "consult"
-  },
-  {
-    "kanji": null,
-    "kana": "よやくする",
-    "meaning": "reserve"
-  },
-  {
-    "kanji": null,
-    "kana": "しょうかいする",
-    "meaning": "introduce"
-  },
-  {
-    "kanji": null,
-    "kana": "へんじする",
-    "meaning": "reply"
-  },
-  {
-    "kanji": null,
-    "kana": "ざんぎょうする",
-    "meaning": "work overtime"
-  },
-  {
-    "kanji": null,
-    "kana": "スポーツする",
-    "meaning": "do sports"
-  },
-  {
-    "kanji": null,
-    "kana": "せつめいする",
-    "meaning": "explain"
-  },
-  {
-    "kanji": null,
-    "kana": "うんてんする",
-    "meaning": "drive"
-  },
-  {
-    "kanji": null,
-    "kana": "きゅうけいする",
-    "meaning": "take a break"
-  },
-  {
-    "kanji": null,
-    "kana": "りゅうがくする",
-    "meaning": "study abroad"
-  },
-  {
-    "kanji": null,
-    "kana": "うんどうする",
-    "meaning": "exercise"
-  },
-  {
-    "kanji": "持って来る",
-    "kana": "もってくる",
-    "meaning": "bring"
-  },
-  {
-    "kanji": null,
-    "kana": "ごうかくする",
-    "meaning": "to pass (exam)"
-  },
-  {
-    "kanji": null,
-    "kana": "びっくりする",
-    "meaning": "be surprised"
+    "kanji": "実行力",
+    "kana": "じっこうりょく",
+    "meaning": "ability to get things done"
   }
 ]
