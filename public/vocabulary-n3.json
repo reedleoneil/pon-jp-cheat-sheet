@@ -1415,8 +1415,18 @@
     "meaning": "go up the stairs"
   },
   {
+    "kanji": "階段を上る",
+    "kana": "かいだんをのぼる",
+    "meaning": "go up the stairs"
+  },
+  {
     "kanji": "階段を下る",
     "kana": "かいだんをくだる",
+    "meaning": "go  down the stairs"
+  },
+  {
+    "kanji": "階段を降りる",
+    "kana": "かいだんをおりる",
     "meaning": "go  down the stairs"
   },
   {
