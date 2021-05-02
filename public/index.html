@@ -257,6 +257,16 @@
       VOCABULARYLIST = VOCABULARYLIST.concat(data)
     });
   }
+
+  fetch('vocabulary-n3-s.json')
+    .then(response => response.json())
+    .then(data => {
+      data.forEach(vocabulary => { 
+        vocabulary.level = 'n3';
+      });
+   
+      VOCABULARYLIST = VOCABULARYLIST.concat(data)
+    });
   
   /* 
    * Helper Functions
