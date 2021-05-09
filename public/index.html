@@ -514,6 +514,7 @@
     switch (mode) {
       case 'kanji':
         _shuffle(KANJILIST);
+        KANJILIST.forEach(k => _shuffle(k.vocabulary));
         _renderKanjiSpanList();
         break;
       case 'vocabulary':
