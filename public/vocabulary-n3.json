@@ -1708,5 +1708,160 @@
     "kanji": "駅の売店",
     "kana": "えきのばいてん",
     "meaning": "a station kiosk"
+  },
+  {
+    "kanji": null,
+    "kana": "フロントガラス",
+    "meaning": "windsheild"
+  },
+  {
+    "kanji": null,
+    "kana": "バックミラー",
+    "meaning": "rearview mirror"
+  },
+  {
+    "kanji": null,
+    "kana": "ワイパー",
+    "meaning": "wiper"
+  },
+  {
+    "kanji": null,
+    "kana": "ボンネット",
+    "meaning": "hood/bonnet"
+  },
+  {
+    "kanji": null,
+    "kana": "ライト",
+    "meaning": "headlamp"
+  },
+  {
+    "kanji": null,
+    "kana": "サイドミラー",
+    "meaning": "sideview mirror"
+  },
+  {
+    "kanji": null,
+    "kana": "トランク",
+    "meaning": "trunk"
+  },
+  {
+    "kanji": null,
+    "kana": "タイヤ",
+    "meaning": "tire"
+  },
+  {
+    "kanji": "運転席",
+    "kana": "うんてんせき",
+    "meaning": "driver's seat"
+  },
+  {
+    "kanji": "助手席",
+    "kana": "じょしゅせき",
+    "meaning": "passenger seat"
+  },
+  {
+    "kanji": null,
+    "kana": "カーナビ",
+    "meaning": "car-navigation system"
+  },
+  {
+    "kanji": null,
+    "kana": "ハンドル",
+    "meaning": "steering wheel"
+  },
+  {
+    "kanji": null,
+    "kana": "キー",
+    "meaning": "car key"
+  },
+  {
+    "kanji": "運転免許証",
+    "kana": "うんてんめんきょしょう",
+    "meaning": "dirver's license"
+  },
+  {
+    "kanji": null,
+    "kana": "ドライブをする",
+    "meaning": "to drive"
+  },
+  {
+    "kanji": "レンタカーを借りる",
+    "kana": "レンタカーをかりる",
+    "meaning": "rent a car"
+  },
+  {
+    "kanji": "トランクに荷物を積む",
+    "kana": "トランクににもつをつむ",
+    "meaning": "put luggage in the trunk"
+  },
+  {
+    "kanji": "人を乗せる",
+    "kana": "ひとをのせる",
+    "meaning": "give someone a ride"
+  },
+  {
+    "kanji": null,
+    "kana": "シートベルトをしめる",
+    "meaning": "fasten one's seatbelt"
+  },
+  {
+    "kanji": null,
+    "kana": "エンジンをかける",
+    "meaning": "start a car"
+  },
+  {
+    "kanji": "バックミラーで確認をする",
+    "kana": "バックミラーでかくにんをする",
+    "meaning": "check behind through the rearview mirror"
+  },
+  {
+    "kanji": null,
+    "kana": "ハンドルをにぎる",
+    "meaning": "take the wheel"
+  },
+  {
+    "kanji": null,
+    "kana": "アクセルをふむ",
+    "meaning": "step on the accelerator"
+  },
+  {
+    "kanji": null,
+    "kana": "ブレーキをかける",
+    "meaning": "step on the brakes"
+  },
+  {
+    "kanji": "急ブレーキ",
+    "kana": "きゅうブレーキ",
+    "meaning": "a sudden stop"
+  },
+  {
+    "kanji": null,
+    "kana": "ライトをつける",
+    "meaning": "turn on the headlamp"
+  },
+  {
+    "kanji": "ワイパーを動かす",
+    "kana": "ワイパーをうごかす",
+    "meaning": "turn on the wiper"
+  },
+  {
+    "kanji": "ガソリンスタンドに寄る",
+    "kana": "ガソリンスタンドによる",
+    "meaning": "stop at a gas station"
+  },
+  {
+    "kanji": "高速（道路）に乗る",
+    "kana": "こうそく（どうろ）にのる",
+    "meaning": "get on a freeway"
+  },
+  {
+    "kanji": null,
+    "kana": "タイヤがパンクする",
+    "meaning": "have a flat tire"
+  },
+  {
+    "kanji": null,
+    "kana": "タイヤがパンクする",
+    "meaning": "have a flat tire"
   }
 ]
