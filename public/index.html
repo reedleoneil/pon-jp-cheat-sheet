@@ -103,6 +103,12 @@
     background-color:white;
   }
 
+  span.n5, 
+  span.n4, 
+  span.n3 {
+    padding: 0.20em;
+  }
+
   #div-kanji-span-list.n5 span.n5,
   #div-kanji-span-list.n4 span.n4,
   #div-kanji-span-list.n3 span.n3,
@@ -293,7 +299,7 @@
           span.setAttribute('data-bs-trigger', 'hover');
           span.setAttribute('title', k.meaning);
           span.setAttribute('data-bs-content', _generateDataContent(k.vocabulary).outerHTML);
-          span.innerText = k.kanji + ' ';
+          span.innerText = k.kanji;
 
         div.appendChild(span);
     });
