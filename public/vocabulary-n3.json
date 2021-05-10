@@ -1858,5 +1858,180 @@
     "kanji": null,
     "kana": "タイヤがパンクする",
     "meaning": "have a flat tire"
+  },
+  {
+    "kanji": "通行止め",
+    "kana": "つうこうどめ",
+    "meaning": "(the road is) closed"
+  },
+  {
+    "kanji": "信号",
+    "kana": "しんごう",
+    "meaning": "traffic light"
+  },
+  {
+    "kanji": "四つ角",
+    "kana": "よつかど",
+    "meaning": "crossroads"
+  },
+  {
+    "kanji": "交差点",
+    "kana": "こうさてん",
+    "meaning": "intersection"
+  },
+  {
+    "kanji": "工事中",
+    "kana": "こうじちゅう",
+    "meaning": "under construction"
+  },
+  {
+    "kanji": "踏切",
+    "kana": "ふみきり",
+    "meaning": "railway crossing"
+  },
+  {
+    "kanji": "横断歩道",
+    "kana": "おうだんほどう",
+    "meaning": "pedestrian crossing"
+  },
+  {
+    "kanji": "バス停",
+    "kana": "バスてい",
+    "meaning": "bus stop"
+  },
+  {
+    "kanji": "バス停留所",
+    "kana": "バスていりゅうじょ",
+    "meaning": "bus stop"
+  },
+  {
+    "kanji": "線路",
+    "kana": "せんろ",
+    "meaning": "railway"
+  },
+  {
+    "kanji": "一方通行",
+    "kana": "いっぽうつうこう",
+    "meaning": "one-way traffic"
+  },
+  {
+    "kanji": "渋滞",
+    "kana": "じゅうたい",
+    "meaning": "congestion"
+  },
+  {
+    "kanji": "道路が混んでいる",
+    "kana": "どうろがこんでいる",
+    "meaning": "the road is congested"
+  },
+  {
+    "kanji": "道路が渋滞している",
+    "kana": "どうろがじゅうたいしている",
+    "meaning": "the road is congested"
+  },
+  {
+    "kanji": "道路がすいている",
+    "kana": "どうろがすいている",
+    "meaning": "the road is empty"
+  },
+  {
+    "kanji": "回り道をする",
+    "kana": "まわりみちをする",
+    "meaning": "make a detour"
+  },
+  {
+    "kanji": "遠回りをする",
+    "kana": "とおまわりをする",
+    "meaning": "make a detour"
+  },
+  {
+    "kanji": "近道をする",
+    "kana": "ちかみちをする",
+    "meaning": "make a shortcut"
+  },
+  {
+    "kanji": "突き当りを左に曲がる",
+    "kana": "つきあたりをひだりにまがる",
+    "meaning": "turn to the left ate the far end of the street"
+  },
+  {
+    "kanji": "バスが停車する",
+    "kana": "バスがていしゃする",
+    "meaning": "the bus stops"
+  },
+  {
+    "kanji": "線路を越える",
+    "kana": "どうろがすいている",
+    "meaning": "go over the railway crossing"
+  },
+  {
+    "kanji": "トラックを追い越す",
+    "kana": "トラックをおいこす",
+    "meaning": "pass a truck"
+  },
+  {
+    "kanji": "時速１００キロで走る",
+    "kana": "じそく１００きろではしる",
+    "meaning": "drive at 100 kilometers an hour"
+  },
+  {
+    "kanji": "スピード違反で捕まる",
+    "kana": "スピードいはんでつかまる",
+    "meaning": "get a speeding ticket"
+  },
+  {
+    "kanji": "駐車違反をする",
+    "kana": "ちゅうしゃいはんをする",
+    "meaning": "get a parking ticket"
+  },
+  {
+    "kanji": "信号を無視する",
+    "kana": "しんごうをむしする",
+    "meaning": "go through a red light"
+  },
+  {
+    "kanji": "信号無視",
+    "kana": "しんごうむし",
+    "meaning": "red-light violation"
+  },
+  {
+    "kanji": "車をぶつける",
+    "kana": "くるまをぶつける",
+    "meaning": "bump one's car into"
+  },
+  {
+    "kanji": "車がぶつかる",
+    "kana": "くるまがぶつかる",
+    "meaning": "one's car bumps into"
+  },
+  {
+    "kanji": "猫をひく",
+    "kana": "ねこをひく",
+    "meaning": "run over a cat"
+  },
+  {
+    "kanji": "猫が車にひかれる",
+    "kana": "ねこがくるまにひかれる",
+    "meaning": "a cat gets run over by a car"
+  },
+  {
+    "kanji": "（交通）事故にあう",
+    "kana": "（こうつう）じこにあう",
+    "meaning": "get involved in a car accident"
+  },
+  {
+    "kanji": "車に気をつける",
+    "kana": "くるまにきをつける",
+    "meaning": "watch out for cars"
+  },
+  {
+    "kanji": "ななめに横断する",
+    "kana": "ななめにおうだんする",
+    "meaning": "walk across the street diagonally"
+  },
+  {
+    "kanji": "道路を横切る",
+    "kana": "どうろをよこぎる",
+    "meaning": "go across the road"
   }
 ]
