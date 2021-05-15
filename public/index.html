@@ -553,6 +553,39 @@
     _renderVocabularyList();
   };
 
+  const _onKeyPress = (k) => {
+    let isKanjiSpan = !!document.getElementById('div-kanji-span-list');
+    let isKanjiVocabList = !!document.getElementById('div-kanji-vocabulary-list');
+    let isVocabList = !!document.getElementById('div-vocabulary-list');
+
+    switch(k.key) {
+      case '1':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'n1-kanji-checkbox' : isVocabList ? 'n1-vocabulary-checkbox' : '').click();
+        break;
+      case '2':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'n2-kanji-checkbox' : isVocabList ? 'n2-vocabulary-checkbox' : '').click();
+        break;
+      case '3':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'n3-kanji-checkbox' : isVocabList ? 'n3-vocabulary-checkbox' : '').click();
+        break;
+      case '4':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'n4-kanji-checkbox' : isVocabList ? 'n4-vocabulary-checkbox' : '').click();
+        break;
+      case '5':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'n5-kanji-checkbox' : isVocabList ? 'n5-vocabulary-checkbox' : '').click();
+        break;      
+      case 'q':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'kanji-kana-display' : isVocabList ? 'vocabulary-kana-display' : '').click();
+        break;      
+      case 'w':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'kanji-meaning-display' : isVocabList ? 'vocabulary-meaning-display' : '').click();
+        break;      
+      case 'e':
+        document.getElementById(isKanjiSpan || isKanjiVocabList ? 'kanji-shuffle-button' : isVocabList ? 'vocabulary-shuffle-button' : '').click();
+        break;
+    } 
+  };
+
   /* 
    * Render Functions
    */
@@ -609,17 +642,19 @@
   };
 
   document.querySelectorAll('input[name="kanji-level"]').forEach((checkbox) => checkbox.onclick = _onKanjiLevelClicked);
-  document.getElementById("kanji-mode").onchange = _onKanjiModeClicked;
+  document.getElementById('kanji-mode').onchange = _onKanjiModeClicked;
   document.querySelectorAll('input[name="kanji-display"]').forEach((checkbox) => checkbox.onclick = _onKanjiDisplayClicked);
-  document.getElementById("kanji-span-list-font-size").onchange = _onFontSizeChanged;
-  document.getElementById("kanji-shuffle-button").onclick = _onShuffleKanjiClicked;
+  document.getElementById('kanji-span-list-font-size').onchange = _onFontSizeChanged;
+  document.getElementById('kanji-shuffle-button').onclick = _onShuffleKanjiClicked;
 
   document.querySelectorAll('input[name="vocabulary-level"]').forEach((checkbox) => checkbox.onclick = _onVocabularyLevelClicked);
   document.querySelectorAll('input[name="vocabulary-display"]').forEach((checkbox) => checkbox.onclick = _onVocabularyDisplayClicked);
-  document.getElementById("vocabulary-shuffle-button").onclick = _onShuffleVocabularyClicked;
+  document.getElementById('vocabulary-shuffle-button').onclick = _onShuffleVocabularyClicked;
 
-  document.getElementById("kanji-nav").onclick = _onKanjiNavClicked;
-  document.getElementById("vocabulary-nav").onclick = _onVocabularyNavClicked;
+  document.getElementById('kanji-nav').onclick = _onKanjiNavClicked;
+  document.getElementById('vocabulary-nav').onclick = _onVocabularyNavClicked;
+
+  document.querySelector('html').onkeypress = _onKeyPress;
   </script>
 </body>
 </html>
