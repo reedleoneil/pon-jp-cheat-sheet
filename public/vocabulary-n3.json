@@ -2033,5 +2033,180 @@
     "kanji": "道路を横切る",
     "kana": "どうろをよこぎる",
     "meaning": "go across the road"
+  },
+  {
+    "kanji": "通帳",
+    "kana": "つうちょう",
+    "meaning": "bank book"
+  },
+  {
+    "kanji": null,
+    "kana": "（キャッシュ）カード",
+    "meaning": "cash/bacnk card"
+  },
+  {
+    "kanji": "はんこ・印鑑",
+    "kana": "はんこ・いんかん",
+    "meaning": "one's seal"
+  },
+  {
+    "kanji": null,
+    "kana": "サイン",
+    "meaning": "signature"
+  },
+  {
+    "kanji": "千万冊",
+    "kana": "せんまんさつ",
+    "meaning": "thousand yen bill"
+  },
+  {
+    "kanji": "紙幣",
+    "kana": "しへい",
+    "meaning": "bill"
+  },
+  {
+    "kanji": "お札",
+    "kana": "おさつ",
+    "meaning": "bill"
+  },
+  {
+    "kanji": "百円玉",
+    "kana": "ひゃくえんだま",
+    "meaning": "hundred yen coin"
+  },
+  {
+    "kanji": "硬貨",
+    "kana": "こうか",
+    "meaning": "coin"
+  },
+  {
+    "kanji": "お金を貯める",
+    "kana": "おかねをためる",
+    "meaning": "to save"
+  },
+  {
+    "kanji": "貯金する",
+    "kana": "ちょきんする",
+    "meaning": "to save"
+  },
+  {
+    "kanji": "預金する",
+    "kana": "よきんする",
+    "meaning": "put money in a bank account"
+  },
+  {
+    "kanji": "銀行にお金を預ける",
+    "kana": "ぎんこうにおかねをあずける",
+    "meaning": "put money in a bank account"
+  },
+  {
+    "kanji": "給料を引き出す",
+    "kana": "きゅうりょうをひきだす",
+    "meaning": "withdraw (some of) one's pay"
+  },
+  {
+    "kanji": "給料を下す",
+    "kana": "きゅうりょうをおろす",
+    "meaning": "withdraw (some of) one's pay"
+  },
+  {
+    "kanji": "通帳記入をする",
+    "kana": "つうちょうきにゅうをする",
+    "meaning": "update a bank book"
+  },
+  {
+    "kanji": "通帳に記入をする",
+    "kana": "つうちょうにきにゅうをする",
+    "meaning": "update a bank book"
+  },
+  {
+    "kanji": "暗証番号",
+    "kana": "あんしょうばんごう",
+    "meaning": "PIN number"
+  },
+  {
+    "kanji": "銀行の本店",
+    "kana": "ぎんこうのほんてん",
+    "meaning": "the main branch office of a bank"
+  },
+  {
+    "kanji": "銀行の支店",
+    "kana": "ぎんこうのしてん",
+    "meaning": "a branch office of a bank"
+  },
+  {
+    "kanji": "口座を開く",
+    "kana": "こうざをひらく",
+    "meaning": "open an account"
+  },
+  {
+    "kanji": "家賃を振り込む",
+    "kana": "やちんをふりこむ",
+    "meaning": "transfer a monthly rent"
+  },
+  {
+    "kanji": "振り込み",
+    "kana": "ふりこみ",
+    "meaning": "bank transfer"
+  },
+  {
+    "kanji": "公共料金を支払う",
+    "kana": "こうきょうりょうきんをしはらう",
+    "meaning": "pay the utility charges"
+  },
+  {
+    "kanji": "支払い",
+    "kana": "しはらい",
+    "meaning": "payment"
+  },
+  {
+    "kanji": "商品の代金を払う",
+    "kana": "しょうひんのだいきんをはらう",
+    "meaning": "pay the bill by bank transfer"
+  },
+  {
+    "kanji": "窓口で両替をする",
+    "kana": "まどぐちでりょうがえをする",
+    "meaning": "break a bill at the bank counter"
+  },
+  {
+    "kanji": "送金する",
+    "kana": "そうきんする",
+    "meaning": "remit"
+  },
+  {
+    "kanji": "仕送りする",
+    "kana": "しおくりする",
+    "meaning": "monthly allowance"
+  },
+  {
+    "kanji": "手数料がかかる",
+    "kana": "てすうりょうがかかる",
+    "meaning": "incur handling charges"
+  },
+  {
+    "kanji": "あて名",
+    "kana": "あてな",
+    "meaning": "addressee"
+  },
+  {
+    "kanji": "差出人名",
+    "kana": "さしだしにんめい",
+    "meaning": "sender"
+  },
+  {
+    "kanji": "手紙を速達で出す",
+    "kana": "てがみをそくたつでだす",
+    "meaning": "send a letter by express mail"
+  },
+  {
+    "kanji": "小包",
+    "kana": "こづつみ",
+    "meaning": "parcel"
+  },
+  {
+    "kanji": "送料がかかる",
+    "kana": "そうりょうがかかる",
+    "meaning": "incur shipping charge"
   }
 ]
