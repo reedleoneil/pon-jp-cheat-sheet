@@ -3363,5 +3363,172 @@
           "meaning": "canned goods"
         }
       ]
+    },
+    {
+      "kanji": "企",
+      "meaning": "undertake, scheme, design, attempt, plan",
+      "vocabulary": [
+        {
+          "kanji": "企業",
+          "kana": "きぎょう",
+          "meaning": "enterprise, undertaking, corporation, business"
+        },
+        {
+          "kanji": "企画",
+          "kana": "きかく",
+          "meaning": "planning"
+        }
+      ]
+    },
+    {
+      "kanji": "勤",
+      "meaning": "dilligence, become, employed, serve",
+      "vocabulary": [
+        {
+          "kanji": "勤める",
+          "kana": "つとめる",
+          "meaning": "to work (for), to be employed (at), to serve (as)"
+        },
+        {
+          "kanji": "勤務",
+          "kana": "きんむ",
+          "meaning": "service, duty, work"
+        },
+        {
+          "kanji": "通勤",
+          "kana": "つうきん",
+          "meaning": "commuting to work"
+        }
+      ]
+    },
+    {
+      "kanji": "職",
+      "meaning": "post, work, employment",
+      "vocabulary": [
+        {
+          "kanji": "職人",
+          "kana": "しょくにん",
+          "meaning": "worker, mechanic, artisan, craftsman"
+        },
+        {
+          "kanji": "職場",
+          "kana": "しょくば",
+          "meaning": "place of work"
+        },
+        {
+          "kanji": "就職",
+          "kana": "しゅうしょく",
+          "meaning": "finding employment, getting a job"
+        },
+        {
+          "kanji": "転職",
+          "kana": "てんしょく",
+          "meaning": "change of occupation"
+        },
+        {
+          "kanji": "職業",
+          "kana": "しょくぎょう",
+          "meaning": "occupation, business"
+        },
+        {
+          "kanji": "職員",
+          "kana": "しょくいん",
+          "meaning": "staff member, personnel"
+        }
+      ]
+    },
+    {
+      "kanji": "就",
+      "meaning": "concerning, settle, take position, depart",
+      "vocabulary": [
+        {
+          "kanji": "就く",
+          "kana": "つく",
+          "meaning": "to take (seat, position, course, etc.)"
+        },
+        {
+          "kanji": "就職",
+          "kana": "しゅうしょく",
+          "meaning": "finding employment, getting a job"
+        },
+        {
+          "kanji": "就業",
+          "kana": "しゅうぎょう",
+          "meaning": "employment, starting work"
+        },
+        {
+          "kanji": "就任",
+          "kana": "しゅうにん",
+          "meaning": "inauguratrion, assumption of office"
+        }
+      ]
+    },
+    {
+      "kanji": "努",
+      "meaning": "toil, diligent, as much as possible",
+      "vocabulary": [
+        {
+          "kanji": "努力",
+          "kana": "どりょく",
+          "meaning": "great effort, exertion, endeavour, effort"
+        },
+        {
+          "kanji": "務める",
+          "kana": "つとめる",
+          "meaning": "to endeavour, to try, to strive, to make an effort"
+        }
+      ]
+    },
+    {
+      "kanji": "給",
+      "meaning": "salary, wage, gift, allow, grant",
+      "vocabulary": [
+        {
+          "kanji": "給料",
+          "kana": "きゅうりょう",
+          "meaning": "salary, wage"
+        },
+        {
+          "kanji": "支給",
+          "kana": "しきゅう",
+          "meaning": "provision, supply, payment, allowance, grant"
+        },
+        {
+          "kanji": "時給",
+          "kana": "じきゅう",
+          "meaning": "hourly pay"
+        }
+      ]
+    },
+    {
+      "kanji": "支",
+      "meaning": "branch, support, sustain",
+      "vocabulary": [
+        {
+          "kanji": "支える",
+          "kana": "ささえる",
+          "meaning": "to support, to sustain"
+        },
+        {
+          "kanji": "支援",
+          "kana": "しえん",
+          "meaning": "support, backing, aid, assistance"
+        },
+        {
+          "kanji": "支店",
+          "kana": "してん",
+          "meaning": "branch office, branch store"
+        },
+        {
+          "kanji": "支社",
+          "kana": "ししゃ",
+          "meaning": "branch office"
+        },
+        {
+          "kanji": "支払う",
+          "kana": "しはらう",
+          "meaning": "to pay"
+        }
+      ]
     }
   ]
