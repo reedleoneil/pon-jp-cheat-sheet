@@ -3530,5 +3530,273 @@
           "meaning": "to pay"
         }
       ]
+    },
+    {
+      "kanji": "収",
+      "meaning": "income, obtain, reap, pay, supply",
+      "vocabulary": [
+        {
+          "kanji": "収入",
+          "kana": "しゅうにゅう",
+          "meaning": "income, receipts, revenue"
+        },
+        {
+          "kanji": "買収",
+          "kana": "ばいしゅう",
+          "meaning": "buy-out, acquisition"
+        }
+      ]
+    },
+    {
+      "kanji": "額",
+      "meaning": "forehead, tablet, plaque, framed, picture, sum, amount, volume",
+      "vocabulary": [
+        {
+          "kanji": "金額",
+          "kana": "きんがく",
+          "meaning": "amount of money"
+        },
+        {
+          "kanji": "半額",
+          "kana": "はんがく",
+          "meaning": "half, half amunt, half price, half fare"
+        }
+      ]
+    },
+    {
+      "kanji": "払",
+      "meaning": "pay, clear out, prune, banish",
+      "vocabulary": [
+        {
+          "kanji": "払う",
+          "kana": "はらう",
+          "meaning": "to pay (e.g. money, bill); to brush off, to wipe away"
+        },
+        {
+          "kanji": "支払う",
+          "kana": "しはらう",
+          "meaning": "to pay"
+        }
+      ]
+    },
+    {
+      "kanji": "輸",
+      "meaning": "transport, send, be inferior",
+      "vocabulary": [
+        {
+          "kanji": "輸出",
+          "kana": "ゆしゅつ",
+          "meaning": "export"
+        },
+        {
+          "kanji": "輸入",
+          "kana": "ゆにゅう",
+          "meaning": "import"
+        },
+        {
+          "kanji": "輸送",
+          "kana": "ゆそう",
+          "meaning": "transport, transportation"
+        }
+      ]
+    },
+    {
+      "kanji": "込",
+      "meaning": "crowded, in bulk, mixture, included",
+      "vocabulary": [
+        {
+          "kanji": "込む",
+          "kana": "こむ",
+          "meaning": "to be crowded, to do thoroughly"
+        },
+        {
+          "kanji": "振り込む",
+          "kana": "ふりこむ",
+          "meaning": "to make a payment via bank deposit transfer"
+        },
+        {
+          "kanji": "税込み",
+          "kana": "ぜいこみ",
+          "meaning": "tax included (e.g. price), before tax (e.g. salary)"
+        }
+      ]
+    },
+    {
+      "kanji": "預",
+      "meaning": "deposit, custody, leave with, entrust",
+      "vocabulary": [
+        {
+          "kanji": "預ける",
+          "kana": "あずける",
+          "meaning": "to give into custody, to leave (a child) in the care of, to entrust, to deposit"
+        },
+        {
+          "kanji": "預金",
+          "kana": "よきん",
+          "meaning": "deposit, bank account"
+        }
+      ]
+    },
+    {
+      "kanji": "済",
+      "meaning": "settle (debt, etc.), relieve (burden), finish, come to an end, excusable",
+      "vocabulary": [
+        {
+          "kanji": "済む",
+          "kana": "すむ",
+          "meaning": "to finish, to end, to be completed"
+        },
+        {
+          "kanji": "経済",
+          "kana": "けいざい",
+          "meaning": "ecomnomics, business, finance, economy"
+        }
+      ]
+    },
+    {
+      "kanji": "税",
+      "meaning": "tax, duty",
+      "vocabulary": [
+        {
+          "kanji": "税金",
+          "kana": "ぜいきん",
+          "meaning": "tax, duty"
+        },
+        {
+          "kanji": "消費税",
+          "kana": "しょうひぜい",
+          "meaning": "consumption tax (VAT)"
+        },
+        {
+          "kanji": "税務署",
+          "kana": "ぜいむしょ",
+          "meaning": "tax office"
+        }
+      ]
+    },
+    {
+      "kanji": "費",
+      "meaning": "expense, cost, spend, consume",
+      "vocabulary": [
+        {
+          "kanji": "消費",
+          "kana": "しょうひ",
+          "meaning": "consumption, expenditure"
+        },
+        {
+          "kanji": "費用",
+          "kana": "ひよう",
+          "meaning": "cost, expense"
+        },
+        {
+          "kanji": "寮費",
+          "kana": "りょうひ",
+          "meaning": "boarding expenses"
+        },
+        {
+          "kanji": "消費者",
+          "kana": "しょうひしゃ",
+          "meaning": "consumer"
+        },
+        {
+          "kanji": "会費",
+          "kana": "かいひ",
+          "meaning": "membeship fee"
+        }
+      ]
+    },
+    {
+      "kanji": "値",
+      "meaning": "price cost, value",
+      "vocabulary": [
+        {
+          "kanji": "値",
+          "kana": "あたお",
+          "meaning": "price, cost"
+        },
+        {
+          "kanji": "値段",
+          "kana": "ねだん",
+          "meaning": "price, cost"
+        },
+        {
+          "kanji": "値上げ",
+          "kana": "ねあげ",
+          "meaning": "price hike, mark-up"
+        },
+        {
+          "kanji": "値下げ",
+          "kana": "ねさげ",
+          "meaning": "price cut"
+        }
+      ]
+    },
+    {
+      "kanji": "段",
+      "meaning": "grade, steps, stairs",
+      "vocabulary": [
+        {
+          "kanji": "段階",
+          "kana": "だんかい",
+          "meaning": "grade, level, stage, class, steps, order"
+        },
+        {
+          "kanji": "手段",
+          "kana": "しゅだん",
+          "meaning": "means, way, measure"
+        },
+        {
+          "kanji": "階段",
+          "kana": "かいだん",
+          "meaning": "stairs, stairway, staircase"
+        },
+        {
+          "kanji": "値段",
+          "kana": "ねだん",
+          "meaning": "price, cost"
+        }
+      ]
+    },
+    {
+      "kanji": "算",
+      "meaning": "calculate, divining, number, abacus, probability",
+      "vocabulary": [
+        {
+          "kanji": "算数",
+          "kana": "さんすう",
+          "meaning": "arithmetic"
+        },
+        {
+          "kanji": "予算",
+          "kana": "よさん",
+          "meaning": "estimate, budget"
+        },
+        {
+          "kanji": "計算",
+          "kana": "けいさん",
+          "meaning": "calculation, count"
+        },
+        {
+          "kanji": "降り算",
+          "kana": "ふりざん",
+          "meaning": "division"
+        }
+      ]
+    },
+    {
+      "kanji": "販",
+      "meaning": "marketing, sell, trade",
+      "vocabulary": [
+        {
+          "kanji": "販売",
+          "kana": "はんばい",
+          "meaning": "sales, selling, marketing"
+        },
+        {
+          "kanji": "自動販売機",
+          "kana": "じどうはんばいき",
+          "meaning": "vending machine"
+        }
+      ]
     }
   ]
