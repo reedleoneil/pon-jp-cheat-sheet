@@ -19,7 +19,6 @@
     width: 100%;
     padding-left: 20px;
     padding-right: 20px;
-    margin-bottom: 7.5px;
     margin-left: auto;
     margin-right: auto;
     max-width:96em;
@@ -138,82 +137,121 @@
   #div-vocabulary-list.n3 tr.n3 {
     display: none;
   }
+
+  /* The side navigation menu */
+  .sidebar {
+    width: 25em;
+    position: fixed;
+    height: 100%;
+    /* overflow: auto; */
+  }
+
+  /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+  div.content {
+    margin-left: 25em;
+  }
+
+  /* On screens that are less than 700px wide, make the sidebar into a topbar */
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      /* todo */
+      position: relative;
+    }
+    div.content {margin-left: 0;}
+  }
+
+  /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      /* todo */
+      text-align: center;
+      float: none;
+    }
+  } 
   </style>
 </head>
 <body>
-  <div class="row">
-    <div class="col-sm-3 px-1 mt-2 sticky-top white">
-      <div class="re-border">
-        <div id="left-panel">
-          <div>
-            <div class="re-panel-header mb-1 px-1 pt-1 text-center">ポンの日本語総まとめ</div>
-          </div>
-          <div>
-            <div id="kanji-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#kanji-collapse">漢字 Kanji</div>
-            <div id="kanji-collapse" class="collapse" data-bs-parent="#left-panel">
-              <div class="mt-1">
-                <div>
-                  <label for="kanji-level"><b>Level:</b></label>
-                  <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5" checked> N5
-                  <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4" checked> N4 
-                  <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3" checked> N3
-                  <input type="checkbox" id="n2-kanji-checkbox" name="kanji-level" value="n2" disabled> N2
-                  <input type="checkbox" id="n1-kanji-checkbox" name="kanji-level" value="n1" disabled> N1
+  <!-- The sidebar -->
+  <div class="sidebar py-2 px-1">
+    <div class="row">
+      <div class="col-12">
+        <div class="re-border">
+          <div id="left-panel">
+            <div>
+              <div class="re-panel-header mb-1 px-1 pt-1 text-center">ポンの日本語総まとめ</div>
+            </div>
+            <div>
+              <div id="kanji-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#kanji-collapse">漢字 Kanji</div>
+              <div id="kanji-collapse" class="collapse" data-bs-parent="#left-panel">
+                <div class="mt-1">
+                  <div>
+                    <label for="kanji-level"><b>Level:</b></label>
+                    <input type="checkbox" id="n5-kanji-checkbox" name="kanji-level" value="n5" checked> N5
+                    <input type="checkbox" id="n4-kanji-checkbox" name="kanji-level" value="n4" checked> N4 
+                    <input type="checkbox" id="n3-kanji-checkbox" name="kanji-level" value="n3" checked> N3
+                    <input type="checkbox" id="n2-kanji-checkbox" name="kanji-level" value="n2" disabled> N2
+                    <input type="checkbox" id="n1-kanji-checkbox" name="kanji-level" value="n1" disabled> N1
+                  </div>
+                  <div>
+                    <label for="kanji-mode"><b>Mode:</b></label>
+                    <select id="kanji-mode">
+                      <option value="kanji">Kanji</option>
+                      <option value="vocabulary">Vocabulary</option>
+                    </select>
+                  </div>
+                  <div>
+                    <label for="display"><b>Display:</b></label>
+                  <input type="checkbox" id="kanji-kana-display" name="kanji-display" value="kana" checked> 仮名
+                  <input type="checkbox" id="kanji-meaning-display" name="kanji-display" value="meaning" checked> 意味
+                  </div>
+                  <div>
+                      <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
+                      <input type="range" id="kanji-span-list-font-size" min="100" max="300" value="193" style="vertical-align:middle;" />
+                  </div>
+                  <button type="button" id="kanji-shuffle-button" class="re-button">Shuffle</button> 
+                  <br>
                 </div>
-                <div>
-                  <label for="kanji-mode"><b>Mode:</b></label>
-                  <select id="kanji-mode">
-                    <option value="kanji">Kanji</option>
-                    <option value="vocabulary">Vocabulary</option>
-                  </select>
-                </div>
-                <div>
-                  <label for="display"><b>Display:</b></label>
-                <input type="checkbox" id="kanji-kana-display" name="kanji-display" value="kana" checked> 仮名
-                <input type="checkbox" id="kanji-meaning-display" name="kanji-display" value="meaning" checked> 意味
-                </div>
-                <div>
-                    <label for="kanji-span-list-font-size"><b>Font Size:</b></label>
-                    <input type="range" id="kanji-span-list-font-size" min="100" max="300" style="vertical-align:middle;" />
-                </div>
-                <button type="button" id="kanji-shuffle-button" class="re-button">Shuffle</button> 
-                <br>
               </div>
             </div>
-          </div>
-          <div>
-            <div id="vocabulary-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#vocabulary-collapse">語彙 Vocabulary</div>
-            <div id="vocabulary-collapse" class="collapse" data-bs-parent="#left-panel">
-              <div class="mt-1">
-                <div>
-                  <label for="kanji-level"><b>Level:</b></label>
-                  <input type="checkbox" id="n5-vocabulary-checkbox" name="vocabulary-level" value="n5" checked> N5
-                  <input type="checkbox" id="n4-vocabulary-checkbox" name="vocabulary-level" value="n4" checked> N4 
-                  <input type="checkbox" id="n3-vocabulary-checkbox" name="vocabulary-level" value="n3" checked> N3
-                  <input type="checkbox" id="n2-vocabulary-checkbox" name="vocabulary-level" value="n2" disabled> N2
-                  <input type="checkbox" id="n1-vocabulary-checkbox" name="vocabulary-level" value="n1" disabled> N1
+            <div>
+              <div id="vocabulary-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#vocabulary-collapse">語彙 Vocabulary</div>
+              <div id="vocabulary-collapse" class="collapse" data-bs-parent="#left-panel">
+                <div class="mt-1">
+                  <div>
+                    <label for="kanji-level"><b>Level:</b></label>
+                    <input type="checkbox" id="n5-vocabulary-checkbox" name="vocabulary-level" value="n5" checked> N5
+                    <input type="checkbox" id="n4-vocabulary-checkbox" name="vocabulary-level" value="n4" checked> N4 
+                    <input type="checkbox" id="n3-vocabulary-checkbox" name="vocabulary-level" value="n3" checked> N3
+                    <input type="checkbox" id="n2-vocabulary-checkbox" name="vocabulary-level" value="n2" disabled> N2
+                    <input type="checkbox" id="n1-vocabulary-checkbox" name="vocabulary-level" value="n1" disabled> N1
+                  </div>
+                  <div>
+                    <label for="display"><b>Display:</b></label>
+                    <input type="checkbox" id="vocabulary-kana-display" name="vocabulary-display" value="kana" checked> 仮名
+                    <input type="checkbox" id="vocabulary-meaning-display" name="vocabulary-display" value="meaning" checked> 意味
+                  </div>
+                  <button type="button" id="vocabulary-shuffle-button" class="re-button">Shuffle</button> 
                 </div>
-                <div>
-                  <label for="display"><b>Display:</b></label>
-                  <input type="checkbox" id="vocabulary-kana-display" name="vocabulary-display" value="kana" checked> 仮名
-                  <input type="checkbox" id="vocabulary-meaning-display" name="vocabulary-display" value="meaning" checked> 意味
-                </div>
-                <button type="button" id="vocabulary-shuffle-button" class="re-button">Shuffle</button> 
               </div>
             </div>
-          </div>
-          <div>
-            <div id="grammar-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#grammar-collapse">文法 Grammar</div>
-            <div id="grammar-collapse" class="collapse" data-bs-parent="#left-panel">
-              <div class="mt-1">
-                <a href="https://reedleoneil.github.io/pon-jp-cheat-sheet/cheat-sheet/grammar/">pon-jp-cheat-sheet</a>
+            <div>
+              <div id="grammar-nav" class="re-panel-header mt-1 px-1 pt-1" data-bs-toggle="collapse" data-bs-target="#grammar-collapse">文法 Grammar</div>
+              <div id="grammar-collapse" class="collapse" data-bs-parent="#left-panel">
+                <div class="mt-1">
+                  <a href="https://reedleoneil.github.io/pon-jp-cheat-sheet/cheat-sheet/grammar/">pon-jp-cheat-sheet</a>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="col-sm-9 px-1 mt-2">
+  </div>
+
+  <!-- Page content -->
+  <div class="content py-2 px-1">
+    <div class="row">
+      <div class="col-12">
         <div class="re-border">
           <div id="main-panel">
             <p><ruby>日本語<rt>にほんご</rt></ruby> Kodigo</p>
@@ -225,8 +263,10 @@
             <p>Link for <a href="https://reedleoneil.github.io/pon-jp-cheat-sheet/">v1 markdown</a></p>
           </div>
         </div>
+      </div>
     </div>
-  </div>
+  </div> 
+
   <script>
   var KANJILIST = [];
   var KANJIVOCABULARYLIST = [];
