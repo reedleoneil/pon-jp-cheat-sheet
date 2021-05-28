@@ -11,57 +11,52 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 {:toc}
 
 ## Stem Form
+also known Pre-ます Form
 
-### Godan Verbs
+- **Godan Verbs**  
 /u/ → /i/
 
-### Ichidan Verbs
-drop る
+- **Ichidan Verbs**  
+\- る
 
-### Irregular Verbs
--	する → し
--	来る → き
+- **Irregular Verbs**  
+する → し  
+来る → き
 
-## 方
-the way of doing something; how to do
-### Stem Form + かた
+**方** the way of doing something; how to do  
+Verb (Stem Form) + かた
 
-## やすい
-easy to; likely to; prone to; have a tendency to~
-### Stem Form + やすい
+**やすい** easy to; likely to; prone to; have a tendency to  
+Verb (Stem Form) + やすい
 
-## にくい
-difficult to do~
-### Stem Form + にくい
+**にくい** difficult to do  
+Verb (Stem Form) + にくい
 
-## づらい
-difficult to do~
-### Stem Form + づらい
+**づらい** difficult to do  
+Verb (Stem Form) + づらい
 
-## がたい
-very difficult to; hard to~
-### Stem Form + がたい
+**がたい** very difficult to; hard to  
+Verb (Stem Form) + がたい
 
-## はじめる
-to start; to begin to~
-### Stem Form + はじめる
+**はじめる** to start; to begin to  
+Verb (Stem Form) + はじめる
 
-## おわる
-to finish; to end~
-### Stem Form + おわる
+**おわる** to finish; to end
+Verb (Stem Form) + おわる
 
-## つづける
-continue to; keen on~
-### Stem Form + つづける
+**つづける** continue to; keen on  
+Verb (Stem Form) + つづける
 
-## だす
-to begin to; to start to; to burst into; ... out (e.g. to jump out, to carry out)​
-### Stem Form + だす
+**だす** to begin to; to start to; to burst into  
+Verb (Stem Form) + だす
 
-## すぎる
-too much
-### Stem Form + すぎる
-### な-adjective
-な-adjective + すぎる
-### い-adjective
-drop い + すぎる
+**すぎる** too much  
+Verb (Stem Form) + すぎる  
+い・Verbal Adjective - い + すぎる  
+な・Noun Adjective + すぎる  
+
+**あげる** to finish doing~  
+Verb (Stem Form) +  あげる・あがる
+
+**合う** do something together  
+Verb (Stem Form) + あう

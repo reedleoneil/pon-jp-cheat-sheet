@@ -2,6 +2,7 @@
 layout: default
 title: Similarity and Hearsay
 parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
+
 ---
 
 ## Similarity and Hearsay
@@ -10,77 +11,83 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 1. TOC
 {:toc}
 
-## そうだ
-I heard that; it is said that~
-- Verb + そうだ
-- Noun + だ + そうだ
-- な-adjective + だ + そうだ
-- い-adjective + そうだ
-
 ## そう
-looks like; appears like; seeming~
+
+**そうだ** I heard that; it is said that~  
+- Verb + そうだ
+- Noun + だそうだ
+- い・Verbal Adjective + そうだ
+- な・Noun Adjective + だ + そうだ
+
+**そう** looks like; appears like; seeming~  
 - Verb (Stem Form) + そう(だ・だった)
-- な-adjective + そう(だ・だった)
-- い-adjective - い + そう(だ・だった)
+- い・Verbal Adjective - い + そう(だ・だった)
+- な・Noun Adjective + そう(だ・だった)
 - ない Form - い + さ + そう(だ・だった)
 
-### そうに
-- Verb (Stem Form) + そうに + Verb
-- な-adjective + そうに + Verb
-- い-adjective - い + そうに + Verb
-- ない Form - い + さ + そうに + Verb
+**そうに** use as an adverb  
+そう + に + Verb
 
-### そうな
-- Verb (Stem Form) + そうな + Noun
-- な-adjective + そうな + Noun
-- い-adjective - い + そうな + Noun
-- ない Form - い + さ + そうな + Noun
+**そうな** use as an adjective  
+そう + な + Noun
+
+---
 
 ## らしい
-it seems like; I heard; apparently~
+
+**らしい** it seems like; I heard; apparently~  
 - Verb + らしい
 - Noun + らしい
-- な-adjective + らしい
-- い-adjective + らしい
+- い・Verbal Adjective + らしい
+- な・Noun Adjective + らしい
 
-### らしく
+**らしく** らしい conjugates like an い・Verbal Adjective  
 - Verb + らしく + Noun / Verb
 - Noun + らしく + Noun / Verb
-- な-adjective + らしく + Noun / Verb
-- い-adjective + らしく + Noun / Verb
+- い・Verbal Adjective + らしく + Noun / Verb
+- な・Noun Adjective + らしく + Noun / Verb
+
+---
 
 ## みたい
-like, similar to, resembling
+
+**みたい** like, similar to, resembling  
 - Verb + みたい
 - Noun + みたい
 - な-adjective + みたい
 - い-adjective + みたい
 
-### みたいに
+**みたいに**  
 - Verb + みたいに + Verb / Adjective
 - Noun + みたいに + Verb / Adjective
 
-### みたいな
+**みたいな**
 - Verb + みたいな + Noun
 - Noun + みたいな + Noun
 
-## ようだ
-appears; seems; looks as if~
+---
+
+## よう
+
+**ようだ** appears; seems; looks as if~  
 - Verb + ようだ
 - Noun + の + ようだ
 - な-adjective + な + ようだ
 - い-adjective + ようだ
 
-### ように
+**ように**
 - Verb + ように + Verb
 - Noun + みたいに + Verb
 
-### ような
+**ような**
 - Verb + ような + Noun
 - Noun + ような + Noun
 
+---
+
 ## っぽい
-seems like; somewhat~; -ish; easily does~; often does~
+
+**っぽい** seems like; somewhat~; -ish; easily does~; often does~  
 - Verb (Stem Form) + っぽい
 - Noun + っぽい
 - い-adjective い + っぽい
