@@ -2,6 +2,7 @@
 layout: default
 title: Demonstratives
 parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
+nav_exclude: true
 ---
 
 ## Demonstratives

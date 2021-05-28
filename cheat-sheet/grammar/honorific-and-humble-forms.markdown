@@ -2,6 +2,7 @@
 layout: default
 title: Honorific and Humble Forms
 parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
+nav_exclude: true
 ---
 
 ## Honorific and Humble Forms
@@ -67,3 +68,5 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 ## Humble Form
 
 ### お + stem form + する
+
+## Notes

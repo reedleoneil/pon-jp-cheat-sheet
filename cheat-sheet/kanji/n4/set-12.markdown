@@ -58,6 +58,7 @@ note
 
 | 注意 | ちゅうい | attention, notice |
 | 注文 | ちゅうもん | order |
+| 注ぐ | そそぐ | pour |
 
 # 意
 will

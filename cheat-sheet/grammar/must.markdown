@@ -4,13 +4,13 @@ title: Must Not
 parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 ---
 
-## Must Not
+## Must and Must Not
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-## 〜だめ、〜いけない、 〜ならない
+## 〜だめ、〜いけない、〜ならない
 must not; may not; cannot
 
 ### Must Not

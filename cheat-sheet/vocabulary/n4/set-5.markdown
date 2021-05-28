@@ -39,7 +39,7 @@ nav_order: 5
 |           | だんだん       | gradually                   |
 |           | どんどん       | rapidly, steadily           |
 | 準備 する | じゅんびする   | to prepare                  |
-| 用意 する | よういする     | to utilize                  |
+| 用意 する | よういする     | to prepare                  |
 | 研究 する | けんきゅうする | to research                 |
 | 研修 する | けんしゅうする | to train                    |
 | 生活 する | せいかつする   | to live life                |

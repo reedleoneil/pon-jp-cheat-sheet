@@ -52,6 +52,7 @@ harbor
 ship, boat
 
 | 船  | ふね | ship, boat |
+| 船長 | せんちょう | captain |
 
 # 券
 ticket

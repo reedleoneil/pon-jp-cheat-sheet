@@ -24,6 +24,8 @@ true
 | 真ん中 | まんなか | middle          |
 | 真っ赤 | まっか   | bright/deep red |
 | 真白   | まっしろ | pure white      |
+| 写真 | しゃしん | picture |
+| 写真家 | しゃしんか | photographer |
 
 # 映
 reflect

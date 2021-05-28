@@ -2,6 +2,7 @@
 layout: default
 title: Particles
 parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
+nav_exclude: true
 ---
 
 ## Particles

@@ -2,6 +2,7 @@
 layout: default
 title: Giving and Receiving
 parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
+nav_exclude: true
 ---
 
 ## Giving and Receiving
