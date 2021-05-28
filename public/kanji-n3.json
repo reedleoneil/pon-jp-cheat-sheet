@@ -3369,6 +3369,11 @@
       "meaning": "undertake, scheme, design, attempt, plan",
       "vocabulary": [
         {
+          "kanji": "企てる",
+          "kana": "くわだてる",
+          "meaning": "to plan, to plot, to propose, to design​"
+        },
+        {
           "kanji": "企業",
           "kana": "きぎょう",
           "meaning": "enterprise, undertaking, corporation, business"
@@ -3536,6 +3541,11 @@
       "meaning": "income, obtain, reap, pay, supply",
       "vocabulary": [
         {
+          "kanji": "収める",
+          "kana": "おさめる",
+          "meaning": "to store​"
+        },
+        {
           "kanji": "収入",
           "kana": "しゅうにゅう",
           "meaning": "income, receipts, revenue"
@@ -3551,6 +3561,16 @@
       "kanji": "額",
       "meaning": "forehead, tablet, plaque, framed, picture, sum, amount, volume",
       "vocabulary": [
+        {
+          "kanji": "額",
+          "kana": "ひたい",
+          "meaning": "forehead"
+        },
+        {
+          "kanji": "額",
+          "kana": "がく",
+          "meaning": "(picture) frame, framed picture​"
+        },
         {
           "kanji": "金額",
           "kana": "きんがく",
