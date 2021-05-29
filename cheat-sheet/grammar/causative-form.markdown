@@ -13,13 +13,13 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 ## Causative Form
 to make/let somebody do something
 
-**Godan Verbs**  
+- **Godan Verbs**  
 /u/ → /a/ + せる
 
-**Ichidan Verbs**  
+- **Ichidan Verbs**  
 る → させる
 
-**Irregular Verbs**  
+- **Irregular Verbs**  
 する → させる  
 来る → こさせる
 
@@ -28,23 +28,25 @@ to make/let somebody do something
 | 話す → 話させる | 食べる → 食べさせる | する → させる   |
 | 聞く → 聞かせる |                     | 来る → こさせる |
 | 泳ぐ → 泳がせる |                     |                 |
-| 飲む → 読ませる |                     |                 |
+| 飲む → 飲まない |                     |                 |
 | 遊ぶ → 遊ばせる |                     |                 |
 | 死ぬ → 死なせる |                     |                 |
 | 買う → 買わせる |                     |                 |
 | 待つ → 待たせる |                     |                 |
 | 直る → 直らせる |                     |                 |
 
+---
+
 ## Shortened Causative Form
 to make/let somebody do something
 
-**Godan Verbs**  
+- **Godan Verbs**  
 /u/ → /a/ + す
 
-**Ichidan Verbs**  
+- **Ichidan Verbs**  
 る → さす
 
-**Irregular Verbs**  
+- **Irregular Verbs**  
 する → さす  
 来る → こさす
 

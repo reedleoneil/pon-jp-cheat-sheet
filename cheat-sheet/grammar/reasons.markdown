@@ -11,25 +11,66 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 {:toc}
 
 ## で
-marks reason or cause
-- Noun + で
+
+**で** marks reason or cause  
+[reason・cause] + で
+
+- **Nouns**  
+  Noun + で
+
+---
 
 ## し
-marks reason or cause
-- Verb (Casual Form) + し
-- Noun + だ + し
-- な-adjective　+ だ + し
-- い-adjective + し
+
+**し** marks reason or cause  
+[reason・cause] + し
+
+- **Verbs**  
+  Verb + し
+
+- **Noun**  
+  Noun + だし
+
+- **い・Verbal Adjective**  
+  Adjective + し
+
+- **な・Noun Adjective**  
+  Adjective + だし
+
+---
 
 ## ので
-because of; given that; since
-- [reason] (な)ので [result]
-- なので [result]
-- [reason] (な)ので
 
+**ので** because of; given that; since  
+[reason] + (な)ので + [result]
+
+- **Verbs**　　
+  Verb + ので
+
+- **Nouns**  
+  Noun + なので
+
+- **い・Verbal Adjective**  
+  Adjective + ので
+
+- **な・Noun Adjective**  
+  Adjective + なので
+
+---
 
 ## のに
-although, in spite of, even though~
+
+**のに** although, in spite of, even though~  
 [reason] (な)のに [result]
-なのに [result]
-[reason] (な)のに
+
+- **Verbs**  
+  Verb + のに
+
+- **Nouns**  
+  Noun + なのに
+
+- **い・Verbal Adjective**  
+  Adjective + のに
+
+- **な・Noun Adjective**  
+  Adjective + なのに
