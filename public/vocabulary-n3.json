@@ -2208,5 +2208,185 @@
     "kanji": "送料がかかる",
     "kana": "そうりょうがかかる",
     "meaning": "incur shipping charge"
+  },
+  {
+    "kanji": "交際する",
+    "kana":  "こうさいする",
+    "meaning": "go out"
+  },
+  {
+    "kanji": "付き合う",
+    "kana": "つきあう",
+    "meaning": "go out"
+  },
+  {
+    "kanji": "喧嘩する",
+    "kana": "けんかする",
+    "meaning": "have a fight"
+  },
+  {
+    "kanji": "仲直りする",
+    "kana": "なかなおりする",
+    "meaning": "reconcile, make up"
+  },
+  {
+    "kanji": "仲がいい",
+    "kana": "なかがいい",
+    "meaning": "be good friends"
+  },
+  {
+    "kanji": "仲良しだ",
+    "kana": "なかよしだ",
+    "meaning": "good friends"
+  },
+  {
+    "kanji": "気になる",
+    "kana": "きになる",
+    "meaning": "want to know"
+  },
+  {
+    "kanji": "好きになる",
+    "kana": "すきになる",
+    "meaning": "come to like"
+  },
+  {
+    "kanji": "嫌いになる",
+    "kana": "きらいになる",
+    "meaning": "come to dislike"
+  },
+  {
+    "kanji": "嫌になる",
+    "kana": "いやになる",
+    "meaning": "lose interest"
+  },
+  {
+    "kanji": null,
+    "kana": "うらやましい",
+    "meaning": "be envious"
+  },
+  {
+    "kanji": null,
+    "kana": "コンサートにさそう",
+    "meaning": "invite someone to a concert"
+  },
+  {
+    "kanji": null,
+    "kana": "いやがる",
+    "meaning": "dislike"
+  },
+  {
+    "kanji": null,
+    "kana": "ふる",
+    "meaning": "turn down"
+  },
+  {
+    "kanji": "好かれる",
+    "kana": "すかれる",
+    "meaning": "be liked"
+  },
+  {
+    "kanji": "嫌われる",
+    "kana": "きらわれる",
+    "meaning": "be disliked"
+  },
+  {
+    "kanji": "嫌がられる",
+    "kana": "いやがられる",
+    "meaning": "be regarded annoying"
+  },
+  {
+    "kanji": null,
+    "kana": "ふられる",
+    "meaning": "be turn down"
+  },
+  {
+    "kanji": "気がある",
+    "kana": "きがある",
+    "meaning": "be interested"
+  },
+  {
+    "kanji": null,
+    "kana": "あこがある",
+    "meaning": "longs to be, is attracted to"
+  },
+  {
+    "kanji": "夢中になる",
+    "kana": "むちょうになる",
+    "meaning": "be absorbed"
+  },
+  {
+    "kanji": "恋をする",
+    "kana": "こいをする",
+    "meaning": "fall in love"
+  },
+  {
+    "kanji": "女性にもてる",
+    "kana": "じょせいにもてる",
+    "meaning": "be popular"
+  },
+  {
+    "kanji": "お互いに気に入る",
+    "kana": "おたがいにきにいる",
+    "meaning": "like each other"
+  },
+  {
+    "kanji": "相手の予定を聞く",
+    "kana": "あいてのよていをきく",
+    "meaning": "inquire about someone's plan"
+  },
+  {
+    "kanji": "都合をつける",
+    "kana": "つごうをつける",
+    "meaning": "try to make oneself available"
+  },
+  {
+    "kanji": "都合がつく",
+    "kana": "つごうがつく",
+    "meaning": "make oneself available"
+  },
+  {
+    "kanji": "付き合い",
+    "kana": "つきあい",
+    "meaning": "relations"
+  },
+  {
+    "kanji": "買い物に付き合う",
+    "kana": "かいものにつきあう",
+    "meaning": "go shopping with someone just to be nice"
+  },
+  {
+    "kanji": "恋人",
+    "kana": "こいびと",
+    "meaning": "boyfriend, girlfriend"
+  },
+  {
+    "kanji": "彼",
+    "kana": "かれ",
+    "meaning": "boyfriend"
+  },
+  {
+    "kanji": "彼氏",
+    "kana": "かれし",
+    "meaning": "boyfriend"
+  },
+  {
+    "kanji": "彼女",
+    "kana": "かのじょ",
+    "meaning": "girlfriend"
+  },
+  {
+    "kanji": "結婚を申し込む",
+    "kana": "けっこんをもうしこむ",
+    "meaning": "propose"
+  },
+  {
+    "kanji": "断る",
+    "kana": "ことわる",
+    "meaning": "turn down"
+  },
+  {
+    "kanji": "曖昧な返事をする",
+    "kana": "あいまいなへんじをする",
+    "meaning": "give a vage answer"
   }
 ]
