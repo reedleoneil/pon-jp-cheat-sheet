@@ -3818,5 +3818,105 @@
           "meaning": "vending machine"
         }
       ]
+    },
+    {
+      "kanji": "告",
+      "meaning": "revelation, tell, inform, announce",
+      "vocabulary": [
+        {
+          "kanji": "広告",
+          "kana": "こうこく",
+          "meaning": "advertisement"
+        },
+        {
+          "kanji": "報告",
+          "kana": "ほうこく",
+          "meaning": "report, information"
+        }
+      ]
+    },
+    {
+      "kanji": "登",
+      "meaning": "ascend, climb up",
+      "vocabulary": [
+        {
+          "kanji": "登",
+          "kana": "のぼる",
+          "meaning": "to ascend, to go up, to climb"
+        },
+        {
+          "kanji": "登山",
+          "kana": "とざん",
+          "meaning": "mountain climbing"
+        },
+        {
+          "kanji": "登場する",
+          "kana": "とうじょうする",
+          "meaning": "entry (on stage), appearance (on screen)"
+        },
+        {
+          "kanji": "登録",
+          "kana": "とうろく",
+          "meaning": "registration, entry, record"
+        }
+      ]
+    },
+    {
+      "kanji": "整",
+      "meaning": "organize, arranging, tune, tone, meter, key",
+      "vocabulary": [
+        {
+          "kanji": "整理",
+          "kana": "せいり",
+          "meaning": "sorting, arrangement, organization, putting in order"
+        },
+        {
+          "kanji": "整理券",
+          "kana": "せいりけん",
+          "meaning": "numbered ticket (e.g. to determine order of service), boarding ticket"
+        },
+        {
+          "kanji": "調整",
+          "kana": "ちょうせい",
+          "meaning": "regulation"
+        }
+      ]
+    },
+    {
+      "kanji": "修",
+      "meaning": "discipline, study, master",
+      "vocabulary": [
+        {
+          "kanji": "修正",
+          "kana": "しゅうせい",
+          "meaning": "amendment, correction, revision, modification"
+        },
+        {
+          "kanji": "修理",
+          "kana": "しゅうり",
+          "meaning": "reparing, mending,  servcing"
+        },
+        {
+          "kanji": "研修",
+          "kana": "けんしゅう",
+          "meaning": "training, induction course"
+        }
+      ]
+    },
+    {
+      "kanji": "操",
+      "meaning": "maneuver, operate, steer",
+      "vocabulary": [
+        {
+          "kanji": "操作する",
+          "kana": "そうさする",
+          "meaning": "operation, handling, management"
+        },
+        {
+          "kanji": "体操",
+          "kana": "たいそう",
+          "meaning": "physical excercises"
+        }
+      ]
     }
   ]
