@@ -3918,5 +3918,336 @@
           "meaning": "physical excercises"
         }
       ]
+    },
+    {
+      "kanji": "張る",
+      "meaning": "lengthen, stretch, spread",
+      "vocabulary": [
+        {
+          "kanji": "張る",
+          "kana": "はる",
+          "meaning": "to paste, to affix"
+        },
+        {
+          "kanji": "出張",
+          "kana": "しゅっちょう",
+          "meaning": "official tour, business trip"
+        },
+        {
+          "kanji": "主張",
+          "kana": "しゅちょう",
+          "meaning": "claim, request, insistence, assertion"
+        }
+      ]
+    },
+    {
+      "kanji": "敗",
+      "meaning": "failure, defeat, reversal",
+      "vocabulary": [
+        {
+          "kanji": "失敗",
+          "kana": "しっぱい",
+          "meaning": "failure, mistake, blunder"
+        }
+      ]
+    },
+    {
+      "kanji": "信",
+      "meaning": "faith, truth, fidelity, trust",
+      "vocabulary": [
+        {
+          "kanji": "信じる",
+          "kana": "しんじる",
+          "meaning": "to believe, to trust"
+        },
+        {
+          "kanji": "信用",
+          "kana": "しんよう",
+          "meaning": "confidence, belief, dependence"
+        },
+        {
+          "kanji": "送信",
+          "kana": "そうしん",
+          "meaning": "transmission, sending"
+        },
+        {
+          "kanji": "自信",
+          "kana": "じしん",
+          "meaning": "self-confidence"
+        },
+        {
+          "kanji": "通信",
+          "kana": "つうしん",
+          "meaning": "correspondence"
+        }
+      ]
+    },
+    {
+      "kanji": "協",
+      "meaning": "cooperation",
+      "vocabulary": [
+        {
+          "kanji": "教会",
+          "kana": "きょうかい",
+          "meaning": "association"
+        },
+        {
+          "kanji": "協力",
+          "kana": "きょうりょく",
+          "meaning": "cooperation, collaboration"
+        }
+      ]
+    },
+    {
+      "kanji": "防",
+      "meaning": "ward off, defend, protect, resist",
+      "vocabulary": [
+        {
+          "kanji": "防ぐ",
+          "kana": "ふせぐ",
+          "meaning": "to defend/protect against, to prevent, to avoid"
+        },
+        {
+          "kanji": "防止",
+          "kana": "ぼうし",
+          "meaning": "prevention"
+        },
+        {
+          "kanji": "予防",
+          "kana": "よぼう",
+          "meaning": "prevention, precaution, protection against"
+        }
+      ]
+    },
+    {
+      "kanji": "築",
+      "meaning": "fabricate, build, construct",
+      "vocabulary": [
+        {
+          "kanji": "建築",
+          "kana": "けんちく",
+          "meaning": "construction, architecture (of buildings)"
+        }
+      ]
+    },
+    {
+      "kanji": "過",
+      "meaning": "overdo, exceed, go beyond",
+      "vocabulary": [
+        {
+          "kanji": "過ぎる",
+          "kana": "すぎる",
+          "meaning": "to pass through/by, to pass (i.e. of time), to elapse, to exceed"
+        },
+        {
+          "kanji": "通過",
+          "kana": "つうか",
+          "meaning": "passage through"
+        },
+        {
+          "kanji": "過去",
+          "kana": "かこ",
+          "meaning": "the past, bygone days"
+        },
+        {
+          "kanji": "過程",
+          "kana": "かてい",
+          "meaning": "process, course, mechanism"
+        }
+      ]
+    },
+    {
+      "kanji": "移",
+      "meaning": "call on, visit, look up, offer sympathy",
+      "vocabulary": [
+        {
+          "kanji": "移動",
+          "kana": "いどう",
+          "meaning": "movement, transfer, migration, removal"
+        },
+        {
+          "kanji": "移る",
+          "kana": "うつる",
+          "meaning": "to move (house), to transfer (department)"
+        },
+        {
+          "kanji": "移す",
+          "kana": "うつす",
+          "meaning": "to change, to swap, to substitute, to transfer"
+        }
+      ]
+    },
+    {
+      "kanji": "訪",
+      "meaning": "call on, visit, look up, offer sympathy",
+      "vocabulary": [
+        {
+          "kanji": "訪ねる",
+          "kana": "たずねる",
+          "meaning": "to visit, to call on, to pay a visit to"
+        },
+        {
+          "kanji": "訪問",
+          "kana": "ほうもん",
+          "meaning": "call, visit"
+        }
+      ]
+    },
+    {
+      "kanji": "設",
+      "meaning": "establishment, provision, prepare",
+      "vocabulary": [
+        {
+          "kanji": "訪ねる",
+          "kana": "たずねる",
+          "meaning": "to visit, to call on, to pay a visit to"
+        },
+        {
+          "kanji": "訪問",
+          "kana": "ほうもん",
+          "meaning": "call, visit"
+        }
+      ]
+    },
+    {
+      "kanji": "設",
+      "meaning": "establishment, provision, prepare",
+      "vocabulary": [
+        {
+          "kanji": "設計",
+          "kana": "せっけい",
+          "meaning": "plan, layout"
+        },
+        {
+          "kanji": "設定",
+          "kana": "せってい",
+          "meaning": "establishment, preference setting, configuration"
+        },
+        {
+          "kanji": "設備",
+          "kana": "せつび",
+          "meaning": "equipment, device"
+        },
+        {
+          "kanji": "施設",
+          "kana": "しせつ",
+          "meaning": "establishment, facility"
+        }
+      ]
+    },
+    {
+      "kanji": "格",
+      "meaning": "status, rank, capacity, character",
+      "vocabulary": [
+        {
+          "kanji": "合格",
+          "kana": "ごうかく",
+          "meaning": "success, passing (e.g. an exam), eligibility"
+        },
+        {
+          "kanji": "不合格",
+          "kana": "ふごうかく",
+          "meaning": "failure, rejection, disqualification"
+        },
+        {
+          "kanji": "格安",
+          "kana": "かくやす",
+          "meaning": "cheap, reasonable"
+        },
+        {
+          "kanji": "価格",
+          "kana": "かかく",
+          "meaning": "price, value, cost"
+        }
+      ]
+    },
+    {
+      "kanji": "測",
+      "meaning": "fathorn, plan, scheme, measure",
+      "vocabulary": [
+        {
+          "kanji": "測定",
+          "kana": "そくてい",
+          "meaning": "measurement"
+        },
+        {
+          "kanji": "予測",
+          "kana": "よそく",
+          "meaning": "prediction, estimation"
+        }
+      ]
+    },
+    {
+      "kanji": "替",
+      "meaning": "exchange, spare, substitute",
+      "vocabulary": [
+        {
+          "kanji": "両替",
+          "kana": "りょうがえ",
+          "meaning": "change, money exchange"
+        },
+        {
+          "kanji": "取り替える",
+          "kana": "とりかえる",
+          "meaning": "to exchange, to replace"
+        },
+        {
+          "kanji": "着替える",
+          "kana": "きがえる",
+          "meaning": "to change clothes"
+        }
+      ]
+    },
+    {
+      "kanji": "欠",
+      "meaning": "lack, gap, fail",
+      "vocabulary": [
+        {
+          "kanji": "欠ける",
+          "kana": "かける",
+          "meaning": "to be damaged, to be lacking/insufficent"
+        },
+        {
+          "kanji": "欠席",
+          "kana": "けっせき",
+          "meaning": "absence, non-attendance"
+        },
+        {
+          "kanji": "欠点",
+          "kana": "けってん",
+          "meaning": "fault, defect, flaw, shortcoming, fail grade"
+        },
+        {
+          "kanji": "不可欠",
+          "kana": "ふかけつ",
+          "meaning": "essential"
+        }
+      ]
+    },
+    {
+      "kanji": "省",
+      "meaning": "focus, government, ministry, conserve",
+      "vocabulary": [
+        {
+          "kanji": "反省",
+          "kana": "はんせい",
+          "meaning": "reflection, reconsideration, regret"
+        },
+        {
+          "kanji": "～省",
+          "kana": "～しょう",
+          "meaning": "Ministry of ~"
+        },
+        {
+          "kanji": "外務省",
+          "kana": "がいむしょう",
+          "meaning": "Ministry of Foreign Affairs"
+        },
+        {
+          "kanji": "文部科学省",
+          "kana": "もんぶかがくしょう",
+          "meaning": "Ministry of Education, Culture, Sports, Science and Technology (MEXT)"
+        }
+      ]
     }
   ]
