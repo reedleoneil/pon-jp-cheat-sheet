@@ -2388,5 +2388,195 @@
     "kanji": "曖昧な返事をする",
     "kana": "あいまいなへんじをする",
     "meaning": "give a vage answer"
+  },
+  {
+    "kanji": "袖なし",
+    "kana": "そでなし",
+    "meaning": "sleeveless"
+  },
+  {
+    "kanji": "半袖",
+    "kana": "そでなし",
+    "meaning": "short sleeve"
+  },
+  {
+    "kanji": "長袖",
+    "kana": "ながそで",
+    "meaning": "long sleeve"
+  },
+  {
+    "kanji": "無地",
+    "kana": "むじ",
+    "meaning": "plain"
+  },
+  {
+    "kanji": "柄",
+    "kana": "がら",
+    "meaning": "pattern"
+  },
+  {
+    "kanji": "模様",
+    "kana": "もよう",
+    "meaning": "pattern"
+  },
+  {
+    "kanji": null,
+    "kana": "しま",
+    "meaning": "striped"
+  },
+  {
+    "kanji": "水玉",
+    "kana": "みずだま",
+    "meaning": "polka dots"
+  },
+  {
+    "kanji": "花柄",
+    "kana": "はながら",
+    "meaning": "flower pattern"
+  },
+  {
+    "kanji": "似合う",
+    "kana": "にあう",
+    "meaning": "look good on someone"
+  },
+  {
+    "kanji": "気に入る",
+    "kana": "きにいる",
+    "meaning": "take a fancy to..."
+  },
+  {
+    "kanji": "お気に入り",
+    "kana": "おきにいり",
+    "meaning": "one's favorite"
+  },
+  {
+    "kanji": "好む",
+    "kana": "このむ",
+    "meaning": "like"
+  },
+  {
+    "kanji": "好み",
+    "kana": "このみ",
+    "meaning": "one's taste"
+  },
+  {
+    "kanji": "目立つ色",
+    "kana": "めだついろ",
+    "meaning": "a color that stands out"
+  },
+  {
+    "kanji": "派手な",
+    "kana": "はでな",
+    "meaning": "gaudy"
+  },
+  {
+    "kanji": "地味な",
+    "kana": "じみな",
+    "meaning": "staid"
+  },
+  {
+    "kanji": "人気のあるデザイン",
+    "kana": "にんきのあるデザイン",
+    "meaning": "a poplar design"
+  },
+  {
+    "kanji": "流行っている",
+    "kana": "はやっている",
+    "meaning": "in fashion"
+  },
+  {
+    "kanji": "流行り",
+    "kana": "はやり",
+    "meaning": "trend/fashion"
+  },
+  {
+    "kanji": "流行",
+    "kana": "りゅうこう",
+    "meaning": "trend/fashion"
+  },
+  {
+    "kanji": "サイズを確かめる",
+    "kana": "サイズをたしかめる",
+    "meaning": "check the size"
+  },
+  {
+    "kanji": "サイズを確認する",
+    "kana": "サイズをかくにんする",
+    "meaning": "check the size"
+  },
+  {
+    "kanji": "サイズが合う",
+    "kana": "サイズがあう",
+    "meaning": "size that fits"
+  },
+  {
+    "kanji": "緩い",
+    "kana": "ゆるい",
+    "meaning": "loose"
+  },
+  {
+    "kanji": null,
+    "kana": "きつい",
+    "meaning": "tight"
+  },
+  {
+    "kanji": "品物をかごに入れる",
+    "kana": "しなものをかごにいれる",
+    "meaning": "put in the shopping cart"
+  },
+  {
+    "kanji": "セルで買う",
+    "kana": "セルでかう",
+    "meaning": "buy it on sale"
+  },
+  {
+    "kanji": "バーゲンで買う",
+    "kana": "ばーげんでかう",
+    "meaning": "buy it on sale"
+  },
+  {
+    "kanji": "デパートの特売品",
+    "kana": "デパートのとくばいひん",
+    "meaning": "a department store bargain"
+  },
+  {
+    "kanji": null,
+    "kana": "３０パーセントオフ",
+    "meaning": "30% of the regular price"
+  },
+  {
+    "kanji": "３割引き",
+    "kana": "３わりびき",
+    "meaning": "30% of the regular price"
+  },
+  {
+    "kanji": "売り切れる",
+    "kana": "うりきれる",
+    "meaning": "be sold out"
+  },
+  {
+    "kanji": "売り切り",
+    "kana": "うりきり",
+    "meaning": "sold out"
+  },
+  {
+    "kanji": "本物のダイヤモンド",
+    "kana": "ほんもののダイヤモンド",
+    "meaning": "a real diamond"
+  },
+  {
+    "kanji": "偽物",
+    "kana": "にせもの",
+    "meaning": "fake"
+  },
+  {
+    "kanji": "得をする",
+    "kana": "とくをする",
+    "meaning": "come out ahead"
+  },
+  {
+    "kanji": "損をする",
+    "kana": "そんをする",
+    "meaning": "suffer a loss"
   }
 ]
