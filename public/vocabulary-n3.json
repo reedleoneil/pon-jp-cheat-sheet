@@ -2390,13 +2390,208 @@
     "meaning": "give a vage answer"
   },
   {
+    "kanji": "額",
+    "kana": "ひたい",
+    "meaning": "forehead"
+  },
+  {
+    "kanji": "まつ毛",
+    "kana": "まつげ",
+    "meaning": "eyelash"
+  },
+  {
+    "kanji": null,
+    "kana": "ほお",
+    "meaning": "cheek"
+  },
+  {
+    "kanji": null,
+    "kana": "ほほ",
+    "meaning": "cheek"
+  },
+  {
+    "kanji": "唇",
+    "kana": "くちびる",
+    "meaning": "lips"
+  },
+  {
+    "kanji": "眉",
+    "kana": "まゆ",
+    "meaning": "eyebrow"
+  },
+  {
+    "kanji": "眉毛",
+    "kana": "まゆげ",
+    "meaning": "eyebrow"
+  },
+  {
+    "kanji": "瞼",
+    "kana": "まぶた",
+    "meaning": "eyelid"
+  },
+  {
+    "kanji": null,
+    "kana": "イヤリング",
+    "meaning": "earings"
+  },
+  {
+    "kanji": null,
+    "kana": "ネックレス",
+    "meaning": "necklace"
+  },
+  {
+    "kanji": null,
+    "kana": "ベルト",
+    "meaning": "belt"
+  },
+  {
+    "kanji": null,
+    "kana": "パンツ",
+    "meaning": "undershorts (for men), panties (for women)"
+  },  
+  {
+    "kanji": "朝の支度をする",
+    "kana": "あさのしたくをする",
+    "meaning": "get ready to go to work/school"
+  },
+  {
+    "kanji": "シャワーを浴びる",
+    "kana": "シャワーをあびる",
+    "meaning": "take a shower"
+  },
+  {
+    "kanji": "下着",
+    "kana": "したぎ",
+    "meaning": "underwear"
+  },
+  {
+    "kanji": "上着",
+    "kana": "うわぎ",
+    "meaning": "jacket"
+  },  
+  {
+    "kanji": "歯を磨く",
+    "kana": "はをみがく",
+    "meaning": "brush one's teeth"
+  }, 
+  {
+    "kanji": "歯を磨き",
+    "kana": "はをみがき",
+    "meaning": "tooth brushing"
+  },
+  {
+    "kanji": "歯磨き粉をつける",
+    "kana": "はみがきこをつける",
+    "meaning": "put toothpaste on one's brush"
+  },
+  {
+    "kanji": "練り歯磨き",
+    "kana": "ねりはみがき",
+    "meaning": "toothpaste"
+  },
+  {
+    "kanji": "髭をそる",
+    "kana": "ひげをそる",
+    "meaning": "shave beard"
+  },
+  {
+    "kanji": "髭をそる",
+    "kana": "ひげをそる",
+    "meaning": "shave beard"
+  },
+  {
+    "kanji": "ドライヤーで髪を乾かす",
+    "kana": "ドライヤーでかみをかわかす",
+    "meaning": "dry one's hair with a dryer"
+  },
+  {
+    "kanji": "髪を乾かす",
+    "kana": "かみをかわかす",
+    "meaning": "brush/comb one's hair"
+  },
+  {
+    "kanji": "お化粧をする",
+    "kana": "おけしょうをする",
+    "meaning": "put make-up on"
+  },
+  {
+    "kanji": "口紅を塗る",
+    "kana": "くちべにをぬる",
+    "meaning": "put on lipstick"
+  },
+  {
+    "kanji": "口紅をつける",
+    "kana": "くちべにつける",
+    "meaning": "put on lipstick"
+  },
+  {
+    "kanji": "服を着替える",
+    "kana": "ふくをきがえる",
+    "meaning": "change one's clothes"
+  },
+  {
+    "kanji": "着替え",
+    "kana": "きがえ",
+    "meaning": "spare clothes"
+  },
+  {
+    "kanji": null,
+    "kana": "おしゃれをする",
+    "meaning": "get dressed up"
+  },
+  {
+    "kanji": "おしゃれな人",
+    "kana": "おしゃれなひと",
+    "meaning": "smartly dressed person"
+  },
+  {
+    "kanji": "紐を結ぶ",
+    "kana": "ひもをむすぶ",
+    "meaning": "tie a string"
+  },
+  {
+    "kanji": "紐をほどく",
+    "kana": "ひもをほどく",
+    "meaning": "untie a string"
+  },
+  {
+    "kanji": "マフラーを巻く",
+    "kana": "マフラーをまく",
+    "meaning": "wrap a muffler around the neck"
+  },
+  {
+    "kanji": null,
+    "kana": "マフラーをする",
+    "meaning": "wrap a muffler around the neck"
+  },
+  {
+    "kanji": "手袋をはめる",
+    "kana": "てぶくろをはめる",
+    "meaning": "put on a gloves"
+  },
+  {
+    "kanji": "手袋をする",
+    "kana": "てぶくろをする",
+    "meaning": "put on a gloves"
+  },
+  {
+    "kanji": "指輪をはめる・する",
+    "kana": "ゆびわをはめる・する",
+    "meaning": "wear a ring"
+  },
+  {
+    "kanji": "指輪をする",
+    "kana": "ゆびわをする",
+    "meaning": "wear a ring"
+  },
+  {
     "kanji": "袖なし",
     "kana": "そでなし",
     "meaning": "sleeveless"
   },
   {
     "kanji": "半袖",
-    "kana": "そでなし",
+    "kana": "はんそで",
     "meaning": "short sleeve"
   },
   {
