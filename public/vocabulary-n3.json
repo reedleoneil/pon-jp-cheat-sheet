@@ -2768,5 +2768,160 @@
     "kanji": "損をする",
     "kana": "そんをする",
     "meaning": "suffer a loss"
+  },
+  {
+    "kanji": "家族そろって",
+    "kana": "かぞくそろって",
+    "meaning": "go and eat at a restaurant as a family"
+  },
+  {
+    "kanji": "子供を連れる",
+    "kana": "こどもをつれる",
+    "meaning": "take your child with you"
+  },
+  {
+    "kanji": "子供釣れ",
+    "kana": "こどもつれ",
+    "meaning": "(customers) with kids"
+  },
+  {
+    "kanji": "腹が下手",
+    "kana": "はらがへた",
+    "meaning": "be hungry"
+  },
+  {
+    "kanji": "外食",
+    "kana": "がいしょく",
+    "meaning": "eat out"
+  },
+  {
+    "kanji": "お昼を食べる",
+    "kana": "おひるをたべる",
+    "meaning": "have lunch"
+  },
+  {
+    "kanji": null,
+    "kana": "ランチ",
+    "meaning": "lunch"
+  },
+  {
+    "kanji": "雰囲気のいい店",
+    "kana": "ふんいきのいいみせ",
+    "meaning": "a restaurant with a nice atmosphere"
+  },
+  {
+    "kanji": "満席",
+    "kana": "まんせき",
+    "meaning": "no seats"
+  },
+  {
+    "kanji": null,
+    "kana": "すいている",
+    "meaning": "vacant seats"
+  },
+  {
+    "kanji": "列に並ぶ",
+    "kana": "れつにならぶ",
+    "meaning": "stand in line"
+  },
+  {
+    "kanji": "行列ができる",
+    "kana": "ぎょうれつができる",
+    "meaning": "people lining up"
+  },
+  {
+    "kanji": "禁煙席",
+    "kana": "きんえんせき",
+    "meaning": "non somking seat"
+  },
+  {
+    "kanji": "喫煙席",
+    "kana": "きつえんせき",
+    "meaning": "smoking seat"
+  },
+  {
+    "kanji": "ウエートレスにおすすめを聞く",
+    "kana": "ウエートレスにおすすめをきく",
+    "meaning": "ask for the waitress's recommendation"
+  },
+  {
+    "kanji": "量が多い",
+    "kana": "りょうがおおい",
+    "meaning": "a big portion"
+  },
+  {
+    "kanji": "量が少ない",
+    "kana": "りょうがすくない",
+    "meaning": "a small portion"
+  },
+  {
+    "kanji": "注文が決まる",
+    "kana": "ちゅうもんがきまる",
+    "meaning": "place an order"
+  },
+  {
+    "kanji": "注文を取る",
+    "kana": "ちゅうもんをとる",
+    "meaning": "take an order"
+  },
+  {
+    "kanji": "注文を受ける",
+    "kana": "ちゅうもんをうける",
+    "meaning": "take an order"
+  },
+  {
+    "kanji": "デザートを追加する",
+    "kana": "デザートをついかする",
+    "meaning": "place an additional order of desserts"
+  },
+  {
+    "kanji": "無料",
+    "kana": "むりょう",
+    "meaning": "free"
+  },
+  {
+    "kanji": null,
+    "kana": "ただ",
+    "meaning": "free"
+  },
+  {
+    "kanji": "食器を下げる",
+    "kana": "しょっきをさげる",
+    "meaning": "take the plates away"
+  },
+  {
+    "kanji": "料理を残す",
+    "kana": "りょうりをのこす",
+    "meaning": "leave the food on one's plate"
+  },
+  {
+    "kanji": "何名様ですか。",
+    "kana": "なんめいさまですか。",
+    "meaning": "How many of you are there?"
+  },
+  {
+    "kanji": "二人です。",
+    "kana": "ふたりです。",
+    "meaning": "There are two of us."
+  },
+  {
+    "kanji": "申し訳ありません。",
+    "kana": "もうしわけありません。",
+    "meaning": "I am verry sorry for the delay."
+  },
+  {
+    "kanji": "もう少々お待ちください。",
+    "kana": "もうしょうしょうおまちください。",
+    "meaning": "Would you mind waiting a little longer?"
+  },
+  {
+    "kanji": "お待たせいたしました。",
+    "kana": "おまたせいたしました。",
+    "meaning": "I'm sorry for the wait."
+  },
+  {
+    "kanji": "お待ちどおさま。",
+    "kana": "おまちどおさま。",
+    "meaning": "Thanks for waiting."
   }
 ]
