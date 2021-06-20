@@ -281,16 +281,17 @@
   var VOCABULARYLIST = [];
 
   const _fetchData = (level = 5) => {
-    fetch('kanji-n' + level + '.json')
+    let _level = level;
+    fetch('kanji-n' + _level + '.json')
     .then(response => response.json())
     .then(data => {
 
       data.forEach((kanji, index) => {
         kanji.id = KANJILIST.length + (index + 1);
-        kanji.level = 'n' + level;
+        kanji.level = 'n' + _level;
         kanji.vocabulary.forEach(vocabulary => {
           vocabulary.id = KANJILIST.length + (index + 1);
-          vocabulary.level = 'n' + level;
+          vocabulary.level = 'n' + _level;
         }); 
       });
 
@@ -299,20 +300,20 @@
       KANJILIST.forEach(kanji => { 
         KANJIVOCABULARYLIST = KANJIVOCABULARYLIST.concat(kanji.vocabulary);
       });
-    
-    fetch('vocabulary-n' + level + '.json')
+    });
+
+    fetch('vocabulary-n' + _level + '.json')
     .then(response => response.json())
     .then(data => {
       data.forEach((vocabulary, index) => { 
         vocabulary.id = VOCABULARYLIST.length + (index + 1);
-        vocabulary.level = 'n' + level;
+        vocabulary.level = 'n' + _level;
       });
    
       VOCABULARYLIST = VOCABULARYLIST.concat(data);
     });
 
-      if (--level >= 3) { _fetchData(level); }
-    });
+    if (--level >= 3) { _fetchData(level); }
   };
 
   _fetchData();
