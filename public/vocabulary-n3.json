@@ -2500,8 +2500,13 @@
     "meaning": "dry one's hair with a dryer"
   },
   {
-    "kanji": "髪を乾かす",
-    "kana": "かみをかわかす",
+    "kanji": "髪を解く",
+    "kana": "かみをとく",
+    "meaning": "brush/comb one's hair"
+  },
+  {
+    "kanji": "髪をとかす",
+    "kana": "かみをとかす",
     "meaning": "brush/comb one's hair"
   },
   {
@@ -2570,8 +2575,8 @@
     "meaning": "put on a gloves"
   },
   {
-    "kanji": "指輪をはめる・する",
-    "kana": "ゆびわをはめる・する",
+    "kanji": "指輪をはめる",
+    "kana": "ゆびわをはめる",
     "meaning": "wear a ring"
   },
   {
@@ -2745,8 +2750,8 @@
     "meaning": "be sold out"
   },
   {
-    "kanji": "売り切り",
-    "kana": "うりきり",
+    "kanji": "売り切れ",
+    "kana": "うりきれ",
     "meaning": "sold out"
   },
   {
@@ -2785,18 +2790,23 @@
     "meaning": "(customers) with kids"
   },
   {
-    "kanji": "腹が下手",
-    "kana": "はらがへた",
+    "kanji": "腹が減る",
+    "kana": "はらがへる",
     "meaning": "be hungry"
   },
   {
-    "kanji": "外食",
-    "kana": "がいしょく",
+    "kanji": "外食をする",
+    "kana": "がいしょくをする",
     "meaning": "eat out"
   },
   {
     "kanji": "お昼を食べる",
     "kana": "おひるをたべる",
+    "meaning": "have lunch"
+  },
+  {
+    "kanji": "昼食をとる",
+    "kana": "ちゅうしょくをとる",
     "meaning": "have lunch"
   },
   {
@@ -2895,6 +2905,11 @@
     "meaning": "leave the food on one's plate"
   },
   {
+    "kanji": "勿体ない",
+    "kana": "もったいない",
+    "meaning": "wasteful"
+  },
+  {
     "kanji": "何名様ですか。",
     "kana": "なんめいさまですか。",
     "meaning": "How many of you are there?"
@@ -2923,5 +2938,330 @@
     "kanji": "お待ちどおさま。",
     "kana": "おまちどおさま。",
     "meaning": "Thanks for waiting."
+  },
+  {
+    "kanji": "宴会を開く",
+    "kana": "えんかいをひらく",
+    "meaning": "hold a party"
+  },
+  {
+    "kanji": "飲み会",
+    "kana": "のみかい",
+    "meaning": "drinking party"
+  },
+  {
+    "kanji": "送別会",
+    "kana": "そうべつかい",
+    "meaning": "a farewell party"
+  },
+  {
+    "kanji": "歓迎会",
+    "kana": "かんげいかい",
+    "meaning": "welcome party"
+  },
+  {
+    "kanji": "飲み放題",
+    "kana": "のみほうだい",
+    "meaning": "all you can drink"
+  },
+  {
+    "kanji": "食べ放題",
+    "kana": "たべほうだい",
+    "meaning": "welcome party"
+  },
+  {
+    "kanji": "お酒を注ぐ",
+    "kana": "おさけをつぐ",
+    "meaning": "pour sake into a glass"
+  },
+  {
+    "kanji": "お湯を注ぐ",
+    "kana": "おゆをそそぐ",
+    "meaning": "pour hot water"
+  },
+  {
+    "kanji": "乾杯する",
+    "kana": "かんぱいする",
+    "meaning": "toast"
+  },
+  {
+    "kanji": "盛り上がる",
+    "kana": "もりあがる",
+    "meaning": "come to life"
+  },
+  {
+    "kanji": "土が盛り上がる",
+    "kana": "つちがもりあがる",
+    "meaning": "a mound of dirt"
+  },
+  {
+    "kanji": "ビールの泡",
+    "kana": "ビールのあわ",
+    "meaning": "the head of the beer"
+  },
+  {
+    "kanji": null,
+    "kana": "あふれる",
+    "meaning": "overflow"
+  },
+  {
+    "kanji": null,
+    "kana": "こぼす",
+    "meaning": "spill"
+  },
+  {
+    "kanji": null,
+    "kana": "こぼせる",
+    "meaning": "overflow"
+  },
+  {
+    "kanji": "ビールを一気に飲む",
+    "kana": "ビールをいっきにのむ",
+    "meaning": "drown a mug of beer in one gulp"
+  },
+  {
+    "kanji": "ウィスキーの水割り",
+    "kana": "ウィスキーのみずわり",
+    "meaning": "whisky and water"
+  },
+  {
+    "kanji": null,
+    "kana": "おつまみのチーズ",
+    "meaning": "cheese for snacking"
+  },
+  {
+    "kanji": "お酒によう",
+    "kana": "おさけによう",
+    "meaning": "get drunk"
+  },
+  {
+    "kanji": "酔っぱらう",
+    "kana": "よっぱらう",
+    "meaning": "get drunk"
+  },
+  {
+    "kanji": "酔っ払い",
+    "kana": "よっぱらい",
+    "meaning": "a drunk"
+  },
+  {
+    "kanji": "暴れる",
+    "kana": "あばれる",
+    "meaning": "get out-of-control"
+  },
+  {
+    "kanji": null,
+    "kana": "にぎやかな",
+    "meaning": "lively"
+  },
+  {
+    "kanji": null,
+    "kana": "やかましい",
+    "meaning": "noisy"
+  },
+  {
+    "kanji": "騒がしい",
+    "kana": "さわがしい",
+    "meaning": "be making noise"
+  },
+  {
+    "kanji": "騒ぐ",
+    "kana": "さわぐ",
+    "meaning": "make merry"
+  },
+  {
+    "kanji": "騒々しい",
+    "kana": "そうぞうしい",
+    "meaning": "noisy"
+  },
+  {
+    "kanji": "タバコの煙",
+    "kana": "タバコのけむり",
+    "meaning": "cigarette smoke"
+  },
+  {
+    "kanji": "煙い",
+    "kana": "けむい",
+    "meaning": "smoky"
+  },
+  {
+    "kanji": "煙たい",
+    "kana": "けむたい",
+    "meaning": "smoky"
+  },
+  {
+    "kanji": "グラスを割る",
+    "kana": "グラスをわる",
+    "meaning": "break the glass"
+  },
+  {
+    "kanji": "グラスを割れる",
+    "kana": "グラスをわれる",
+    "meaning": "a glass breaks"
+  },
+  {
+    "kanji": "ビール瓶を倒す",
+    "kana": "ビールびんをたおす",
+    "meaning": "knock the bottle of beer over"
+  },
+  {
+    "kanji": "ビール瓶が倒れる",
+    "kana": "びーるびんがたおれる",
+    "meaning": "a beer bottle falls over"
+  },
+  {
+    "kanji": "ほかの客に迷惑をかける",
+    "kana": "ほかのきゃくにめいわくをかける",
+    "meaning": "cause other customers trouble"
+  },
+  {
+    "kanji": "迷惑がかかる",
+    "kana": "めいわくがかかる",
+    "meaning": "cause someone trouble"
+  },
+  {
+    "kanji": null,
+    "kana": "レジ",
+    "meaning": "cash register"
+  },
+  {
+    "kanji": "勘定を済ませる",
+    "kana": "かんじょうをすませる",
+    "meaning": "pay the bill/check"
+  },
+  {
+    "kanji": "お勘定をお願いします",
+    "kana": "おかんじょうをおねがいします",
+    "meaning": "Could I have the check please."
+  },
+  {
+    "kanji": "別々に払う",
+    "kana": "べつべつにはらう",
+    "meaning": "pay individually"
+  },
+  {
+    "kanji": "割り勘にする",
+    "kana": "わりかんにする",
+    "meaning": "split the bill"
+  },
+  {
+    "kanji": null,
+    "kana": "おごる",
+    "meaning": "treat someone to"
+  },
+  {
+    "kanji": null,
+    "kana": "おごり",
+    "meaning": "treat"
+  },
+  {
+    "kanji": "現金で払う",
+    "kana": "げんきんではらう",
+    "meaning": "pay cash"
+  },
+  {
+    "kanji": "カードで払う",
+    "kana": "かーどではらう",
+    "meaning": "pay by the credit card"
+  },
+  {
+    "kanji": "カードの有効期限を確認する",
+    "kana": "カードのゆうこうきげんをかくにんする",
+    "meaning": "confirm the expiry date of the credit card"
+  },
+  {
+    "kanji": "お札を崩す",
+    "kana": "おさつをくずす",
+    "meaning": "break the bill"
+  },
+  {
+    "kanji": null,
+    "kana": "おつりをもらう",
+    "meaning": "receive the change"
+  },
+  {
+    "kanji": null,
+    "kana": "レシートをもらう",
+    "meaning": "ask for a receipt"
+  },
+  {
+    "kanji": "領収書をもらう",
+    "kana": "りょうしゅうしょをもらう",
+    "meaning": "ask for a receipt"
+  },
+  {
+    "kanji": "贅沢をする",
+    "kana": "ぜいたくをする",
+    "meaning": "splurge"
+  },
+  {
+    "kanji": "無駄遣いをする",
+    "kana": "ぜいたくをする",
+    "meaning": "waste money"
+  },
+  {
+    "kanji": "請求書を届く",
+    "kana": "せいきゅうしょをとどく",
+    "meaning": "receive a bill"
+  },
+  {
+    "kanji": "費用がかかる",
+    "kana": "ひようがかかる",
+    "meaning": "cost a great deal"
+  },
+  {
+    "kanji": "今月の生活費が不足する",
+    "kana": "こんげつのせいかつひがふそくする",
+    "meaning": "be short on living expense for this month"
+  },
+  {
+    "kanji": "交通費",
+    "kana": "こうつうひ",
+    "meaning": "transportation expenses"
+  },
+  {
+    "kanji": "お金が足りる",
+    "kana": "おかねがたりる",
+    "meaning": "have enough money"
+  },
+  {
+    "kanji": "お金が足りない",
+    "kana": "おかねがたりない",
+    "meaning": "run out of money"
+  },
+  {
+    "kanji": "食費を節約する",
+    "kana": "おかねがたりない",
+    "meaning": "run out of money"
+  },
+  {
+    "kanji": "無駄を省く",
+    "kana": "むだをはぶく",
+    "meaning": "eliminate waste"
+  },
+  {
+    "kanji": "無駄をなくす",
+    "kana": "むだをなくす",
+    "meaning": "prevent waste"
+  },
+  {
+    "kanji": "貧乏になる",
+    "kana": "びんぼうになる",
+    "meaning": "become poor"
+  },
+  {
+    "kanji": "お金持ちになる",
+    "kana": "おかねもちになる",
+    "meaning": "become rich"
+  },
+  {
+    "kanji": "貧しい生活",
+    "kana": "まずしいせいかつ",
+    "meaning": "poor life"
+  },
+  {
+    "kanji": "借金をする",
+    "kana": "しゃっきんをする",
+    "meaning": "borrow money"
   }
 ]
