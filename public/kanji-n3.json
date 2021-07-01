@@ -3699,6 +3699,11 @@
       "meaning": "expense, cost, spend, consume",
       "vocabulary": [
         {
+          "kanji": "費やす",
+          "kana": "ついやす",
+          "meaning": "to spend"
+        },
+        {
           "kanji": "消費",
           "kana": "しょうひ",
           "meaning": "consumption, expenditure"
@@ -4205,6 +4210,32 @@
           "kanji": "不可欠",
           "kana": "ふかけつ",
           "meaning": "essential"
+        }
+      ]
+    },
+    {
+      "kanji": "省",
+      "meaning": "focus, government, ministry, conserve",
+      "vocabulary": [
+        {
+          "kanji": "反省",
+          "kana": "はんせい",
+          "meaning": "reflection, reconsideration, regret"
+        },
+        {
+          "kanji": "～省",
+          "kana": "～しょう",
+          "meaning": "Ministry of ~"
+        },
+        {
+          "kanji": "外務省",
+          "kana": "がいむしょう",
+          "meaning": "Ministry of Foreign Affairs"
+        },
+        {
+          "kanji": "文部科学省",
+          "kana": "もんぶかがくしょう",
+          "meaning": "Ministry of Education, Culture, Sports, Science and Technology (MEXT)"
         }
       ]
     },
