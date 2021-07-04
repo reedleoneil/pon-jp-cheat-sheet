@@ -3950,6 +3950,11 @@
       "meaning": "failure, defeat, reversal",
       "vocabulary": [
         {
+          "kanji": "敗れる",
+          "kana": "やぶれる",
+          "meaning": "to be defeated"
+        },
+        {
           "kanji": "失敗",
           "kana": "しっぱい",
           "meaning": "failure, mistake, blunder"
@@ -4243,6 +4248,11 @@
       "kanji": "省",
       "meaning": "focus, government, ministry, conserve",
       "vocabulary": [
+        {
+          "kanji": "省く",
+          "kana": "はぶく",
+          "meaning": "to omit"
+        },
         {
           "kanji": "反省",
           "kana": "はんせい",
