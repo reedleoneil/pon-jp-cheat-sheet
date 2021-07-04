@@ -4223,32 +4223,6 @@
       "meaning": "focus, government, ministry, conserve",
       "vocabulary": [
         {
-          "kanji": "反省",
-          "kana": "はんせい",
-          "meaning": "reflection, reconsideration, regret"
-        },
-        {
-          "kanji": "～省",
-          "kana": "～しょう",
-          "meaning": "Ministry of ~"
-        },
-        {
-          "kanji": "外務省",
-          "kana": "がいむしょう",
-          "meaning": "Ministry of Foreign Affairs"
-        },
-        {
-          "kanji": "文部科学省",
-          "kana": "もんぶかがくしょう",
-          "meaning": "Ministry of Education, Culture, Sports, Science and Technology (MEXT)"
-        }
-      ]
-    },
-    {
-      "kanji": "省",
-      "meaning": "focus, government, ministry, conserve",
-      "vocabulary": [
-        {
           "kanji": "省く",
           "kana": "はぶく",
           "meaning": "to omit"
@@ -4272,6 +4246,221 @@
           "kanji": "文部科学省",
           "kana": "もんぶかがくしょう",
           "meaning": "Ministry of Education, Culture, Sports, Science and Technology (MEXT)"
+        }
+      ]
+    },
+    {
+      "kanji": "適",
+      "meaning": "suitable, occasional, rare, qualified capable",
+      "vocabulary": [
+        {
+          "kanji": "適度",
+          "kana": "てきど",
+          "meaning": "moderate"
+        },
+        {
+          "kanji": "適当",
+          "kana": "てきとう",
+          "meaning": "suitable, proper, appropirate, adequate"
+        },  
+        {
+          "kanji": "快適",
+          "kana": "かいてき",
+          "meaning": "pleasant, agreeable, comfortable"
+        }
+      ]
+    },
+    {
+      "kanji": "程",
+      "meaning": "extent, degree, law, formula, distance, limits",
+      "vocabulary": [
+        {
+          "kanji": "程度",
+          "kana": "ていど",
+          "meaning": "degree, amount, grade, standard, approximately"
+        },
+        {
+          "kanji": "日程",
+          "kana": "にってい",
+          "meaning": "schedule, program"
+        }
+      ]
+    },
+    {
+      "kanji": "満",
+      "meaning": "full, fullness, enough, satisfy",
+      "vocabulary": [
+        {
+          "kanji": "満ちる",
+          "kana": "みちる",
+          "meaning": "to fill, to become full (of)"
+        },
+        {
+          "kanji": "不満",
+          "kana": "ふまん",
+          "meaning": "dissatisfaction, complaints, displeasure"
+        },
+        {
+          "kanji": "満車",
+          "kana": "まんしゃ",
+          "meaning": "full parking lot"
+        },
+        {
+          "kanji": "満足",
+          "kana": "まんぞく",
+          "meaning": "satisfaction, contntment, sufficient"
+        },
+        {
+          "kanji": "満員",
+          "kana": "まんいん",
+          "meaning": "full house, no vacancy, sould out, full (of people)"
+        },
+        {
+          "kanji": "満席",
+          "kana": "まんせき",
+          "meaning": "full house, all seats occupied"
+        }
+      ]
+    },
+    {
+      "kanji": "充",
+      "meaning": "allot, fill",
+      "vocabulary": [
+        {
+          "kanji": "充分",
+          "kana": "じゅうぶん",
+          "meaning": "plenty, enough, sufficient, satisfactory"
+        },
+        {
+          "kanji": "充実",
+          "kana": "じゅうじつ",
+          "meaning": "fullness, completion, enhancement, improvement"
+        },
+        {
+          "kanji": "充電",
+          "kana": "じゅうでん",
+          "meaning": "charging"
+        }
+      ]
+    },
+    {
+      "kanji": "底",
+      "meaning": "bottom, sole. depth, base",
+      "vocabulary": [
+        {
+          "kanji": "底",
+          "kana": "そこ",
+          "meaning": "bottom, sole"
+        },
+        {
+          "kanji": "海底",
+          "kana": "かいてい",
+          "meaning": "sea floor, sea bed"
+        }
+      ]
+    },
+    {
+      "kanji": "夢",
+      "meaning": "dream, vision, illusion",
+      "vocabulary": [
+        {
+          "kanji": "夢",
+          "kana": "ゆめ",
+          "meaning": "dream"
+        },
+        {
+          "kanji": "夢中",
+          "kana": "むちゅう",
+          "meaning": "daze, (in a) trance, engrossment"
+        }
+      ]
+    },
+    {
+      "kanji": "傾",
+      "meaning": "lean, incline, tilt, trend, wane, sink",
+      "vocabulary": [
+        {
+          "kanji": "傾く",
+          "kana": "かたむく",
+          "meaning": "to incline toward, to slant"
+        },
+        {
+          "kanji": "傾ける",
+          "kana": "かたむける",
+          "meaning": "to incline, to lean"
+        },
+        {
+          "kanji": "傾向",
+          "kana": "けいこう",
+          "meaning": "tendency, trend, indication"
+        }
+      ]
+    },
+    {
+      "kanji": "詞",
+      "meaning": "part of speech, words, poetry",
+      "vocabulary": [
+        {
+          "kanji": "動詞",
+          "kana": "どうし",
+          "meaning": "verb"
+        },
+        {
+          "kanji": "名詞",
+          "kana": "めいし",
+          "meaning": "noun"
+        },
+        {
+          "kanji": "形容詞",
+          "kana": "けいようし",
+          "meaning": "adjective"
+        },
+        {
+          "kanji": "副詞",
+          "kana": "ふくし",
+          "meaning": "adverb"
+        },
+        {
+          "kanji": "助詞",
+          "kana": "じょし",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "kanji": "賃",
+      "meaning": "fare, free, hire, rent, wages, charge",
+      "vocabulary": [
+        {
+          "kanji": "賃貸",
+          "kana": "ちんたい",
+          "meaning": "lease, rent"
+        },
+        {
+          "kanji": "家賃",
+          "kana": "やちん",
+          "meaning": "rent"
+        },
+        {
+          "kanji": "運賃",
+          "kana": "うんちん",
+          "meaning": "fare, shipping expenses"
+        }
+      ]
+    },
+    {
+      "kanji": "司",
+      "meaning": "",
+      "vocabulary": [
+        {
+          "kanji": "司会",
+          "kana": "しかい",
+          "meaning": "leading/presiding over a meeting, officiating at a ceremony, host, chairman, presenter"
+        },
+        {
+          "kanji": "上司",
+          "kana": "じょうし",
+          "meaning": "superior, boss"
         }
       ]
     }
