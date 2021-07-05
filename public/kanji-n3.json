@@ -4450,7 +4450,7 @@
     },
     {
       "kanji": "司",
-      "meaning": "",
+      "meaning": "director, official, government office, rule, administer",
       "vocabulary": [
         {
           "kanji": "司会",
@@ -4461,6 +4461,166 @@
           "kanji": "上司",
           "kana": "じょうし",
           "meaning": "superior, boss"
+        }
+      ]
+    },
+    {
+      "kanji": "訓",
+      "meaning": "instruction, Japanese character reading, explanation, read",
+      "vocabulary": [
+        {
+          "kanji": "訓読み",
+          "kana": "くんよみ",
+          "meaning": "Japanese reading of kanji"
+        },
+        {
+          "kanji": "訓練",
+          "kana": "くんれん",
+          "meaning": "practice, training"
+        }
+      ]
+    },
+    {
+      "kanji": "次",
+      "meaning": "next, order, sequence",
+      "vocabulary": [
+        {
+          "kanji": "目次",
+          "kana": "もくじ",
+          "meaning": "table of contents"
+        },
+        {
+          "kanji": "次",
+          "kana": "つぎ",
+          "meaning": "next, following, subsequent"
+        },
+        {
+          "kanji": "次回",
+          "kana": "じかい",
+          "meaning": "next time (occasion)"
+        }
+      ]
+    },
+    {
+      "kanji": "演",
+      "meaning": "performance, act, play, render, stage",
+      "vocabulary": [
+        {
+          "kanji": "演説",
+          "kana": "えんぜつ",
+          "meaning": "speech, address"
+        },
+        {
+          "kanji": "演技",
+          "kana": "えんぎ",
+          "meaning": "acting performance"
+        }
+      ]
+    },
+    {
+      "kanji": " 郊",
+      "meaning": "outskirts, suburbs, rural area",
+      "vocabulary": [
+        {
+          "kanji": "郊外",
+          "kana": "こうがい",
+          "meaning": "suburb, outskirts"
+        }
+      ]
+    },
+    {
+      "kanji": "舎",
+      "meaning": "cottage, inn, hut, house, mansion",
+      "vocabulary": [
+        {
+          "kanji": "田舎",
+          "kana": "いなか",
+          "meaning": "rural area, countryside, hometown"
+        },
+        {
+          "kanji": "宿舎",
+          "kana": "しゅくしゃ",
+          "meaning": "lodging house"
+        }
+      ]
+    },
+    {
+      "kanji": "宝",
+      "meaning": "treasure, wealth, valuables",
+      "vocabulary": [
+        {
+          "kanji": "宝",
+          "kana": "たから",
+          "meaning": "treasure"
+        },
+        {
+          "kanji": "宝石",
+          "kana": "ほうせき",
+          "meaning": "gem, jewel, precious stone"
+        }
+      ]
+    },
+    {
+      "kanji": "柱",
+      "meaning": "pillar, post,  cyllinder, support",
+      "vocabulary": [
+        {
+          "kanji": "柱",
+          "kana": "はしら",
+          "meaning": "pillar, post, support, prop"
+        },
+        {
+          "kanji": "電柱",
+          "kana": "でんちゅう",
+          "meaning": "utility pole, power pole, telephone pole"
+        }
+      ]
+    },
+    {
+      "kanji": "濯",
+      "meaning": "laundry, wash, pour on,rinse",
+      "vocabulary": [
+        {
+          "kanji": "洗濯",
+          "kana": "せんたく",
+          "meaning": "washing, laundry"
+        },
+        {
+          "kanji": "洗濯機",
+          "kana": "せんたくき",
+          "meaning": "washing machine"
+        }
+      ]
+    },
+    {
+      "kanji": "貯",
+      "meaning": "savings, store, lay in, keep",
+      "vocabulary": [
+        {
+          "kanji": "貯める",
+          "kana": "ためる",
+          "meaning": "to save (e.g. in a bank)"
+        },
+        {
+          "kanji": "貯金",
+          "kana": "ちょきん",
+          "meaning": "putting money aside, savings, deposit (e.g. in a bank)"
+        }
+      ]
+    },
+    {
+      "kanji": "途",
+      "meaning": "route, way, road",
+      "vocabulary": [
+        {
+          "kanji": "途中",
+          "kana": "とちゅう",
+          "meaning": "on the way, en route, midway, in the middle of"
+        },
+        {
+          "kanji": "用途",
+          "kana": "ようと",
+          "meaning": "use, usefullness, utility, service, purpose"
         }
       ]
     }
