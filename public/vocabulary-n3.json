@@ -3263,5 +3263,375 @@
     "kanji": "借金をする",
     "kana": "しゃっきんをする",
     "meaning": "borrow money"
+  },
+  {
+    "kanji": "科目",
+    "kana": "かもく",
+    "meaning": "subject"
+  },
+  {
+    "kanji": "教科",
+    "kana": "きょうか",
+    "meaning": "course"
+  },
+  {
+    "kanji": "得意",
+    "kana": "とくい",
+    "meaning": "strong"
+  },
+  {
+    "kanji": "苦手",
+    "kana": "にがて",
+    "meaning": "weak"
+  },
+  {
+    "kanji": "国語",
+    "kana": "こくご",
+    "meaning": "Japanese language arts"
+  },
+  {
+    "kanji": "算数",
+    "kana": "さんすう",
+    "meaning": "basic math"
+  },
+  {
+    "kanji": "理科",
+    "kana": "りか",
+    "meaning": "science"
+  },
+  {
+    "kanji": "社会",
+    "kana": "しゃかい",
+    "meaning": "social studies"
+  },
+  {
+    "kanji": "体育",
+    "kana": "たいいく",
+    "meaning": "physical education"
+  },
+  {
+    "kanji": "私立高校",
+    "kana": "しりつこうこう",
+    "meaning": "a private school"
+  },
+  {
+    "kanji": "公立高校",
+    "kana": "こうりつこうこう",
+    "meaning": "a public school"
+  },
+  {
+    "kanji": "国立大学",
+    "kana": "こくりつだいがく",
+    "meaning": "a national university"
+  },
+  {
+    "kanji": "お弁当",
+    "kana": "おべんとう",
+    "meaning": "a box lunch"
+  },
+  {
+    "kanji": "給食",
+    "kana": "きゅうしょく",
+    "meaning": "a hot school lunch"
+  },
+  {
+    "kanji": "時間割",
+    "kana": "じかんわり",
+    "meaning": "school time table"
+  },
+  {
+    "kanji": "入学式",
+    "kana": "にゅうがくしき",
+    "meaning": "entrance ceremony"
+  },
+  {
+    "kanji": "卒業式",
+    "kana": "そつぎょうしき",
+    "meaning": "graduation ceremony"
+  },
+  {
+    "kanji": "出席",
+    "kana": "しゅっせき",
+    "meaning": "attend"
+  },
+  {
+    "kanji": "欠席",
+    "kana": "けっせき",
+    "meaning": "not to attend"
+  },
+  {
+    "kanji": "バスで通学する",
+    "kana": "バスでつうがくする",
+    "meaning": "commute to school by bus"
+  },
+  {
+    "kanji": "バスで通勤する",
+    "kana": "バスでつうきんする",
+    "meaning": "commute"
+  },
+  {
+    "kanji": "学期",
+    "kana": "がっき",
+    "meaning": "semester"
+  },
+  {
+    "kanji": "今学期",
+    "kana": "こんがっき",
+    "meaning": "this semester"
+  },
+  {
+    "kanji": "前期",
+    "kana": "ぜんき",
+    "meaning": "the first semester"
+  },
+  {
+    "kanji": "後期",
+    "kana": "こうき",
+    "meaning": "the second semester"
+  },
+  {
+    "kanji": "同じ学年",
+    "kana": "おなじがくねん",
+    "meaning": "in the same grade"
+  },
+  {
+    "kanji": "自習",
+    "kana": "じしゅう",
+    "meaning": "study on your own"
+  },
+  {
+    "kanji": "鉛筆を削る",
+    "kana": "えんぴつをけずる",
+    "meaning": "sharpen a pencil"
+  },
+  {
+    "kanji": "物差しで測る",
+    "kana": "ものさしではかる",
+    "meaning": "measure something with a ruler"
+  },
+  {
+    "kanji": "定規で測る",
+    "kana": "じょうぎではかる",
+    "meaning": "measure something with a ruler"
+  },
+  {
+    "kanji": "合計を出す",
+    "kana": "ごうけいをだす",
+    "meaning": "sum up"
+  },
+  {
+    "kanji": "足し算",
+    "kana": "たしざん",
+    "meaning": "addition"
+  },
+  {
+    "kanji": "引き算",
+    "kana": "ひきざん",
+    "meaning": "subtraction"
+  },
+  {
+    "kanji": "掛け算",
+    "kana": "かけざん",
+    "meaning": "multiplication"
+  },
+  {
+    "kanji": "割り算",
+    "kana": "わりざん",
+    "meaning": "division"
+  },
+  {
+    "kanji": "学部",
+    "kana": "がくぶ",
+    "meaning": "faculty"
+  },
+  {
+    "kanji": "学科",
+    "kana": "がっか",
+    "meaning": "faculty"
+  },
+  {
+    "kanji": "文学部",
+    "kana": "ぶんがくぶ",
+    "meaning": "department of literature"
+  },
+  {
+    "kanji": "経済学部",
+    "kana": "けいざいがくぶ",
+    "meaning": "department of economic"
+  },
+  {
+    "kanji": "法学部",
+    "kana": "ほうがくぶ",
+    "meaning": "department of law"
+  },
+  {
+    "kanji": "理工学部",
+    "kana": "りこうがくぶ",
+    "meaning": "department of science and engineering"
+  },
+  {
+    "kanji": "医学",
+    "kana": "いがく",
+    "meaning": "department of medicine"
+  },
+  {
+    "kanji": "経済学",
+    "kana": "けいざいがく",
+    "meaning": "Economics"
+  },
+  {
+    "kanji": "政治学",
+    "kana": "せいじがく",
+    "meaning": "Political science"
+  },
+  {
+    "kanji": "心理学",
+    "kana": "しんりがく",
+    "meaning": "Psychology"
+  },
+  {
+    "kanji": "言語学",
+    "kana": "げんごがく",
+    "meaning": "Linguistics"
+  },
+  {
+    "kanji": "物理学",
+    "kana": "ぶつりがく",
+    "meaning": "Physics"
+  },
+  {
+    "kanji": null,
+    "kana": "ゼミ",
+    "meaning": "seminar"
+  },
+  {
+    "kanji": "単位",
+    "kana": "たんい",
+    "meaning": "units/credits"
+  },
+  {
+    "kanji": "講義",
+    "kana": "こうぎ",
+    "meaning": "lecture"
+  },
+  {
+    "kanji": "補修",
+    "kana": "ほしゅう",
+    "meaning": "supplementary lesson"
+  },
+  {
+    "kanji": "補講",
+    "kana": "ほこう",
+    "meaning": "supplementary lecture"
+  },
+  {
+    "kanji": "進学を希望する",
+    "kana": "しんがくをきぼうする",
+    "meaning": "wish to go to a high school/university"
+  },
+  {
+    "kanji": "合格発表を見に行く",
+    "kana": "ごうかくはっぴょうをみにいく",
+    "meaning": "go to see the exam results"
+  },
+  {
+    "kanji": "合格する",
+    "kana": "ごうかくする",
+    "meaning": "pass an exam"
+  },
+  {
+    "kanji": "受かる",
+    "kana": "うかる",
+    "meaning": "pass an exam"
+  },
+  {
+    "kanji": "不合格になる",
+    "kana": "ふごうかくになる",
+    "meaning": "fail an exam"
+  },
+  {
+    "kanji": "落ちる",
+    "kana": "おちる",
+    "meaning": "fail an exam"
+  },
+  {
+    "kanji": "授業料を払う",
+    "kana": "じゅぎょうりょうをはらう",
+    "meaning": "pay for the tution fees"
+  },
+  {
+    "kanji": "学費を払う",
+    "kana": "がくひをはらう",
+    "meaning": "pay for the tution fees"
+  },
+  {
+    "kanji": "奨学金をもらう",
+    "kana": "しょうがくきんをもらう",
+    "meaning": "get a scholarship"
+  },
+  {
+    "kanji": "大学教授",
+    "kana": "だいがくきょうじゅ",
+    "meaning": "professor"
+  },
+  {
+    "kanji": "学者",
+    "kana": "学者",
+    "meaning": "scholar"
+  },
+  {
+    "kanji": "講義に間に合う",
+    "kana": "こうぎにまにあう",
+    "meaning": "be in time for the class"
+  },
+  {
+    "kanji": "講義に遅れる",
+    "kana": "こうぎにおくれる",
+    "meaning": "be late for the class"
+  },
+  {
+    "kanji": "講義に遅刻する",
+    "kana": "こうぎにちこくする",
+    "meaning": "be late for the class"
+  },
+  {
+    "kanji": "成績がいい",
+    "kana": "せいせきがいい",
+    "meaning": "good marks"
+  },
+  {
+    "kanji": "成績が悪い",
+    "kana": "せいせきがわる",
+    "meaning": "bad marks"
+  },
+  {
+    "kanji": "授業中に居眠りをする",
+    "kana": "じゅぎょうちゅにいねむりをする",
+    "meaning": "sleep during the class"
+  },
+  {
+    "kanji": "授業をサボる",
+    "kana": "じゅぎょうをサボる",
+    "meaning": "skip a class"
+  },
+  {
+    "kanji": "単位を落とす",
+    "kana": "たんいをおとす",
+    "meaning": "fail a course"
+  },
+  {
+    "kanji": "単位をとる",
+    "kana": "たんいをとる",
+    "meaning": "pass a course"
+  },
+  {
+    "kanji": "休学する",
+    "kana": "きゅうがくする",
+    "meaning": "take a leave from school"
+  },
+  {
+    "kanji": "留学する",
+    "kana": "りゅうがくする",
+    "meaning": "study abroad"
   }
 ]
