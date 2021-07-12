@@ -4623,5 +4623,84 @@
           "meaning": "use, usefullness, utility, service, purpose"
         }
       ]
+    },
+    {
+      "kanji": "勇",
+      "meaning": "courage, cheer up, bravery, heroism",
+      "vocabulary": [
+        {
+          "kanji": "勇気",
+          "kana": "ゆうき",
+          "meaning": "courage, bravery"
+        }
+      ]
+    },
+    {
+      "kanji": "句",
+      "meaning": "phrase, cluase, sentence, paragraph",
+      "vocabulary": [
+        {
+          "kanji": "文句",
+          "kana": "もんく",
+          "meaning": "complaint, grumbling, phrse, woreds, expression"
+        },
+        {
+          "kanji": "俳句",
+          "kana": "はいく",
+          "meaning": "haiku (poem)"
+        }
+      ]
+    },
+    {
+      "kanji": "疑",
+      "meaning": "dobut, distrtst, be suspicious",
+      "vocabulary": [
+        {
+          "kanji": "疑い",
+          "kana": "うたがい",
+          "meaning": "doubt, question"
+        },
+        {
+          "kanji": "疑う",
+          "kana": "うたがう",
+          "meaning": "to doubt,to distrust"
+        },
+        {
+          "kanji": "疑問",
+          "kana": "ぎもん",
+          "meaning": "question, problem, doubt"
+        },
+        {
+          "kanji": "容疑者",
+          "kana": "ようぎしゃ",
+          "meaning": "suspect (person)"
+        }
+      ]
+    },
+    {
+      "kanji": "識",
+      "meaning": "discriminating, know, write",
+      "vocabulary": [
+        {
+          "kanji": "意識",
+          "kana": "いしき",
+          "meaning": "consiousness, awareness, sense"
+        },
+        {
+          "kanji": "常識",
+          "kana": "じょうしき",
+          "meaning": "common sense"
+        },
+        {
+          "kanji": "知識",
+          "kana": "ちしき",
+          "meaning": "knowledge, information"
+        },
+        {
+          "kanji": "認識",
+          "kana": "にんしき",
+          "meaning": "recognition, cognizance"
+        }
+      ]
     }
   ]
