@@ -4702,5 +4702,84 @@
           "meaning": "recognition, cognizance"
         }
       ]
+    },
+    {
+      "kanji": "関",
+      "meaning": "connection, barrier, gateway, involve, concerning",
+      "vocabulary": [
+        {
+          "kanji": "関わる",
+          "kana": "かかわる",
+          "meaning": "to be affected, to be concerned with"
+        },
+        {
+          "kanji": "関する",
+          "kana": "かんする",
+          "meaning": "to be concerned, to be related"
+        },
+        {
+          "kanji": "関係",
+          "kana": "かんけい",
+          "meaning": "relation"
+        },
+        {
+          "kanji": "関心",
+          "kana": "かんしん",
+          "meaning": "concern, interest"
+        },
+        {
+          "kanji": "関連",
+          "kana": "かんれん",
+          "meaning": "relation, connection"
+        }
+      ]
+    },
+    {
+      "kanji": "恵",
+      "meaning": "favour, blessing, grace, kindness",
+      "vocabulary": [
+        {
+          "kanji": "恵",
+          "kana": "めぐみ",
+          "meaning": "blessing, grace"
+        },
+        {
+          "kanji": "知恵",
+          "kana": "ちえ",
+          "meaning": "wisdom, wit, intelligence"
+        }
+      ]
+    },
+    {
+      "kanji": "権",
+      "meaning": "authority, power, rights",
+      "vocabulary": [
+        {
+          "kanji": "権利",
+          "kana": "けんり",
+          "meaning": "right, privilege"
+        },
+        {
+          "kanji": "権力",
+          "kana": "けんりょく",
+          "meaning": "(political) power, authority, influence"
+        }
+      ]
+    },
+    {
+      "kanji": "権",
+      "meaning": "authority, power, rights",
+      "vocabulary": [
+        {
+          "kanji": "権利",
+          "kana": "けんり",
+          "meaning": "right, privilege"
+        },
+        {
+          "kanji": "権力",
+          "kana": "けんりょく",
+          "meaning": "(political) power, authority, influence"
+        }
+      ]
     }
   ]
