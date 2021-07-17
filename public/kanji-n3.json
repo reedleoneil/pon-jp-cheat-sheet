@@ -4767,18 +4767,700 @@
       ]
     },
     {
-      "kanji": "権",
-      "meaning": "authority, power, rights",
+      "kanji": "団",
+      "meaning": "group, association",
       "vocabulary": [
         {
-          "kanji": "権利",
-          "kana": "けんり",
-          "meaning": "right, privilege"
+          "kanji": "団体",
+          "kana": "だんたい",
+          "meaning": "organization, association"
         },
         {
-          "kanji": "権力",
-          "kana": "けんりょく",
-          "meaning": "(political) power, authority, influence"
+          "kanji": "団地",
+          "kana": "だんち",
+          "meaning": "apartment complex"
+        },
+        {
+          "kanji": "集団",
+          "kana": "しゅうだん",
+          "meaning": "group, mass"
+        },
+        {
+          "kanji": "布団",
+          "kana": "ふとん",
+          "meaning": "Japanese-style mattress"
+        }
+      ]
+    },
+    {
+      "kanji": "位",
+      "meaning": "rank, grade, thorne, crown, about, some",
+      "vocabulary": [
+        {
+          "kanji": "位置",
+          "kana": "いち",
+          "meaning": "place, position, location"
+        },
+        {
+          "kanji": "地位",
+          "kana": "ちい",
+          "meaning": "social position, status"
+        },
+        {
+          "kanji": "単位",
+          "kana": "たんい",
+          "meaning": "unit, denomination, credit (in college)"
+        }
+      ]
+    },
+    {
+      "kanji": "衣",
+      "meaning": "garments, clothes, dressing",
+      "vocabulary": [
+        {
+          "kanji": "衣類",
+          "kana": "いるい",
+          "meaning": "clothes, clothing, garments"
+        },
+        {
+          "kanji": "衣服",
+          "kana": "いふく",
+          "meaning": "clothes"
+        },
+        {
+          "kanji": "衣料",
+          "kana": "いりょう",
+          "meaning": "clothing"
+        }
+      ]
+    },
+    {
+      "kanji": "央",
+      "meaning": "cneter, middle",
+      "vocabulary": [
+        {
+          "kanji": "中央",
+          "kana": "ちゅうおう",
+          "meaning": "center, middle, metropolis, capital, city"
+        }
+      ]
+    },
+    {
+      "kanji": "否",
+      "meaning": "negate, no, refuse, decline, deny",
+      "vocabulary": [
+        {
+          "kanji": "否定",
+          "kana": "ひてい",
+          "meaning": "negation, denial"
+        }
+      ]
+    },
+    {
+      "kanji": "故",
+      "meaning": "especially, intentionally, reason, circumstances",
+      "vocabulary": [
+        {
+          "kanji": "故障",
+          "kana": "こしょう",
+          "meaning": "breakdown, failure"
+        },
+        {
+          "kanji": "故人",
+          "kana": "こじん",
+          "meaning": "deceased, departed"
+        },
+        {
+          "kanji": "事故",
+          "kana": "じこ",
+          "meaning": "accident, incident, circumstances"
+        }
+      ]
+    },
+    {
+      "kanji": "興",
+      "meaning": "entertain, revive, retrieve, interest",
+      "vocabulary": [
+        {
+          "kanji": "興味",
+          "kana": "きょうみ",
+          "meaning": "interest, curiosity"
+        }
+      ]
+    },
+    {
+      "kanji": "効",
+      "meaning": "merit, efficacy, efficiency, benefit",
+      "vocabulary": [
+        {
+          "kanji": "効く",
+          "kana": "きく",
+          "meaning": "to be effective"
+        },
+        {
+          "kanji": "効果",
+          "kana": "こうか",
+          "meaning": "effect, effectiveness, result"
+        },
+        {
+          "kanji": "効率",
+          "kana": "こうりつ",
+          "meaning": "efficiency"
+        },
+        {
+          "kanji": "無効",
+          "kana": "むこう",
+          "meaning": "invalid"
+        },
+        {
+          "kanji": "有効",
+          "kana": "ゆうこう",
+          "meaning": "valid"
+        }
+      ]
+    },
+    {
+      "kanji": "宿",
+      "meaning": "inn, lodging, home, dwelling",
+      "vocabulary": [
+        {
+          "kanji": "宿",
+          "kana": "しゅく",
+          "meaning": "lodging"
+        },
+        {
+          "kanji": "宿",
+          "kana": "やど",
+          "meaning": "lodging"
+        },
+        {
+          "kanji": "宿題",
+          "kana": "しゅくだい",
+          "meaning": "homework"
+        },
+        {
+          "kanji": "下宿",
+          "kana": "げしゅく",
+          "meaning": "lodging, boarding house"
+        },
+        {
+          "kanji": "宿泊",
+          "kana": "しゅくはく",
+          "meaning": "lodging"
+        }
+      ]
+    },
+    {
+      "kanji": "資",
+      "meaning": "assets, resourses, capital, data, contribute to",
+      "vocabulary": [
+        {
+          "kanji": "資金",
+          "kana": "しきん",
+          "meaning": "funds, capital"
+        },
+        {
+          "kanji": "資本",
+          "kana": "しほん",
+          "meaning": "funds, capital"
+        },
+        {
+          "kanji": "資料",
+          "kana": "しりょう",
+          "meaning": "materials, data, document"
+        },
+        {
+          "kanji": "資産",
+          "kana": "しさん",
+          "meaning": "base"
+        },
+        {
+          "kanji": "投資",
+          "kana": "とうし",
+          "meaning": "investment"
+        }
+      ]
+    },
+    {
+      "kanji": "基",
+      "meaning": "fundamentals, foundation, counter for machine",
+      "vocabulary": [
+        {
+          "kanji": "基金",
+          "kana": "ききん",
+          "meaning": "foundation"
+        },
+        {
+          "kanji": "基準",
+          "kana": "きじゅん",
+          "meaning": "standards, basis"
+        },
+        {
+          "kanji": "基地",
+          "kana": "きち",
+          "meaning": "base"
+        },
+        {
+          "kanji": "基本",
+          "kana": "きほん",
+          "meaning": "foundation, basis, standard"
+        }
+      ]
+    },
+    {
+      "kanji": "容",
+      "meaning": "contain, form, looks",
+      "vocabulary": [
+        {
+          "kanji": "容易",
+          "kana": "ようい",
+          "meaning": "easy, simple"
+        },
+        {
+          "kanji": "容疑者",
+          "kana": "ようぎしゃ",
+          "meaning": "suspect (person)"
+        },
+        {
+          "kanji": "容認",
+          "kana": "ようにん",
+          "meaning": "approval"
+        },
+        {
+          "kanji": "内容",
+          "kana": "ないよう",
+          "meaning": "subject, contents, substance, detail"
+        },
+        {
+          "kanji": "美容院",
+          "kana": "美容院",
+          "meaning": "beauty parlor"
+        }
+      ]
+    },
+    {
+      "kanji": "誌",
+      "meaning": "document, records",
+      "vocabulary": [
+        {
+          "kanji": "雑誌",
+          "kana": "ざっし",
+          "meaning": "journal, magazine, periodical"
+        }
+      ]
+    },
+    {
+      "kanji": "然",
+      "meaning": "sort of thing, so, if so, in that case",
+      "vocabulary": [
+        {
+          "kanji": "自然",
+          "kana": "しぜん",
+          "meaning": "nature, natural, sponteneous"
+        },
+        {
+          "kanji": "全然",
+          "kana": "ぜんぜん",
+          "meaning": "not at all, wholly, entirely, completely"
+        },
+        {
+          "kanji": "当然",
+          "kana": "とうぜん",
+          "meaning": "natural, as a matter of course"
+        },
+        {
+          "kanji": "突然",
+          "kana": "とつぜん",
+          "meaning": "abrupt, sudden"
+        }
+      ]
+    },
+    {
+      "kanji": "香",
+      "meaning": "incense, smell, perfume",
+      "vocabulary": [
+        {
+          "kanji": "香る",
+          "kana": "かおる",
+          "meaning": "be fragrant"
+        },
+        {
+          "kanji": "香り",
+          "kana": "かおり",
+          "meaning": "aroma, fragrance, scent, smell"
+        },
+        {
+          "kanji": "香水",
+          "kana": "こうすい",
+          "meaning": "perfume"
+        },
+        {
+          "kanji": "香港",
+          "kana": "ほんこん",
+          "meaning": "Hong Kong"
+        }
+      ]
+    },
+    {
+      "kanji": "雲",
+      "meaning": "cloud",
+      "vocabulary": [
+        {
+          "kanji": "雲",
+          "kana": "くも",
+          "meaning": "cloud"
+        },
+        {
+          "kanji": "曇る",
+          "kana": "曇る",
+          "meaning": "to get cloudy"
+        },
+        {
+          "kanji": "曇り",
+          "kana": "くもり",
+          "meaning": "cloudy weather"
+        }
+      ]
+    },
+    {
+      "kanji": "晴",
+      "meaning": "clear up",
+      "vocabulary": [
+        {
+          "kanji": "晴れる",
+          "kana": "はれる",
+          "meaning": "to clear up, to be sunny"
+        },
+        {
+          "kanji": "晴れ",
+          "kana": "はれ",
+          "meaning": "clear/fine weather"
+        },
+        {
+          "kanji": "晴天",
+          "kana": "せいてん",
+          "meaning": "fine weather"
+        }
+      ]
+    },
+    {
+      "kanji": "梅",
+      "meaning": "plum",
+      "vocabulary": [
+        {
+          "kanji": "梅",
+          "kana": "うめ",
+          "meaning": "Japanese apricot, Chinese plum"
+        },
+        {
+          "kanji": "梅雨",
+          "kana": "つゆ",
+          "meaning": "rainy season"
+        }
+      ]
+    },
+    {
+      "kanji": "季",
+      "meaning": "season",
+      "vocabulary": [
+        {
+          "kanji": "季節",
+          "kana": "きせつ",
+          "meaning": "season"
+        },
+        {
+          "kanji": "四季",
+          "kana": "しき",
+          "meaning": "four season"
+        }
+      ]
+    },
+    {
+      "kanji": "節",
+      "meaning": "node, season, period, occasion, verse, stanza, joint, knot, tune, melody",
+      "vocabulary": [
+        {
+          "kanji": "季節",
+          "kana": "きせつ",
+          "meaning": "season"
+        },
+        {
+          "kanji": "節約",
+          "kana": "せつやく",
+          "meaning": "economizing, saving"
+        }
+      ]
+    },
+    {
+      "kanji": "候",
+      "meaning": "climate, season, weather, wait for",
+      "vocabulary": [
+        {
+          "kanji": "気候",
+          "kana": "きこう",
+          "meaning": "climate"
+        },
+        {
+          "kanji": "天候",
+          "kana": "てんこう",
+          "meaning": "weather"
+        }
+      ]
+    },
+    {
+      "kanji": "吹",
+      "meaning": "blow, breathe, puff, emit, smoke",
+      "vocabulary": [
+        {
+          "kanji": "吹く",
+          "kana": "ふく",
+          "meaning": "to blow (e.g. wind), to play a wind instrument, to emit, to spout, to whistle"
+        }
+      ]
+    },
+    {
+      "kanji": "飛",
+      "meaning": "fly, skip (pages), scatter",
+      "vocabulary": [
+        {
+          "kanji": "飛ぶ",
+          "kana": "とぶ",
+          "meaning": "to fly, to soar, to jump"
+        },
+        {
+          "kanji": "飛行場",
+          "kana": "ひこうじょう",
+          "meaning": "airfield, airport"
+        },
+        {
+          "kanji": "飛行機",
+          "kana": "ひこうき",
+          "meaning": "airplane, aircraft"
+        }
+      ]
+    },
+    {
+      "kanji": "鳴",
+      "meaning": "chirp, cry, bark, ring, echo, honk",
+      "vocabulary": [
+        {
+          "kanji": "鳴く",
+          "kana": "なく",
+          "meaning": "to cry, to chirp, to make sound (animal)"
+        },
+        {
+          "kanji": "鳴る",
+          "kana": "なる",
+          "meaning": "to sound, to ring, to echo"
+        },
+        {
+          "kanji": "鳴らす",
+          "kana": "ならす",
+          "meaning": "to ring, to chime, to beat"
+        },
+        {
+          "kanji": "鳴き声",
+          "kana": "なきごえ",
+          "meaning": "cry (animal)"
+        }
+      ]
+    },
+    {
+      "kanji": "浮",
+      "meaning": "floating, float, rise, to surface",
+      "vocabulary": [
+        {
+          "kanji": "浮かぶ",
+          "kana": "うかぶ",
+          "meaning": "to float, to rise to surface"
+        }
+      ]
+    },
+    {
+      "kanji": "咲",
+      "meaning": "blossom, bloom",
+      "vocabulary": [
+        {
+          "kanji": "咲く",
+          "kana": "さく",
+          "meaning": "to bloom"
+        }
+      ]
+    },
+    {
+      "kanji": "散",
+      "meaning": "scatter, disperse, spend, squander",
+      "vocabulary": [
+        {
+          "kanji": "散る",
+          "kana": "ちる",
+          "meaning": "to fall (leaves, blossoms), to scatter, to be dispersed"
+        },
+        {
+          "kanji": "散らす",
+          "kana": "ちらす",
+          "meaning": "to scatter, to distribute, to spread"
+        },
+        {
+          "kanji": "散らし",
+          "kana": "チラシ",
+          "meaning": "leaflets, flyers"
+        },
+        {
+          "kanji": "散歩",
+          "kana": "さんぽ",
+          "meaning": "walk, stroll"
+        },
+        {
+          "kanji": "解散",
+          "kana": "かいさん",
+          "meaning": "breakup, dissolution"
+        },
+        {
+          "kanji": "分散",
+          "kana": "ぶんさん",
+          "meaning": "dispersion, break-up"
+        }
+      ]
+    },
+    {
+      "kanji": "枯",
+      "meaning": "wither, die, dry up, be seasoned",
+      "vocabulary": [
+        {
+          "kanji": "枯れる",
+          "kana": "かれる",
+          "meaning": "to wither (of a plant)"
+        },
+        {
+          "kanji": "枯れ葉",
+          "kana": "かれは",
+          "meaning": "dead leaf, dry leaves"
+        },
+        {
+          "kanji": "枯れ木",
+          "kana": "かれき",
+          "meaning": "dead tree"
+        }
+      ]
+    },
+    {
+      "kanji": "沈",
+      "meaning": "sink, subside, be submerged",
+      "vocabulary": [
+        {
+          "kanji": "沈む",
+          "kana": "しずむ",
+          "meaning": "to sink, to go under, to submerge"
+        }
+      ]
+    },
+    {
+      "kanji": "列",
+      "meaning": "file, row, rank, tier, column",
+      "vocabulary": [
+        {
+          "kanji": "行列",
+          "kana": "ぎょうれつ",
+          "meaning": "line, queue, procession"
+        },
+        {
+          "kanji": "列島",
+          "kana": "れっとう",
+          "meaning": "archipelago, chain of islands"
+        },
+        {
+          "kanji": "列",
+          "kana": "れつ",
+          "meaning": "queue, line, row, column, sequence"
+        },
+        {
+          "kanji": "列車",
+          "kana": "れっしゃ",
+          "meaning": "train (ordinary)"
+        }
+      ]
+    },
+    {
+      "kanji": "原",
+      "meaning": "meadow, original, field, plain, prairie",
+      "vocabulary": [
+        {
+          "kanji": "原因",
+          "kana": "げんいん",
+          "meaning": "cuase, origin, source"
+        },
+        {
+          "kanji": "原子",
+          "kana": "げんし",
+          "meaning": "atom"
+        },
+        {
+          "kanji": "原子力",
+          "kana": "げんしりょく",
+          "meaning": "nuclear power"
+        },
+        {
+          "kanji": "原則",
+          "kana": "げんそく",
+          "meaning": "general rule"
+        },
+        {
+          "kanji": "原発",
+          "kana": "げんぱつ",
+          "meaning": "nuclear power plant"
+        },
+        {
+          "kanji": "原油",
+          "kana": "げんゆ",
+          "meaning": "crude oil"
+        },
+        {
+          "kanji": "原料",
+          "kana": "げんりょう",
+          "meaning": "raw materials"
+        }
+      ]
+    },
+    {
+      "kanji": "因",
+      "meaning": "cause, factor, be associated with, depend on",
+      "vocabulary": [
+        {
+          "kanji": "原因",
+          "kana": "げんいん",
+          "meaning": "cause, origin, source"
+        },
+        {
+          "kanji": "要因",
+          "kana": "よういん",
+          "meaning": "main cause"
+        }
+      ]
+    },
+    {
+      "kanji": "陸",
+      "meaning": "land, six",
+      "vocabulary": [
+        {
+          "kanji": "陸",
+          "kana": "りく",
+          "meaning": "land, shore"
+        },
+        {
+          "kanji": "陸上",
+          "kana": "りくじょう",
+          "meaning": "land, ground"
+        },
+        {
+          "kanji": "上陸",
+          "kana": "じょうりく",
+          "meaning": "landing, disembarkation, landfall"
+        },
+        {
+          "kanji": "大陸",
+          "kana": "たいりく",
+          "meaning": "continent"
         }
       ]
     }
