@@ -4093,5 +4093,115 @@
     "kanji": "ブログを始める",
     "kana": "ブログをはじめる",
     "meaning": "create a blog"
+  },
+  {
+    "kanji": "受信する",
+    "kana": "じゅしんする",
+    "meaning": "receive"
+  },
+  {
+    "kanji": "送信する",
+    "kana": "そうしんする",
+    "meaning": "send"
+  },
+  {
+    "kanji": "返信する",
+    "kana": "へんしんする",
+    "meaning": "reply"
+  },
+  {
+    "kanji": "転送する",
+    "kana": "てんそうする",
+    "meaning": "forward"
+  },
+  {
+    "kanji": "新規作成する",
+    "kana": "しんきさくせいする",
+    "meaning": "create a new message"
+  },
+  {
+    "kanji": "まとめて送る",
+    "kana": "まとめておくる",
+    "meaning": "send them in a batch"
+  },
+  {
+    "kanji": "整理する",
+    "kana": "せいりする",
+    "meaning": "organize the messages"
+  },
+  {
+    "kanji": null,
+    "kana": "チェックする",
+    "meaning": "check the incoming mail"
+  },
+  {
+    "kanji": "入力する",
+    "kana": "にゅうりょくする",
+    "meaning": "input"
+  },
+  {
+    "kanji": "ローマ字で入力する",
+    "kana": "ローマじでにゅうりょくする",
+    "meaning": "write in Roman letters"
+  },
+  {
+    "kanji": "漢字に変換する",
+    "kana": "かんじでへんかんする",
+    "meaning": "convert to Kanji"
+  },
+  {
+    "kanji": "挿入する",
+    "kana": "そうにゅうする",
+    "meaning": "insert letters"
+  },
+  {
+    "kanji": "削除する",
+    "kana": "さくじょする",
+    "meaning": "delete letters"
+  },
+  {
+    "kanji": "宛先",
+    "kana": "あてさき",
+    "meaning": "adressee"
+  },
+  {
+    "kanji": "差出人名",
+    "kana": "さしだしにんめい",
+    "meaning": "sender"
+  },
+  {
+    "kanji": "件名",
+    "kana": "けんめい",
+    "meaning": "subject"
+  },
+  {
+    "kanji": "メールのやり取りをする",
+    "kana": "メールのやりとりをする",
+    "meaning": "exchange emails"
+  },
+  {
+    "kanji": "写真を添付する",
+    "kana": "写真をてんぷする",
+    "meaning": "attach a photo"
+  },
+  {
+    "kanji": "改行する",
+    "kana": "かいぎょうする",
+    "meaning": "start a new paragraph"
+  },
+  {
+    "kanji": "送信者の（メール）アドレスを登録する",
+    "kana": "そうしんしゃの（メール）アドレスをとうろくする",
+    "meaning": "save the email) address of the sender in the address book"
+  },
+  {
+    "kanji": "アドレス帳",
+    "kana": "アドレスちょう",
+    "meaning": "address book"
+  },
+  {
+    "kanji": "送信が完了する",
+    "kana": "そうしんがかんりょうする",
+    "meaning": "messages been sent"
   }
 ]
