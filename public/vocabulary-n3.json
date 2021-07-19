@@ -3963,5 +3963,135 @@
     "kanji": "辞めさせられる",
     "kana": "やめさせられる",
     "meaning": "be fired"
+  },
+  {
+    "kanji": null,
+    "kana": "ノートパソコン",
+    "meaning": "laptop computer"
+  },
+  {
+    "kanji": null,
+    "kana": "デスクトプ（パソコン）",
+    "meaning": "desktop computer"
+  },
+  {
+    "kanji": null,
+    "kana": "キーボード",
+    "meaning": "keyboard"
+  },
+  {
+    "kanji": null,
+    "kana": "マウス",
+    "meaning": "mouse"
+  },
+  {
+    "kanji": "初めてパソコンを触る",
+    "kana": "はじめてパソコンをさわる",
+    "meaning": "mouse"
+  },
+  {
+    "kanji": "初心者",
+    "kana": "しょしんしゃ",
+    "meaning": "beginner"
+  },
+  {
+    "kanji": "入門講座を受ける",
+    "kana": "にゅうもんこうざをうける",
+    "meaning": "attend an introductory course"
+  },
+  {
+    "kanji": "パソコンに慣れる",
+    "kana": "パソコンになれる",
+    "meaning": "get used to a computer"
+  },
+  {
+    "kanji": "新製品",
+    "kana": "しんせいひん",
+    "meaning": "a new product"
+  },
+  {
+    "kanji": "製品",
+    "kana": "せいひん",
+    "meaning": "new"
+  },
+  {
+    "kanji": "中古",
+    "kana": "ちゅうこ",
+    "meaning": "used"
+  },
+  {
+    "kanji": "画面を見る",
+    "kana": "がめんをみる",
+    "meaning": "look at the screen"
+  },
+  {
+    "kanji": null,
+    "kana": "ソフト（ウェア）をインストールする",
+    "meaning": "install a software"
+  },
+  {
+    "kanji": null,
+    "kana": "スタートボタンをクリックする",
+    "meaning": "clickc on the start button"
+  },
+  {
+    "kanji": "ファイルを開く",
+    "kana": "ファイルをひらく",
+    "meaning": "open the file"
+  },
+  {
+    "kanji": "ファイルを閉じる",
+    "kana": "ファイルをとじる",
+    "meaning": "close the file"
+  },
+  {
+    "kanji": "年賀状を作る",
+    "kana": "ねんがじょうをつくる",
+    "meaning": "print new years cards"
+  },
+  {
+    "kanji": null,
+    "kana": "（インター）ネットにつなぐ",
+    "meaning": "get connected to the internet"
+  },
+  {
+    "kanji": "世界中とつなぐ",
+    "kana": "せかいじゅうとつなぐ",
+    "meaning": "be connected to the world"
+  },
+  {
+    "kanji": "情報を得る",
+    "kana": "じょうほうをえる",
+    "meaning": "get information"
+  },
+  {
+    "kanji": "情報を得る",
+    "kana": "じょうほうをえる",
+    "meaning": "get information"
+  },
+  {
+    "kanji": "オークションに参加する",
+    "kana": "オークションにさんかする",
+    "meaning": "take part in the auction"
+  },
+  {
+    "kanji": "オークションに品物を出す",
+    "kana": "オークションにしなものをだす",
+    "meaning": "put something on auction"
+  },
+  {
+    "kanji": "品物する",
+    "kana": "しなものする",
+    "meaning": "put something on display"
+  },
+  {
+    "kanji": "ホームページを作る",
+    "kana": "ホームページをつくる",
+    "meaning": "create a website"
+  },
+  {
+    "kanji": "ブログを始める",
+    "kana": "ブログをはじめる",
+    "meaning": "create a blog"
   }
 ]
