@@ -236,6 +236,12 @@
                     <input type="checkbox" id="vocabulary-kana-display" name="vocabulary-display" value="kana" checked> 仮名
                     <input type="checkbox" id="vocabulary-meaning-display" name="vocabulary-display" value="meaning" checked> 意味
                   </div>
+                  <div>
+                    <label for="display"><b>Offset:</b></label>
+                    <input type="number" id="vocabulary-offset" name="vocabulary-offset" class="w-25" min="0" />
+                    <label for="display"><b>Count:</b></label>
+                    <input type="number" id="vocabulary-count" name="vocabulary-count" class="w-25" min="0" /> 
+                  </div>
                   <button type="button" id="vocabulary-shuffle-button" class="re-button">Shuffle</button> 
                 </div>
               </div>
@@ -318,15 +324,15 @@
 
   _fetchData();
 
-  fetch('vocabulary-n3-s.json')
-  .then(response => response.json())
-  .then(data => {
-    data.forEach(vocabulary => { 
-      vocabulary.level = 'n3';
-    });
+  // fetch('vocabulary-n3-s.json')
+  // .then(response => response.json())
+  // .then(data => {
+  //   data.forEach(vocabulary => { 
+  //     vocabulary.level = 'n3';
+  //   });
   
-    VOCABULARYLIST = VOCABULARYLIST.concat(data);
-  });
+  //   VOCABULARYLIST = VOCABULARYLIST.concat(data);
+  // });
   
   /* 
    * Helper Functions
@@ -443,7 +449,9 @@
 
     VOCABULARYLIST.forEach((v, index) => {
       let tr = document.createElement('tr');
-          tr.setAttribute('class', v.level);
+          tr.classList.add("vocabulary");
+          tr.classList.add(v.level);
+          tr.classList.add('v-' + v.id);
       table.appendChild(tr);
 
       let tdKanji = document.createElement('td');
@@ -534,6 +542,13 @@
     };
   };
 
+  const _getVocabularyOffsetCount = () => {
+    return {
+      offset: document.getElementById('vocabulary-offset').value,
+      count: document.getElementById('vocabulary-count').value
+    };
+  };
+
   /* 
    * Event Callback
    */
@@ -570,7 +585,7 @@
         _renderKanjiVocabularyList();
         break;
     }
-    _onOffsetCountChanged();
+    _onKanjiOffsetCountChanged();
   };
 
   const _onKanjiDisplayClicked = () => {
@@ -581,24 +596,24 @@
     display.unchecked.forEach(d => div.classList.add(d));
   };
 
-  const _onFontSizeChanged = () => {
+  const _onKanjiFontSizeChanged = () => {
     let fontSize = _getKanjiFontSize();
     let mode = _getKanjiMode();
     document.getElementById(mode === 'kanji' ? 'div-kanji-span-list' : 'div-kanji-vocabulary-list').setAttribute('style', 'font-size: ' + fontSize + '%;');
   };
 
-  const _onOffsetCountChanged = () => {
+  const _onKanjiOffsetCountChanged = () => {
     let filter = _getKanjiOffsetCount();
     let offset = parseInt(filter.offset);
     let count = parseInt(filter.count);
     
-    for (var j = 1; j < offset; j++) 
+    for (var j = 1; j <= offset; j++) 
       _hideElement('.kanji.k-'+ j);
 
-    for (var j = offset; j <= offset + count; j++)
+    for (var j = offset + 1; j <= offset + count; j++)
       _showElement('.kanji.k-'+ j);
 
-    for (var j = offset + count; j <= 2136; j++)
+    for (var j = offset + count + 1; j <= KANJILIST.length; j++)
       _hideElement('.kanji.k-'+ j);
   };
 
@@ -638,7 +653,7 @@
 
         break;
     }
-    _onOffsetCountChanged();
+    _onKanjiOffsetCountChanged();
   };
 
   const _onVocabularyNavClicked = () => {
@@ -659,13 +674,28 @@
     display.unchecked.forEach(d => div.classList.add(d));
   };
 
+  const _onVocabularyOffsetCountChanged = () => {
+    let filter = _getVocabularyOffsetCount();
+    let offset = parseInt(filter.offset);
+    let count = parseInt(filter.count);
+    
+    for (var j = 1; j <= offset; j++) 
+      _hideElement('.vocabulary.v-'+ j);
+
+    for (var j = offset + 1; j <= offset + count; j++)
+      _showElement('.vocabulary.v-'+ j);
+
+    for (var j = offset + count + 1; j <= VOCABULARYLIST.length; j++)
+      _hideElement('.vocabulary.v-'+ j);
+  };
+
   const _onShuffleVocabularyClicked = () => {
     _shuffle(VOCABULARYLIST);
     _renderVocabularyList();
 
     document.querySelectorAll('body tr').forEach((checkbox) => checkbox.onclick = function(e) { 			
     let tr = e.target.parentElement.textContent;
-      //console.log(tr);
+
     let obj = VOCABULARYLIST.find( v => (v.kanji ? tr.includes(v.kanji) : true)
 										                 && (v.kana ? tr.includes(v.kana): true) 
 										                 && (v.meaning ? tr.includes(v.meaning) : true));
@@ -674,6 +704,7 @@
       e.target.closest('tr').remove();
     });
 
+    _onVocabularyOffsetCountChanged();
   };
 
   const _onKeyPress = (k) => {
@@ -759,13 +790,15 @@
   document.querySelectorAll('input[name="kanji-level"]').forEach((checkbox) => checkbox.onclick = _onKanjiLevelClicked);
   document.getElementById('kanji-mode').onchange = _onKanjiModeClicked;
   document.querySelectorAll('input[name="kanji-display"]').forEach((checkbox) => checkbox.onclick = _onKanjiDisplayClicked);
-  document.getElementById('kanji-span-list-font-size').onchange = _onFontSizeChanged;
-  document.getElementById('kanji-offset').onchange = _onOffsetCountChanged;
-  document.getElementById('kanji-count').onchange = _onOffsetCountChanged;
+  document.getElementById('kanji-span-list-font-size').onchange = _onKanjiFontSizeChanged;
+  document.getElementById('kanji-offset').onchange = _onKanjiOffsetCountChanged;
+  document.getElementById('kanji-count').onchange = _onKanjiOffsetCountChanged;
   document.getElementById('kanji-shuffle-button').onclick = _onShuffleKanjiClicked;
 
   document.querySelectorAll('input[name="vocabulary-level"]').forEach((checkbox) => checkbox.onclick = _onVocabularyLevelClicked);
   document.querySelectorAll('input[name="vocabulary-display"]').forEach((checkbox) => checkbox.onclick = _onVocabularyDisplayClicked);
+  document.getElementById('vocabulary-offset').onchange = _onVocabularyOffsetCountChanged;
+  document.getElementById('vocabulary-count').onchange = _onVocabularyOffsetCountChanged;
   document.getElementById('vocabulary-shuffle-button').onclick = _onShuffleVocabularyClicked;
 
   document.getElementById('kanji-nav').onclick = _onKanjiNavClicked;
