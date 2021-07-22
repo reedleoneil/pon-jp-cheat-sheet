@@ -4032,7 +4032,7 @@
   {
     "kanji": null,
     "kana": "スタートボタンをクリックする",
-    "meaning": "clickc on the start button"
+    "meaning": "click on the start button"
   },
   {
     "kanji": "ファイルを開く",
@@ -4065,11 +4065,6 @@
     "meaning": "get information"
   },
   {
-    "kanji": "情報を得る",
-    "kana": "じょうほうをえる",
-    "meaning": "get information"
-  },
-  {
     "kanji": "オークションに参加する",
     "kana": "オークションにさんかする",
     "meaning": "take part in the auction"
@@ -4080,8 +4075,8 @@
     "meaning": "put something on auction"
   },
   {
-    "kanji": "品物する",
-    "kana": "しなものする",
+    "kanji": "出品する",
+    "kana": "しゅっぴんする",
     "meaning": "put something on display"
   },
   {
@@ -4181,7 +4176,7 @@
   },
   {
     "kanji": "写真を添付する",
-    "kana": "写真をてんぷする",
+    "kana": "しゃしんをてんぷする",
     "meaning": "attach a photo"
   },
   {
@@ -4192,7 +4187,7 @@
   {
     "kanji": "送信者の（メール）アドレスを登録する",
     "kana": "そうしんしゃの（メール）アドレスをとうろくする",
-    "meaning": "save the email) address of the sender in the address book"
+    "meaning": "save the (email) address of the sender in the address book"
   },
   {
     "kanji": "アドレス帳",
