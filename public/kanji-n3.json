@@ -5463,5 +5463,361 @@
           "meaning": "continent"
         }
       ]
+    },
+    {
+      "kanji": "緑",
+      "meaning": "green",
+      "vocabulary": [
+        {
+          "kanji": "緑",
+          "kana": "みどり",
+          "meaning": "green, greenery"
+        },
+        {
+          "kanji": "緑茶",
+          "kana": "りょくちゃ",
+          "meaning": "green tea"
+        }
+      ]
+    },
+    {
+      "kanji": "景",
+      "meaning": "scenery, view",
+      "vocabulary": [
+        {
+          "kanji": "景気",
+          "kana": "けいき",
+          "meaning": "condition, state"
+        },
+        {
+          "kanji": "景色",
+          "kana": "けしき",
+          "meaning": "landscape"
+        },
+        {
+          "kanji": "風景",
+          "kana": "ふうけい",
+          "meaning": "scenery, scene, landscape, view"
+        }
+      ]
+    },
+    {
+      "kanji": "植",
+      "meaning": "plant",
+      "vocabulary": [
+        {
+          "kanji": "植える",
+          "kana": "うえる",
+          "meaning": "to plant , to grow"
+        },
+        {
+          "kanji": "植物",
+          "kana": "しょくぶつ",
+          "meaning": "plant, vegetation"
+        }
+      ]
+    },
+    {
+      "kanji": "植",
+      "meaning": "plant",
+      "vocabulary": [
+        {
+          "kanji": "植える",
+          "kana": "うえる",
+          "meaning": "to plant , to grow"
+        },
+        {
+          "kanji": "植物",
+          "kana": "しょくぶつ",
+          "meaning": "plant, vegetation"
+        }
+      ]
+    },
+    {
+      "kanji": "種",
+      "meaning": "species, kind, variety, seed",
+      "vocabulary": [
+        {
+          "kanji": "種類",
+          "kana": "しゅるい",
+          "meaning": "variety, kind, type, category"
+        },
+        {
+          "kanji": "一種",
+          "kana": "いっしゅ",
+          "meaning": "species, variety"
+        }
+      ]
+    },
+    {
+      "kanji": "庭",
+      "meaning": "courtyard, garden, yard",
+      "vocabulary": [
+        {
+          "kanji": "庭",
+          "kana": "にわ",
+          "meaning": "garden, yard, courtyard"
+        },
+        {
+          "kanji": "家庭",
+          "kana": "かてい",
+          "meaning": "household"
+        },
+        {
+          "kanji": "校庭",
+          "kana": "こうてい",
+          "meaning": "school campus"
+        }
+      ]
+    },
+    {
+      "kanji": "震",
+      "meaning": "quake, shake, trunble, shiver",
+      "vocabulary": [
+        {
+          "kanji": "震える",
+          "kana": "ふるえる",
+          "meaning": "to shiver, to shake, to quake, to tremble"
+        },
+        {
+          "kanji": "地震",
+          "kana": "じしん",
+          "meaning": "earthquake"
+        },
+        {
+          "kanji": "震度",
+          "kana": "しんど",
+          "meaning": "seismic intensity"
+        }
+      ]
+    },
+    {
+      "kanji": "岩",
+      "meaning": "boulder, rock, cliff",
+      "vocabulary": [
+        {
+          "kanji": "岩",
+          "kana": "いわ",
+          "meaning": "rock, boulder"
+        },
+        {
+          "kanji": "岩石",
+          "kana": "がんせき",
+          "meaning": "rock"
+        }
+      ]
+    },
+    {
+      "kanji": "坂",
+      "meaning": "slope, dincline hil",
+      "vocabulary": [
+        {
+          "kanji": "坂",
+          "kana": "さか",
+          "meaning": "slope, hill"
+        },
+        {
+          "kanji": "坂道",
+          "kana": "さかみち",
+          "meaning": "hill road"
+        }
+      ]
+    },
+    {
+      "kanji": "谷",
+      "meaning": "valley",
+      "vocabulary": [
+        {
+          "kanji": "谷",
+          "kana": "たに",
+          "meaning": "valley"
+        },
+        {
+          "kanji": "谷間",
+          "kana": "たにま",
+          "meaning": "valley, ravine"
+        }
+      ]
+    },
+    {
+      "kanji": "湖",
+      "meaning": "lake",
+      "vocabulary": [
+        {
+          "kanji": "湖",
+          "kana": "みずうみ",
+          "meaning": "lake"
+        },
+        {
+          "kanji": "～湖",
+          "kana": "～こ",
+          "meaning": "lake"
+        }
+      ]
+    },
+    {
+      "kanji": "波",
+      "meaning": "waves, billows, Poland",
+      "vocabulary": [
+        {
+          "kanji": "波",
+          "kana": "なみ",
+          "meaning": "wave"
+        },
+        {
+          "kanji": "津波",
+          "kana": "つなみ",
+          "meaning": "tsunami, tidal wave"
+        },
+        {
+          "kanji": "電波",
+          "kana": "でんぱ",
+          "meaning": "electromagnetic wave, radio wave, reception, signal"
+        }
+      ]
+    },
+    {
+      "kanji": "岸",
+      "meaning": "beach",
+      "vocabulary": [
+        {
+          "kanji": "岸",
+          "kana": "きし",
+          "meaning": "bank, coast, shore"
+        },
+        {
+          "kanji": "海岸",
+          "kana": "かいがん",
+          "meaning": "coast, beach"
+        },
+        {
+          "kanji": "川岸",
+          "kana": "かわぎし",
+          "meaning": "riverbank, riverside"
+        }
+      ]
+    },
+    {
+      "kanji": "域",
+      "meaning": "range, region, limits, stage, level",
+      "vocabulary": [
+        {
+          "kanji": "地域",
+          "kana": "ちいき",
+          "meaning": "area, region"
+        }
+      ]
+    },
+    {
+      "kanji": "境",
+      "meaning": "boundary, border, region",
+      "vocabulary": [
+        {
+          "kanji": "境界",
+          "kana": "きょうかい",
+          "meaning": "boundary"
+        },
+        {
+          "kanji": "環境",
+          "kana": "かんきょう",
+          "meaning": "environment"
+        }
+      ]
+    },
+    {
+      "kanji": "燃",
+      "meaning": "burn, blaze, glow",
+      "vocabulary": [
+        {
+          "kanji": "燃える",
+          "kana": "もえる",
+          "meaning": "to burn, to get fired up"
+        },
+        {
+          "kanji": "燃料",
+          "kana": "ねんりょう",
+          "meaning": "fuel"
+        }
+      ]
+    },
+    {
+      "kanji": "焼",
+      "meaning": "bake, burning",
+      "vocabulary": [
+        {
+          "kanji": "焼く",
+          "kana": "やく",
+          "meaning": "to burn,to roast, to grill"
+        },
+        {
+          "kanji": "焼ける",
+          "kana": "やける",
+          "meaning": "to be roasted, to burn, to be sunburnt"
+        },
+        {
+          "kanji": "焼肉",
+          "kana": "やきにく",
+          "meaning": "yakiniku, Korean barbecue"
+        }
+      ]
+    },
+    {
+      "kanji": "宇",
+      "meaning": "eaves, roofs, house, heaven",
+      "vocabulary": [
+        {
+          "kanji": "宇宙",
+          "kana": "うちゅう",
+          "meaning": "universe, cosmos, space"
+        }
+      ]
+    },
+    {
+      "kanji": "宙",
+      "meaning": "mid-air, air, space, sky",
+      "vocabulary": [
+        {
+          "kanji": "宇宙",
+          "kana": "うちゅう",
+          "meaning": "universe, cosmos, space"
+        }
+      ]
+    },
+    {
+      "kanji": "陽",
+      "meaning": "sunshine, positive, heaven, daytime",
+      "vocabulary": [
+        {
+          "kanji": "太陽",
+          "kana": "たいよう",
+          "meaning": "sun, solar"
+        }
+      ]
+    },
+    {
+      "kanji": "球",
+      "meaning": "ball, sphere",
+      "vocabulary": [
+        {
+          "kanji": "球",
+          "kana": "たま",
+          "meaning": "ball, shpere, globe"
+        },
+        {
+          "kanji": "地球",
+          "kana": "ちきゅう",
+          "meaning": "the earth, the globe"
+        },
+        {
+          "kanji": "電球",
+          "kana": "でんきゅう",
+          "meaning": "light bulb"
+        },
+        {
+          "kanji": "野球",
+          "kana": "やきゅう",
+          "meaning": "baseball"
+        }
+      ]
     }
   ]
