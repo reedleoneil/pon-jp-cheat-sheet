@@ -626,11 +626,9 @@
         KANJILIST.forEach(k => _shuffle(k.vocabulary));
         _renderKanjiSpanList();
       
-        document.querySelectorAll('body span').forEach((checkbox) => checkbox.onclick = function(e) { 			
+        document.querySelectorAll('body span').forEach((s) => s.onclick = function(e) {
           let span = e.target.textContent;
-          console.log(span);
           let obj = KANJILIST.find( k => k.kanji = span);
-          console.log(obj);
           KANJILIST = KANJILIST.filter(k => k.kanji != obj.kanji);
           e.target.remove();
         });
@@ -640,13 +638,11 @@
         _shuffle(KANJIVOCABULARYLIST);
         _renderKanjiVocabularyList();
 
-        document.querySelectorAll('body tr').forEach((checkbox) => checkbox.onclick = function(e) { 			
-          let tr = e.target.parentElement.textContent;
-          //console.log(tr);
-          let obj = KANJIVOCABULARYLIST.find( v => (v.kanji ? tr.includes(v.kanji) : true)
+        document.querySelectorAll('body tr').forEach((t) => t.onclick = function(e) {
+          let tr = e.target.closest('tr').textContent;
+          let obj = KANJIVOCABULARYLIST.find(v => (v.kanji ? tr.includes(v.kanji) : true)
 		    								                 && (v.kana ? tr.includes(v.kana): true) 
 		    								                 && (v.meaning ? tr.includes(v.meaning) : true));
-          console.log(obj);
           KANJIVOCABULARYLIST = KANJIVOCABULARYLIST.filter(v => v != obj);
           e.target.closest('tr').remove();
         });
@@ -693,13 +689,11 @@
     _shuffle(VOCABULARYLIST);
     _renderVocabularyList();
 
-    document.querySelectorAll('body tr').forEach((checkbox) => checkbox.onclick = function(e) { 			
-    let tr = e.target.parentElement.textContent;
-
-    let obj = VOCABULARYLIST.find( v => (v.kanji ? tr.includes(v.kanji) : true)
+    document.querySelectorAll('body tr').forEach((t) => t.onclick = function(e) { 			
+      let tr = e.target.closest('tr').textContent;
+      let obj = VOCABULARYLIST.find(v => (v.kanji ? tr.includes(v.kanji) : true)
 										                 && (v.kana ? tr.includes(v.kana): true) 
 										                 && (v.meaning ? tr.includes(v.meaning) : true));
-      console.log(obj);
       VOCABULARYLIST = VOCABULARYLIST.filter(v => v != obj);
       e.target.closest('tr').remove();
     });
