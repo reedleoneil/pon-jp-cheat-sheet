@@ -286,6 +286,10 @@
   var KANJIVOCABULARYLIST = [];
   var VOCABULARYLIST = [];
 
+  var KANJILISTCOUNT;
+  var KANJIVOCABULARYLISTCOUNT;
+  var VOCABULARYLISTCOUNT;
+
   const _fetchData = (level = 5) => {
     let _level = level;
     fetch('kanji-n' + _level + '.json')
@@ -302,9 +306,11 @@
       });
 
       KANJILIST = KANJILIST.concat(data);
+      KANJILISTCOUNT = KANJILIST.length;
 
       KANJILIST.forEach(kanji => { 
         KANJIVOCABULARYLIST = KANJIVOCABULARYLIST.concat(kanji.vocabulary);
+        KANJIVOCABULARYLISTCOUNT = KANJIVOCABULARYLIST.length;
       });
     });
 
@@ -317,6 +323,7 @@
       });
    
       VOCABULARYLIST = VOCABULARYLIST.concat(data);
+      VOCABULARYLISTCOUNT = VOCABULARYLIST.length;
     });
 
     if (--level >= 3) { _fetchData(level); }
@@ -613,7 +620,7 @@
     for (var j = offset + 1; j <= offset + count; j++)
       _showElement('.kanji.k-'+ j);
 
-    for (var j = offset + count + 1; j <= KANJILIST.length; j++)
+    for (var j = offset + count + 1; j <= KANJILISTCOUNT; j++)
       _hideElement('.kanji.k-'+ j);
   };
 
@@ -681,7 +688,7 @@
     for (var j = offset + 1; j <= offset + count; j++)
       _showElement('.vocabulary.v-'+ j);
 
-    for (var j = offset + count + 1; j <= VOCABULARYLIST.length; j++)
+    for (var j = offset + count + 1; j <= VOCABULARYLISTCOUNT; j++)
       _hideElement('.vocabulary.v-'+ j);
   };
 
