@@ -628,8 +628,8 @@
       
         document.querySelectorAll('body span').forEach((s) => s.onclick = function(e) {
           let span = e.target.textContent;
-          let obj = KANJILIST.find( k => k.kanji = span);
-          KANJILIST = KANJILIST.filter(k => k.kanji != obj.kanji);
+          let obj = KANJILIST.find( k => k.kanji == span);
+          KANJILIST = KANJILIST.filter(k => k.id != obj.id);
           e.target.remove();
         });
 
