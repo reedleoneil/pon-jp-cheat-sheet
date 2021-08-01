@@ -3576,7 +3576,7 @@
   },
   {
     "kanji": "学者",
-    "kana": "学者",
+    "kana": "がくしゃ",
     "meaning": "scholar"
   },
   {
@@ -3800,7 +3800,7 @@
     "meaning": "work part-time at a restaurant"
   },
   {
-    "kanji": "工場デパート",
+    "kanji": "工場でパート",
     "kana": "こうじょうでパート",
     "meaning": "work part-time at a factory"
   },
@@ -4198,5 +4198,195 @@
     "kanji": "送信が完了する",
     "kana": "そうしんがかんりょうする",
     "meaning": "messages been sent"
+  },
+  {
+    "kanji": "夫婦",
+    "kana": "ふうふ",
+    "meaning": "married couple"
+  },
+  {
+    "kanji": "夫",
+    "kana": "おっと",
+    "meaning": "husband"
+  },
+  {
+    "kanji": "妻",
+    "kana": "つま",
+    "meaning": "wife"
+  },
+  {
+    "kanji": "長男",
+    "kana": "ちょうなん",
+    "meaning": "eldest son"
+  },
+  {
+    "kanji": "次男",
+    "kana": "じなん",
+    "meaning": "second son"
+  },
+  {
+    "kanji": "長女",
+    "kana": "ちょうじょ",
+    "meaning": "eldest daughter"
+  },
+  {
+    "kanji": "次女",
+    "kana": "じじょ",
+    "meaning": "second daughter"
+  },
+  {
+    "kanji": "三男",
+    "kana": "さんなん",
+    "meaning": "third son"
+  },
+  {
+    "kanji": "末子",
+    "kana": "すえこ",
+    "meaning": "youngest child"
+  },
+  {
+    "kanji": "叔父",
+    "kana": "おじ",
+    "meaning": "uncle"
+  },
+  {
+    "kanji": "叔父",
+    "kana": "おじ",
+    "meaning": "uncle"
+  },
+  {
+    "kanji": "叔母",
+    "kana": "おば",
+    "meaning": "aunt"
+  },
+  {
+    "kanji": "職場の同僚",
+    "kana": "しょくばのどうりょう",
+    "meaning": "colleague"
+  },
+  {
+    "kanji": "職場の上司",
+    "kana": "しょくばのじょうし",
+    "meaning": "boss"
+  },
+  {
+    "kanji": "部下",
+    "kana": "ぶか",
+    "meaning": "subordinate"
+  },
+  {
+    "kanji": "会社の先輩",
+    "kana": "かいしゃのせんぱい",
+    "meaning": "someone wo has been in the company longer than you are"
+  },
+  {
+    "kanji": "会社の後輩",
+    "kana": "かいしゃのこうはい",
+    "meaning": "someone who joineed the company after you"
+  },
+  {
+    "kanji": "部長",
+    "kana": "ぶちょう",
+    "meaning": "manager"
+  },
+  {
+    "kanji": "課長",
+    "kana": "かちょう",
+    "meaning": "chief"
+  },
+  {
+    "kanji": "大学生",
+    "kana": "だいがくせい",
+    "meaning": "uniersity student"
+  },
+  {
+    "kanji": "高校生",
+    "kana": "こうこうせい",
+    "meaning": "high school student"
+  },
+  {
+    "kanji": "中学生",
+    "kana": "ちゅうがくせい",
+    "meaning": "junior high school student"
+  },
+  {
+    "kanji": "小学生",
+    "kana": "しょうがくせい",
+    "meaning": "primary school student"
+  },
+  {
+    "kanji": "会社員",
+    "kana": "かいしゃいん",
+    "meaning": "office worker"
+  },
+  {
+    "kanji": null,
+    "kana": "サラリーマン",
+    "meaning": "business man"
+  },
+  {
+    "kanji": "主婦",
+    "kana": "しゅふ",
+    "meaning": "housewife"
+  },
+  {
+    "kanji": "教師",
+    "kana": "きょうし",
+    "meaning": "teacher"
+  },
+  {
+    "kanji": "６人兄弟の末っ子",
+    "kana": "６にんきょうだいのすえっこ",
+    "meaning": "the youngest of the six brothers"
+  },
+  {
+    "kanji": "３人姉妹の一番上",
+    "kana": "３にんしまいのいちばんうえ",
+    "meaning": "the oldeset of three sisters"
+  },
+  {
+    "kanji": "親戚",
+    "kana": "しんせき",
+    "meaning": "relatives"
+  },
+  {
+    "kanji": "親類",
+    "kana": "しんるい",
+    "meaning": "relatives"
+  },
+  {
+    "kanji": "孫",
+    "kana": "まご",
+    "meaning": "grandchild"
+  },
+  {
+    "kanji": "甥",
+    "kana": "おい",
+    "meaning": "nephew"
+  },
+  {
+    "kanji": "姪",
+    "kana": "めい",
+    "meaning": "niece"
+  },
+  {
+    "kanji": "従",
+    "kana": "いとこ",
+    "meaning": "cousin"
+  },
+  {
+    "kanji": "一人っ子",
+    "kana": "ひとりっこ",
+    "meaning": "an only child"
+  },
+  {
+    "kanji": "一人息子",
+    "kana": "ひとりむすこ",
+    "meaning": "the only son"
+  },
+  {
+    "kanji": "一人娘",
+    "kana": "ひとりむすめ",
+    "meaning": "the only daugther"
   }
 ]
