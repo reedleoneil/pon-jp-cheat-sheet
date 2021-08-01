@@ -4240,8 +4240,8 @@
     "meaning": "third son"
   },
   {
-    "kanji": "末子",
-    "kana": "すえこ",
+    "kanji": "末っ子",
+    "kana": "すえっこ",
     "meaning": "youngest child"
   },
   {
@@ -4388,5 +4388,70 @@
     "kanji": "一人娘",
     "kana": "ひとりむすめ",
     "meaning": "the only daugther"
+  },
+  {
+    "kanji": "お国はどちらですか。",
+    "kana": "おくにはどちらですか。",
+    "meaning": "Where are you from?"
+  },
+  {
+    "kanji": "お生まれはどちらですか。",
+    "kana": "おうまれはどちらですか。",
+    "meaning": "Where are you from?"
+  },
+  {
+    "kanji": "どちらの出身ですか。",
+    "kana": "どちらのしゅっしんですか。",
+    "meaning": "Where are you from?"
+  },
+  {
+    "kanji": "イギリス出身です。",
+    "kana": "イギリスしゅっしんです。",
+    "meaning": "I am a British."
+  },
+  {
+    "kanji": "お住まいはどちらですか。",
+    "kana": "おすまいはどちらですか。",
+    "meaning": "Where do you live?"
+  },
+  {
+    "kanji": "この近くです。",
+    "kana": "このちかくです。",
+    "meaning": "I live near here."
+  },
+  {
+    "kanji": "先日はありがとうございました。",
+    "kana": "せんじつはありがとうございました。",
+    "meaning": "Thank you for your kindness."
+  },
+  {
+    "kanji": null,
+    "kana": "とんでもないです。こちらこそ。",
+    "meaning": "Please do not mention it. You are very welcome. Not at all."
+  },
+  {
+    "kanji": "どうぞお上がりください。",
+    "kana": "どうぞおあがりください。",
+    "meaning": "Please come in."
+  },
+  {
+    "kanji": "お邪魔します。",
+    "kana": "おじゃまします。",
+    "meaning": "Thank you."
+  },
+  {
+    "kanji": "こちらでおかけになってお待ちください。",
+    "kana": "こちらでかけになっておまちください。",
+    "meaning": "Please have a seat here."
+  },
+  {
+    "kanji": "お茶をお持ちします。",
+    "kana": "おちゃをおもちします。",
+    "meaning": "Thank you."
+  },
+  {
+    "kanji": null,
+    "kana": "どうぞおかまいなく。",
+    "meaning": "You really don't need to."
   }
 ]
