@@ -4250,11 +4250,6 @@
     "meaning": "uncle"
   },
   {
-    "kanji": "叔父",
-    "kana": "おじ",
-    "meaning": "uncle"
-  },
-  {
     "kanji": "叔母",
     "kana": "おば",
     "meaning": "aunt"
@@ -4447,7 +4442,7 @@
   {
     "kanji": "お茶をお持ちします。",
     "kana": "おちゃをおもちします。",
-    "meaning": "Thank you."
+    "meaning": "I will bring some tea."
   },
   {
     "kanji": null,
@@ -4477,7 +4472,7 @@
   {
     "kanji": "田中さんのご主人、亡くなったそうですよ。",
     "kana": "たなかさんのごしゅじん、なくなったそうですよ。",
-    "meaning": "I have heardd that Tanaka-san's husband passedd away."
+    "meaning": "I have heard that Tanaka-san's husband passed away."
   },
   {
     "kanji": "そうですか。お気の毒に。",
@@ -4507,11 +4502,11 @@
   {
     "kanji": "お先に。",
     "kana": "おさきに。",
-    "meaning": "Good by!"
+    "meaning": "Good bye!"
   },
   {
     "kanji": "お疲れさまでした。",
     "kana": "おつかれさまでした。",
-    "meaning": "You must bee tired. Good night!"
+    "meaning": "You must be tired. Good night!"
   }
 ]
