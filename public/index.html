@@ -638,6 +638,7 @@
           let obj = KANJILIST.find( k => k.kanji == span);
           KANJILIST = KANJILIST.filter(k => k.id != obj.id);
           e.target.remove();
+          Array.from(document.querySelectorAll('.popover')).forEach(p => _hideElement("#" + p.id));
         });
 
         break;
