@@ -2314,19 +2314,19 @@
       "kanji": "供",
       "meaning": "submit, offer, serve (meal), accompany",
       "vocabulary": [
-         {
-            "kanji": "子供",
-            "kana": "こども",
-            "meaning": "grandchild"
-         },
-         {
-            "kanji": "供える",
-            "kana": "そなえる",
-            "meaning": "to offer, to sacrifice, to dedicate​"
-         }
+        {
+          "kanji": "子供",
+          "kana": "こども",
+          "meaning": "child"
+        },
+        {
+          "kanji": "供える",
+          "kana": "そなえる",
+          "meaning": "to offer, to sacrifice, to dedicate​"
+        }
       ]
-   },
-   {
+    },
+    {
       "kanji": "息",
       "meaning": "breath, respiration, son",
       "vocabulary": [
