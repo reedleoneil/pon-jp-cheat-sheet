@@ -4250,11 +4250,6 @@
     "meaning": "uncle"
   },
   {
-    "kanji": "叔父",
-    "kana": "おじ",
-    "meaning": "uncle"
-  },
-  {
     "kanji": "叔母",
     "kana": "おば",
     "meaning": "aunt"
@@ -4282,7 +4277,7 @@
   {
     "kanji": "会社の後輩",
     "kana": "かいしゃのこうはい",
-    "meaning": "someone who joineed the company after you"
+    "meaning": "someone who joined the company after you"
   },
   {
     "kanji": "部長",
@@ -4297,7 +4292,7 @@
   {
     "kanji": "大学生",
     "kana": "だいがくせい",
-    "meaning": "uniersity student"
+    "meaning": "university student"
   },
   {
     "kanji": "高校生",
@@ -4447,7 +4442,7 @@
   {
     "kanji": "お茶をお持ちします。",
     "kana": "おちゃをおもちします。",
-    "meaning": "Thank you."
+    "meaning": "I will bring some tea."
   },
   {
     "kanji": null,
@@ -4477,7 +4472,7 @@
   {
     "kanji": "田中さんのご主人、亡くなったそうですよ。",
     "kana": "たなかさんのごしゅじん、なくなったそうですよ。",
-    "meaning": "I have heardd that Tanaka-san's husband passedd away."
+    "meaning": "I have heard that Tanaka-san's husband passed away."
   },
   {
     "kanji": "そうですか。お気の毒に。",
@@ -4507,11 +4502,716 @@
   {
     "kanji": "お先に。",
     "kana": "おさきに。",
-    "meaning": "Good by!"
+    "meaning": "Good bye!"
   },
   {
     "kanji": "お疲れさまでした。",
     "kana": "おつかれさまでした。",
-    "meaning": "You must bee tired. Good night!"
+    "meaning": "You must be tired. Good night!"
+  },
+  {
+    "kanji": "賢い",
+    "kana": "かしこい",
+    "meaning": "smart"
+  },
+  {
+    "kanji": "礼儀正し",
+    "kana": "れいぎただし",
+    "meaning": "polite"
+  },
+  {
+    "kanji": "正直な",
+    "kana": "しょうじきな",
+    "meaning": "honest"
+  },
+  {
+    "kanji": "正直に言うと",
+    "kana": "しょうじきにいうと",
+    "meaning": "to be honest with you"
+  },
+  {
+    "kanji": "素直な",
+    "kana": "すなおな",
+    "meaning": "gentle"
+  },
+  {
+    "kanji": "純粋な",
+    "kana": "じゅんすいな",
+    "meaning": "innocent"
+  },
+  {
+    "kanji": "純粋な気持ち",
+    "kana": "じゅんすいなきもち",
+    "meaning": "genuine opinion"
+  },
+  {
+    "kanji": null,
+    "kana": "かっこいい",
+    "meaning": "cool"
+  },
+  {
+    "kanji": "かっこ悪い",
+    "kana": "かっこわるい",
+    "meaning": "not cool"
+  },
+  {
+    "kanji": "勇気のある",
+    "kana": "ゆうきのある",
+    "meaning": "brave"
+  },
+  {
+    "kanji": null,
+    "kana": "ユーモアのある",
+    "meaning": "humorous"
+  },
+  {
+    "kanji": "積極的な",
+    "kana": "せっきょくてきな",
+    "meaning": "positive"
+  },
+  {
+    "kanji": "消極的な",
+    "kana": "しょうきょくてきな",
+    "meaning": "negative"
+  },
+  {
+    "kanji": "落ち着いている",
+    "kana": "おちついている",
+    "meaning": "self-possesed"
+  },
+  {
+    "kanji": "落ち着く",
+    "kana": "おちつく",
+    "meaning": "settle down"
+  },
+  {
+    "kanji": "大人しい",
+    "kana": "おとなしい",
+    "meaning": "quiet"
+  },
+  {
+    "kanji": "真面目な",
+    "kana": "まじめな",
+    "meaning": "diligent"
+  },
+  {
+    "kanji": "呑気な",
+    "kana": "のんきな",
+    "meaning": "easy-going"
+  },
+  {
+    "kanji": null,
+    "kana": "ハンサムな",
+    "meaning": "good-looking"
+  },
+  {
+    "kanji": "美人",
+    "kana": "びじん",
+    "meaning": "beautiful woman"
+  },
+  {
+    "kanji": null,
+    "kana": "スマートな",
+    "meaning": "slim"
+  },
+  {
+    "kanji": "意地悪な",
+    "kana": "いじわるな",
+    "meaning": "mean"
+  },
+  {
+    "kanji": "意地悪をする",
+    "kana": "いじわるをする",
+    "meaning": "be nasty"
+  },
+  {
+    "kanji": "嘘をつく",
+    "kana": "うそをつく",
+    "meaning": "lie"
+  },
+  {
+    "kanji": "嘘つき",
+    "kana": "うそつき",
+    "meaning": "liar"
+  },
+  {
+    "kanji": null,
+    "kana": "ずるい",
+    "meaning": "dishonest"
+  },
+  {
+    "kanji": null,
+    "kana": "「ずるい！」",
+    "meaning": "Not fair!"
+  },
+  {
+    "kanji": "図々しい",
+    "kana": "ずうずうしい",
+    "meaning": "insolent"
+  },
+  {
+    "kanji": null,
+    "kana": "しつこい",
+    "meaning": "pesky"
+  },
+  {
+    "kanji": "しつこく注意する",
+    "kana": "しつこくちゅういする",
+    "meaning": "warn persistently"
+  },
+  {
+    "kanji": null,
+    "kana": "だらしない",
+    "meaning": "sloppy"
+  },
+  {
+    "kanji": null,
+    "kana": "ケチな",
+    "meaning": "stingy"
+  },
+  {
+    "kanji": null,
+    "kana": "いいかげんな",
+    "meaning": "irresponsible"
+  },
+  {
+    "kanji": "無責任な",
+    "kana": "むせきにんな",
+    "meaning": "irresponsible"
+  },
+  {
+    "kanji": "いいかげんなことを言う",
+    "kana": "いいかげんなことをいう",
+    "meaning": "talk nonsense"
+  },
+  {
+    "kanji": null,
+    "kana": "「いいかげんにしろ！」",
+    "meaning": "Enough nonsense!"
+  },
+  {
+    "kanji": "体の調子が悪い",
+    "kana": "からだのちょうしがわるい",
+    "meaning": "not feel well"
+  },
+  {
+    "kanji": null,
+    "kana": "めまいがする",
+    "meaning": "feel dizzy"
+  },
+  {
+    "kanji": "頭痛がする",
+    "kana": "ずつうがする",
+    "meaning": "have a headache"
+  },
+  {
+    "kanji": "胃が痛い",
+    "kana": "いがいたい",
+    "meaning": "have a stomachache"
+  },
+  {
+    "kanji": "腰が痛い",
+    "kana": "こしがいたい",
+    "meaning": "have a back pain"
+  },
+  {
+    "kanji": "息が苦しい",
+    "kana": "いきがくるしい",
+    "meaning": "feel suffocated"
+  },
+  {
+    "kanji": "苦しめる",
+    "kana": "くるしめる",
+    "meaning": "be in pain"
+  },
+  {
+    "kanji": "鼻が詰まる",
+    "kana": "はながつまる",
+    "meaning": "be stuffed up"
+  },
+  {
+    "kanji": "鼻をかむ",
+    "kana": "はなをかむ",
+    "meaning": "blow one's nose"
+  },
+  {
+    "kanji": "吐き気がする",
+    "kana": "はきけがする",
+    "meaning": "feel sick"
+  },
+  {
+    "kanji": "吐く",
+    "kana": "はく",
+    "meaning": "vomit"
+  },
+  {
+    "kanji": "気分が悪い",
+    "kana": "きぶんがわるい",
+    "meaning": "feel sick"
+  },
+  {
+    "kanji": "気持ちが悪い",
+    "kana": "きもちがわるい",
+    "meaning": "feel sick"
+  },
+  {
+    "kanji": "目がかゆい",
+    "kana": "めがかゆい",
+    "meaning": "have an itchy eye"
+  },
+  {
+    "kanji": "目をこする",
+    "kana": "めをこする",
+    "meaning": "rub one's eye"
+  },
+  {
+    "kanji": "目をかく",
+    "kana": "めをかく",
+    "meaning": "rub one's eye"
+  },
+  {
+    "kanji": "風邪を引いてつらい",
+    "kana": "かぜをひいてつらい",
+    "meaning": "feel terible because of one's cold"
+  },
+  {
+    "kanji": null,
+    "kana": "アレルギーがある",
+    "meaning": "be allergic to..."
+  },
+  {
+    "kanji": "お世話になりました",
+    "kana": "おせわになりました",
+    "meaning": "Thank you for your kind help."
+  },
+  {
+    "kanji": "お大事に",
+    "kana": "おだいじに",
+    "meaning": "I hope you will get well soon."
+  },
+  {
+    "kanji": "専門の医師にみてもらう",
+    "kana": "せんもんのいしにみてもらう",
+    "meaning": "see a specialist (doctor)"
+  },
+  {
+    "kanji": "医師の診察を受ける",
+    "kana": "いしのしんさつをうける",
+    "meaning": "see the doctor"
+  },
+  {
+    "kanji": "歯医者にかかる",
+    "kana": "はいしゃにかかる",
+    "meaning": "go to see a dentist"
+  },
+  {
+    "kanji": null,
+    "kana": "インフルエンザにかかる",
+    "meaning": "get a flu"
+  },
+  {
+    "kanji": "病気の症状",
+    "kana": "びょうきのしょうじょう",
+    "meaning": "symptoms of a sickness"
+  },
+  {
+    "kanji": "注射をしてもらう",
+    "kana": "ちゅうしゃをしてもらう",
+    "meaning": "get a shot"
+  },
+  {
+    "kanji": "手術を受ける",
+    "kana": "しゅじゅつをうける",
+    "meaning": "have an operation"
+  },
+  {
+    "kanji": "痛みを我慢する",
+    "kana": "いたみをがまんする",
+    "meaning": "endure pain"
+  },
+  {
+    "kanji": "花粉症になる",
+    "kana": "かふんしょうになる",
+    "meaning": "suffer from a hay fever"
+  },
+  {
+    "kanji": "けがを治す",
+    "kana": "けがをなおす",
+    "meaning": "take care of an injury"
+  },
+  {
+    "kanji": "手の傷",
+    "kana": "てのきず",
+    "meaning": "a cut/wound on the hand"
+  },
+  {
+    "kanji": null,
+    "kana": "やけどをする",
+    "meaning": "get burned"
+  },
+  {
+    "kanji": "大したことがない",
+    "kana": "たいしたことがない",
+    "meaning": "not a big deal"
+  },
+  {
+    "kanji": null,
+    "kana": "まじになる",
+    "meaning": "still bad but better"
+  },
+  {
+    "kanji": "お見舞いに行く",
+    "kana": "おみまいにいく",
+    "meaning": "visit a sick person"
+  },
+  {
+    "kanji": "虫歯",
+    "kana": "むしば",
+    "meaning": "cavity"
+  },
+  {
+    "kanji": null,
+    "kana": "ニキビ",
+    "meaning": "pimple"
+  },
+  {
+    "kanji": "白髪",
+    "kana": "しらが",
+    "meaning": "gray hair"
+  },
+  {
+    "kanji": null,
+    "kana": "しわ",
+    "meaning": "wrinkle"
+  },
+  {
+    "kanji": "鼻水が出る",
+    "kana": "はなみずがでる",
+    "meaning": "mucus"
+  },
+  {
+    "kanji": "鼻水",
+    "kana": "はなみず",
+    "meaning": "mucus"
+  },
+  {
+    "kanji": "ため息が出る",
+    "kana": "ためいきがでる",
+    "meaning": "sigh"
+  },
+  {
+    "kanji": "ため息をつく",
+    "kana": "ためいきをつく",
+    "meaning": "sigh"
+  },
+  {
+    "kanji": "涙が出る",
+    "kana": "なみだがでる",
+    "meaning": "tear"
+  },
+  {
+    "kanji": "涙を流す",
+    "kana": "なみだをながす",
+    "meaning": "weep"
+  },
+  {
+    "kanji": "汗をかく",
+    "kana": "あせをかく",
+    "meaning": "sweat"
+  },
+  {
+    "kanji": "汗臭い",
+    "kana": "あせくさい",
+    "meaning": "sweaty"
+  },
+  {
+    "kanji": null,
+    "kana": "よだれ",
+    "meaning": "saliva"
+  },
+  {
+    "kanji": "咳が出る",
+    "kana": "せきがでる",
+    "meaning": "cough"
+  },
+  {
+    "kanji": "しゃっくりが出る",
+    "kana": "しゃっくりがでる",
+    "meaning": "hiccup"
+  },
+  {
+    "kanji": "くしゃみが出る",
+    "kana": "くしゃみがでる",
+    "meaning": "sneeze"
+  },
+  {
+    "kanji": "あくびが出る",
+    "kana": "あくびがでる",
+    "meaning": "yawn"
+  },
+  {
+    "kanji": "ゲップが出る",
+    "kana": "ゲップがでる",
+    "meaning": "burp"
+  },
+  {
+    "kanji": "おならが出る",
+    "kana": "おならがでる",
+    "meaning": "gas"
+  },
+  {
+    "kanji": "体重が増える",
+    "kana": "たいじゅうがふえる",
+    "meaning": "get fat"
+  },
+  {
+    "kanji": "体重を増やす",
+    "kana": "たいじゅうをふやす",
+    "meaning": "gain weight"
+  },
+  {
+    "kanji": "体重が減る",
+    "kana": "たいじゅうがへる",
+    "meaning": "get thin"
+  },
+  {
+    "kanji": "体重を減らす",
+    "kana": "たいじゅうをへらす",
+    "meaning": "lose weight"
+  },
+  {
+    "kanji": null,
+    "kana": "いびきをかく",
+    "meaning": "snore"
+  },
+  {
+    "kanji": "足がしびれる",
+    "kana": "あしがしびれる",
+    "meaning": "one's leg goes to sleep"
+  },
+  {
+    "kanji": "体が震える",
+    "kana": "からだがふるえる",
+    "meaning": "one's body is trembling"
+  },
+  {
+    "kanji": "肩がこる",
+    "kana": "かたがこる",
+    "meaning": "get a stiff shoulder"
+  },
+  {
+    "kanji": "癖がつく",
+    "kana": "くせがつく",
+    "meaning": "fall into the habit of..."
+  },
+  {
+    "kanji": "癖になる",
+    "kana": "くせになる",
+    "meaning": "become a habit"
+  },
+  {
+    "kanji": null,
+    "kana": "ストレスがたまる",
+    "meaning": "get stressed out"
+  },
+  {
+    "kanji": "年を取る",
+    "kana": "としをとる",
+    "meaning": "get old"
+  },
+  {
+    "kanji": "爪が伸びる",
+    "kana": "つめがのびる",
+    "meaning": "nails grow"
+  },
+  {
+    "kanji": "髭が生える",
+    "kana": "ひげがはえる",
+    "meaning": "beard grows"
+  },
+  {
+    "kanji": "歯が生える",
+    "kana": "はがはえる",
+    "meaning": "teeth coming in"
+  },
+  {
+    "kanji": "髪の毛が抜ける",
+    "kana": "かみのけがぬける",
+    "meaning": "lose hair"
+  },
+  {
+    "kanji": null,
+    "kana": "はげる",
+    "meaning": "go bald"
+  },
+  {
+    "kanji": "髪を染める",
+    "kana": "かみをそめる",
+    "meaning": "dye one's hair"
+  },
+  {
+    "kanji": "花が咲く",
+    "kana": "はながさく",
+    "meaning": "flowers bloom"
+  },
+  {
+    "kanji": "花が散る",
+    "kana": "はながちる",
+    "meaning": "flowers fall down"
+  },
+  {
+    "kanji": "木が枯れる",
+    "kana": "きがかれる",
+    "meaning": "a tree dies"
+  },
+  {
+    "kanji": "山が崩れる",
+    "kana": "やまがくずれる",
+    "meaning": "a mountain collapses"
+  },
+  {
+    "kanji": "険しい山",
+    "kana": "けわしいやま",
+    "meaning": "a rugged mountain"
+  },
+  {
+    "kanji": "なだらかな坂",
+    "kana": "なだらかなさか",
+    "meaning": "a gentle slope"
+  },
+  {
+    "kanji": "箱がつぶれる",
+    "kana": "はこがつぶれる",
+    "meaning": "a box collapses"
+  },
+  {
+    "kanji": "つぶす",
+    "kana": "つぶす",
+    "meaning": "crush"
+  },
+  {
+    "kanji": "浮く",
+    "kana": "うく",
+    "meaning": "float"
+  },
+  {
+    "kanji": "沈む",
+    "kana": "しずむ",
+    "meaning": "sink"
+  },
+  {
+    "kanji": "蒸し暑い",
+    "kana": "むしあつい",
+    "meaning": "humid"
+  },
+  {
+    "kanji": "腐る",
+    "kana": "くさる",
+    "meaning": "rot"
+  },
+  {
+    "kanji": "カビが生える",
+    "kana": "カビがはえる",
+    "meaning": "get moldy"
+  },
+  {
+    "kanji": "変なにおいがする",
+    "kana": "へんなにおいがする",
+    "meaning": "it stinks"
+  },
+  {
+    "kanji": null,
+    "kana": "におう",
+    "meaning": "(someting) smells"
+  },
+  {
+    "kanji": "気味が悪い生き物",
+    "kana": "きみがわるいいきもの",
+    "meaning": "a creepy creature"
+  },
+  {
+    "kanji": "気持ちが悪い生き物",
+    "kana": "きもちがわるいいきもの",
+    "meaning": "a creepy creature"
+  },
+  {
+    "kanji": "親し友人",
+    "kana": "したしゆうじん",
+    "meaning": "a close friend"
+  },
+  {
+    "kanji": "親友",
+    "kana": "しんゆう",
+    "meaning": "a best friend"
+  },
+  {
+    "kanji": "怪しい男",
+    "kana": "あやしいおとこ",
+    "meaning": "a suspicious guy"
+  },
+  {
+    "kanji": "恐ろしい事件",
+    "kana": "おそろしいじけん",
+    "meaning": "a dreadful incident"
+  },
+  {
+    "kanji": "錆びた包丁",
+    "kana": "さびたほうちょう",
+    "meaning": "a rusty knife"
+  },
+  {
+    "kanji": "錆びる",
+    "kana": "さびる",
+    "meaning": "rust"
+  },
+  {
+    "kanji": "鋭い",
+    "kana": "するどい",
+    "meaning": "sharp"
+  },
+  {
+    "kanji": "鈍い",
+    "kana": "にぶい",
+    "meaning": "dull"
+  },
+  {
+    "kanji": "のろい車",
+    "kana": "のろいくるま",
+    "meaning": "a slow car"
+  },
+  {
+    "kanji": "安全な場所",
+    "kana": "あんぜんなばしょ",
+    "meaning": "a safe place"
+  },
+  {
+    "kanji": "薄暗い部屋",
+    "kana": "うすぐらいへや",
+    "meaning": "a dim room"
+  },
+  {
+    "kanji": "まぶしい明り",
+    "kana": "まぶしいあかり",
+    "meaning": "a glaring light"
+  },
+  {
+    "kanji": "詳しい説明書",
+    "kana": "くわしいせつめいしょ",
+    "meaning": "detailed manual"
+  },
+  {
+    "kanji": "詳しく説明する",
+    "kana": "くわしくせつめいする",
+    "meaning": "explain details"
+  },
+  {
+    "kanji": "くだらない小説",
+    "kana": "くだらないしょうせつ",
+    "meaning": "a worthless novel"
+  },
+  {
+    "kanji": "でたらめに答える",
+    "kana": "でたらめにこたえる",
+    "meaning": "give a haphazard answer"
   }
 ]

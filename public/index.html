@@ -638,6 +638,7 @@
           let obj = KANJILIST.find( k => k.kanji == span);
           KANJILIST = KANJILIST.filter(k => k.id != obj.id);
           e.target.remove();
+          Array.from(document.querySelectorAll('.popover')).forEach(p => _hideElement("#" + p.id));
         });
 
         break;
@@ -719,7 +720,7 @@
       case '3':
       case '4':
       case '5':
-        if (!['kanji-offset','kanji-count'].includes(document.activeElement.id))
+        if (!['kanji-offset','kanji-count', 'vocabulary-offset', 'vocabulary-count'].includes(document.activeElement.id))
           document.getElementById(isKanjiSpan || isKanjiVocabList ? 'n' + k.key + '-kanji-checkbox' : isVocabList ? 'n' + k.key + '-vocabulary-checkbox' : '').click();
         break;      
       case 'q':
