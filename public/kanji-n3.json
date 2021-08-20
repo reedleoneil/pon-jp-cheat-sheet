@@ -6293,5 +6293,490 @@
             "meaning": "introduce, referral"
          }
       ]
+   },
+   {
+      "kanji": "面",
+      "meaning": "mask, face, features, surface",
+      "vocabulary": [
+         {
+            "kanji": "面白い",
+            "kana": "おもしろい",
+            "meaning": "interesting, funny"
+         },
+         {
+            "kanji": "面",
+            "kana": "めん",
+            "meaning": "face, mask"
+         },
+         {
+            "kanji": "面",
+            "kana": "おもて",
+            "meaning": "face, surface"
+         },
+         {
+            "kanji": "面倒",
+            "kana": "めんどう",
+            "meaning": "trouble, difficulty"
+         },
+         {
+            "kanji": "画面",
+            "kana": "がめん",
+            "meaning": "screen, scene"
+         },
+         {
+            "kanji": "場面",
+            "kana": "ばめん",
+            "meaning": "scene, setting"
+         },
+         {
+            "kanji": "～方面",
+            "kana": "～ほうめん",
+            "meaning": "direction, area"
+         }
+      ]
+   },
+   {
+      "kanji": "倒",
+      "meaning": "overthrow, collapse, drop, break down",
+      "vocabulary": [
+         {
+            "kanji": "倒れる",
+            "kana": "たおれる",
+            "meaning": "to fall, to collapse"
+         },
+         {
+            "kanji": "倒産",
+            "kana": "とうさん",
+            "meaning": "bankruptcy"
+         },
+         {
+            "kanji": "面倒",
+            "kana": "めんどう",
+            "meaning": "trouble, difficulty"
+         }
+      ]
+   },
+   {
+      "kanji": "禁",
+      "meaning": "prohibition, ban, forbid",
+      "vocabulary": [
+         {
+            "kanji": "禁煙",
+            "kana": "きんえん",
+            "meaning": "abstaining from / quittitng smoking, no smoking"
+         },
+         {
+            "kanji": "禁止",
+            "kana": "きんし",
+            "meaning": "prohibit, ban"
+         }
+      ]
+   },
+   {
+      "kanji": "煙",
+      "meaning": "smoke",
+      "vocabulary": [
+         {
+            "kanji": "煙",
+            "kana": "けむり",
+            "meaning": "smoke, fumes"
+         },
+         {
+            "kanji": "喫煙",
+            "kana": "きつえん",
+            "meaning": "smoking"
+         },
+         {
+            "kanji": "禁煙",
+            "kana": "きんえん",
+            "meaning": "abstaining from / quittitng smoking, no smoking"
+         }
+      ]
+   },
+   {
+      "kanji": "勝",
+      "meaning": "victory, win, prevail, excel",
+      "vocabulary": [
+         {
+            "kanji": "勝",
+            "kana": "かつ",
+            "meaning": "to win"
+         },
+         {
+            "kanji": "勝負",
+            "kana": "しょうぶ",
+            "meaning": "victory or defeat, match, game"
+         },
+         {
+            "kanji": "勝利",
+            "kana": "しょうり",
+            "meaning": "victory, triumph"
+         },
+         {
+            "kanji": "決勝",
+            "kana": "けっしょう",
+            "meaning": "decision of a contest, finals"
+         },
+         {
+            "kanji": "優勝",
+            "kana": "ゆうしょう",
+            "meaning": " overall victory, championship"
+         }
+      ]
+   },
+   {
+      "kanji": "負",
+      "meaning": "defeat, negattive, minus, bear, assume, responsibility",
+      "vocabulary": [
+         {
+            "kanji": "負ける",
+            "kana": "まける",
+            "meaning": "to lose, tot be defeated"
+         },
+         {
+            "kanji": "負担",
+            "kana": "ふたん",
+            "meaning": "burden, responsibility"
+         },
+         {
+            "kanji": "勝負",
+            "kana": "しょうぶ",
+            "meaning": "victory, or defeat, match, game"
+         }
+      ]
+   },
+   {
+      "kanji": "増",
+      "meaning": "increase, add, augment, gain",
+      "vocabulary": [
+         {
+            "kanji": "増える",
+            "kana": "ふえる",
+            "meaning": "to increase, to multiply"
+         },
+         {
+            "kanji": "増やす",
+            "kana": "ふやす",
+            "meaning": "to increase, to augment"
+         },
+         {
+            "kanji": "増加",
+            "kana": "ぞうか",
+            "meaning": "increase, rise, growth"
+         },
+         {
+            "kanji": "増大",
+            "kana": "ぞうだい",
+            "meaning": "enlargement, increase"
+         },
+         {
+            "kanji": "増量",
+            "kana": "ぞうりょう",
+            "meaning": "increased volume or quantity"
+         }
+      ]
+   },
+   {
+      "kanji": "減",
+      "meaning": "dwindle, decrease, reduce, decline",
+      "vocabulary": [
+         {
+            "kanji": "減らす",
+            "kana": "へらす",
+            "meaning": "to decrease"
+         },
+         {
+            "kanji": "減る",
+            "kana": "へる",
+            "meaning": "to decrease"
+         },
+         {
+            "kanji": "減少",
+            "kana": "げんしょう",
+            "meaning": "decrease, reduction"
+         },
+         {
+            "kanji": "減量",
+            "kana": "げんりょう",
+            "meaning": "loss in weight, loss in quantity"
+         }
+      ]
+   },
+   {
+      "kanji": "示",
+      "meaning": "show, indicate, point out, express",
+      "vocabulary": [
+         {
+            "kanji": "示す",
+            "kana": "しめす",
+            "meaning": "to demonstrate"
+         },
+         {
+            "kanji": "指示",
+            "kana": "しじ",
+            "meaning": "indication, instructions, directions"
+         },
+         {
+            "kanji": "表示",
+            "kana": "ひょうじ",
+            "meaning": "indication, showing, display (computer)"
+         }
+      ]
+   },
+   {
+      "kanji": "流",
+      "meaning": "current, a sink, flow, forfeit",
+      "vocabulary": [
+         {
+            "kanji": "流行",
+            "kana": "りゅうこう",
+            "meaning": "fashion, craze"
+         },
+         {
+            "kanji": "交流",
+            "kana": "こうりゅう",
+            "meaning": "cultural exchange"
+         },
+         {
+            "kanji": "流れる",
+            "kana": "ながれる",
+            "meaning": "to stream, to flow"
+         },
+         {
+            "kanji": "流れ",
+            "kana": "ながれ",
+            "meaning": "stream, current, flow"
+         },
+         {
+            "kanji": "流す",
+            "kana": "ながす",
+            "meaning": "to drain, to pour, to wash away"
+         }
+      ]
+   },
+   {
+      "kanji": "翻",
+      "meaning": "flip, turn over",
+      "vocabulary": [
+         {
+            "kanji": "翻す",
+            "kana": "ひるがえす",
+            "meaning": "to turn over"
+         },
+         {
+            "kanji": "翻訳",
+            "kana": "ほんやく",
+            "meaning": "translation, deciphering"
+         }
+      ]
+   },
+   {
+      "kanji": "訳",
+      "meaning": "translate, reason, circumstance, case",
+      "vocabulary": [
+         {
+            "kanji": "訳",
+            "kana": "やく",
+            "meaning": "tot translate, to interpret"
+         },
+         {
+            "kanji": "翻訳",
+            "kana": "ほんやく",
+            "meaning": "translation, deciphering"
+         },
+         {
+            "kanji": "通訳",
+            "kana": "つうやく",
+            "meaning": "interpretation"
+         },
+         {
+            "kanji": "言い訳",
+            "kana": "いいわけ",
+            "meaning": "excuse, explanation"
+         }
+      ]
+   },
+   {
+      "kanji": "請",
+      "meaning": "solicit, invite, ask",
+      "vocabulary": [
+         {
+            "kanji": "請求",
+            "kana": "せいきゅう",
+            "meaning": "claim, demand, charge"
+         },
+         {
+            "kanji": "申請",
+            "kana": "しんせい",
+            "meaning": "application, request, petition"
+         }
+      ]
+   },
+   {
+      "kanji": "応",
+      "meaning": "apply, answer, yes, reply, accept",
+      "vocabulary": [
+         {
+            "kanji": "応募",
+            "kana": "おうぼ",
+            "meaning": "application, subscription"
+         },
+         {
+            "kanji": "応じる",
+            "kana": "おうじる",
+            "meaning": "to satisfy, to accept"
+         },
+         {
+            "kanji": "対応",
+            "kana": "たいおう",
+            "meaning": "interaction"
+         },
+         {
+            "kanji": "反応",
+            "kana": "はんおう",
+            "meaning": "response, reaction"
+         }
+      ]
+   },
+   {
+      "kanji": "募",
+      "meaning": "recruit, campaign, enlistt, gather, contributions",
+      "vocabulary": [
+         {
+            "kanji": "応募",
+            "kana": "おうぼ",
+            "meaning": "application, subscription"
+         },
+         {
+            "kanji": "募集",
+            "kana": "ぼしゅう",
+            "meaning": "recruiting, taking applications, selections"
+         }
+      ]
+   },
+   {
+      "kanji": "率",
+      "meaning": "radio, rate, factor, proportion, %, lead",
+      "vocabulary": [
+         {
+            "kanji": "率",
+            "kana": "りつ",
+            "meaning": "ratio, rate, proportion, percentage"
+         },
+         {
+            "kanji": "効率",
+            "kana": "こうりつ",
+            "meaning": "performance, efficiency"
+         },
+         {
+            "kanji": "比率",
+            "kana": "ひりつ",
+            "meaning": "ratio, proportion"
+         }
+      ]
+   },
+   {
+      "kanji": "帯",
+      "meaning": "sash, belt, obi, zone, region",
+      "vocabulary": [
+         {
+            "kanji": "率",
+            "kana": "りつ",
+            "meaning": "ratio, rate, proportion, percentage"
+         },
+         {
+            "kanji": "効率",
+            "kana": "こうりつ",
+            "meaning": "performance, efficiency"
+         },
+         {
+            "kanji": "比率",
+            "kana": "ひりつ",
+            "meaning": "ratio, proportion"
+         }
+      ]
+   },
+   {
+      "kanji": "机",
+      "meaning": "desk, table",
+      "vocabulary": [
+         {
+            "kanji": "机",
+            "kana": "つくえ",
+            "meaning": "desk"
+         }
+      ]
+   },
+   {
+      "kanji": "違",
+      "meaning": "difference, differ",
+      "vocabulary": [
+         {
+            "kanji": "違い",
+            "kana": "ちがい",
+            "meaning": "difference, discrepancy"
+         },
+         {
+            "kanji": "違う",
+            "kana": "ちがう",
+            "meaning": "to differ, to vary"
+         },
+         {
+            "kanji": "間違い",
+            "kana": "まちがい",
+            "meaning": "mistake, error, blunder"
+         },
+         {
+            "kanji": "間違う",
+            "kana": "まちがう",
+            "meaning": "to make a mistake"
+         },
+         {
+            "kanji": "違反",
+            "kana": "いはん",
+            "meaning": "violation, offense"
+         }
+      ]
+   },
+   {
+      "kanji": "調",
+      "meaning": "tune, tone, meter, key (music), prepare, investigate",
+      "vocabulary": [
+         {
+            "kanji": "調べる",
+            "kana": "しらべる",
+            "meaning": "to examine, to investigate"
+         },
+         {
+            "kanji": "調査",
+            "kana": "ちょうさ",
+            "meaning": "investigation, survey"
+         },
+         {
+            "kanji": "調子",
+            "kana": "ちょうし",
+            "meaning": "tune, tone, mood, way, condition, state of health"
+         },
+         {
+            "kanji": "調整",
+            "kana": "ちょうせい",
+            "meaning": "regulation, coordination"
+         },
+         {
+            "kanji": "調味料",
+            "kana": "ちょうみりょう",
+            "meaning": "flavouring, seasoning"
+         },
+         {
+            "kanji": "強調",
+            "kana": "きょうちょう",
+            "meaning": "emphasis, highlight"
+         },
+         {
+            "kanji": "順調",
+            "kana": "じゅんちょう",
+            "meaning": "favourable"
+         }
+      ]
    }
 ]
