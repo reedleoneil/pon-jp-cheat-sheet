@@ -4460,8 +4460,8 @@
     "meaning": "Thank you. (I will have some.)"
   },
   {
-    "kanji": "ご無沙汰しています。",
-    "kana": "ごぶさたしています。",
+    "kanji": "ご無沙汰しています。お元気でいらっしゃいますか。",
+    "kana": "ごぶさたしています。おげんきでいらっしゃいますか。",
     "meaning": "It's been a long time since we saw each other. How have you been?"
   },
   {
@@ -4835,6 +4835,11 @@
     "meaning": "suffer from a hay fever"
   },
   {
+    "kanji": null,
+    "kana": "うがいをする",
+    "meaning": "gurgle"
+  },
+  {
     "kanji": "けがを治す",
     "kana": "けがをなおす",
     "meaning": "take care of an injury"
@@ -4856,7 +4861,7 @@
   },
   {
     "kanji": null,
-    "kana": "まじになる",
+    "kana": "ましになる",
     "meaning": "still bad but better"
   },
   {
