@@ -6431,7 +6431,7 @@
          {
             "kanji": "負ける",
             "kana": "まける",
-            "meaning": "to lose, tot be defeated"
+            "meaning": "to lose, to be defeated"
          },
          {
             "kanji": "負担",
@@ -6577,7 +6577,7 @@
          {
             "kanji": "訳",
             "kana": "やく",
-            "meaning": "tot translate, to interpret"
+            "meaning": "to translate, to interpret"
          },
          {
             "kanji": "翻訳",
@@ -6656,7 +6656,7 @@
    },
    {
       "kanji": "率",
-      "meaning": "radio, rate, factor, proportion, %, lead",
+      "meaning": "ratio, rate, factor, proportion, %, lead",
       "vocabulary": [
          {
             "kanji": "率",
@@ -6776,6 +6776,421 @@
             "kanji": "順調",
             "kana": "じゅんちょう",
             "meaning": "favourable"
+         }
+      ]
+   },
+   {
+      "kanji": "捕",
+      "meaning": "catch, capture",
+      "vocabulary": [
+         {
+            "kanji": "捕まえる",
+            "kana": "つかまえる",
+            "meaning": "to catch, to arrest, to seize"
+         },
+         {
+            "kanji": "捕まる",
+            "kana": "つかまる",
+            "meaning": "to be caught, to be arrested"
+         },
+         {
+            "kanji": "逮捕",
+            "kana": "たいほ",
+            "meaning": "arrest, capture"
+         }
+      ]
+   },
+   {
+      "kanji": "触",
+      "meaning": "contatct, touch, feel",
+      "vocabulary": [
+         {
+            "kanji": "触る",
+            "kana": "さわる",
+            "meaning": "to touch, to feel"
+         }
+      ]
+   },
+   {
+      "kanji": "配",
+      "meaning": "distribute, spouse, exile, rationing",
+      "vocabulary": [
+         {
+            "kanji": "配る",
+            "kana": "くばる",
+            "meaning": "to distribute, to deal (cards)"
+         },
+         {
+            "kanji": "配送料",
+            "kana": "はいそうりょう",
+            "meaning": "delivery fee"
+         },
+         {
+            "kanji": "配達",
+            "kana": "はいたつ",
+            "meaning": "delivery fee"
+         },
+         {
+            "kanji": "心配",
+            "kana": "しんぱい",
+            "meaning": "woory, concern, anxiety"
+         }
+      ]
+   },
+   {
+      "kanji": "投",
+      "meaning": "throw, discard, abandon, launch into, invest in",
+      "vocabulary": [
+         {
+            "kanji": "投げる",
+            "kana": "なげる",
+            "meaning": "to throw, to cast away"
+         },
+         {
+            "kanji": "投資",
+            "kana": "とうし",
+            "meaning": "investment"
+         },
+         {
+            "kanji": "投手",
+            "kana": "とうしゅ",
+            "meaning": "pitcher"
+         }
+      ]
+   },
+   {
+      "kanji": "拾",
+      "meaning": "pick up, gather, find, go on foot, ten",
+      "vocabulary": [
+         {
+            "kanji": "拾う",
+            "kana": "ひろう",
+            "meaning": "to pick up, to find"
+         }
+      ]
+   },
+   {
+      "kanji": "割",
+      "meaning": "proportion, divide, comparatively, cut",
+      "vocabulary": [
+         {
+            "kanji": "割れる",
+            "kana": "われる",
+            "meaning": "to break, to be smashed"
+         },
+         {
+            "kanji": "割る",
+            "kana": "わる",
+            "meaning": "to divide, to cut, to rip, to break, to crack, to smash"
+         },
+         {
+            "kanji": "割合",
+            "kana": "わりあい",
+            "meaning": "rate, ratio, percentage"
+         },
+         {
+            "kanji": "割引",
+            "kana": "わりびき",
+            "meaning": "discount, rebate"
+         },
+         {
+            "kanji": "分割",
+            "kana": "ぶんかつ",
+            "meaning": "partition"
+         }
+      ]
+   },
+   {
+      "kanji": "取",
+      "meaning": "take, fetch, take up",
+      "vocabulary": [
+         {
+            "kanji": "取る",
+            "kana": "とる",
+            "meaning": "to take, to pick up"
+         },
+         {
+            "kanji": "取引",
+            "kana": "とりひき",
+            "meaning": "transactions, business"
+         }
+      ]
+   },
+   {
+      "kanji": "組",
+      "meaning": "associaion, braid, construct, assemble, unite, cooperate",
+      "vocabulary": [
+         {
+            "kanji": "組",
+            "kana": "くみ",
+            "meaning": "set of items, goroup of people, class of students"
+         },
+         {
+            "kanji": "組み立てる",
+            "kana": "くみたてる",
+            "meaning": "to assemble, to set up, to construct"
+         },
+         {
+            "kanji": "組む",
+            "kana": "くむ",
+            "meaning": "to put together, to construct, to untie"
+         },
+         {
+            "kanji": "番組",
+            "kana": "ばんぐみ",
+            "meaning": "program (e.g. TV)"
+         },
+         {
+            "kanji": "組織",
+            "kana": "そしき",
+            "meaning": "organization"
+         }
+      ]
+   },
+   {
+      "kanji": "差",
+      "meaning": "distinction, difference, variattion, discrepancy, margin, balance",
+      "vocabulary": [
+         {
+            "kanji": "差",
+            "kana": "さ",
+            "meaning": "difference, variation"
+         },
+         {
+            "kanji": "差別",
+            "kana": "さべつ",
+            "meaning": "discrimination, distinction"
+         },
+         {
+            "kanji": "交差点",
+            "kana": "こうさてん",
+            "meaning": "crossing, intersection"
+         },
+         {
+            "kanji": "人差し指",
+            "kana": "ひとさしゆび",
+            "meaning": "index finger"
+         },
+         {
+            "kanji": "差し出す",
+            "kana": "さしだす",
+            "meaning": "to present/submit"
+         },
+         {
+            "kanji": "差出人",
+            "kana": "さしだしにん",
+            "meaning": "sender"
+         }
+      ]
+   },
+   {
+      "kanji": "消",
+      "meaning": "extinguish, turn off, neutralize, cancel",
+      "vocabulary": [
+         {
+            "kanji": "消える",
+            "kana": "きえる",
+            "meaning": "to go out, to vanish"
+         },
+         {
+            "kanji": "消す",
+            "kana": "けす",
+            "meaning": "to erase, to delete, to urn off, o extinguish"
+         },
+         {
+            "kanji": "消しゴム",
+            "kana": "けしゴム",
+            "meaning": "eraser"
+         },
+         {
+            "kanji": "消防",
+            "kana": "しょうぼう",
+            "meaning": "fire department"
+         },
+         {
+            "kanji": "消費",
+            "kana": "しょうひ",
+            "meaning": "consumption"
+         },
+         {
+            "kanji": "消費者",
+            "kana": "しょうひしゃ",
+            "meaning": "consumer"
+         },
+         {
+            "kanji": "消費税",
+            "kana": "しょうひぜい",
+            "meaning": "VAT"
+         },
+         {
+            "kanji": "消火器",
+            "kana": "しょうかき",
+            "meaning": "fire extinguisher"
+         },
+         {
+            "kanji": "解消",
+            "kana": "かいしょう",
+            "meaning": "cancellation"
+         }
+      ]
+   },
+   {
+      "kanji": "押",
+      "meaning": "push, press, stop, check, subdue, attach, weight, shove, seal, do in spite of",
+      "vocabulary": [
+         {
+            "kanji": "押す",
+            "kana": "おす",
+            "meaning": "to push, to press, to stamp, to apply a seal"
+         },
+         {
+            "kanji": "押し入れ",
+            "kana": "おしいれ",
+            "meaning": "closet"
+         }
+      ]
+   },
+   {
+      "kanji": "探",
+      "meaning": "grope, search, look",
+      "vocabulary": [
+         {
+            "kanji": "探す",
+            "kana": "さがす",
+            "meaning": "to search, to look for"
+         },
+         {
+            "kanji": "探査",
+            "kana": "たんさ",
+            "meaning": "probe, inquiry, investigation"
+         }
+      ]
+   },
+   {
+      "kanji": "裏",
+      "meaning": "back, amidst, reverse, inside, palm, sole, rear, lining",
+      "vocabulary": [
+         {
+            "kanji": "裏",
+            "kana": "うら",
+            "meaning": "bottom, opposite side, reverse side"
+         },
+         {
+            "kanji": "裏返す",
+            "kana": "うらがえす",
+            "meaning": "to turn inside"
+         }
+      ]
+   },
+   {
+      "kanji": "編",
+      "meaning": "compilation, knit, braid, twist, editing, part of a book",
+      "vocabulary": [
+         {
+            "kanji": "編む",
+            "kana": "あむ",
+            "meaning": "to knit, to braid, to compile (anthology), to edit"
+         },
+         {
+            "kanji": "裏返す",
+            "kana": "うらがえす",
+            "meaning": "to turn inside"
+         }
+      ]
+   },
+   {
+      "kanji": "混",
+      "meaning": "mix, blend, confuse",
+      "vocabulary": [
+         {
+            "kanji": "混ぜる",
+            "kana": "まぜる",
+            "meaning": "ot mix, ot stir, to blend"
+         },
+         {
+            "kanji": "混雑",
+            "kana": "こんざつ",
+            "meaning": "congesiton, crowding"
+         },
+         {
+            "kanji": "混乱",
+            "kana": "こんらん",
+            "meaning": "disorder, chaos"
+         }
+      ]
+   },
+   {
+      "kanji": "飾",
+      "meaning": "decorate, ornament, adorn, embellish",
+      "vocabulary": [
+         {
+            "kanji": "飾る",
+            "kana": "かざる",
+            "meaning": "to decorate, to ornament, ot adorn"
+         },
+         {
+            "kanji": "飾り",
+            "kana": "かざり",
+            "meaning": "decoration"
+         }
+      ]
+   },
+   {
+      "kanji": "捨",
+      "meaning": "discard, throw away, abandon, resign, reject, sacrifice",
+      "vocabulary": [
+         {
+            "kanji": "捨てる",
+            "kana": "すてる",
+            "meaning": "to throw away, to cast away, to dump"
+         }
+      ]
+   },
+   {
+      "kanji": "打",
+      "meaning": "strike, hit, knock, pound, dozen",
+      "vocabulary": [
+         {
+            "kanji": "打つ",
+            "kana": "うつ",
+            "meaning": "to hit, to strike, to beat"
+         }
+      ]
+   },
+   {
+      "kanji": "積",
+      "meaning": "volume, contents, pile up, stack, load",
+      "vocabulary": [
+         {
+            "kanji": "積む",
+            "kana": "つむ",
+            "meaning": "to pile up, to stack, to load, to pack"
+         },
+         {
+            "kanji": "積極的",
+            "kana": "せっきょくてき",
+            "meaning": "assertive, positive, proactive"
+         },
+         {
+            "kanji": "面積",
+            "kana": "めんせき",
+            "meaning": "square measure, area, surface"
+         }
+      ]
+   },
+   {
+      "kanji": "招",
+      "meaning": "beckon, invite, summon, engage",
+      "vocabulary": [
+         {
+            "kanji": "招く",
+            "kana": "まねく",
+            "meaning": "to invite, to beckon, to wave someone in, to summon"
+         },
+         {
+            "kanji": "招待",
+            "kana": "しょうたい",
+            "meaning": "invitation"
          }
       ]
    }
