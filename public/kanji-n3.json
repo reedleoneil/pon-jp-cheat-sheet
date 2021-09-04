@@ -7193,5 +7193,460 @@
             "meaning": "invitation"
          }
       ]
+   },
+   {
+      "kanji": "怒",
+      "meaning": "angry, offended",
+      "vocabulary": [
+         {
+            "kanji": "怒る",
+            "kana": "おこる",
+            "meaning": "to get angry, to get mad"
+         },
+         {
+            "kanji": "怒り",
+            "kana": "いかり",
+            "meaning": "anger hatred"
+         }
+      ]
+   },
+   {
+      "kanji": "並",
+      "meaning": "row, besides, line up, rank with, rival, equal",
+      "vocabulary": [
+         {
+            "kanji": "並ぶ",
+            "kana": "ならぶ",
+            "meaning": "to line up, to stand in line"
+         },
+         {
+            "kanji": "並べる",
+            "kana": "ならべる",
+            "meaning": "to line up, to set up"
+         },
+         {
+            "kanji": "並木",
+            "kana": "なみき",
+            "meaning": "row of trees"
+         },
+         {
+            "kanji": "歯並び",
+            "kana": "はならび",
+            "meaning": "row/set of teeth"
+         }
+      ]
+   },
+   {
+      "kanji": "殺",
+      "meaning": "kill, murder, butcher, slice off, split, diminish",
+      "vocabulary": [
+         {
+            "kanji": "殺す",
+            "kana": "ころす",
+            "meaning": "to kill"
+         },
+         {
+            "kanji": "殺人",
+            "kana": "さつじん",
+            "meaning": "murder"
+         },
+         {
+            "kanji": "自殺",
+            "kana": "じさつ",
+            "meaning": "suicide"
+         }
+      ]
+   },
+   {
+      "kanji": "落",
+      "meaning": "fall, drop, com down, village",
+      "vocabulary": [
+         {
+            "kanji": "落ちる",
+            "kana": "おちる",
+            "meaning": "to fall down, to drop, to fall into"
+         },
+         {
+            "kanji": "落ち着く",
+            "kana": "おちつく",
+            "meaning": "to calm down, to settle down"
+         }
+      ]
+   },
+   {
+      "kanji": "救",
+      "meaning": "salvation, save, help, rescue, reclaim",
+      "vocabulary": [
+         {
+            "kanji": "救う",
+            "kana": "すくう",
+            "meaning": "to resue from, to help out, to save"
+         },
+         {
+            "kanji": "救援",
+            "kana": "きゅうえん",
+            "meaning": "relief, rescue"
+         },
+         {
+            "kanji": "救助",
+            "kana": "きゅうじょ",
+            "meaning": "relief, aid, rescue"
+         },
+         {
+            "kanji": "救急",
+            "kana": "きゅうきゅう",
+            "meaning": "first-aid, emergency"
+         },
+         {
+            "kanji": "救急車",
+            "kana": "きゅうきゅうしゃ",
+            "meaning": "ambulance"
+         }
+      ]
+   },
+   {
+      "kanji": "壊",
+      "meaning": "demolition, break, destroy",
+      "vocabulary": [
+         {
+            "kanji": "壊す",
+            "kana": "こわす",
+            "meaning": "to break, to destroy, to demolish"
+         },
+         {
+            "kanji": "壊れる",
+            "kana": "こわれる",
+            "meaning": "to be broken, to break"
+         },
+         {
+            "kanji": "破壊",
+            "kana": "はかい",
+            "meaning": "destruction"
+         }
+      ]
+   },
+   {
+      "kanji": "笑",
+      "meaning": "laugh",
+      "vocabulary": [
+         {
+            "kanji": "笑う",
+            "kana": "わらう",
+            "meaning": "to laugh, to smile"
+         },
+         {
+            "kanji": "笑い",
+            "kana": "わらい",
+            "meaning": "laugh, laughter"
+         },
+         {
+            "kanji": "笑顔",
+            "kana": "えがお",
+            "meaning": "smiling face, smile"
+         }
+      ]
+   },
+   {
+      "kanji": "喜",
+      "meaning": "rejoice, ttake pleasure in",
+      "vocabulary": [
+         {
+            "kanji": "喜ばす",
+            "kana": "よろこばす",
+            "meaning": "to delight"
+         },
+         {
+            "kanji": "喜ぶ",
+            "kana": "よろこぶ",
+            "meaning": "to be delighted, to be glad"
+         },
+         {
+            "kanji": "喜び",
+            "kana": "よろこび",
+            "meaning": "joy, delight"
+         }
+      ]
+   },
+   {
+      "kanji": "求",
+      "meaning": "request, want, whish for, require, demand",
+      "vocabulary": [
+         {
+            "kanji": "求める",
+            "kana": "もとめる",
+            "meaning": "to want, to request, to demand, to seek"
+         },
+         {
+            "kanji": "求人",
+            "kana": "きゅうじん",
+            "meaning": "offer of job (situation)"
+         },
+         {
+            "kanji": "求職",
+            "kana": "きゅうしょく",
+            "meaning": "job hunting"
+         },
+         {
+            "kanji": "請求書",
+            "kana": "せいきゅうしょ",
+            "meaning": "bill, job, invoice"
+         },
+         {
+            "kanji": "要求",
+            "kana": "ようきゅう",
+            "meaning": "demand, firm request, requisition"
+         }
+      ]
+   },
+   {
+      "kanji": "困",
+      "meaning": "quandary, become distressed, annoyed",
+      "vocabulary": [
+         {
+            "kanji": "困る",
+            "kana": "こまる",
+            "meaning": "to be troubled, to be worried, to be bothered"
+         },
+         {
+            "kanji": "困難",
+            "kana": "こんなん",
+            "meaning": "difficult, distress"
+         },
+         {
+            "kanji": "貧困",
+            "kana": "ひんこん",
+            "meaning": "poor, needy"
+         }
+      ]
+   },
+   {
+      "kanji": "治",
+      "meaning": "reign, be at peace, subdue, government, cure, heal",
+      "vocabulary": [
+         {
+            "kanji": "治る",
+            "kana": "なおる",
+            "meaning": "to be cured, to get well"
+         },
+         {
+            "kanji": "治す",
+            "kana": "なおす",
+            "meaning": "to cure, to heal, to fix"
+         },
+         {
+            "kanji": "政治",
+            "kana": "せいじ",
+            "meaning": "politics, government"
+         },
+         {
+            "kanji": "政治家",
+            "kana": "せいじか",
+            "meaning": "politician"
+         },
+         {
+            "kanji": "治療",
+            "kana": "ちりょう",
+            "meaning": "medical treatment, cure"
+         }
+      ]
+   },
+   {
+      "kanji": "悩",
+      "meaning": "trouble, worry, in pain, distress, illness",
+      "vocabulary": [
+         {
+            "kanji": "悩み",
+            "kana": "なやみ",
+            "meaning": "trouble, worry, distress, anguish"
+         },
+         {
+            "kanji": "悩む",
+            "kana": "なやむ",
+            "meaning": "to be worried, to be troubled"
+         },
+         {
+            "kanji": "苦悩",
+            "kana": "くのう",
+            "meaning": "suffering, distress"
+         }
+      ]
+   },
+   {
+      "kanji": "離",
+      "meaning": "detach, separation, disjoin, digress",
+      "vocabulary": [
+         {
+            "kanji": "離れる",
+            "kana": "はなれる",
+            "meaning": "to be separated, to be apart"
+         },
+         {
+            "kanji": "離婚",
+            "kana": "りこん",
+            "meaning": "divorce"
+         },
+         {
+            "kanji": "距離",
+            "kana": "きょり",
+            "meaning": "distance, range"
+         }
+      ]
+   },
+   {
+      "kanji": "与",
+      "meaning": "bestow, participate in, give, award, impart, provide",
+      "vocabulary": [
+         {
+            "kanji": "与える",
+            "kana": "あたえる",
+            "meaning": "to give (to someone of lower status), to bestow, to grant"
+         },
+         {
+            "kanji": "与党",
+            "kana": "よとう",
+            "meaning": "ruling party"
+         }
+      ]
+   },
+   {
+      "kanji": "残",
+      "meaning": "remainder, leftover, balance",
+      "vocabulary": [
+         {
+            "kanji": "残る",
+            "kana": "のこる",
+            "meaning": "to remain, to be left"
+         },
+         {
+            "kanji": "残す",
+            "kana": "のこす",
+            "meaning": "to leave (behind)"
+         },
+         {
+            "kanji": "残り",
+            "kana": "のこり",
+            "meaning": "remnant, left-over"
+         },
+         {
+            "kanji": "残業",
+            "kana": "ざんぎょう",
+            "meaning": "overtime"
+         },
+         {
+            "kanji": "残念",
+            "kana": "ざんねん",
+            "meaning": "deplorable, bad luck, regret"
+         }
+      ]
+   },
+   {
+      "kanji": "覚",
+      "meaning": "memorize, learn, remember, awake",
+      "vocabulary": [
+         {
+            "kanji": "覚ます",
+            "kana": "さます",
+            "meaning": "to awaken"
+         },
+         {
+            "kanji": "覚める",
+            "kana": "さめる",
+            "meaning": "to wake up"
+         },
+         {
+            "kanji": "覚える",
+            "kana": "おぼえる",
+            "meaning": "to memorize, to remember"
+         },
+         {
+            "kanji": "感覚",
+            "kana": "かんかく",
+            "meaning": "sense, sensation"
+         }
+      ]
+   },
+   {
+      "kanji": "比",
+      "meaning": "compare, race, ratio, Philippines",
+      "vocabulary": [
+         {
+            "kanji": "比べる",
+            "kana": "くらべる",
+            "meaning": "to compare"
+         },
+         {
+            "kanji": "対比",
+            "kana": "たいひ",
+            "meaning": "contrast, comparison"
+         },
+         {
+            "kanji": "比較",
+            "kana": "ひかく",
+            "meaning": "comparison"
+         },
+         {
+            "kanji": "比率",
+            "kana": "ひりつ",
+            "meaning": "ratio, proportion"
+         }
+      ]
+   },
+   {
+      "kanji": "泣",
+      "meaning": "cry, weep, moan",
+      "vocabulary": [
+         {
+            "kanji": "泣く",
+            "kana": "なく",
+            "meaning": "to cry, to weep, to sob"
+         },
+         {
+            "kanji": "鳴き声",
+            "kana": "なきごえ",
+            "meaning": "cry, crying voice"
+         }
+      ]
+   },
+   {
+      "kanji": "浴",
+      "meaning": "bathe, be favoured with, bask in",
+      "vocabulary": [
+         {
+            "kanji": "浴びる",
+            "kana": "あびる",
+            "meaning": "to take (a shower)"
+         },
+         {
+            "kanji": "浴衣",
+            "kana": "ゆかた",
+            "meaning": "yukata (summer kimono)"
+         },
+         {
+            "kanji": "浴室",
+            "kana": "よくしつ",
+            "meaning": "bathroom"
+         },
+         {
+            "kanji": "入浴",
+            "kana": "にゅうよく",
+            "meaning": "bathing, bathe"
+         }
+      ]
+   },
+   {
+      "kanji": "助",
+      "meaning": "help, rescue, assist",
+      "vocabulary": [
+         {
+            "kanji": "助ける",
+            "kana": "たすける",
+            "meaning": "to save, to rescue, to help"
+         },
+         {
+            "kanji": "援助",
+            "kana": "えんじょ",
+            "meaning": "assistance, aid"
+         }
+      ]
    }
 ]
