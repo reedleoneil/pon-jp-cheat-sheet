@@ -7686,14 +7686,29 @@
       "meaning": "bend, music, melody, composition, curve, injustice, pleasure",
       "vocabulary": [
          {
-            "kanji": "渡る",
-            "kana": "わたる",
-            "meaning": "to go across"
+            "kanji": "曲",
+            "kana": "きょく",
+            "meaning": "song, tune"
          },
          {
-            "kanji": "渡す",
-            "kana": "わたす",
-            "meaning": "to hand over, to give, to traverse"
+            "kanji": "曲がる",
+            "kana": "まがる",
+            "meaning": "to bend, to curve, to turn"
+         },
+         {
+            "kanji": "曲げる",
+            "kana": "まげる",
+            "meaning": "to bend, to lean, to incline, to twist"
+         },
+         {
+            "kanji": "曲線",
+            "kana": "きょくせん",
+            "meaning": "curve"
+         },
+         {
+            "kanji": "作曲",
+            "kana": "さっきょく",
+            "meaning": "composition"
          }
       ]
    },
