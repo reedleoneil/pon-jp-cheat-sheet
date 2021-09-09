@@ -7863,5 +7863,220 @@
             "meaning": "flight, desertion, escape"
          }
       ]
+   },
+   {
+      "kanji": "避",
+      "meaning": "evade, avoid, avert, ward oof, shirk, shun",
+      "vocabulary": [
+         {
+            "kanji": "避ける",
+            "kana": "さける",
+            "meaning": "to avoid (physical contact, situation), to avert"
+         },
+         {
+            "kanji": "避難",
+            "kana": "ひなん",
+            "meaning": "taking refuge, finding shelter, evacation"
+         },
+         {
+            "kanji": "避難民",
+            "kana": "ひなんみん",
+            "meaning": "refugess, evacuees"
+         },
+         {
+            "kanji": "回避",
+            "kana": "かいひ",
+            "meaning": "evasion"
+         }
+      ]
+   },
+   {
+      "kanji": "寄",
+      "meaning": "draw near, stop in, bring near, gather, collect, send, forward",
+      "vocabulary": [
+         {
+            "kanji": "寄る",
+            "kana": "よる",
+            "meaning": "to approach, to stop by (while on one's way to another place)"
+         },
+         {
+            "kanji": "近寄る",
+            "kana": "ちかよる",
+            "meaning": "to approach, to draw near"
+         },
+         {
+            "kanji": "年寄り",
+            "kana": "としより",
+            "meaning": "old people"
+         },
+         {
+            "kanji": "寄付",
+            "kana": "きふ",
+            "meaning": "donation"
+         }
+      ]
+   },
+   {
+      "kanji": "慣",
+      "meaning": "accustomed, get used to, become experienced",
+      "vocabulary": [
+         {
+            "kanji": "慣れる",
+            "kana": "なれる",
+            "meaning": "to get used to, to become familiar with"
+         },
+         {
+            "kanji": "習慣",
+            "kana": "しゅうかん",
+            "meaning": "habit, custom, cultural practice"
+         }
+      ]
+   },
+   {
+      "kanji": "呼",
+      "meaning": "call, call out to, invite",
+      "vocabulary": [
+         {
+            "kanji": "呼ぶ",
+            "kana": "よぶ",
+            "meaning": "to call out to, to summon"
+         },
+         {
+            "kanji": "呼吸",
+            "kana": "こきゅう",
+            "meaning": "breathing, respiration"
+         }
+      ]
+   },
+   {
+      "kanji": "吸",
+      "meaning": "suck, imbibe, inhale, sip",
+      "vocabulary": [
+         {
+            "kanji": "呼吸",
+            "kana": "こきゅう",
+            "meaning": "breathing, respiration"
+         },
+         {
+            "kanji": "吸う",
+            "kana": "すう",
+            "meaning": "to smoke, to breathe in, to inhale"
+         }
+      ]
+   },
+   {
+      "kanji": "参",
+      "meaning": "going, coming, visiting, be defeated, die, participate",
+      "vocabulary": [
+         {
+            "kanji": "参る",
+            "kana": "まいる",
+            "meaning": "to go, to come, to visit (shrine, grave)"
+         },
+         {
+            "kanji": "参加",
+            "kana": "さんか",
+            "meaning": "participation"
+         },
+         {
+            "kanji": "参加者",
+            "kana": "さんかしゃ",
+            "meaning": "participants"
+         },
+         {
+            "kanji": "参考",
+            "kana": "さんこう",
+            "meaning": "reference"
+         },
+         {
+            "kanji": "参考書",
+            "kana": "さんこうしょ",
+            "meaning": "reference book"
+         }
+      ]
+   },
+   {
+      "kanji": "加",
+      "meaning": "add, increase, join, include",
+      "vocabulary": [
+         {
+            "kanji": "加える",
+            "kana": "くわえる",
+            "meaning": "to add, to sum up, to append, to increase"
+         },
+         {
+            "kanji": "参加",
+            "kana": "さんか",
+            "meaning": "participation"
+         },
+         {
+            "kanji": "増加",
+            "kana": "ぞうか",
+            "meaning": "increase, rise, growth, addition, increment"
+         },
+         {
+            "kanji": "追加",
+            "kana": "ついか",
+            "meaning": "addition, supplement"
+         }
+      ]
+   },
+   {
+      "kanji": "包",
+      "meaning": "wrap, pack up, cover, conceal",
+      "vocabulary": [
+         {
+            "kanji": "包む",
+            "kana": "つつむ",
+            "meaning": "to wrap up, to pack, to cover with"
+         },
+         {
+            "kanji": "小包",
+            "kana": "こづつみ",
+            "meaning": "parcel, package"
+         },
+         {
+            "kanji": "包丁",
+            "kana": "ほうちょう",
+            "meaning": "kitchen knife"
+         },
+         {
+            "kanji": "包装",
+            "kana": "ほうそう",
+            "meaning": "packing, wrapping"
+         }
+      ]
+   },
+   {
+      "kanji": "余",
+      "meaning": "too much, myself, surplus, other, remainder",
+      "vocabulary": [
+         {
+            "kanji": "余る",
+            "kana": "あまる",
+            "meaning": "to remain, to be left over, to be in excess"
+         },
+         {
+            "kanji": "余暇",
+            "kana": "よか",
+            "meaning": "leisure, spare time"
+         }
+      ]
+   },
+   {
+      "kanji": "似",
+      "meaning": "becoming, resemble, counterfeit, imitate, suitable",
+      "vocabulary": [
+         {
+            "kanji": "似る",
+            "kana": "にる",
+            "meaning": "to resemble, to look alike, to be similar (status, condition)"
+         },
+         {
+            "kanji": "類似",
+            "kana": "るいじ",
+            "meaning": "resemblance, similarity"
+         }
+      ]
    }
 ]
