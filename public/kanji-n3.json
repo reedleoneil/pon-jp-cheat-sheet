@@ -7648,5 +7648,435 @@
             "meaning": "assistance, aid"
          }
       ]
+   },
+   {
+      "kanji": "伺",
+      "meaning": "pay respects, visit, ask, inquire, improve",
+      "vocabulary": [
+         {
+            "kanji": "伺う",
+            "kana": "うかがう",
+            "meaning": "to ask, to inquire, to visit"
+         },
+         {
+            "kanji": "伺い",
+            "kana": "うかがい",
+            "meaning": "inquiry"
+         }
+      ]
+   },
+   {
+      "kanji": "渡",
+      "meaning": "transit, ferry, cross, import, deliver, diameter, migrate",
+      "vocabulary": [
+         {
+            "kanji": "渡る",
+            "kana": "わたる",
+            "meaning": "to go across"
+         },
+         {
+            "kanji": "渡す",
+            "kana": "わたす",
+            "meaning": "to hand over, to give, to traverse"
+         }
+      ]
+   },
+   {
+      "kanji": "曲",
+      "meaning": "bend, music, melody, composition, curve, injustice, pleasure",
+      "vocabulary": [
+         {
+            "kanji": "曲",
+            "kana": "きょく",
+            "meaning": "song, tune"
+         },
+         {
+            "kanji": "曲がる",
+            "kana": "まがる",
+            "meaning": "to bend, to curve, to turn"
+         },
+         {
+            "kanji": "曲げる",
+            "kana": "まげる",
+            "meaning": "to bend, to lean, to incline, to twist"
+         },
+         {
+            "kanji": "曲線",
+            "kana": "きょくせん",
+            "meaning": "curve"
+         },
+         {
+            "kanji": "作曲",
+            "kana": "さっきょく",
+            "meaning": "composition"
+         }
+      ]
+   },
+   {
+      "kanji": "迎",
+      "meaning": "welcome, meet, greet",
+      "vocabulary": [
+         {
+            "kanji": "迎える",
+            "kana": "むかえる",
+            "meaning": "to go out to meet, to welcome, to greet"
+         },
+         {
+            "kanji": "歓迎",
+            "kana": "かんげい",
+            "meaning": "welcome, reception"
+         },
+         {
+            "kanji": "出迎える",
+            "kana": "でむかえる",
+            "meaning": "to meet, to greet"
+         }
+      ]
+   },
+   {
+      "kanji": "沿",
+      "meaning": "run alongside, follow along, run along, lie along",
+      "vocabulary": [
+         {
+            "kanji": "沿う",
+            "kana": "そう",
+            "meaning": "to run along, to follow, to act in accordance with"
+         }
+      ]
+   },
+   {
+      "kanji": "戻",
+      "meaning": "re-, return, revert, resume, go backwards",
+      "vocabulary": [
+         {
+            "kanji": "戻す",
+            "kana": "もどす",
+            "meaning": "to put back, to return, to give back"
+         },
+         {
+            "kanji": "戻る",
+            "kana": "もどる",
+            "meaning": "to turn/goabck, to return"
+         },
+         {
+            "kanji": "払い戻し",
+            "kana": "はらいもどし",
+            "meaning": "refund"
+         }
+      ]
+   },
+   {
+      "kanji": "座",
+      "meaning": "squat, seat, cushion, gathering, sit",
+      "vocabulary": [
+         {
+            "kanji": "座る",
+            "kana": "すわる",
+            "meaning": "to sit, to squat"
+         },
+         {
+            "kanji": "座席",
+            "kana": "ざせき",
+            "meaning": "seat"
+         },
+         {
+            "kanji": "正座",
+            "kana": "せいざ",
+            "meaning": "seiza (kneeing with the tops of the feet flat on the floor, and sitting on the soles)"
+         },
+         {
+            "kanji": "口座",
+            "kana": "こうざ",
+            "meaning": "(bank) account"
+         }
+      ]
+   },
+   {
+      "kanji": "保",
+      "meaning": "protect, guarantee, keep, preserve, sustain , support",
+      "vocabulary": [
+         {
+            "kanji": "保",
+            "kana": "たもつ",
+            "meaning": "to keep, to preserve, to sustain"
+         },
+         {
+            "kanji": "保険",
+            "kana": "ほけん",
+            "meaning": "insurance"
+         },
+         {
+            "kanji": "保存",
+            "kana": "ほぞん",
+            "meaning": "preservation, conservation, storage, saving (e.g. to hard drive)"
+         },
+         {
+            "kanji": "確保",
+            "kana": "かくほ",
+            "meaning": "guarantee, maintain"
+         }
+      ]
+   },
+   {
+      "kanji": "存",
+      "meaning": "exist, suppose, be aware of, believe, feel",
+      "vocabulary": [
+         {
+            "kanji": "保存",
+            "kana": "ほぞん",
+            "meaning": "preservation, conservation, storage, saving (e.g. to hard drive)"
+         },
+         {
+            "kanji": "ご存知",
+            "kana": "ごぞんじ",
+            "meaning": "knowing (Honorific)"
+         },
+         {
+            "kanji": "存じる",
+            "kana": "そんじる",
+            "meaning": "to think, to feel, to consider, to know"
+         },
+         {
+            "kanji": "存在",
+            "kana": "そんざい",
+            "meaning": "existence, being"
+         }
+      ]
+   },
+   {
+      "kanji": "逃",
+      "meaning": "escape, flee, shirk, evade, set free",
+      "vocabulary": [
+         {
+            "kanji": "逃げる",
+            "kana": "にげる",
+            "meaning": "to escape, to run away"
+         },
+         {
+            "kanji": "逃す",
+            "kana": "のがす",
+            "meaning": "to miss (a chance), to let get away"
+         },
+         {
+            "kanji": "逃走",
+            "kana": "とうそう",
+            "meaning": "flight, desertion, escape"
+         }
+      ]
+   },
+   {
+      "kanji": "避",
+      "meaning": "evade, avoid, avert, ward oof, shirk, shun",
+      "vocabulary": [
+         {
+            "kanji": "避ける",
+            "kana": "さける",
+            "meaning": "to avoid (physical contact, situation), to avert"
+         },
+         {
+            "kanji": "避難",
+            "kana": "ひなん",
+            "meaning": "taking refuge, finding shelter, evacation"
+         },
+         {
+            "kanji": "避難民",
+            "kana": "ひなんみん",
+            "meaning": "refugess, evacuees"
+         },
+         {
+            "kanji": "回避",
+            "kana": "かいひ",
+            "meaning": "evasion"
+         }
+      ]
+   },
+   {
+      "kanji": "寄",
+      "meaning": "draw near, stop in, bring near, gather, collect, send, forward",
+      "vocabulary": [
+         {
+            "kanji": "寄る",
+            "kana": "よる",
+            "meaning": "to approach, to stop by (while on one's way to another place)"
+         },
+         {
+            "kanji": "近寄る",
+            "kana": "ちかよる",
+            "meaning": "to approach, to draw near"
+         },
+         {
+            "kanji": "年寄り",
+            "kana": "としより",
+            "meaning": "old people"
+         },
+         {
+            "kanji": "寄付",
+            "kana": "きふ",
+            "meaning": "donation"
+         }
+      ]
+   },
+   {
+      "kanji": "慣",
+      "meaning": "accustomed, get used to, become experienced",
+      "vocabulary": [
+         {
+            "kanji": "慣れる",
+            "kana": "なれる",
+            "meaning": "to get used to, to become familiar with"
+         },
+         {
+            "kanji": "習慣",
+            "kana": "しゅうかん",
+            "meaning": "habit, custom, cultural practice"
+         }
+      ]
+   },
+   {
+      "kanji": "呼",
+      "meaning": "call, call out to, invite",
+      "vocabulary": [
+         {
+            "kanji": "呼ぶ",
+            "kana": "よぶ",
+            "meaning": "to call out to, to summon"
+         },
+         {
+            "kanji": "呼吸",
+            "kana": "こきゅう",
+            "meaning": "breathing, respiration"
+         }
+      ]
+   },
+   {
+      "kanji": "吸",
+      "meaning": "suck, imbibe, inhale, sip",
+      "vocabulary": [
+         {
+            "kanji": "呼吸",
+            "kana": "こきゅう",
+            "meaning": "breathing, respiration"
+         },
+         {
+            "kanji": "吸う",
+            "kana": "すう",
+            "meaning": "to smoke, to breathe in, to inhale"
+         }
+      ]
+   },
+   {
+      "kanji": "参",
+      "meaning": "going, coming, visiting, be defeated, die, participate",
+      "vocabulary": [
+         {
+            "kanji": "参る",
+            "kana": "まいる",
+            "meaning": "to go, to come, to visit (shrine, grave)"
+         },
+         {
+            "kanji": "参加",
+            "kana": "さんか",
+            "meaning": "participation"
+         },
+         {
+            "kanji": "参加者",
+            "kana": "さんかしゃ",
+            "meaning": "participants"
+         },
+         {
+            "kanji": "参考",
+            "kana": "さんこう",
+            "meaning": "reference"
+         },
+         {
+            "kanji": "参考書",
+            "kana": "さんこうしょ",
+            "meaning": "reference book"
+         }
+      ]
+   },
+   {
+      "kanji": "加",
+      "meaning": "add, increase, join, include",
+      "vocabulary": [
+         {
+            "kanji": "加える",
+            "kana": "くわえる",
+            "meaning": "to add, to sum up, to append, to increase"
+         },
+         {
+            "kanji": "参加",
+            "kana": "さんか",
+            "meaning": "participation"
+         },
+         {
+            "kanji": "増加",
+            "kana": "ぞうか",
+            "meaning": "increase, rise, growth, addition, increment"
+         },
+         {
+            "kanji": "追加",
+            "kana": "ついか",
+            "meaning": "addition, supplement"
+         }
+      ]
+   },
+   {
+      "kanji": "包",
+      "meaning": "wrap, pack up, cover, conceal",
+      "vocabulary": [
+         {
+            "kanji": "包む",
+            "kana": "つつむ",
+            "meaning": "to wrap up, to pack, to cover with"
+         },
+         {
+            "kanji": "小包",
+            "kana": "こづつみ",
+            "meaning": "parcel, package"
+         },
+         {
+            "kanji": "包丁",
+            "kana": "ほうちょう",
+            "meaning": "kitchen knife"
+         },
+         {
+            "kanji": "包装",
+            "kana": "ほうそう",
+            "meaning": "packing, wrapping"
+         }
+      ]
+   },
+   {
+      "kanji": "余",
+      "meaning": "too much, myself, surplus, other, remainder",
+      "vocabulary": [
+         {
+            "kanji": "余る",
+            "kana": "あまる",
+            "meaning": "to remain, to be left over, to be in excess"
+         },
+         {
+            "kanji": "余暇",
+            "kana": "よか",
+            "meaning": "leisure, spare time"
+         }
+      ]
+   },
+   {
+      "kanji": "似",
+      "meaning": "becoming, resemble, counterfeit, imitate, suitable",
+      "vocabulary": [
+         {
+            "kanji": "似る",
+            "kana": "にる",
+            "meaning": "to resemble, to look alike, to be similar (status, condition)"
+         },
+         {
+            "kanji": "類似",
+            "kana": "るいじ",
+            "meaning": "resemblance, similarity"
+         }
+      ]
    }
 ]
