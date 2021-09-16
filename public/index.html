@@ -633,7 +633,7 @@
         KANJILIST.forEach(k => _shuffle(k.vocabulary));
         _renderKanjiSpanList();
       
-        document.querySelectorAll('body span').forEach((s) => s.onclick = function(e) {
+        document.querySelectorAll('body span').forEach((s) => s.ondblclick = function(e) {
           let span = e.target.textContent;
           let obj = KANJILIST.find( k => k.kanji == span);
           KANJILIST = KANJILIST.filter(k => k.id != obj.id);
@@ -646,7 +646,7 @@
         _shuffle(KANJIVOCABULARYLIST);
         _renderKanjiVocabularyList();
 
-        document.querySelectorAll('body tr').forEach((t) => t.onclick = function(e) {
+        document.querySelectorAll('body tr').forEach((t) => t.ondblclick = function(e) {
           let tr = e.target.closest('tr').textContent;
           let obj = KANJIVOCABULARYLIST.find(v => (v.kanji ? tr.includes(v.kanji) : true)
 		    								                 && (v.kana ? tr.includes(v.kana): true) 
@@ -697,7 +697,7 @@
     _shuffle(VOCABULARYLIST);
     _renderVocabularyList();
 
-    document.querySelectorAll('body tr').forEach((t) => t.onclick = function(e) { 			
+    document.querySelectorAll('body tr').forEach((t) => t.ondblclick = function(e) { 			
       let tr = e.target.closest('tr').textContent;
       let obj = VOCABULARYLIST.find(v => (v.kanji ? tr.includes(v.kanji) : true)
 										                 && (v.kana ? tr.includes(v.kana): true) 
