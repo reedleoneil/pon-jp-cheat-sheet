@@ -5218,5 +5218,295 @@
     "kanji": "でたらめに答える",
     "kana": "でたらめにこたえる",
     "meaning": "give a haphazard answer"
+  },
+  {
+    "kanji": "突然電話が鳴った",
+    "kana": "とつぜんでんわがなった",
+    "meaning": "the phone suddenly rang"
+  },
+  {
+    "kanji": "いきなり泣き出す",
+    "kana": "いきなりなきだす",
+    "meaning": "cry out suddenly"
+  },
+  {
+    "kanji": "とたんに泣き出す",
+    "kana": "とたんになきだす",
+    "meaning": "all of a sudden burst in tears"
+  },
+  {
+    "kanji": "やっとけがを治った",
+    "kana": "やっとけがをなおった",
+    "meaning": "my wound has healed at last"
+  },
+  {
+    "kanji": "うちの猫がとうとう死んでしまった",
+    "kana": "うちのねこがとうとうしんでしまった",
+    "meaning": "our cat finnaly died"
+  },
+  {
+    "kanji": "努力したが、結局無駄だ",
+    "kana": "どりょくしたが、けっきょくむだだ",
+    "meaning": "my efforts did not amount to anything"
+  },
+  {
+    "kanji": "ついに絵が完成した",
+    "kana": "ついにえがかんせいした",
+    "meaning": "finally the painting was finished"
+  },
+  {
+    "kanji": "よくこのレストランに来ます",
+    "kana": "よくこのレストランにきます",
+    "meaning": "I often come to this restaurant"
+  },
+  {
+    "kanji": "昨日はよく寝ました",
+    "kana": "きのうはよくねました",
+    "meaning": "I slept well last night"
+  },
+  {
+    "kanji": null,
+    "kana": "よくやった！",
+    "meaning": "well done!"
+  },
+  {
+    "kanji": "たいてい外食します",
+    "kana": "たいていがいしょくします",
+    "meaning": "I generally eat out"
+  },
+  {
+    "kanji": "普段はお酒を飲みません",
+    "kana": "ふだんはおさけをのみません",
+    "meaning": "I usually do not drink"
+  },
+  {
+    "kanji": "梅雨の時期に、普通はお雨が多い",
+    "kana": "つゆのじきに、ふつうはおあめがおおい",
+    "meaning": "during the rainy season, it usually rains a lot"
+  },
+  {
+    "kanji": "たまに映画に行きます",
+    "kana": "たまにえいがにいきます",
+    "meaning": "I go to see a movie once in a while"
+  },
+  {
+    "kanji": "かなり大きい家",
+    "kana": "かなりおおきいいえ",
+    "meaning": "a pretty big house"
+  },
+  {
+    "kanji": "人がかなりいる",
+    "kana": "ひとがかなりいる",
+    "meaning": "there are quite a number of people"
+  },
+  {
+    "kanji": "今の家は、けっこう気に入っている",
+    "kana": "いまのいえは、けっこうきにいっている",
+    "meaning": "I quite like the house I live in"
+  },
+  {
+    "kanji": "足がものすごく痛い",
+    "kana": "あしがものすごくいたい",
+    "meaning": "my leg hurts a lot"
+  },
+  {
+    "kanji": "めちゃくちゃ安い",
+    "kana": "めちゃくちゃやすい",
+    "meaning": "extremely cheap"
+  },
+  {
+    "kanji": "順番がむちゃくちゃだ",
+    "kana": "じゅんばんがむちゃくちゃだ",
+    "meaning": "the order is all messed up"
+  },
+  {
+    "kanji": "事故で車がめちゃくちゃに壊れた",
+    "kana": "じこでくるまがめちゃくちゃこわれた",
+    "meaning": "the car has been totlly wrecked"
+  },
+  {
+    "kanji": "ぜひお越しください",
+    "kana": "ぜひおこしください",
+    "meaning": "Please come."
+  },
+  {
+    "kanji": "ぜひともお越しください",
+    "kana": "ぜひともおこしください",
+    "meaning": "Please come."
+  },
+  {
+    "kanji": "どうかお願いします",
+    "kana": "どうかおねがいします",
+    "meaning": "Please..."
+  },
+  {
+    "kanji": "帰ったら、まずお風呂に入る",
+    "kana": "かえったら、まずおふろにはいる",
+    "meaning": "the first thing I do when I get home is to have a bath"
+  },
+  {
+    "kanji": "言訳などしないで、とにかく勉強しなさい",
+    "kana": "いいわけなどしないで、とにかくべんきょうしなさい",
+    "meaning": "Stop making excuses. Just study!"
+  },
+  {
+    "kanji": "言訳などしないで、ともかく勉強しなさい",
+    "kana": "いいわけなどしないで、ともかくべんきょうしなさい",
+    "meaning": "Stop making excuses. Just study!"
+  },
+  {
+    "kanji": "一度に花が咲く",
+    "kana": "いちどいはながさく",
+    "meaning": "flowers bloom all at once"
+  },
+  {
+    "kanji": "たっまた宿題をいっぺんに片づける",
+    "kana": "たっまたにしゅくだいをいっぺんにかたづける",
+    "meaning": "finish a pile of homework"
+  },
+  {
+    "kanji": "いっぺんに疲れが出た",
+    "kana": "いっぺんにつかれがでた",
+    "meaning": "I suddenly felt exhausted"
+  },
+  {
+    "kanji": "宿題をうっかり忘れる",
+    "kana": "しゅくだいをうっかりわすれる",
+    "meaning": "absent-mindedly forget to do the homework"
+  },
+  {
+    "kanji": null,
+    "kana": "うっかりする",
+    "meaning": "be careless"
+  },
+  {
+    "kanji": "すっかり忘れた",
+    "kana": "すっかりわすれた",
+    "meaning": "I completely forgot"
+  },
+  {
+    "kanji": "試験に落ちてがっかりする",
+    "kana": "しけんにおちてがっかりする",
+    "meaning": "feel disappointed that one did not pass the exam"
+  },
+  {
+    "kanji": "やっぱり思ったとおりだ",
+    "kana": "やっぱりおもったとおりだ",
+    "meaning": "ah, that's exactly what I thought"
+  },
+  {
+    "kanji": "１８歳といってもやはりまだ子供だ",
+    "kana": "１８さいといってもやはりまだこどもだ",
+    "meaning": "although he is eighteen, he is still a child"
+  },
+  {
+    "kanji": "しっかりした子供",
+    "kana": "しっかりしたこども",
+    "meaning": "a matured child"
+  },
+  {
+    "kanji": null,
+    "kana": "しっかりしろ！",
+    "meaning": "don't let it get you down!"
+  },
+  {
+    "kanji": "部屋がすっきりする",
+    "kana": "へやがすっきりする",
+    "meaning": "the room looks tidy and neat"
+  },
+  {
+    "kanji": "気分がすっきりする",
+    "kana": "きぶんがすっきりする",
+    "meaning": "feel refreshed"
+  },
+  {
+    "kanji": "お風呂に入ってさっぱりする",
+    "kana": "おふろにはいってさっぱりする",
+    "meaning": "feel refreshed after the bath"
+  },
+  {
+    "kanji": "この問題はさっぱりわからない",
+    "kana": "このもんだいはさっぱりわからない",
+    "meaning": "I don't at all understand the problem"
+  },
+  {
+    "kanji": "ぐっすり眠る",
+    "kana": "ぐっすりねむる",
+    "meaning": "sleep tightly"
+  },
+  {
+    "kanji": "にっこり笑う",
+    "kana": "にっこりわらう",
+    "meaning": "give a happy smile"
+  },
+  {
+    "kanji": "にこにこ笑う",
+    "kana": "にこにこわらう",
+    "meaning": "give a happy smile"
+  },
+  {
+    "kanji": "あの親子はそっくりだ",
+    "kana": "あのおやこはそっくりだ",
+    "meaning": "that boy look like his dad"
+  },
+  {
+    "kanji": "山がはっきり見える",
+    "kana": "やまがはっきりみえる",
+    "meaning": "can see the mountain clearly"
+  },
+  {
+    "kanji": "のんびり過ごす",
+    "kana": "のんびりすごす",
+    "meaning": "have a leisurely time"
+  },
+  {
+    "kanji": "のんびりする",
+    "kana": "のんびりする",
+    "meaning": "relax"
+  },
+  {
+    "kanji": "洋服をきちんとたたむ",
+    "kana": "ようふくをきちんとたたむ",
+    "meaning": "fold the dress neatly"
+  },
+  {
+    "kanji": "洋服をきちんとたたむ",
+    "kana": "ようふくをきちんとたたむ",
+    "meaning": "fold the dress neatly"
+  },
+  {
+    "kanji": "程度をちゃんとする",
+    "kana": "ていどをちゃんとする",
+    "meaning": "show a proper attitude"
+  },
+  {
+    "kanji": "ふと思い出す",
+    "kana": "ふとおもいだす",
+    "meaning": "it suddenly occurs to me"
+  },
+  {
+    "kanji": "わざと負ける",
+    "kana": "わざとまける",
+    "meaning": "intentionally lose"
+  },
+  {
+    "kanji": "母の病気が治ってほっとした",
+    "kana": "ははのびょうきがなおってほっとした",
+    "meaning": "I am relieved that my mother has recovered from the illness"
+  },
+  {
+    "kanji": "じっと我慢する",
+    "kana": "じっとがまんする",
+    "meaning": "I am relieved that my mother has recovered from the illness"
+  },
+  {
+    "kanji": "ざっと掃除する",
+    "kana": "ざっとそうじする",
+    "meaning": "clean quickly"
+  },
+  {
+    "kanji": "そっと近づく",
+    "kana": "そっとちかづく",
+    "meaning": "quietly coume close"
   }
 ]
