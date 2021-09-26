@@ -5242,7 +5242,7 @@
   {
     "kanji": "うちの猫がとうとう死んでしまった",
     "kana": "うちのねこがとうとうしんでしまった",
-    "meaning": "our cat finnaly died"
+    "meaning": "our cat finally died"
   },
   {
     "kanji": "努力したが、結局無駄だ",
@@ -5280,8 +5280,8 @@
     "meaning": "I usually do not drink"
   },
   {
-    "kanji": "梅雨の時期に、普通はお雨が多い",
-    "kana": "つゆのじきに、ふつうはおあめがおおい",
+    "kanji": "梅雨の時期に、普通は雨が多い",
+    "kana": "つゆのじきに、ふつうはあめがおおい",
     "meaning": "during the rainy season, it usually rains a lot"
   },
   {
@@ -5322,7 +5322,7 @@
   {
     "kanji": "事故で車がめちゃくちゃに壊れた",
     "kana": "じこでくるまがめちゃくちゃこわれた",
-    "meaning": "the car has been totlly wrecked"
+    "meaning": "the car has been totally wrecked"
   },
   {
     "kanji": "ぜひお越しください",
@@ -5470,11 +5470,6 @@
     "meaning": "fold the dress neatly"
   },
   {
-    "kanji": "洋服をきちんとたたむ",
-    "kana": "ようふくをきちんとたたむ",
-    "meaning": "fold the dress neatly"
-  },
-  {
     "kanji": "程度をちゃんとする",
     "kana": "ていどをちゃんとする",
     "meaning": "show a proper attitude"
@@ -5497,7 +5492,12 @@
   {
     "kanji": "じっと我慢する",
     "kana": "じっとがまんする",
-    "meaning": "I am relieved that my mother has recovered from the illness"
+    "meaning": "bear patiently"
+  },
+  {
+    "kanji": "じっと見る",
+    "kana": "じっとみる",
+    "meaning": "stare at"
   },
   {
     "kanji": "ざっと掃除する",
@@ -5508,5 +5508,690 @@
     "kanji": "そっと近づく",
     "kana": "そっとちかづく",
     "meaning": "quietly coume close"
+  },
+  {
+    "kanji": "胸がドキドキする",
+    "kana": "むねがどきどきする",
+    "meaning": "my heart is pounding"
+  },
+  {
+    "kanji": "面接でドキドキする",
+    "kana": "めんせつでどきどきする",
+    "meaning": "feel nervous durin the interview"
+  },
+  {
+    "kanji": "渋滞でイライラする",
+    "kana": "じゅうたいでいらいらする",
+    "meaning": "feel frustrated in the traffic jam"
+  },
+  {
+    "kanji": "はきはきと答える",
+    "kana": "はきはきとこたえる",
+    "meaning": "answer the questions promptly and clearly"
+  },
+  {
+    "kanji": "彼女ははきはきして感じがいい",
+    "kana": "かのじょははきはきしてかんじがいい",
+    "meaning": "she is brisk and pleasant"
+  },
+  {
+    "kanji": "ぶつぶつ文句を言う",
+    "kana": "ぶつぶつもんくをいう",
+    "meaning": "murmur at..."
+  },
+  {
+    "kanji": "彼は何かぶつぶつ言っている",
+    "kana": "かれはなにかぶつぶついっている",
+    "meaning": "he is mumbling to himself"
+  },
+  {
+    "kanji": "変な男がうろうろしている",
+    "kana": "へんなおとこがうろうろしている",
+    "meaning": "a wired guy is wandering around"
+  },
+  {
+    "kanji": "街をぶらぶらする",
+    "kana": "まちをぶらぶらする",
+    "meaning": "wonder around the downtown"
+  },
+  {
+    "kanji": "物がぶらぶらゆれる",
+    "kana": "ものがぶらぶらゆれる",
+    "meaning": "dangling"
+  },
+  {
+    "kanji": "ぎりぎりで最終電車に間に合った",
+    "kana": "ぎりぎりでさいしゅうでんしゃにまにあった",
+    "meaning": "I barely made the last train"
+  },
+  {
+    "kanji": "締め切りぎりぎりに願書を出した",
+    "kana": "しめきりぎりぎりにがんしょをだした",
+    "meaning": "I submitted the application just before the deadline"
+  },
+  {
+    "kanji": "靴をピカピカに磨く",
+    "kana": "くつをぴかぴかにみがく",
+    "meaning": "polish the shoes well"
+  },
+  {
+    "kanji": "電車がのろのろ走っている",
+    "kana": "くるまがのろのろはしっている",
+    "meaning": "the train is moving very slowly"
+  },
+  {
+    "kanji": "秘密をペラペラしゃべる",
+    "kana": "ひみつをぺらぺらしゃべる",
+    "meaning": "let out secrets with no hesitation"
+  },
+  {
+    "kanji": "田中さんは英語がペラペラだ",
+    "kana": "たなかさんはえいごがぺらぺらだ",
+    "meaning": "Tanaka-san speaks fluent English"
+  },
+  {
+    "kanji": "ペラペラの紙",
+    "kana": "ぺらぺらのかみ",
+    "meaning": "a thin piece of paper"
+  },
+  {
+    "kanji": "お腹がペコペコだ",
+    "kana": "おなかがぺこぺこだ",
+    "meaning": "I am farnished"
+  },
+  {
+    "kanji": "物価はますます上がるだろう",
+    "kana": "ぶっかはますますあがるだろう",
+    "meaning": "the cost of living will go mere and more"
+  },
+  {
+    "kanji": "だんだん寒くなりますね",
+    "kana": "だんだんさむくなりますね",
+    "meaning": "it is getting cold"
+  },
+  {
+    "kanji": "彼の日本語はどんどん上達している",
+    "kana": "かれのにほんごはどんどんじょうたつしている",
+    "meaning": "his Japanese is improving rapidly"
+  },
+  {
+    "kanji": "そろそろ始めましょう",
+    "kana": "そろそろはじめましょう",
+    "meaning": "shall we start"
+  },
+  {
+    "kanji": "彼はもともと気の弱い人だった",
+    "kana": "かれはもともときのよわいひとだった",
+    "meaning": "he was always a timid person"
+  },
+  {
+    "kanji": "この時計はもともと安かったから、壊れても仕方がない",
+    "kana": "このとけいはもともとやすかったから、こわれてもしかたがない",
+    "meaning": "even though my watch broke it doesn't matter becuase I didn't pay much for it in the first place"
+  },
+  {
+    "kanji": "たまたま高校時代の友人に会った",
+    "kana": "たまたまこうこうじだいのゆうじんあった",
+    "meaning": "I happend to run into a friend from high school"
+  },
+  {
+    "kanji": "試験の結果はまあまあだった",
+    "kana": "試験の結果はまあまあだった",
+    "meaning": "the result of the exam was so-so"
+  },
+  {
+    "kanji": "様々な商品",
+    "kana": "さまざまなしょうひん",
+    "meaning": "various products"
+  },
+  {
+    "kanji": "理想の人に出会う",
+    "kana": "りそうのひとにであう",
+    "meaning": "meet an ideal person"
+  },
+  {
+    "kanji": "出会い",
+    "kana": "であい",
+    "meaning": "an encounter"
+  },
+  {
+    "kanji": "客を出迎える",
+    "kana": "きゃくをでむかえる",
+    "meaning": "meet the guest"
+  },
+  {
+    "kanji": "出迎える",
+    "kana": "でむかえる",
+    "meaning": "meeting someone"
+  },
+  {
+    "kanji": "見送る",
+    "kana": "みおくる",
+    "meaning": "see off"
+  },
+  {
+    "kanji": "見送り",
+    "kana": "みおくり",
+    "meaning": "send-off"
+  },
+  {
+    "kanji": "空を見上げる",
+    "kana": "そらをみあげる",
+    "meaning": "look up at the sky"
+  },
+  {
+    "kanji": "通りを見下ろす",
+    "kana": "とおりをみおろす",
+    "meaning": "look down on the street"
+  },
+  {
+    "kanji": "急に立ち止まる",
+    "kana": "きゅうにたちどまる",
+    "meaning": "suddenly stop walking"
+  },
+  {
+    "kanji": "ソファーから立ち上がる",
+    "kana": "ソファーからたちあがる",
+    "meaning": "get up off the couch"
+  },
+  {
+    "kanji": "寺の前を通りかかる",
+    "kana": "てらのまえをとおりかかる",
+    "meaning": "walk by the temple"
+  },
+  {
+    "kanji": "湯便局を通り過ぎる",
+    "kana": "ゆびんきょくをとおりすぎる",
+    "meaning": "pass by the post office"
+  },
+  {
+    "kanji": "隣の人に話しかける",
+    "kana": "となりのひとにはなしかける",
+    "meaning": "talk to the person sitting next to me"
+  },
+  {
+    "kanji": "田中さんと話し合う",
+    "kana": "たなかさんとはなしあう",
+    "meaning": "discuss with Tanaka-san"
+  },
+  {
+    "kanji": "話し合う",
+    "kana": "はなしあう",
+    "meaning": "discussion"
+  },
+  {
+    "kanji": "中村さんと知り合う",
+    "kana": "なかむらさんとしりあう",
+    "meaning": "get to know Nakamura-san"
+  },
+  {
+    "kanji": "知り合い",
+    "kana": "しりあい",
+    "meaning": "acquaintance"
+  },
+  {
+    "kanji": "駅で待ち合わせる",
+    "kana": "えきでまちあわせる",
+    "meaning": "meet up at the station"
+  },
+  {
+    "kanji": "待ち合わせ",
+    "kana": "まちあわせ",
+    "meaning": "meeting"
+  },
+  {
+    "kanji": "電話で問い合わせる",
+    "kana": "でんわでといあわせる",
+    "meaning": "inquire by phone"
+  },
+  {
+    "kanji": "問い合わせ",
+    "kana": "といあわせ",
+    "meaning": "inquiry"
+  },
+  {
+    "kanji": "旅行会社に申し込む",
+    "kana": "りょこうかいしゃにもしこむ",
+    "meaning": "ask a travel agent to arrange a trip"
+  },
+  {
+    "kanji": "申し込み",
+    "kana": "もうしこみ",
+    "meaning": "applications"
+  },
+  {
+    "kanji": "申し込みを締め切る",
+    "kana": "もうしこみをしめきる",
+    "meaning": "no longer accept applications"
+  },
+  {
+    "kanji": "締め切り",
+    "kana": "しめきり",
+    "meaning": "deadline"
+  },
+  {
+    "kanji": "申し込みを受け付ける",
+    "kana": "もしこみをうけつける",
+    "meaning": "accept application"
+  },
+  {
+    "kanji": "受付",
+    "kana": "うけつけ",
+    "meaning": "reception"
+  },
+  {
+    "kanji": "荷物を受け取る",
+    "kana": "にもつをうけとる",
+    "meaning": "receive a parcel"
+  },
+  {
+    "kanji": "受け取り",
+    "kana": "うけとり",
+    "meaning": "receipt"
+  },
+  {
+    "kanji": "電池を取り替える",
+    "kana": "でんちをとりかえる",
+    "meaning": "change the battery"
+  },
+  {
+    "kanji": "予約を取り消す",
+    "kana": "よやくをとりけす",
+    "meaning": "cancel a reservation"
+  },
+  {
+    "kanji": "取り消し",
+    "kana": "とりけし",
+    "meaning": "cancellation"
+  },
+  {
+    "kanji": "CDを取り出す",
+    "kana": "CDをとりだす",
+    "meaning": "take out the CD"
+  },
+  {
+    "kanji": "子供が飛び出す",
+    "kana": "こどもがとびだす",
+    "meaning": "a kid runs out on the street"
+  },
+  {
+    "kanji": "プールに飛び込む",
+    "kana": "プールにとびこむ",
+    "meaning": "jump into the swimming pool"
+  },
+  {
+    "kanji": "大学を出る",
+    "kana": "だいがくをでる",
+    "meaning": "graduate from university"
+  },
+  {
+    "kanji": "会議に出る",
+    "kana": "かいぎにでる",
+    "meaning": "attend a meeting"
+  },
+  {
+    "kanji": "食事が出る",
+    "kana": "しょくじがでる",
+    "meaning": "be served a meal"
+  },
+  {
+    "kanji": "食事を出す",
+    "kana": "しょくじをだす",
+    "meaning": "serve a meal"
+  },
+  {
+    "kanji": "結論が出る",
+    "kana": "けつろんがでる",
+    "meaning": "come into a conclusion"
+  },
+  {
+    "kanji": "結論を出す",
+    "kana": "けつろんをだす",
+    "meaning": "maka a conclusion"
+  },
+  {
+    "kanji": "元気が出る",
+    "kana": "げんきがでる",
+    "meaning": "feel energetic"
+  },
+  {
+    "kanji": "元気を出す",
+    "kana": "げんきをだす",
+    "meaning": "be energetic"
+  },
+  {
+    "kanji": "新製品が出る",
+    "kana": "しんせいひんがでる",
+    "meaning": "come up with new product"
+  },
+  {
+    "kanji": "新製品を出す",
+    "kana": "しんせいひんをだす",
+    "meaning": "come up with new product"
+  },
+  {
+    "kanji": "芽が出る",
+    "kana": "めがでる",
+    "meaning": "buds comming out"
+  },
+  {
+    "kanji": "芽を出す",
+    "kana": "めをだす",
+    "meaning": "let the buds come out"
+  },
+  {
+    "kanji": "ボーナスが出る",
+    "kana": "ボーナスがでる",
+    "meaning": "get a bonus"
+  },
+  {
+    "kanji": "ボーナスを出す",
+    "kana": "ボーナスをだす",
+    "meaning": "get a bonus"
+  },
+  {
+    "kanji": "ゴキブリが出る",
+    "kana": "ゴキブリがでる",
+    "meaning": "find crockroaches"
+  },
+  {
+    "kanji": "新聞に名前が出る",
+    "kana": "しんぶんになまえがでる",
+    "meaning": "have your name appear in a newspaper"
+  },
+  {
+    "kanji": "角を曲がると駅に出る",
+    "kana": "かどをまがるとえきにでる",
+    "meaning": "come to the station aftr turning a corner"
+  },
+  {
+    "kanji": "財布を取る",
+    "kana": "さいふをとる",
+    "meaning": "steel a wallet"
+  },
+  {
+    "kanji": "財布を取りに戻る",
+    "kana": "さいふをとりにもどる",
+    "meaning": "go back to get your wallet"
+  },
+  {
+    "kanji": "運転免許を取る",
+    "kana": "うんてんめんきょをとる",
+    "meaning": "get a driver's license"
+  },
+  {
+    "kanji": "コピーを取る",
+    "kana": "コピーをとる",
+    "meaning": "make a copy"
+  },
+  {
+    "kanji": "新聞を取る",
+    "kana": "しんぶんをとる",
+    "meaning": "subscribe to a newspaper"
+  },
+  {
+    "kanji": "睡眠をとる",
+    "kana": "すいみんをとる",
+    "meaning": "get some sleep"
+  },
+  {
+    "kanji": "連絡を取る",
+    "kana": "れんらくをとる",
+    "meaning": "contact"
+  },
+  {
+    "kanji": "連絡が取れる",
+    "kana": "れんらくがとれる",
+    "meaning": "contact"
+  },
+  {
+    "kanji": "痛みを取る",
+    "kana": "いたみをとる",
+    "meaning": "remove the pain"
+  },
+  {
+    "kanji": "痛みが取れる",
+    "kana": "いたみがとれる",
+    "meaning": "have the pain removed"
+  },
+  {
+    "kanji": "ボタンが取れる",
+    "kana": "ボタンがとれる",
+    "meaning": "have a button come off"
+  },
+  {
+    "kanji": "新入社員を採る",
+    "kana": "しんにゅうしゃいんをとる",
+    "meaning": "hire a new employee"
+  },
+  {
+    "kanji": "鍵がかかっている",
+    "kana": "かぎがかかっている",
+    "meaning": "locked"
+  },
+  {
+    "kanji": "鍵をかける",
+    "kana": "かぎをかける",
+    "meaning": "lock"
+  },
+  {
+    "kanji": "病気にかかる",
+    "kana": "びょうきにかかる",
+    "meaning": "get sick"
+  },
+  {
+    "kanji": "医者にかかる",
+    "kana": "いしゃにかかる",
+    "meaning": "got to se a doctor"
+  },
+  {
+    "kanji": null,
+    "kana": "ボタンをかける",
+    "meaning": "got to se a doctor"
+  },
+  {
+    "kanji": null,
+    "kana": "CDをかける",
+    "meaning": "play a CD"
+  },
+  {
+    "kanji": "毛布をかける",
+    "kana": "もうふをかける",
+    "meaning": "put a blanket on"
+  },
+  {
+    "kanji": "声をかける",
+    "kana": "こえをかける",
+    "meaning": "say hi"
+  },
+  {
+    "kanji": "声がかかる",
+    "kana": "こえがかかる",
+    "meaning": "say hi"
+  },
+  {
+    "kanji": "心配をかける",
+    "kana": "しんぱいをかける",
+    "meaning": "make someone worry"
+  },
+  {
+    "kanji": "席を立つ",
+    "kana": "せきをたつ",
+    "meaning": "leave the seat"
+  },
+  {
+    "kanji": "時間がたつ",
+    "kana": "じかんがたつ",
+    "meaning": "time passes"
+  },
+  {
+    "kanji": "噂が立つ",
+    "kana": "じかんがたつ",
+    "meaning": "a rumor spreading"
+  },
+  {
+    "kanji": "予定を立てる",
+    "kana": "よていをたてる",
+    "meaning": "plan"
+  },
+  {
+    "kanji": "音を立てる",
+    "kana": "おとをたてる",
+    "meaning": "make noise"
+  },
+  {
+    "kanji": "雨が上がる",
+    "kana": "あめがあがる",
+    "meaning": "rain stopped"
+  },
+  {
+    "kanji": "どうぞお上がりください",
+    "kana": "どうぞおあがりください。",
+    "meaning": "Please come in."
+  },
+  {
+    "kanji": "風呂から上がる",
+    "kana": "ふろからあがる",
+    "meaning": "get out of the bath"
+  },
+  {
+    "kanji": "物価が上がる",
+    "kana": "ぶっかあがる",
+    "meaning": "cost of living goes up"
+  },
+  {
+    "kanji": "効果が上がる",
+    "kana": "こうかがあがる",
+    "meaning": "be effective"
+  },
+  {
+    "kanji": "効果を上げる",
+    "kana": "こうかをあげる",
+    "meaning": "be effective"
+  },
+  {
+    "kanji": "初めてのスピーチで上がる",
+    "kana": "はじめてのすぴーちであがる",
+    "meaning": "get very nervouse ro giving a speech for the first time"
+  },
+  {
+    "kanji": "例をあげる",
+    "kana": "れいをあげる",
+    "meaning": "give an example"
+  },
+  {
+    "kanji": "結婚式をあげる",
+    "kana": "けっこんしきをあげる",
+    "meaning": "have a wedding ceremony"
+  },
+  {
+    "kanji": "熱が下がる",
+    "kana": "ねつがさがる",
+    "meaning": "fever ges down"
+  },
+  {
+    "kanji": "黄色い線の内側まで下がる",
+    "kana": "きいいろいせんのうちがわまでさがる",
+    "meaning": "move back to the yellow line"
+  },
+  {
+    "kanji": "評判が下がる",
+    "kana": "ひょうばんがさがる",
+    "meaning": "have a bad reputation"
+  },
+  {
+    "kanji": "評判を下げる",
+    "kana": "ひょうばんをさげる",
+    "meaning": "have a bad reputation"
+  },
+  {
+    "kanji": "カーテンが下がる",
+    "kana": "カーテンがさがる",
+    "meaning": "curtains are hanging"
+  },
+  {
+    "kanji": "カーテンが下げる",
+    "kana": "カーテンがさげる",
+    "meaning": "hang the curtains"
+  },
+  {
+    "kanji": "買い物かごを下げる",
+    "kana": "かいものかごをさげる",
+    "meaning": "carry a shopping bag"
+  },
+  {
+    "kanji": "一字下げて書く",
+    "kana": "いちじさげてかく",
+    "meaning": "put a space at the front of a sentence"
+  },
+  {
+    "kanji": "テレビの音を下げる",
+    "kana": "テレビのおとをさげる",
+    "meaning": "turn down the volume of the TV"
+  },
+  {
+    "kanji": "泥がつく",
+    "kana": "どろがつく",
+    "meaning": "get mud on"
+  },
+  {
+    "kanji": "傷がつく",
+    "kana": "きずがつく",
+    "meaning": "damage"
+  },
+  {
+    "kanji": "傷をつける",
+    "kana": "きずをつける",
+    "meaning": "damage"
+  },
+  {
+    "kanji": "連絡がつく",
+    "kana": "れんらくがつく",
+    "meaning": "get a hold of"
+  },
+  {
+    "kanji": "連絡をつける",
+    "kana": "れんらくをつける",
+    "meaning": "get a hold of"
+  },
+  {
+    "kanji": "都合がつく",
+    "kana": "つごうがつく",
+    "meaning": "be able to arrange"
+  },
+  {
+    "kanji": "都合をつける",
+    "kana": "つごうをつける",
+    "meaning": "be able to arrange"
+  },
+  {
+    "kanji": null,
+    "kana": "まけがつおく",
+    "meaning": "get a bonus"
+  },
+  {
+    "kanji": null,
+    "kana": "おまけをつける",
+    "meaning": "get a bonus"
+  },
+  {
+    "kanji": "印をつける",
+    "kana": "しるしをつける",
+    "meaning": "mark"
+  },
+  {
+    "kanji": "タバコに火をつける",
+    "kana": "タバコにひをつける",
+    "meaning": "ligth a cigarette"
+  },
+  {
+    "kanji": "火がつく",
+    "kana": "ひがつく",
+    "meaning": "catch a fire"
+  },
+  {
+    "kanji": "日記をつける",
+    "kana": "にっきをつける",
+    "meaning": "keep a diary"
   }
 ]
