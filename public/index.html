@@ -326,20 +326,24 @@
       VOCABULARYLISTCOUNT = VOCABULARYLIST.length;
     });
 
-    if (--level >= 3) { _fetchData(level); }
+    if (--level >= 3) { 
+      _fetchData(level); 
+    } else {
+      fetch('vocabulary-n3-w.json')
+      .then(response => response.json())
+      .then(data => {
+        data.forEach((vocabulary, index) => { 
+          vocabulary.id = VOCABULARYLIST.length + (index + 1);
+          vocabulary.level = 'n3';
+        });
+      
+        VOCABULARYLIST = VOCABULARYLIST.concat(data);
+        VOCABULARYLISTCOUNT = VOCABULARYLIST.length;
+      });
+    }
   };
 
   _fetchData();
-
-  // fetch('vocabulary-n3-s.json')
-  // .then(response => response.json())
-  // .then(data => {
-  //   data.forEach(vocabulary => { 
-  //     vocabulary.level = 'n3';
-  //   });
-  
-  //   VOCABULARYLIST = VOCABULARYLIST.concat(data);
-  // });
   
   /* 
    * Helper Functions
