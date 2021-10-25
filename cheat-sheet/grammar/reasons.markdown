@@ -74,3 +74,12 @@ parent: <ruby>文法<rt>ぶんぽう</rt></ruby> Grammar
 
 - **な・Noun Adjective**  
   Adjective + なのに
+
+---
+
+## なぜなら
+
+**んぜなら** because; the reason is; if you want to know why
+- なぜなら(ば)
+- なぜかというと
+- どうしてかというと
