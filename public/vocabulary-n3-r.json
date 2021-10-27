@@ -53,5 +53,30 @@
     "kanji": "集中",
     "kana": "しゅうちゅう",
     "meaning": "concentration"
+  },
+  {
+    "kanji": "事実",
+    "kana": "じじつ",
+    "meaning": "fact"
+  },
+  {
+    "kanji": "物理",
+    "kana": "ぶつり",
+    "meaning": "physics"
+  },
+  {
+    "kanji": "化学",
+    "kana": "かがく",
+    "meaning": "chemistry"
+  },
+  {
+    "kanji": "理科系",
+    "kana": "りかけい",
+    "meaning": "science course"
+  },
+  {
+    "kanji": "灰色",
+    "kana": "はいいろ",
+    "meaning": "grey"
   }
 ]
