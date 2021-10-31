@@ -7092,9 +7092,14 @@
             "meaning": "to knit, to braid, to compile (anthology), to edit"
          },
          {
-            "kanji": "裏返す",
-            "kana": "うらがえす",
-            "meaning": "to turn inside"
+            "kanji": "編集",
+            "kana": "へんしゅう",
+            "meaning": "editing, compilation"
+         },
+         {
+            "kanji": "編集者",
+            "kana": "へんしゅうしゃ",
+            "meaning": "editor (in publishing)"
          }
       ]
    },
