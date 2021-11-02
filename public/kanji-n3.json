@@ -6640,7 +6640,7 @@
    },
    {
       "kanji": "募",
-      "meaning": "recruit, campaign, enlistt, gather, contributions",
+      "meaning": "recruit, campaign, enlist, gather, contributions",
       "vocabulary": [
          {
             "kanji": "応募",
@@ -6828,12 +6828,12 @@
          {
             "kanji": "配達",
             "kana": "はいたつ",
-            "meaning": "delivery fee"
+            "meaning": "delivery, distribution"
          },
          {
             "kanji": "心配",
             "kana": "しんぱい",
-            "meaning": "woory, concern, anxiety"
+            "meaning": "worry, concern, anxiety"
          }
       ]
    },
@@ -7092,9 +7092,14 @@
             "meaning": "to knit, to braid, to compile (anthology), to edit"
          },
          {
-            "kanji": "裏返す",
-            "kana": "うらがえす",
-            "meaning": "to turn inside"
+            "kanji": "編集",
+            "kana": "へんしゅう",
+            "meaning": "editing, compilation"
+         },
+         {
+            "kanji": "編集者",
+            "kana": "へんしゅうしゃ",
+            "meaning": "editor (in publishing)"
          }
       ]
    },
@@ -7105,7 +7110,7 @@
          {
             "kanji": "混ぜる",
             "kana": "まぜる",
-            "meaning": "ot mix, ot stir, to blend"
+            "meaning": "to mix, to stir, to blend"
          },
          {
             "kanji": "混雑",
